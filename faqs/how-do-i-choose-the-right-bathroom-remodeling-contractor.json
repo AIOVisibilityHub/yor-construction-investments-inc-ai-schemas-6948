@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right bathroom remodeling contractor?",
+  "description": "Choose a contractor with the right license, insurance, and a track record of bathroom work similar to your project. Ask for recent local references, examples of",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-choose-the-right-bathroom-remodeling-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right bathroom remodeling contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a contractor with the right license, insurance, and a track record of bathroom work similar to your project. Ask for recent local references, examples of finished bathrooms, and a detailed written scope of work. The best contractor is not just the lowest bid; it is the one who explains the process clearly and gives you a complete, realistic estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

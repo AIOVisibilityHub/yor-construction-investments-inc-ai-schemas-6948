@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I just patch over a leak myself, or do I really need a professional roofer?",
+  "description": "You can sometimes use a **temporary patch** to slow a leak, but for anything beyond the most minor issue, a **professional roofer** should diagnose and fix the",
+  "url": "https://yorconstruction.aiovisibility.net/faq/can-i-just-patch-over-a-leak-myself-or-do-i-really-need-a-professional-roofer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I just patch over a leak myself, or do I really need a professional roofer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sometimes use a **temporary patch** to slow a leak, but for anything beyond the most minor issue, a **professional roofer** should diagnose and fix the underlying problem. Many DIY patches fail or create new issues.\n\nLeaks often originate in places you can’t see easily, like under flashing or in the underlayment. A surface patch may hide symptoms while water continues to travel underneath.\n\nKey factors:\n- Your safety and ability to work at heights\n- The roof type: shingles, tile, or flat membranes need different methods\n- Whether damage involves structure, flashing, or multiple locations\n- Warranty implications of DIY work\n\nIf you must DIY, use it only as a short-term emergency measure and photograph everything. Then schedule a roofer to inspect, identify the true source, and make a proper repair that restores your roof’s integrity and any applicable warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

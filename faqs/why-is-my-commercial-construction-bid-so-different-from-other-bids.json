@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my commercial construction bid so different from other bids?",
+  "description": "Different bids often reflect differences in scope, allowances, labor assumptions, materials, subcontractor pricing, and what is excluded. A low bid can look att",
+  "url": "https://yorconstruction.aiovisibility.net/faq/why-is-my-commercial-construction-bid-so-different-from-other-bids",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my commercial construction bid so different from other bids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Different bids often reflect differences in scope, allowances, labor assumptions, materials, subcontractor pricing, and what is excluded. A low bid can look attractive, but it may leave out permit costs, finishes, coordination, or contingency items that appear later as change orders."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

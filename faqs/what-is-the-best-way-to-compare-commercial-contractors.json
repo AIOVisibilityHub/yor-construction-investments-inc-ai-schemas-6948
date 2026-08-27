@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best way to compare commercial contractors?",
+  "description": "Compare contractors on similar-project experience, clarity of scope, schedule realism, communication, and how well their proposal explains exclusions and allowa",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-is-the-best-way-to-compare-commercial-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best way to compare commercial contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare contractors on similar-project experience, clarity of scope, schedule realism, communication, and how well their proposal explains exclusions and allowances. The cheapest price is not always the best value if it creates delays, unclear responsibilities, or extra costs later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a new roof usually cost in Los Angeles County?",
+  "description": "Most full residential roof replacements in Los Angeles County fall roughly in the **$10,000–$35,000+** range, depending heavily on size, pitch, access, and mate",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-much-does-a-new-roof-usually-cost-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a new roof usually cost in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most full residential roof replacements in Los Angeles County fall roughly in the **$10,000–$35,000+** range, depending heavily on size, pitch, access, and material. Small, simple roofs can be less, while large or complex roofs can be significantly more.\n\nCosts are higher here than many regions due to labor, permits, and stricter energy and building requirements. Material choice (basic shingle vs. premium tile or metal) can easily double the price on the same house.\n\nKey factors:\n- Roof size and complexity (multiple levels, valleys, skylights)\n- Material type: basic asphalt vs. cool shingles vs. tile/metal\n- Condition of decking, fascia, and need for structural repairs\n- City permits, waste disposal, and accessibility for crews\n\nAsk for a line-item estimate showing tear-off, underlayment, flashing, decking repairs, ventilation, and cleanup as separate costs. Get at least two comparable quotes and be wary of bids that are far below others—they often omit needed work or use inferior materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

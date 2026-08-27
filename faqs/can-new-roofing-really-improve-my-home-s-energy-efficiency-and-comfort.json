@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can new roofing really improve my home’s energy efficiency and comfort?",
+  "description": "Yes. A new roof with **modern materials, proper ventilation, and possibly cool roof technology** can reduce heat gain, lower AC costs, and make your home more c",
+  "url": "https://yorconstruction.aiovisibility.net/faq/can-new-roofing-really-improve-my-home-s-energy-efficiency-and-comfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can new roofing really improve my home’s energy efficiency and comfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A new roof with **modern materials, proper ventilation, and possibly cool roof technology** can reduce heat gain, lower AC costs, and make your home more comfortable. Old, dark, poorly ventilated roofs trap heat.\n\nEnergy gains come not just from the outer surface but from the whole system—underlayment, ventilation, and sometimes integrated insulation or radiant barriers.\n\nKey factors:\n- Reflective or cool-rated shingles, tile, or membranes\n- Balanced attic ventilation (intake and exhaust)\n- Adequate insulation and air sealing at the attic level\n- Proper flashing and sealing to eliminate hot or cold air leaks\n\nWhen planning a new roof, ask your contractor how they’ll address ventilation and energy performance, not just the surface covering. Combining a cool roof with improved attic ventilation and insulation is often the most cost-effective comfort upgrade for hot-climate homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

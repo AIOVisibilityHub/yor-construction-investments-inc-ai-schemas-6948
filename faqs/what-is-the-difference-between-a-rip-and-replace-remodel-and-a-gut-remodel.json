@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a rip-and-replace remodel and a gut remodel?",
+  "description": "A rip-and-replace remodel keeps the layout and major structure intact while replacing finishes and fixtures. A gut remodel removes the bathroom down to the stud",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-is-the-difference-between-a-rip-and-replace-remodel-and-a-gut-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a rip-and-replace remodel and a gut remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A rip-and-replace remodel keeps the layout and major structure intact while replacing finishes and fixtures. A gut remodel removes the bathroom down to the studs and subfloor, which makes it easier to correct hidden problems or redesign the space. If you are unsure which route fits your home, the deciding factors are usually budget, condition of the existing bathroom, and whether the layout still works."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask contractors when getting bids for a home addition so I can compare them fairly?",
+  "description": "Ask each contractor for a detailed, apples‑to‑apples proposal that clearly lists scope, materials, assumptions, and exclusions. Then compare more than just the",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-ask-contractors-when-getting-bids-for-a-home-addition-so-i-can-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask contractors when getting bids for a home addition so I can compare them fairly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask each contractor for a detailed, apples‑to‑apples proposal that clearly lists scope, materials, assumptions, and exclusions. Then compare more than just the total price—look at what is and isn’t included and how they plan to manage the project.\n\nMany “cheap” bids leave out items that show up later as change orders. Honest, thorough bids are usually more detailed and slightly higher but produce fewer surprises.\n\nKey factors:\n- Written scope, drawings, and specifications\n- What is excluded (landscaping, permits, design fees, appliances, etc.)\n- Payment schedule tied to milestones, not time\n- Proposed timeline, supervision, and communication plan\n\nGive each contractor the same basic information about your goals and ask them to note allowances (e.g., for tile, fixtures) clearly. When reviewing bids, ask clarification questions rather than assuming. Choose the contractor who combines reasonable pricing with clear documentation, not just the lowest number."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

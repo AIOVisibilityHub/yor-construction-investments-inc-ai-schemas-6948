@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a home addition increase my property taxes in Los Angeles County, and by how much?",
+  "description": "Yes, adding new square footage usually increases your property tax because the new construction is reassessed separately from your existing home. The exact amou",
+  "url": "https://yorconstruction.aiovisibility.net/faq/will-a-home-addition-increase-my-property-taxes-in-los-angeles-county-and-by-how",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a home addition increase my property taxes in Los Angeles County, and by how much?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, adding new square footage usually increases your property tax because the new construction is reassessed separately from your existing home. The exact amount depends on the value the assessor assigns to the addition and the local tax rate.\n\nIn LA County, the assessor reviews building permits and may add the market value of the new work to your current assessed value. It’s not a full reassessment of the entire property in most cases, but it will raise your annual bill.\n\nKey factors:\n- Size and type of addition (basic room vs. high‑end suite)\n- Construction cost and resulting market value\n- Current assessed value and local tax rate\n- Possible exemptions for certain improvements\n\nBefore you commit, ask your contractor for a realistic finished value increase estimate and then call the county assessor’s office for guidance. Include a property tax bump in your long‑term affordability calculations so the project doesn’t strain your budget after it’s built."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

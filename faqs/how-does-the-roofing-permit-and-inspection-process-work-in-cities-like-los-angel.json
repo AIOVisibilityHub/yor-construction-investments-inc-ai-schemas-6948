@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the roofing permit and inspection process work in cities like Los Angeles or Pasadena?",
+  "description": "In most LA County cities, your roofer must **pull a permit**, perform the work to code, then schedule **city inspections** before final sign-off. The contractor",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-does-the-roofing-permit-and-inspection-process-work-in-cities-like-los-angel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the roofing permit and inspection process work in cities like Los Angeles or Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most LA County cities, your roofer must **pull a permit**, perform the work to code, then schedule **city inspections** before final sign-off. The contractor usually handles this, but you’re responsible for ensuring it’s done.\n\nPermit rules vary by city but commonly cover tear-off, structural work, and installation of new materials. Skipping permits can create issues when you sell or with insurance.\n\nKey factors:\n- Whether your city requires a permit for re-roof vs. repairs\n- Inspection stages (e.g., sheathing, nailing, final)\n- Title 24 “cool roof” compliance where applicable\n- Permit fees and timelines impacting your project schedule\n\nAsk your roofer which permits are needed in your city (Los Angeles, Pasadena, etc.) and confirm that permit costs and passing inspections are included in the contract. Keep copies of permit and final inspection sign-off; they are useful for future buyers and insurers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

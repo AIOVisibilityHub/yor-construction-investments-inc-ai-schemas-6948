@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a tenant improvement and a full commercial renovation?",
+  "description": "A tenant improvement usually adapts an existing space for a new occupant or use, while a full renovation may involve broader structural, systems, or layout chan",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-is-the-difference-between-a-tenant-improvement-and-a-full-commercial-renova",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a tenant improvement and a full commercial renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tenant improvement usually adapts an existing space for a new occupant or use, while a full renovation may involve broader structural, systems, or layout changes. The more the work affects core building systems or occupancy, the more planning, permitting, and coordination it usually requires."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

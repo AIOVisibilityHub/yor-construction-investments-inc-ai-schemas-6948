@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if a contractor has enough experience for my type of project?",
+  "description": "Look for completed projects that match your building type, budget range, and level of complexity. Experience matters most when the contractor can explain how th",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if a contractor has enough experience for my type of project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for completed projects that match your building type, budget range, and level of complexity. Experience matters most when the contractor can explain how they handled permits, scheduling, occupied-site work, and coordination on similar jobs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

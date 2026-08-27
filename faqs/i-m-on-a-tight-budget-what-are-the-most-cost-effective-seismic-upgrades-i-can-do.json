@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I’m on a tight budget—what are the most cost‑effective seismic upgrades I can do first?",
+  "description": "On a limited budget, focus on the highest‑impact, lowest‑cost measures that address major failure modes, especially for houses and small buildings. Foundation b",
+  "url": "https://yorconstruction.aiovisibility.net/faq/i-m-on-a-tight-budget-what-are-the-most-cost-effective-seismic-upgrades-i-can-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I’m on a tight budget—what are the most cost‑effective seismic upgrades I can do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On a limited budget, focus on the highest‑impact, lowest‑cost measures that address major failure modes, especially for houses and small buildings. Foundation bolting, cripple‑wall bracing, and securing heavy hazards often yield strong risk reduction per dollar.\n\nEven if you can’t complete a full retrofit, targeted improvements can substantially improve performance in moderate events. A phased plan helps you avoid wasting money on low‑value work.\n\nKey factors:\n- Foundation anchoring and cripple‑wall shear panels\n- Bracing or removing unreinforced chimneys and heavy parapets\n- Securing water heaters, gas lines, and critical utilities\n- Prioritizing the weakest story (usually the first level)\n\nAsk your engineer for a prioritized list with cost ranges so you can tackle work in stages. Start with items that significantly reduce collapse or sliding risk.\n\nA thoughtful phased approach lets you make progress on safety while staying within financial constraints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

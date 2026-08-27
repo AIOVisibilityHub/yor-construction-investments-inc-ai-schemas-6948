@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a bathroom remodel usually cost in Los Angeles County?",
+  "description": "A typical full bathroom remodel in Los Angeles often starts around $25,000 for a basic project, $35,000 for mid-grade finishes, and $50,000 or more for high-end",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a bathroom remodel usually cost in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical full bathroom remodel in Los Angeles often starts around $25,000 for a basic project, $35,000 for mid-grade finishes, and $50,000 or more for high-end work. Your final price depends on size, material choices, layout changes, and whether plumbing or electrical work must be updated. If you want a more accurate estimate, compare at least two or three detailed bids that break out labor, materials, and permit costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How disruptive is seismic retrofitting for tenants in an occupied apartment building?",
+  "description": "Seismic retrofitting is intrusive but can often be done with tenants in place, especially for exterior or garage‑level work. Some units or parking areas may be",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-disruptive-is-seismic-retrofitting-for-tenants-in-an-occupied-apartment-buil",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How disruptive is seismic retrofitting for tenants in an occupied apartment building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seismic retrofitting is intrusive but can often be done with tenants in place, especially for exterior or garage‑level work. Some units or parking areas may be temporarily impacted, but full building vacate is not always required.\n\nThe degree of disruption depends on where structural elements are added and how much interior access is needed. Good planning and communication can significantly reduce tenant frustration and complaints.\n\nKey factors:\n- Whether work is mostly in garages, carports, or exterior walls vs. inside units\n- Noise, dust, and temporary loss of some parking or storage areas\n- Hours of work and any short periods of limited access\n- Local tenant notification and habitability requirements\n\nBefore starting, develop a written schedule and communication plan for residents, including what to expect and contact points for issues. Consider sequencing work to limit the time any one tenant is heavily impacted.\n\nExperienced retrofit contractors in LA regularly work in occupied buildings and can help you set realistic expectations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

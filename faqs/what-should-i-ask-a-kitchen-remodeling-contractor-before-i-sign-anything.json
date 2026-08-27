@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I ask a kitchen remodeling contractor before I sign anything?",
+  "description": "Before signing, ask about **licensing and insurance, detailed scope and inclusions, project timeline, how changes are handled, and who your main contact will be",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-ask-a-kitchen-remodeling-contractor-before-i-sign-anything",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I ask a kitchen remodeling contractor before I sign anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before signing, ask about **licensing and insurance, detailed scope and inclusions, project timeline, how changes are handled, and who your main contact will be**. You’re vetting both their technical ability and their process.\n\nThe answers will tell you a lot about how the job will actually feel day to day.\n\nKey factors:\n- License and insurance details and experience with similar projects\n- What’s included/not included in the price (permits, clean‑up, disposal)\n- Target start and finish dates, work hours, and crew structure\n- Process for change orders, unexpected issues, and communication\n\nTake notes and have them put key points in writing alongside the contract. If someone is vague or resistant to questions, that’s a red flag.\n\nA short, thorough interview now reduces friction over expectations later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

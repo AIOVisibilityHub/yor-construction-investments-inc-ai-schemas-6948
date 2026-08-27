@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had a bad contractor experience before—how can I protect myself this time with an addition?",
+  "description": "Use your past experience to set much tighter safeguards: stronger vetting, a more detailed contract, and better project visibility. You can’t remove all risk, b",
+  "url": "https://yorconstruction.aiovisibility.net/faq/i-had-a-bad-contractor-experience-before-how-can-i-protect-myself-this-time-with",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had a bad contractor experience before—how can I protect myself this time with an addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use your past experience to set much tighter safeguards: stronger vetting, a more detailed contract, and better project visibility. You can’t remove all risk, but you can dramatically reduce the chance of repeat problems.\n\nA previous bad project often means you now recognize red flags. Use that to your advantage by insisting on clearer boundaries and documentation from day one.\n\nKey factors:\n- Written scope with drawings and finish schedules attached\n- Transparent payment schedule tied to inspected milestones\n- Defined process for changes, dispute resolution, and termination\n- Regular site meetings and photo updates\n\nShare your prior concerns candidly with potential contractors and see how they respond. Choose the one who welcomes structure and offers specific communication and reporting habits, not vague reassurances. A professional addition contractor will appreciate a well‑defined framework; it makes their job easier too."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

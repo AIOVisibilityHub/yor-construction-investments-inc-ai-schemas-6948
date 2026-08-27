@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What bathroom upgrades matter most for resale in Pasadena?",
+  "description": "In Pasadena, buyers often respond well to clean finishes, updated tile, good lighting, quality fixtures, and smart storage. A functional layout and a fresh, wel",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-bathroom-upgrades-matter-most-for-resale-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What bathroom upgrades matter most for resale in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, buyers often respond well to clean finishes, updated tile, good lighting, quality fixtures, and smart storage. A functional layout and a fresh, well-maintained look usually matter more than unusually bold design choices. If resale is a priority, aim for timeless materials and practical improvements instead of trendy features that may date quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

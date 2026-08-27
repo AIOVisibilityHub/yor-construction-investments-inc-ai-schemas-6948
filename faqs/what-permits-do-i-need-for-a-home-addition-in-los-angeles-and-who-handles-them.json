@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits do I need for a home addition in Los Angeles, and who handles them?",
+  "description": "In Los Angeles, most home additions require building, electrical, plumbing, and mechanical permits, and sometimes zoning or planning review. Typically the contr",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-permits-do-i-need-for-a-home-addition-in-los-angeles-and-who-handles-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits do I need for a home addition in Los Angeles, and who handles them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Los Angeles, most home additions require building, electrical, plumbing, and mechanical permits, and sometimes zoning or planning review. Typically the contractor or architect prepares plans and submits them, but the property owner is ultimately responsible.\n\nSkipping or under‑permitting is risky: it can trigger stop‑work orders, fines, and major problems when you refinance or sell. Each city in LA County (Los Angeles, Pasadena, etc.) has its own processes and timelines.\n\nKey factors:\n- Zoning rules: setbacks, height limits, floor‑area ratio\n- Structural and seismic requirements for new construction\n- Energy, insulation, and ventilation standards (Title 24)\n- Possible plan checks from building, fire, and sometimes public works\n\nBefore design gets too far, ask your contractor to confirm zoning feasibility and outline which departments must review the plans. Clarify in writing who will prepare drawings, fill out forms, pay fees upfront, and track corrections. Work with a team already familiar with LA‑area permitting to avoid costly back‑and‑forth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

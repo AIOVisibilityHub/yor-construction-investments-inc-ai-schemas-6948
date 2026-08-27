@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I live in my house during a major addition, or is it smarter to move out temporarily?",
+  "description": "You can often live in the home during an addition, but it will be noisy, dusty, and disruptive; moving out short‑term can speed work and reduce stress. The righ",
+  "url": "https://yorconstruction.aiovisibility.net/faq/can-i-live-in-my-house-during-a-major-addition-or-is-it-smarter-to-move-out-temp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I live in my house during a major addition, or is it smarter to move out temporarily?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often live in the home during an addition, but it will be noisy, dusty, and disruptive; moving out short‑term can speed work and reduce stress. The right choice depends on your layout, tolerance, and budget.\n\nStaying saves rent but may cost in slower progress, added temporary protections, and the strain on your routine. Completely vacated homes are easier and quicker to work on, especially when utilities need to be shut off or rerouted.\n\nKey factors:\n- Whether the addition ties directly into key spaces like kitchen or only into secondary areas\n- Presence of kids, pets, in‑home work, or health sensitivities\n- Project length and timing (school year, holidays)\n- Cost of alternative housing vs. extended construction timeline\n\nDiscuss a “live‑in vs. move‑out” plan with your contractor, including dust control, work hours, and temporary kitchen or bathroom setups. Decide before signing so the schedule and price reflect your choice. An experienced addition builder can often phase work to minimize disruption if you stay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

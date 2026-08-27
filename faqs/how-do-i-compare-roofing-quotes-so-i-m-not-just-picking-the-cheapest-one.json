@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I compare roofing quotes so I’m not just picking the cheapest one?",
+  "description": "Compare quotes based on **scope, materials, warranties, and contractor qualifications**, not just total price. A low bid that cuts corners can cost more in repa",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I compare roofing quotes so I’m not just picking the cheapest one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compare quotes based on **scope, materials, warranties, and contractor qualifications**, not just total price. A low bid that cuts corners can cost more in repairs and early replacement.\n\nMany quotes look similar on the surface but differ in underlayment quality, flashing work, wood repair allowances, and cleanup. You want apples-to-apples proposals.\n\nKey factors:\n- Same material brand, grade, and warranty in each quote\n- Inclusion of tear-off, disposal, permits, and inspections\n- Clear policy on wood replacement and change orders\n- Contractor license, insurance, and track record\n\nAsk each roofer to itemize materials, labor, and extras, and to specify exactly what is excluded. Lay the quotes side by side, highlight differences, and don’t hesitate to ask contractors to explain gaps or adjust their proposals to match scope for a fair comparison."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a bathroom remodel in Los Angeles?",
+  "description": "Yes, most bathroom remodels in Los Angeles require a permit, and projects with structural changes usually need plan check or review. If the remodel is a simple",
+  "url": "https://yorconstruction.aiovisibility.net/faq/do-i-need-a-permit-for-a-bathroom-remodel-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a bathroom remodel in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most bathroom remodels in Los Angeles require a permit, and projects with structural changes usually need plan check or review. If the remodel is a simple rip-and-replace with no structural changes, an express permit may be available. Before work starts, confirm exactly what your contractor plans to alter so you do not get delayed by an inspection or code issue."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

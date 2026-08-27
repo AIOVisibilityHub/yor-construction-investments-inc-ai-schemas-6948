@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I plan a kitchen remodel when I can’t be without a kitchen for months?",
+  "description": "If you can’t be without a kitchen for long, **tight planning and a temporary setup are critical**. Aim to compress the “no‑kitchen” window by finalizing design,",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-plan-a-kitchen-remodel-when-i-can-t-be-without-a-kitchen-for-months",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I plan a kitchen remodel when I can’t be without a kitchen for months?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you can’t be without a kitchen for long, **tight planning and a temporary setup are critical**. Aim to compress the “no‑kitchen” window by finalizing design, ordering key materials, and scheduling trades before demo.\n\nYou won’t avoid disruption entirely, but you can manage it.\n\nKey factors:\n- Final design and materials chosen before starting\n- Cabinets and critical items ordered with confirmed delivery dates\n- Contractor’s schedule with overlapping trades where possible\n- Temporary kitchen setup with microwave, hot plate, and fridge in another room\n\nAsk your contractor to define the specific period when the sink and main appliances will be unavailable and plan life around that window. Batch cook, use disposable plates, and lean on simple meals.\n\nA bit of upfront organization makes living through the remodel far more bearable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

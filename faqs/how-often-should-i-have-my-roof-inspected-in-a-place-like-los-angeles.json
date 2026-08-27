@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I have my roof inspected in a place like Los Angeles?",
+  "description": "Most homes in the Los Angeles area should get a **professional roof inspection every 1–2 years**, plus after any major wind or rain event. Visual checks from th",
+  "url": "https://yorconstruction.aiovisibility.net/faq/how-often-should-i-have-my-roof-inspected-in-a-place-like-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I have my roof inspected in a place like Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homes in the Los Angeles area should get a **professional roof inspection every 1–2 years**, plus after any major wind or rain event. Visual checks from the ground between inspections are also helpful.\n\nOur climate is easier on roofs than snow-heavy regions but hard on them in other ways: intense UV, heat cycles, and Santa Ana winds. Catching cracked tiles, loose flashing, or early membrane failures can prevent expensive leaks later.\n\nKey factors:\n- Age and type of roof (older or flat roofs need more frequent checks)\n- History of leaks or prior patch repairs\n- Recent storms, wind events, or nearby wildfire embers\n- Presence of overhanging trees and debris buildup\n\nSchedule recurring inspections and ask for photos of any issues found. Between professional visits, scan for missing shingles, slipped tiles, ponding water, or debris in valleys and around drains, and call a roofer quickly if you see changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

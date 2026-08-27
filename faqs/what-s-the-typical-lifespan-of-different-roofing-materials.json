@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the typical lifespan of different roofing materials?",
+  "description": "Lifespan varies widely: **basic asphalt shingles** often last about 15–25 years, **architectural or premium shingles** 25–35 years, and **concrete/clay tile or",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-s-the-typical-lifespan-of-different-roofing-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the typical lifespan of different roofing materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifespan varies widely: **basic asphalt shingles** often last about 15–25 years, **architectural or premium shingles** 25–35 years, and **concrete/clay tile or metal roofs** can reach 40–50+ years when installed and maintained properly. Flat roofing membranes usually have shorter lifespans.\n\nThese ranges assume decent installation and normal conditions. Heat, poor ventilation, and lack of maintenance can shorten even high-end roofs’ lives.\n\nKey factors:\n- Material type: 3-tab vs. architectural shingles vs. tile vs. metal\n- Climate stresses like intense sun, wind, and temperature swings\n- Roof ventilation and attic insulation quality\n- Quality of installation and ongoing maintenance\n\nAsk your contractor to explain both the manufacturer’s rated life and a realistic local expectation for your area. Use these estimates to plan long-term budgets and timing so you’re not surprised when it’s time for replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

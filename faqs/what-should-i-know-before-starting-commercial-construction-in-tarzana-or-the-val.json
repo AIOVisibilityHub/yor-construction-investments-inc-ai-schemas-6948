@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I know before starting commercial construction in Tarzana or the Valley area?",
+  "description": "In the Valley area, local access conditions, tenant coordination, and permit timing can all affect how smoothly a project moves. It helps to choose a contractor",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-know-before-starting-commercial-construction-in-tarzana-or-the-val",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I know before starting commercial construction in Tarzana or the Valley area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Valley area, local access conditions, tenant coordination, and permit timing can all affect how smoothly a project moves. It helps to choose a contractor familiar with neighborhood constraints, occupied-site logistics, and the local review process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

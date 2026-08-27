@@ -1,18 +1,26 @@
 {
-  "url": "yorconstruction.com/faq/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition",
-  "name": "What are the biggest hidden costs that surprise people during a home addition?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the biggest hidden costs that surprise people during a home addition?",
+  "description": "The biggest surprise costs are usually structural fixes, permit‑related changes, and upgrades you choose mid‑project. Many of these can be anticipated or at lea",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition",
   "mainEntity": [
     {
-      "name": "What are the biggest hidden costs that surprise people during a home addition?",
       "@type": "Question",
+      "name": "What are the biggest hidden costs that surprise people during a home addition?",
       "acceptedAnswer": {
-        "text": "Common surprises include utility upgrades, structural changes, and repairing issues uncovered once walls are opened. Design changes mid‑project also quickly add cost.\n\nMany older homes need electrical panel upgrades, new HVAC capacity, or plumbing reroutes to handle the added space. These are essential but not always obvious at the start.\n\nKey factors:\n- Upgrading electrical service, HVAC, or water/sewer lines\n- Correcting existing code violations or damage (rot, termites, leaks)\n- Extra engineering or foundation work once opened up\n- Design upgrades or finish changes requested during construction\n\nProtect yourself by budgeting a 10–20% contingency and asking for clear allowances and exclusions in the contract. When surprises arise, pause to understand options and long‑term implications rather than making rushed decisions under pressure.",
         "@type": "Answer",
-        "description": "Hidden costs often come from utility upgrades, structural fixes, and problems discovered behind walls—plus design changes mid‑project. Budget a 10–20% contingency, get clear written allowances and exclusions, and be prepared for items like electrical panel upgrades, HVAC changes, and repairs to existing damage."
+        "text": "The biggest surprise costs are usually structural fixes, permit‑related changes, and upgrades you choose mid‑project. Many of these can be anticipated or at least budgeted for with a contingency.\n\nOlder homes and hillside lots are especially prone to unforeseen structural and utility issues. Design changes triggered by plan check or your own preferences also add time and money.\n\nKey factors:\n- Structural reinforcement, foundation work, or rot/termite repair\n- Utility upgrades (panel size, sewer capacity, HVAC changes)\n- Permit fees, plan‑check corrections, and required inspections\n- Finish upgrades you request after seeing the space framed\n\nBuild a 10–20% contingency into your budget and be disciplined about changes once construction starts. Ask your contractor upfront what kinds of surprises they most often see in homes like yours, and how they handle and price change orders. A transparent contractor will walk you through realistic “what if” scenarios before you sign."
       }
     }
   ],
-  "description": "Hidden costs often come from utility upgrades, structural fixes, and problems discovered behind walls—plus design changes mid‑project. Budget a 10–20% contingen"
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
 }

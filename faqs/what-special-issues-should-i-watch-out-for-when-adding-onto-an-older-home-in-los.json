@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What special issues should I watch out for when adding onto an older home in Los Angeles or Pasadena?",
+  "description": "Older LA‑area homes often hide structural, electrical, plumbing, or asbestos/lead issues that surface once walls are opened. Adding new work means new parts mus",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-special-issues-should-i-watch-out-for-when-adding-onto-an-older-home-in-los",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What special issues should I watch out for when adding onto an older home in Los Angeles or Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Older LA‑area homes often hide structural, electrical, plumbing, or asbestos/lead issues that surface once walls are opened. Adding new work means new parts must meet current code, which can trigger upgrades to some existing systems.\n\nHistoric details, unpermitted past work, and mixed construction methods also complicate tying new structure into old. Planning for these realities upfront avoids budget shock mid‑project.\n\nKey factors:\n- Knob‑and‑tube wiring, galvanized plumbing, or undersized panels\n- Seismic weaknesses or irregular framing in older structures\n- Possible lead paint or asbestos in finishes\n- Historic or conservation overlays in some Pasadena neighborhoods\n\nAsk your contractor to do a careful site walkthrough and, if appropriate, limited exploratory openings before final pricing. Budget extra for unforeseen repairs and necessary system upgrades. A contractor experienced with older LA housing stock will know where issues commonly show up and how to handle them safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

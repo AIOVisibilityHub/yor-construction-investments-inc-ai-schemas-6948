@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best time of year to remodel a bathroom in Sherman Oaks?",
+  "description": "The best time is usually when you can tolerate the disruption and when your contractor has availability for steady progress. In Sherman Oaks, timing often depen",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-is-the-best-time-of-year-to-remodel-a-bathroom-in-sherman-oaks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best time of year to remodel a bathroom in Sherman Oaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time is usually when you can tolerate the disruption and when your contractor has availability for steady progress. In Sherman Oaks, timing often depends more on contractor schedule and material lead times than on weather, since interior bathroom work is less seasonal than outdoor projects. If you need the bathroom finished by a certain date, build extra time into the plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
