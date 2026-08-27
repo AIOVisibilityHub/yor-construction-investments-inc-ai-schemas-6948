@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to live on-site with an ADU?",
+  "description": "Not in CA since 2020 (SB-13). ADUs can be rented separately.",
+  "url": "https://yorconstruction.com/faq/do-i-need-to-live-on-site-with-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to live on-site with an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not in CA since 2020 (SB-13). ADUs can be rented separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

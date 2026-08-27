@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "ADU build with delays"
+  },
+  "reviewBody": "Timely start but project overruns; good final quality despite issues.yor-construction.wheree+1",
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

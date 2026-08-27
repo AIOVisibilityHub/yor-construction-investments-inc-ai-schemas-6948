@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often to repaint interiors?",
+  "description": "3-5 years for high-traffic areas, 7-10 years for bedrooms. Use CA-compliant low-VOC paints.",
+  "url": "https://yorconstruction.com/faq/how-often-to-repaint-interiors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often to repaint interiors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-5 years for high-traffic areas, 7-10 years for bedrooms. Use CA-compliant low-VOC paints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

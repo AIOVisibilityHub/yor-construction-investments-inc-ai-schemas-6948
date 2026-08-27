@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Driveway Installation",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "articleBody": "Driveway Installation\n\nQ: Cost of concrete vs. asphalt driveway?\nA: Concrete: $8-$12/sqft (lasts 30+ yrs), Asphalt: $3-$5/sqft (lasts 15 yrs). Concrete recommended for CA heat.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

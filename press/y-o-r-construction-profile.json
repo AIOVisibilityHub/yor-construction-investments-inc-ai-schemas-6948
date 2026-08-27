@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Y.O.R. Construction Profile",
+  "datePublished": "46046",
+  "url": "https://www.instagram.com/yor_construction/?hl=en instagram​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Instagram"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

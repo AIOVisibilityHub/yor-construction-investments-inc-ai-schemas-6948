@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "ADU/stucco/paint excellence"
+  },
+  "reviewBody": "Timely ADU under house, stucco, wood/paint; reasonable prices, owner ensured satisfaction.yelp​",
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

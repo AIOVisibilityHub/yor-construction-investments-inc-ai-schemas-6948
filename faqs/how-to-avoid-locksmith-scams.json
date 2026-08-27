@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to avoid locksmith scams?",
+  "description": "Verify CSLB license, check BBB rating, and request written estimates before work begins.",
+  "url": "https://yorconstruction.com/faq/how-to-avoid-locksmith-scams",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to avoid locksmith scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify CSLB license, check BBB rating, and request written estimates before work begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

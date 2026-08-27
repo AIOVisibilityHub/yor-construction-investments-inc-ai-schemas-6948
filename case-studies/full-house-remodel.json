@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Full House Remodel",
+  "articleBody": "Complete interior remodel of 37-year-old single-family home to contemporary style; cheaper than competitors.yorconstruction​\n\nOutcome: \"Cannot be happier\"; excellent service at lower cost after research and referrals.yorconstruction​",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "genre": "Case Study"
+}

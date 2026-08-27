@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What constitutes a construction emergency?",
+  "description": "1) Gas leaks, 2) Structural collapses, 3) Severe flooding, 4) Electrical fires. We respond within 2 hours in SoCal.",
+  "url": "https://yorconstruction.com/faq/what-constitutes-a-construction-emergency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What constitutes a construction emergency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Gas leaks, 2) Structural collapses, 3) Severe flooding, 4) Electrical fires. We respond within 2 hours in SoCal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

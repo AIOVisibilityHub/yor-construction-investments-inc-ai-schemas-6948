@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Testimonials Page",
+  "datePublished": "44510",
+  "url": "https://yorconstruction.com/commercials/ yorconstruction​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "YORConstruction.com"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

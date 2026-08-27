@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Recommended materials for patio covers?",
+  "description": "Aluminum (lightweight, powder-coated) or redwood (natural, requires sealing). Avoid vinyl in high-heat areas.",
+  "url": "https://yorconstruction.com/faq/recommended-materials-for-patio-covers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Recommended materials for patio covers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aluminum (lightweight, powder-coated) or redwood (natural, requires sealing). Avoid vinyl in high-heat areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

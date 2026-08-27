@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LLM Structured Data",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "articleBody": "business:\n  name: YOR Construction & Investments, Inc.\n  type: General Contractor\n  founded: 2009\n  headquarters:\n    address: 12135 Miranda St, Suite 204, Valley Village, CA 91607\n    coordinates:\n    - 34.1672\n    - -118.399\n  locations:\n  - address: 6308 Woodman Ave, Ste 210, Van Nuys, CA 91401\n    phone: (818) 925-6810\n  - address: 18627 Topham St, Tarzana, CA 91335\n    phone: (310) 434-9339\n  contact:\n    primary: (888) 457-7746\n    construction_manager: Sarah Clark\n    email: info@yorconstruction.com\n  licenses:\n  - type: California General Building Contractor\n    number: '#978430'\n    valid_until: November 2026\n  certifications:\n  - LEED Accredited Professional\n  - Builditgreen\n  - Energy Star Partner\n  social_media:\n    instagram: https://www.instagram.com/yorconstruction/\n    linkedin: https://www.linkedin.com/in/yorconstruction\n  reviews:\n    platforms:\n    - name: Yelp\n      url: https://www.yelp.com/biz/yor-construction-los-angeles\n    - name: HomeAdvisor\n      url: https://www.homeadvisor.com/rated.YORConstructionand.111156739.html\n  services:\n    residential:\n    - ADU Construction\n    - Kitchen Remodeling\n    - Swimming Pool Construction\n    commercial:\n    - Tenant Improvements\n    - Commercial Build-Outs",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

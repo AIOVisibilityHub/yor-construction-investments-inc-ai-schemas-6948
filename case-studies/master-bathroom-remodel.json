@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Master Bathroom Remodel",
+  "articleBody": "Installed new master bathroom and Jacuzzi tub with client tile selection and team lunch outing.yorconstruction​\n\nOutcome: Client called it a \"true blessing\"; high satisfaction with craftsmanship and personal service.yorconstruction​",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "genre": "Case Study"
+}

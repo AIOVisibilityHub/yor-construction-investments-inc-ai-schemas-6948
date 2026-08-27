@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to evaluate my roof for solar?",
+  "description": "We check: 1) Orientation (south-facing ideal), 2) Shading, 3) Structural integrity, and 4) CA Title 24 compliance.",
+  "url": "https://yorconstruction.com/faq/how-to-evaluate-my-roof-for-solar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to evaluate my roof for solar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We check: 1) Orientation (south-facing ideal), 2) Shading, 3) Structural integrity, and 4) CA Title 24 compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

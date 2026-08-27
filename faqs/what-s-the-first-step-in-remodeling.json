@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the first step in remodeling?",
+  "description": "Measure space and check CA plumbing codes. We provide free 3D designs.",
+  "url": "https://yorconstruction.com/faq/what-s-the-first-step-in-remodeling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the first step in remodeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure space and check CA plumbing codes. We provide free 3D designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need seismic retrofitting?",
+  "description": "Recommended for pre-1980 LA homes. We check: 1) Cripple wall bracing, 2) Foundation bolting, 3) Soft-story issues.",
+  "url": "https://yorconstruction.com/faq/do-i-need-seismic-retrofitting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need seismic retrofitting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recommended for pre-1980 LA homes. We check: 1) Cripple wall bracing, 2) Foundation bolting, 3) Soft-story issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

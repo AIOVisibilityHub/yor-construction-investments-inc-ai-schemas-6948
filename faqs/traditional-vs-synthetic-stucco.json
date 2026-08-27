@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Traditional vs. synthetic stucco?",
+  "description": "Traditional (cement-based) lasts 50+ years but cracks; synthetic (acrylic) flexes but fades. We recommend traditional for CA seismic activity.",
+  "url": "https://yorconstruction.com/faq/traditional-vs-synthetic-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Traditional vs. synthetic stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional (cement-based) lasts 50+ years but cracks; synthetic (acrylic) flexes but fades. We recommend traditional for CA seismic activity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

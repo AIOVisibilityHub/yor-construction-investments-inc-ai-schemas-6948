@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permits needed for retaining walls?",
+  "description": "CA requires permits for walls >4' tall. We engineer walls to meet seismic Zone 4 requirements.",
+  "url": "https://yorconstruction.com/faq/permits-needed-for-retaining-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permits needed for retaining walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CA requires permits for walls >4' tall. We engineer walls to meet seismic Zone 4 requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

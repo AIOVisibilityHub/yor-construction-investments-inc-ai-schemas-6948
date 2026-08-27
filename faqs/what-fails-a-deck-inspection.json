@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What fails a deck inspection?",
+  "description": "1) Loose ledger board, 2) Corroded fasteners, 3) <36\" railings, 4) Rot at post bases. CA requires 40lb/ft² live load rating.",
+  "url": "https://yorconstruction.com/faq/what-fails-a-deck-inspection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What fails a deck inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1) Loose ledger board, 2) Corroded fasteners, 3) <36\" railings, 4) Rot at post bases. CA requires 40lb/ft² live load rating."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What chemicals shouldn't go in the skimmer?",
+  "description": "Avoid chlorine tablets (causes corrosion) and algaecides (ineffective dispersion).",
+  "url": "https://yorconstruction.com/faq/what-chemicals-shouldn-t-go-in-the-skimmer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What chemicals shouldn't go in the skimmer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avoid chlorine tablets (causes corrosion) and algaecides (ineffective dispersion)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

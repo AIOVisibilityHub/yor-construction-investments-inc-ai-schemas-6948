@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to size an AC unit?",
+  "description": "Manual J calculation required by CA law. Oversizing by >15% voids warranties and increases humidity.",
+  "url": "https://yorconstruction.com/faq/how-to-size-an-ac-unit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to size an AC unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manual J calculation required by CA law. Oversizing by >15% voids warranties and increases humidity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

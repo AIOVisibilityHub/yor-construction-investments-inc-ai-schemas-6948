@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does window installation take?",
+  "description": "1-2 days for standard homes. CA energy codes require dual-pane Low-E glass.",
+  "url": "https://yorconstruction.com/faq/how-long-does-window-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does window installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1-2 days for standard homes. CA energy codes require dual-pane Low-E glass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

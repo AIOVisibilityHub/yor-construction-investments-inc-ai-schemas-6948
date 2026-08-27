@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "YOR Construction & Investments",
+  "datePublished": "45715",
+  "url": "https://www.houzz.com/professionals/general-contractors/yor-construction-and-investments-pfvwus-pf~61120922 houzz​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Houzz"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  }
+}

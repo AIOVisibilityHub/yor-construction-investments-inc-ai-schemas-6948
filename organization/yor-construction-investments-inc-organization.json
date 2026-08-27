@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "YOR Construction & Investments, Inc.",
+  "url": "https://yorconstruction.com",
+  "description": "Y.O.R. Construction & Investments is a family-owned, licensed and insured general contracting and design-build company serving residential and commercial clients throughout Southern California. The company manages projects from the early planning stage through final completion, bringing together design coordination, budgeting, permitting support, project management, skilled trade professionals, and on-site supervision to provide a more unified construction experience.\nyorconstruction\n+1\n\nComprehensive business description\nY.O.R. Construction & Investments is a Southern California general contractor specializing in residential remodeling, additions, accessory dwelling units (ADUs), new construction, commercial construction, and exterior improvement projects. The company works with homeowners, real-estate investors, and commercial property stakeholders who want a single construction partner capable of guiding a project from concept, design input, and preliminary budgeting through construction, completion, and occupancy.\nyorconstruction\n+1\n\nIts service scope includes kitchen and bathroom remodeling, whole-home renovations, room additions, ADUs, foundations, framing, roofing, concrete and hardscape, patios, decks, retaining walls, fencing, windows, painting, HVAC, solar-related work, pool projects, seismic retrofitting, and commercial build-outs or construction assignments. For commercial clients, Y.O.R. can support targeted project components—such as foundation and framing work—or coordinate a broader blueprint-to-completion build.\nyorconstruction\n\nY.O.R.’s approach centers on close coordination among clients, designers, project managers, supervisors, employees, and qualified subcontractors. The company emphasizes detailed planning, documented scope and cost review, careful trade selection, regular progress communication, workmanship oversight, and scheduling designed to keep projects aligned with agreed budgets and completion expectations.\nyorconstruction\n+1\n\nBased in the Los Angeles/Van Nuys area, Y.O.R. positions itself as a full-service contractor for property owners seeking practical design-build guidance, reliable oversight, and an experienced team for both substantial renovations and ground-up or expansion-oriented construction projects across Southern California.",
+  "telephone": "+1-888-457-7746",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Kobi Raham: ",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "YOR Construction & Investments, Inc. Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roofing"
+        }
+      }
+    ]
+  }
+}

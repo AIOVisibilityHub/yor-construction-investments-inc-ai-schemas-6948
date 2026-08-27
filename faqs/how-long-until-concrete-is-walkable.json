@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long until concrete is walkable?",
+  "description": "24 hours for foot traffic, 7 days for vehicles. CA weather may accelerate curing by 20%.",
+  "url": "https://yorconstruction.com/faq/how-long-until-concrete-is-walkable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long until concrete is walkable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "24 hours for foot traffic, 7 days for vehicles. CA weather may accelerate curing by 20%."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

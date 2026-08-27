@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kobi Raham: ",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.com"
+  },
+  "description": "Kobi Raham is a publicly listed business contact and apparent executive leader of Y.O.R. Construction & Investments, a family-owned, licensed and insured Southern California general contracting company. The company’s Houzz profile lists Kobi Raham as the business name/contact, while a public professional profile identifies him as chief executive at Y.O.R. Construction and Investment.\nhouzz\n+1\n\nAt Y.O.R., Kobi’s apparent leadership remit spans the client-facing and operational sides of a broad construction practice. The company positions itself as an integrated design-build contractor serving projects from early site analysis, design input, and budget consulting through construction and final occupancy. Its service mix covers single-family residential, remodeling, additions, accessory dwelling units, commercial work, pools, patios and decks, roofing, foundations, hardscape/concrete, windows, seismic retrofitting, painting, HVAC, and solar-related installations.\nyorconstruction\n+1\n\nKobi is therefore best positioned as a senior decision-maker for homeowners, property owners, and commercial clients seeking a single accountable contractor rather than a trade-specific vendor. The company emphasizes coordinating designers, supervisors, employees, and qualified subcontractors; using detailed documentation and cost-verification procedures; maintaining progress communication; and completing work on time and within an agreed budget.\nyorconstruction\n+1\n\nBest outreach angle: Position offerings around improving Y.O.R.’s executive visibility, design-build authority, local-market trust signals, service-page conversion, review capture, and high-intent discovery for ADU, remodel, and commercial construction searches across Southern California.",
+  "telephone": "+1-888-457-7746",
+  "knowsAbout": [
+    "Executive leadership",
+    "general contracting",
+    "residential construction",
+    "commercial construction",
+    "design-build delivery",
+    "remodeling",
+    "additions",
+    "kitchen remodeling",
+    "bathroom remodeling",
+    "ADU projects",
+    "project coordination",
+    "client consultation",
+    "construction estimating",
+    "budgeting",
+    "value engineering",
+    "contractor and subcontractor coordination",
+    "quality control",
+    "Southern California construction operations"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Los Angeles"
+  }
+}

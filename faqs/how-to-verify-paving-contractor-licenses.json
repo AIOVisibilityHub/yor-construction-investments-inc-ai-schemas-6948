@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to verify paving contractor licenses?",
+  "description": "Check CSLB #978430 status and request proof of general liability insurance (>$1M coverage).",
+  "url": "https://yorconstruction.com/faq/how-to-verify-paving-contractor-licenses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to verify paving contractor licenses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check CSLB #978430 status and request proof of general liability insurance (>$1M coverage)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Best materials for Southern CA climates?",
+  "description": "Composite decking (Trex, Azek) for low maintenance or natural cedar for aesthetics. Concrete patios with cool-surface coatings for heat reduction.",
+  "url": "https://yorconstruction.com/faq/best-materials-for-southern-ca-climates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Best materials for Southern CA climates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Composite decking (Trex, Azek) for low maintenance or natural cedar for aesthetics. Concrete patios with cool-surface coatings for heat reduction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
