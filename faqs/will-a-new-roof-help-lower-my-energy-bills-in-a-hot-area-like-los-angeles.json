@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a new roof help lower my energy bills in a hot area like Los Angeles?",
+  "description": "Yes, a **cool-roof rated system** with proper ventilation can noticeably lower cooling costs in hot, sunny climates like Los Angeles. Standard dark roofs absorb",
+  "url": "https://yorconstruction.aiovisibility.net/faq/will-a-new-roof-help-lower-my-energy-bills-in-a-hot-area-like-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a new roof help lower my energy bills in a hot area like Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a **cool-roof rated system** with proper ventilation can noticeably lower cooling costs in hot, sunny climates like Los Angeles. Standard dark roofs absorb heat, while reflective materials and lighter colors keep your attic and home cooler.\n\nEnergy savings vary by house design, insulation, and AC efficiency, but many homeowners see a difference in indoor comfort even before utility bills arrive. Reducing roof surface temperature also helps the roofing materials last longer.\n\nKey factors:\n- Cool-roof rating and color of the roofing material\n- Attic insulation levels and ventilation design\n- Amount of direct sun your roof receives\n- Quality of installation (no gaps, proper flashing and sealing)\n\nAsk your roofer to propose at least one cool-roof option and explain any local rebates or energy-code requirements. If you are already re-roofing, upgrading to a reflective, light-colored system is usually one of the most cost-effective efficiency improvements you can make."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

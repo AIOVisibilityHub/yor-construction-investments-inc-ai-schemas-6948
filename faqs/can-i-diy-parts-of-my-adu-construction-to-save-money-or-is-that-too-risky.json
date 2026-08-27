@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I DIY parts of my ADU construction to save money, or is that too risky?",
+  "description": "You can sometimes handle limited non‑structural tasks—like painting, some finishes, or landscaping—but most structural, electrical, plumbing, and mechanical wor",
+  "url": "https://yorconstruction.aiovisibility.net/faq/can-i-diy-parts-of-my-adu-construction-to-save-money-or-is-that-too-risky",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I DIY parts of my ADU construction to save money, or is that too risky?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can sometimes handle limited non‑structural tasks—like painting, some finishes, or landscaping—but most structural, electrical, plumbing, and mechanical work must be done by licensed professionals and inspected. For ADUs, poor DIY work can create safety issues and jeopardize permits and insurance. \n\nThe money you save on a bit of labor can easily be offset by delays, failed inspections, or having to redo work to meet code.\n\nKey factors:\n- Local rules on owner‑builder permits and licensed trades\n- Complexity of work you’re considering doing yourself\n- Inspection expectations and documentation\n- Impact on schedule and warranties\n\nDiscuss your DIY ideas up front with your builder and agree on a clear division of labor. Focus your sweat equity on low‑risk, cosmetic tasks at the end of the project rather than structural or code‑critical stages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

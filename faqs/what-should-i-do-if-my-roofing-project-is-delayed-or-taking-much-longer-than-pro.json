@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my roofing project is delayed or taking much longer than promised?",
+  "description": "If your roofing project is **significantly delayed**, start by calmly reviewing the contract timeline and then speak with your contractor about what’s causing t",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my roofing project is delayed or taking much longer than promised?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your roofing project is **significantly delayed**, start by calmly reviewing the contract timeline and then speak with your contractor about what’s causing the holdup and how they plan to adjust. You want a clear revised schedule and daily communication, not vague assurances.\n\nDelays can be caused by weather, material shortages, or unexpected structural issues, but they should still be explained and documented. Extended exposure of your home without proper protection is not acceptable.\n\nKey factors:\n- Contracted start and completion dates (or windows)\n- Weather records and material delivery dates\n- Temporary protections in place (tarps, underlayment)\n- Contractor responsiveness and willingness to problem-solve\n\nRequest a written update with a new schedule and ask what will happen if that schedule isn’t met. If communication breaks down or your home isn’t being protected, consider documenting everything with photos and notes and exploring other options, such as bringing in another contractor to secure the roof."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

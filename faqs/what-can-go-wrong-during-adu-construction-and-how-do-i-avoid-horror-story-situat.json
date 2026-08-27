@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can go wrong during ADU construction, and how do I avoid horror‑story situations?",
+  "description": "The biggest ADU horror stories usually involve poor planning, vague contracts, or inexperienced contractors—not the concept of ADUs themselves. Problems show up",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-can-go-wrong-during-adu-construction-and-how-do-i-avoid-horror-story-situat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can go wrong during ADU construction, and how do I avoid horror‑story situations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The biggest ADU horror stories usually involve poor planning, vague contracts, or inexperienced contractors—not the concept of ADUs themselves. Problems show up as budget blowouts, stalled permits, shoddy work, or projects that drag on for a year or more. \n\nMost of these issues are preventable with clear scopes, realistic budgets, and choosing a team that specializes in ADUs rather than general handyman work.\n\nKey factors:\n- Incomplete design before pricing, leading to endless change orders\n- Contractor inexperience with your specific city’s ADU rules\n- Poor communication and unclear payment schedules\n- Skipped inspections or non-permitted work\n\nProtect yourself by demanding a detailed written scope, schedule, and payment milestones tied to inspections. Check references from recent ADU clients, and make sure whoever you hire can explain their plan for permits, inspections, and any surprises that might arise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

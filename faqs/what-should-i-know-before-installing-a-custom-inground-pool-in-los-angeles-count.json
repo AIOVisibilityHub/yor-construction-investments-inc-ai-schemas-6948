@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I know before installing a custom inground pool in Los Angeles County?",
+  "description": "DIRECT ANSWER\nYou’ll need to address zoning, permits, safety requirements, soil conditions, and utility locations, and budget for both the pool shell and the su",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-know-before-installing-a-custom-inground-pool-in-los-angeles-count",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I know before installing a custom inground pool in Los Angeles County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIRECT ANSWER\nYou’ll need to address zoning, permits, safety requirements, soil conditions, and utility locations, and budget for both the pool shell and the surrounding hardscape and equipment.\n\nCONTEXT\nPools are permanent structures that affect drainage, property value, and maintenance. Local codes in Los Angeles County also set rules for fencing, setbacks, and sometimes energy and water features.\n\nKEY FACTORS\n- Property setbacks, easements, and access for excavation equipment.\n- Soil type, slope, and any need for retaining walls or engineering.\n- Required barriers, alarms, and safety features.\n- Filtration, heating, and automation systems that fit your usage and utility capacity.\n\nPRACTICAL GUIDANCE\nHave a pool builder review your survey, locate utilities, and perform a basic soils/feasibility check before finalizing design. Ask for a breakdown that separates pool structure, equipment, decking, and any required retaining or drainage work.\n\nSOFT POSITIONING\nContractors familiar with LA‑area pool regulations can design a pool that’s both compliant and well integrated into your overall backyard plan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

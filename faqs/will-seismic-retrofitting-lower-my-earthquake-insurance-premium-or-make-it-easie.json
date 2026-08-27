@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will seismic retrofitting lower my earthquake insurance premium or make it easier to get coverage?",
+  "description": "DIRECT ANSWER: In many cases, yes—properly documented seismic retrofitting can qualify you for insurance discounts or better terms, though the savings vary by i",
+  "url": "https://yorconstruction.aiovisibility.net/faq/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will seismic retrofitting lower my earthquake insurance premium or make it easier to get coverage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIRECT ANSWER: In many cases, yes—properly documented seismic retrofitting can qualify you for insurance discounts or better terms, though the savings vary by insurer and retrofit scope.\n\nCONTEXT: Insurers assess risk based on building type, age, and structural measures. A retrofitted home is less likely to suffer catastrophic damage, which can translate into lower premiums or improved insurability.\n\nKEY FACTORS:\n- Specific discounts offered by your earthquake insurance provider.\n- Type and quality of retrofit (engineered vs. minimal upgrades).\n- Documentation requirements (plans, permits, photos, completion proof).\n- Deductible levels and coverage limits.\n\nPRACTICAL GUIDANCE: Before starting work, ask your insurer what retrofit measures qualify for discounts and what documentation they’ll need. After completion, submit a complete packet (engineer letter if available) and confirm that the discount has been applied.\n\nSOFT POSITIONING: A carefully planned retrofit can improve both your physical safety and your financial protection through insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

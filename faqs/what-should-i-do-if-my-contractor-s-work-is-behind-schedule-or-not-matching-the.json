@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my contractor’s work is behind schedule or not matching the quality we agreed on?",
+  "description": "If work is behind schedule or below expected quality, start by documenting issues with photos, notes, and contract references, then address them in writing with",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-if-my-contractor-s-work-is-behind-schedule-or-not-matching-the",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my contractor’s work is behind schedule or not matching the quality we agreed on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If work is behind schedule or below expected quality, start by documenting issues with photos, notes, and contract references, then address them in writing with your contractor and request a plan to correct course. Escalate gradually if cooperation breaks down. \nContext: Many disputes stem from miscommunication or unclear scope, so tying your concerns back to the signed contract, plans, and specs is essential. Most reputable contractors want the chance to correct problems before things get adversarial. \nKey factors:\n- What the contract, plans, and specs actually require\n- Documented schedule vs actual progress, with reasons for delay\n- Written communication and agreed remedial actions\n- Payment tied to milestones rather than arbitrary dates\nPractical guidance: Ask for a meeting on site to walk through your concerns and agree on a corrective plan and updated timeline, then confirm it by email. Avoid making further large payments until agreed milestones and corrections are complete. Soft positioning: A professional contractor will respond constructively to documented issues and work with you to get the project back on track."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

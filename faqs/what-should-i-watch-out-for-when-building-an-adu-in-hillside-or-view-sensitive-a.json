@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I watch out for when building an ADU in hillside or view-sensitive areas like Rancho Palos Verdes?",
+  "description": "In hillside or coastal‑influenced areas such as Rancho Palos Verdes, ADUs face stricter scrutiny around grading, drainage, stability, views, and sometimes heigh",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-watch-out-for-when-building-an-adu-in-hillside-or-view-sensitive-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I watch out for when building an ADU in hillside or view-sensitive areas like Rancho Palos Verdes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In hillside or coastal‑influenced areas such as Rancho Palos Verdes, ADUs face stricter scrutiny around grading, drainage, stability, views, and sometimes height and appearance. Even with supportive state ADU laws, local review may look closely at how your unit affects slopes and neighbors. \n\nThese sites often require more engineering and careful construction planning, which adds both time and cost compared with flat urban lots.\n\nKey factors:\n- Geotechnical conditions, retaining walls, and slope stability\n- Height limits, story limits, and view protection rules\n- Access for emergency vehicles and construction equipment\n- Stormwater management and coastal or environmental overlays\n\nIf you’re on a slope, plan for more upfront due diligence: surveys, engineering, and conversations with the city. Choose a team that has documented experience building on hillsides so they can anticipate and solve access, drainage, and foundation challenges before they become emergencies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

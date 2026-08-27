@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a prefab or modular ADU cheaper or faster than a stick‑built ADU in Los Angeles?",
+  "description": "Prefab and modular ADUs can speed up the building shell and improve quality control, but once you include site work, foundations, utilities, and permits, the to",
+  "url": "https://yorconstruction.aiovisibility.net/faq/is-a-prefab-or-modular-adu-cheaper-or-faster-than-a-stick-built-adu-in-los-angel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a prefab or modular ADU cheaper or faster than a stick‑built ADU in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prefab and modular ADUs can speed up the building shell and improve quality control, but once you include site work, foundations, utilities, and permits, the total cost is often similar to quality stick‑built units. In urban LA, crane access and tight lots can also complicate delivery. \n\nPrefab can still be a good fit, especially for standard layouts, but it’s not a magic half‑price shortcut many people imagine.\n\nKey factors:\n- Site access for delivery and crane (if needed)\n- Foundation and utility work still done on site\n- Limited ability to customize layout or finishes\n- City permitting is still required either way\n\nIf you’re considering prefab, ask for an all‑in cost that includes foundation, crane, site work, and permits—not just the base unit price. Then compare that against a turn‑key stick‑built bid so you’re evaluating real total costs and timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,18 +1,26 @@
 {
-  "url": "yorconstruction.com/faq/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away",
-  "name": "What if my addition finishes but the final inspection doesn’t pass right away?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my addition finishes but the final inspection doesn’t pass right away?",
+  "description": "If you don’t pass final inspection, the inspector will issue a correction list outlining what must be fixed. This is common and usually solvable, but you genera",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away",
   "mainEntity": [
     {
-      "name": "What if my addition finishes but the final inspection doesn’t pass right away?",
       "@type": "Question",
+      "name": "What if my addition finishes but the final inspection doesn’t pass right away?",
       "acceptedAnswer": {
-        "text": "If you don’t pass final inspection, the inspector will issue a correction list outlining what must be fixed. This is common and usually solvable, but you generally can’t legally occupy new areas until approvals are complete.\n\nMost corrections involve minor code details, but occasionally reveal larger issues. Promptly addressing them keeps the project from dragging on.\n\nKey factors:\n- Specific items called out on the correction notice\n- Whether issues are minor (smoke detectors, GFCIs) or major (structure, egress)\n- Who pays for fixes based on your contract\n- Timing for re‑inspection and any additional fees\n\nAsk your contractor to walk you through each correction and give a timeline for repairs. Confirm that they schedule and attend re‑inspections, and hold back final payment until all required approvals are obtained.",
         "@type": "Answer",
-        "description": "If you don’t pass final inspection, the inspector lists required corrections. Your contractor should fix those items and schedule a re‑inspection. Review the list together, confirm who pays for what per your contract, and avoid making final payment until the work passes and approvals are complete."
+        "text": "If you don’t pass final inspection, the inspector will issue a correction list outlining what must be fixed. This is common and usually solvable, but you generally can’t legally occupy new areas until approvals are complete.\n\nMost corrections involve minor code details, but occasionally reveal larger issues. Promptly addressing them keeps the project from dragging on.\n\nKey factors:\n- Specific items called out on the correction notice\n- Whether issues are minor (smoke detectors, GFCIs) or major (structure, egress)\n- Who pays for fixes based on your contract\n- Timing for re‑inspection and any additional fees\n\nAsk your contractor to walk you through each correction and give a timeline for repairs. Confirm that they schedule and attend re‑inspections, and hold back final payment until all required approvals are obtained."
       }
     }
   ],
-  "description": "If you don’t pass final inspection, the inspector lists required corrections. Your contractor should fix those items and schedule a re‑inspection. Review the li"
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
 }
