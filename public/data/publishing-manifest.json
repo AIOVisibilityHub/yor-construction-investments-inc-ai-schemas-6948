@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T20:02:36.341Z",
+  "generatedAt": "2026-08-27T20:02:43.415Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -102,7 +102,7 @@
   },
   "package": {
     "totalFiles": 128,
-    "totalBytes": 451696,
+    "totalBytes": 401684,
     "stats": {
       "faqs": 38,
       "helpArticles": 38,
@@ -680,47 +680,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22570,
+        "bytes": 16687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36400,
+        "bytes": 30637,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 29261,
+        "bytes": 23348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 21094,
+        "bytes": 15529,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17629,
+        "bytes": 11989,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 49023,
+        "bytes": 43377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 49976,
+        "bytes": 44384,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23897,
+        "bytes": 18146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 22921,
+        "bytes": 17293,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -732,7 +732,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2404,
+        "bytes": 2552,
         "purpose": "LLM hint"
       },
       {
@@ -752,32 +752,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1501,
+        "bytes": 1816,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 47037,
+        "bytes": 47351,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 13688,
+        "bytes": 13836,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 13688,
+        "bytes": 13836,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2426,
+        "bytes": 2574,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 12444,
+        "bytes": 12592,
         "purpose": "Repository README"
       },
       {
@@ -795,7 +795,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/yor-construction-investments-inc-ai-schemas-6948/",
       "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
     }
   }
