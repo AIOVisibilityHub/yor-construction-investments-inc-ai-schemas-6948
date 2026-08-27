@@ -7,8 +7,8 @@
 YOR Construction & Investments, Inc. publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **38** faqs
-- **38** helpArticles
+- **465** faqs
+- **303** helpArticles
 - **1** services
 - **2** personnel
 - **3** locations
