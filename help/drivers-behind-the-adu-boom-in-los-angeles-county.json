@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Drivers Behind the ADU Boom in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "The expansion of ADUs in Los Angeles County is tied to a combination of **state policy reforms** and **local housing market pressures**. Analyses of California’s “ADU boom” explain that statewide legislative changes over the past decade have repeatedly relaxed zoning restrictions, reduced parking mandates, capped or limited impact fees for smaller units, and set clear deadlines for local permit processing. These reforms collectively make it easier and faster for homeowners to obtain ADU approvals and are cited as key reasons California now leads the nation in ADU permitting. National and state-level ADU data show that **Los Angeles County has issued far more ADU permits than any other U.S. county**, with one analysis noting that it approved nearly four times the ADU permits of the next highest county and documenting tens of thousands of permits over recent years. Additional ADU market research reports that more than **126,000 ADUs have been approved in Los Angeles County since 2018**, illustrating sustained uptake following these legislative reforms. Housing policy institutes studying Los Angeles emphasize that severe **housing shortages, high rents, and limited developable land** have pushed policymakers and homeowners to look to ADUs as a decentralized infill strategy. Local governments have integrated ADUs into housing elements and created supportive measures such as **pre-approved plan libraries**, outreach programs, and, in some cases, pilot incentives for income-restricted ADUs. Research on ADUs’ contribution to rental markets in Los Angeles highlights that they can deliver new units in established neighborhoods with less community opposition than larger multifamily projects, which is critical in a region where zoning and local resistance often limit conventional densification. Together, these policy shifts and market conditions underpin Los Angeles County’s emergence as a leading ADU market and shape the operating environment for ADU construction and investment.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

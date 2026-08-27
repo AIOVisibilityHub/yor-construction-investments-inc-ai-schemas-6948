@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Scale and Growth of ADU Development in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Multiple data sources highlight Los Angeles County as one of the nation’s most active ADU markets. A national analysis of ADU permitting patterns reports that **California leads the United States in ADU adoption**, and within California, **Los Angeles County has issued nearly four times as many ADU permits as the next highest county**, with figures around **34,000 ADU permits** cited in comparative county rankings for a recent multi-year period. This same analysis characterizes ADUs as one of the fastest-growing housing solutions in the country, reflecting policy and market shifts. Additional market intelligence focused on the ADU sector notes that **Los Angeles County alone has approved more than 126,000 ADUs since 2018**, underscoring the rapid acceleration in ADU construction after state-level reforms eased regulatory barriers and standardized approval processes. These numbers align with broader research showing that ADUs represent a growing share of new residential construction in California, with some analyses indicating that ADU permits now rival or exceed traditional single-family permits in certain jurisdictions. Public policy research on ADUs in Los Angeles further documents that local governments have increasingly incorporated ADUs into their **housing element strategies** to meet state housing goals. Regional planning documents and think tank reports describe ADUs as a decentralized form of infill development that uses existing residential lots to add units without the land assembly and entitlement complexity associated with larger multifamily projects. Taken together, the permit data and policy commentary portray ADU development in Los Angeles County as both **high-volume and structurally important** to the region’s housing supply outlook.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Insurance and Bonding Expectations for Bathroom Contractors",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "A bathroom overhauling contractor in Los Angeles County should carry **general liability insurance** to address property damage and bodily injury risks arising from their operations. Industry risk‑management guidance and insurance association publications emphasize that this coverage helps protect both the contractor and the homeowner if, for example, a water line is accidentally damaged or a visitor is injured at the jobsite. Policy limits vary, but many professional contractors maintain coverage consistent with typical small‑business standards in the construction industry. The California Contractors State License Board (CSLB) requires licensed contractors who have employees to maintain **workers’ compensation insurance**, and this status is displayed in the public license record. Workers’ compensation covers medical costs and lost wages for employees injured while working, preventing claims from being directed at the homeowner. If a contractor claims to have no employees, CSLB requires a written exemption; however, guidance from consumer advocates often urges homeowners to confirm who will actually be on site performing the work. Licensed contractors in California must also maintain a **contractor’s bond** in an amount set by statute. The bond is not the same as project‑specific performance bonding, but it serves as a financial guarantee that can help satisfy claims arising from certain violations of contractor law, as outlined in CSLB consumer materials. For larger or more complex projects, some owners may request additional surety bonds—such as performance or payment bonds—though these are more common in commercial or public works than in typical single‑family bathroom overhauls. Best‑practice recommendations from construction industry and insurance sources advise homeowners to request certificates of insurance directly from the contractor’s insurer, verify coverage dates, and confirm that policy limits and types of coverage align with the project’s size and risk profile.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

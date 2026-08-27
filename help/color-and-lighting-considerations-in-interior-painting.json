@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Color and lighting considerations in interior painting",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Color selection in interior painting is closely tied to lighting conditions, and both design literature and paint manufacturer guidance stress evaluating colors in the actual space under real lighting. Natural light, correlated color temperature (CCT) of artificial lighting, and light intensity all influence how colors appear. For example, cooler LED lighting can make warm neutrals look more muted, while strong south-facing daylight can intensify saturated hues. Design handbooks and manufacturer color guides recommend sampling paints on multiple walls and viewing them at different times of day before making final selections. Professional practice also accounts for the sheen of the paint. Higher-sheen finishes like semi-gloss and gloss reflect more light, which can highlight surface imperfections and create glare in strong lighting, while flat and matte finishes tend to hide minor defects but may be less washable. Industry recommendations suggest using flatter sheens on large wall surfaces with critical side lighting, reserving higher sheens for trim, doors, and areas requiring frequent cleaning. Many manufacturers publish room-by-room recommendations that align with this reasoning, balancing aesthetic and maintenance considerations. Color psychology and branding considerations can be relevant in commercial settings. Environmental design research and corporate branding guides discuss how color choices can support functions such as calming healthcare spaces, energizing collaborative office areas, or reinforcing brand identity in retail. In practice, facility managers and designers often use neutral base palettes combined with accent walls to manage cost and future flexibility, while still providing visual interest. Guidance from architectural and lighting organizations underscores that any comprehensive interior plan should coordinate paint colors with lighting design, furnishings, and finishes, rather than treating color selection as an isolated decision late in the project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

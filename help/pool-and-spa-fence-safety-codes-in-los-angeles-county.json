@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pool and spa fence safety codes in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Pool and spa fences in Los Angeles County must comply with **California state law** and local amendments aimed at preventing child drownings. California’s Health and Safety Code outlines requirements for “swimming pool safety devices,” including **enclosure standards** that typically mandate a minimum fence height (often 60 inches), self-closing and self-latching gates, and limitations on openings and climbable features. State law focuses on creating a barrier that a young child cannot easily climb over or pass through, with latch hardware positioned at prescribed heights or protected mechanisms. Local jurisdictions in Los Angeles County adopt and amend the **California Building Code (CBC)**, which contains technical provisions for private swimming pool barriers. CBC-based guidance specifies maximum **vertical clearance** at the bottom of the barrier, minimum distance between horizontal members to prevent climbing, and restrictions on chain-link mesh size if chain-link fencing is used as a pool barrier. Some municipalities further restrict the use of certain fence types or require “non-climbable” surfaces in residential settings. Public health agencies and building departments in California stress that pool barriers are one component of a multi-layered safety strategy that includes alarms, safety covers, and caregiver supervision. Plan review for new or remodeled pools typically includes evaluation of the proposed fence or wall, gate hardware, and proximity to doors and windows leading to the pool area. Final inspections often verify that gates self-close and self-latch properly and that no new climbable objects (such as planters or equipment) compromise the barrier. Because local amendments can vary, building department guidance in Los Angeles County consistently instructs owners and contractors to consult current pool barrier and residential code requirements during design. Noncompliant pool fencing can delay final approvals and presents increased liability risk, particularly in jurisdictions with strong enforcement of child-safety regulations.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

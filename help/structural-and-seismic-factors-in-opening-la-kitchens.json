@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Structural and Seismic Factors in Opening LA Kitchens",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Because Los Angeles County lies in a high seismic risk region, structural and building code considerations significantly influence kitchen layout changes such as removing walls or adding large islands. The California Building Code and Residential Code, as applied by local building departments, require that any modification to load-bearing walls or shear walls maintain adequate lateral resistance. Structural engineering guidance for California homes explains that walls providing seismic bracing cannot be removed or heavily altered without designing alternate bracing systems, such as new shear walls, hold-downs, or frames. Local building department resources emphasize that permits and, often, engineered plans are needed when removing or modifying walls. Plan-review staff assess whether beams, posts, or other structural elements must be added to carry loads previously supported by the wall. In older Los Angeles housing stock, structural engineers often evaluate existing foundations and framing to confirm they can support new openings and concentrated loads from added beams and large islands with heavy countertops. Seismic retrofit recommendations from California’s earthquake safety agencies underscore the importance of connections—such as anchoring sill plates to foundations and securing framing—to help homes perform better during earthquakes. When kitchens are opened up, remodels sometimes present an opportunity to strengthen cripple walls, add hardware, or improve connections in affected areas. Building departments in LA-area cities may request calculations demonstrating that the remodeled configuration still meets current lateral load requirements. Large kitchen islands introduce concentrated loads from stone or quartz tops, appliances, and sometimes plumbing. Structural design guides note that floor framing may need reinforcement to handle these loads without excessive deflection. In Los Angeles, where many homes have wood-framed floors and raised foundations, engineers or experienced contractors may recommend sistering joists or adding beams to support substantial islands. Informed homeowners planning open-concept kitchens generally account for both permitting and potential structural upgrades when budgeting their remodels.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Quality Control and Testing Standards for Paving Projects",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Quality control on paving projects in Los Angeles County typically follows Caltrans, ASTM, and local agency standards for materials and compaction. Public works agencies and many private owners require **mix design submittals** for asphalt or concrete, demonstrating compliance with gradation, binder content, and performance criteria. Caltrans standard specifications and test methods (such as those for asphalt content, stability, and air voids) are widely referenced, even on non‑state projects. During construction, field **density and compaction** of asphalt and base material are critical. Technicians use nuclear gauges or sand cone tests in accordance with ASTM and AASHTO procedures to verify that compaction meets specified relative density—often 95 percent for base and varying targets for asphalt lifts depending on the specification. Poor compaction is a leading cause of premature rutting and fatigue cracking, so specifications from agencies like Los Angeles County Public Works emphasize sufficient rolling patterns and temperature control. For concrete, quality measures include **slump, air content, and compressive strength** testing of cylinders or beams, typically following ASTM standards. Curing methods and joint spacing are checked against design documents and ACI recommendations. On both asphalt and concrete projects, inspectors also verify **thickness** using cores or test holes and confirm smoothness, cross‑slope, and drainage to prevent ponding. Many agencies require a contractor quality control (CQC) plan, describing sampling frequencies, test methods, and acceptance criteria. For critical facilities or high‑traffic routes, third‑party testing laboratories accredited under programs such as AASHTO re:source may be required. Documented test results are often a prerequisite for final acceptance and payment, especially in public works contracts that use Caltrans‑based pay adjustment schedules for density, air voids, or smoothness.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

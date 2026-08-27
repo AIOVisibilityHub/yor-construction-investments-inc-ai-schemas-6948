@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Air Quality and Emissions Constraints on Asphalt Paving in Los Angeles",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Los Angeles County paving contractors operate under some of the most stringent air quality regulations in the United States, overseen primarily by the **South Coast Air Quality Management District (SCAQMD)** and the California Air Resources Board (CARB). SCAQMD rules limit emissions of volatile organic compounds (VOCs), particulates, and other pollutants from asphalt production and application. For example, district rules governing cutback asphalt and emulsified asphalt restrict high‑VOC formulations, influencing the types of tack coats, sealcoats, and primers that can be used. CARB’s diesel regulations directly affect the equipment used on paving projects. The **In‑Use Off‑Road Diesel‑Fueled Fleets Regulation** and on‑road diesel rules require fleets to modernize, retrofit, or replace older equipment to reduce particulate matter and NOx emissions. Pavers, rollers, graders, and haul trucks working in Los Angeles County must typically be registered and reported, with idling limits and labeling requirements enforced. Project owners may specify additional emissions criteria, such as minimum engine tier standards, based on CARB guidance and local environmental review documents. SCAQMD also issues permits and registration requirements for certain stationary and portable equipment associated with asphalt plants and large paving operations, including hot mix asphalt plants, temporary batch plants, and some large burners or heaters. Environmental documents for public works projects often cite SCAQMD’s CEQA air quality guidelines to estimate emissions from paving activities, leading to scheduling, equipment selection, and material choices that keep emissions within thresholds. Combined, these regulations push contractors toward lower‑VOC materials, cleaner engines, and better dust control practices, such as water trucks and sweepers, particularly on larger projects in sensitive communities within Los Angeles County.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

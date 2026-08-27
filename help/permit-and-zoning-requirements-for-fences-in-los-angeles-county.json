@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Permit and zoning requirements for fences in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "In Los Angeles County, fence permitting is governed by a combination of **local zoning codes** and **building regulations**, which differ between the City of Los Angeles and other cities or unincorporated county areas. Planning and building department guidance commonly states that **fence height and location** drive whether a permit is required. In many Los Angeles–area jurisdictions, fences in **front yards** have more restrictive maximum heights (often around 3½–4 feet) while **side and rear yard** fences can be higher, subject to specific caps (commonly around 6–8 feet) and visibility requirements near driveways and intersections to preserve sightlines for traffic. The City of Los Angeles zoning code and planning bulletins explain that certain **standard residential fences** below defined height limits and outside of visibility safety zones may be exempt from full building permits but must still comply with zoning, setback, and corner-cut requirements. Taller fences, retaining walls with fences on top, **pool safety barriers**, or fences in hillside or high‑fire‑hazard zones often trigger permit review, engineering requirements, or special conditions. County and city building departments also regulate fences that encroach into public rights‑of‑way; these may require an encroachment permit or be prohibited altogether. Local government consumer and planning guides advise property owners to **check with the relevant city or county building department before construction**, because allowable fence heights, design standards (e.g., open vs. solid), and historic district rules can vary block by block. Many municipalities in Los Angeles County provide online zoning lookup tools and counter staff who confirm whether a project is over-the-counter permit eligible, requires plan review, or is not permitted as proposed. Fencing contractors typically must design to the stricter of applicable zoning, subdivision, and, where relevant, homeowners’ association rules.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

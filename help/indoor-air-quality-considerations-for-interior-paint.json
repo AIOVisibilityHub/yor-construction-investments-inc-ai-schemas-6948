@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Indoor air quality considerations for interior paint",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Interior paint selection can influence indoor air quality (IAQ) through chemical emissions and odor, particularly in enclosed or poorly ventilated spaces. The U.S. Environmental Protection Agency notes that many building materials, including paints and coatings, emit volatile organic compounds (VOCs) that can contribute to short-term irritation and longer-term health concerns in susceptible individuals. To address this, both regulatory bodies and voluntary programs promote low-emitting products. In California, SCAQMD Rule 1113 limits VOC content of architectural coatings, and the California Department of Public Health’s Standard Method v1.2 is widely used by third-party certification programs to evaluate VOC emissions from paints and other interior finishes. Industry certifications such as GREENGUARD Gold and Green Seal reference these emission and content benchmarks, identifying paints suitable for sensitive environments like schools and healthcare facilities. Manufacturer literature for low- and zero-VOC paints often highlights reduced odor and faster re-occupancy as practical benefits, which is especially important for occupied residential interiors and commercial tenants who must remain in place during work. Some products are formulated without certain hazardous air pollutants or heavy metals, and technical data sheets list compliance with federal and California Proposition 65 disclosure requirements when applicable. Trade and occupational health resources stress that even with compliant products, good ventilation practices during and after application are essential. This includes using mechanical exhaust where available, opening windows and doors when feasible, and following re-entry times recommended in the product literature. Occupational guidelines from organizations such as NIOSH and OSHA recommend respiratory protection and exposure control for workers when spraying or sanding, regardless of VOC level, to reduce inhalation of fine particulates and other ingredients. For building owners and occupants, selecting coatings with documented low emissions, combined with proper application and curing time, is a central strategy for maintaining good indoor air quality during painting projects.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

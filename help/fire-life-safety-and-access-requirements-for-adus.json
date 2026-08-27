@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Fire, Life Safety, and Access Requirements for ADUs",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "### Fire and Life Safety Constraints on ADU Placement Fire and life safety regulations significantly influence where an ADU can be placed on a Los Angeles County lot and how it is constructed. The California Residential Code and California Fire Code, as implemented by local fire authorities and building departments, establish minimum **setbacks**, fire separation distances, and access requirements for emergency responders. In many Los Angeles jurisdictions, detached ADUs must maintain specific distances from property lines and other structures unless fire-resistance-rated construction is used. Guidance from local public works and fire departments indicates that ADUs located close to property lines or other buildings may need rated exterior walls and limited window openings to achieve required fire separation. For ADUs in **Very High Fire Hazard Severity Zones**, local ordinances and state wildfire regulations impose additional requirements, such as ignition-resistant exterior materials, ember-resistant vents, and defensible space around structures. Access is another key consideration. Fire departments often require clear pathways of a specified minimum width from the street to the ADU entrance, with constraints on gates, grade, and obstructions. In some cases, fire access may affect whether an ADU can be located behind existing structures or in narrow side yards. Additionally, building code provisions for smoke and carbon monoxide alarms, egress windows in sleeping rooms, and safe stair design (for two-story or over-garage ADUs) must be incorporated into the layout. An ADU design contractor must account for these fire and safety factors during site planning, including verifying local fire code interpretations with the authority having jurisdiction. Early evaluation of fire access, hydrant locations, and high-fire-zone designations can prevent later redesigns or denials during plan review, and helps ensure the ADU will meet both structural and life-safety expectations.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

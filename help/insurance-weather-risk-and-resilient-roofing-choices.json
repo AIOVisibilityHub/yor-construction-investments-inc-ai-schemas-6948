@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Insurance, weather risk, and resilient roofing choices",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Roofing trend reports in national trade publications indicate a growing focus on **impact-rated and weather-resistant roofing products**, partly driven by insurance considerations. Although Southern California does not face hail risks common in other regions, insurers in Los Angeles County pay close attention to roofs’ ability to withstand wind, heavy rain, and, in some areas, wildfire. Industry articles point out that certain **impact-rated or high-wind-rated products** can qualify property owners in hazard-prone regions for premium discounts or more favorable underwriting, depending on insurer programs and state regulations. In the wildfire context, guidance from insurance and wildfire research organizations stresses Class A fire-rated roofs, ember-resistant design details, and ongoing maintenance as key factors in property risk profiles. Weather-resilient roofing solutions highlighted in trend analyses for areas like Southern California include materials and assemblies designed to resist high winds, heavy rains, and wildfires, often with enhanced fastening, underlayment, and edge detailing. For low-slope commercial roofs, industry best practices emphasize wind-uplift-tested assemblies, robust drainage design to prevent ponding water, and carefully detailed flashings; these features reduce the likelihood of storm-related claims. Insurers frequently reference such industry standards and manufacturer test data when evaluating building resilience and potential loss exposure. Climate projections for California anticipate more intense heatwaves and episodes of heavy precipitation, which roofing experts note can accelerate aging of materials and stress drainage systems. As a result, facility managers and homeowners in Los Angeles are increasingly advised—by trade publications and risk-management guidance—to account for future climate stresses when selecting roofing materials, opting for products with proven long-term performance, strong warranties backed by testing, and designs that accommodate thermal movement and drainage under more extreme conditions.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

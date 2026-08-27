@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "HOA and Neighborhood Overlay Impacts on Custom Residential Design",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Custom renovations and additions in Los Angeles can be constrained not only by city codes but also by **homeowners’ association (HOA) rules and neighborhood overlay zones**. The Davis–Stirling Common Interest Development Act, overseen by the California Department of Real Estate and discussed in state guidance, governs HOAs in California. It typically allows associations to adopt covenants, conditions, and restrictions (CC&Rs) that regulate exterior alterations, additions, color schemes, and sometimes even materials. Owners in HOA communities usually must obtain architectural review or written approval from the association before starting construction, even if they also obtain city permits. At the municipal level, the Los Angeles Department of City Planning manages **Historic Preservation Overlay Zones (HPOZs), specific plans, and community design overlays** that can impose additional design controls on renovations and additions. In HPOZs, for example, exterior changes visible from the public right-of-way often require review by a preservation board to ensure compatibility with the historic character. Specific plans may dictate roof forms, facade materials, setbacks, or height transitions beyond the base zoning code. These requirements are separate from and in addition to building code compliance, meaning that a design may meet structural and safety codes but still need modification to satisfy overlay design standards. State law requires that HOA and local design review decisions be based on **objective standards** and processed within certain timelines for ADUs and other housing-related projects, reflecting California’s efforts to promote housing production. However, CC&Rs and overlays remain influential in determining what is “compatible” or permissible in a given neighborhood. Industry practice is for architects and contractors to review CC&Rs, HOA design guidelines, and any applicable city overlay documents at the outset, coordinate HOA approvals with permit submittals, and ensure that owner expectations are aligned with these layered design constraints.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

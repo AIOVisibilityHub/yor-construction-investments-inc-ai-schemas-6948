@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Construction best practices and quality control for retaining walls",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Proper construction practices are essential for retaining wall performance, especially in Los Angeles County’s seismic and hillside conditions. Structural engineering and construction guidelines for retaining walls emphasize accurate layout and excavation to design dimensions, including footing depth and width based on engineering plans. Contractors are expected to remove unsuitable soils, such as loose fill or organic material, from beneath footings and replace them with properly compacted structural fill. For reinforced concrete and masonry walls, correct placement of reinforcement according to engineered drawings, adequate concrete cover, and use of specified concrete mixes are critical quality controls often verified by inspectors or special inspection agencies where required by local building departments. For segmental block retaining walls, manufacturer installation manuals highlight the importance of preparing a level, compacted base, installing successive courses with proper batter (setback), and correctly placing geogrid layers at specified elevations and lengths. Across wall types, compaction of backfill in thin lifts to the recommended density is considered essential to limit settlement and reduce lateral pressures; many failures cited in trade literature involve poorly compacted or improperly placed backfill. Quality control also extends to drainage installation: ensuring perforated drains have appropriate slope, outlets are unobstructed, and filter fabrics are used to prevent clogging. In Los Angeles County, permitted structural walls are typically subject to foundation and sometimes reinforcement inspections by building officials, with additional special inspections for high or complex walls. Safety practices, such as protecting workers in excavations and preventing undermining of adjacent structures, are aligned with occupational safety regulations and industry standards. Documentation of materials, inspection reports, and any field changes to design helps demonstrate compliance and provides a record for future maintenance or modifications.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Permitting and Inspection Considerations for Paving and Driveway Projects",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Permitting for paving, driveways, and parking lots in Los Angeles County is governed by a mix of county and city agencies, depending on jurisdiction and whether work affects the public right‑of‑way. The **County of Los Angeles Department of Public Works** issues permits for work in unincorporated areas and for alterations to county‑maintained roads, including driveway aprons, curb cuts, and sidewalk transitions. Cities such as Los Angeles, Glendale, and Pasadena have their own public works or engineering departments that regulate similar work within city limits. In general, **work that modifies access to a public street**, changes curb or gutter, or impacts drainage in the right‑of‑way requires an encroachment or street use permit. Public works agencies typically review plans to ensure compliance with standard drawings for driveway slopes, thickness, reinforcement, and sight distance. Separate building or grading permits may be required from the local building department for large parking lot reconstructions, site grading, or retaining structures, subject to local thresholds. Inspections occur at defined stages. Agencies usually require inspection of the base preparation, subgrade compaction, and forms before placing asphalt or concrete. Inspectors may verify compliance with compaction standards using test results, check dimensions and slopes, and ensure ADA‑compliant transitions from parking areas to sidewalks and building entries. For projects involving stormwater features, inspectors may also review inlet protection, permeable pavement sections, or on‑site retention basins per local stormwater manuals. Property owners are responsible for obtaining required permits and approvals even when a contractor handles the paperwork. Public agencies stress that unpermitted work in the right‑of‑way can trigger correction notices, fines, or requirements to remove and reconstruct non‑compliant work. Reviewing the applicable city or county public works permitting guides and standard plans before design helps avoid redesign and construction delays.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Evaluating and Choosing a Qualified Driveway Contractor",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Selecting a driveway contractor in Los Angeles County involves verifying licensure, assessing technical competence, and comparing proposals on more than price. The California Contractors State License Board (CSLB) advises homeowners to confirm that any contractor performing concrete, asphalt, or paving work totaling $500 or more in labor and materials holds an active C-8 (concrete), C-12 (earthwork and paving), or related specialty license, carries workers’ compensation if using employees, and has appropriate bond coverage. CSLB’s guidance highlights checking license status online and reviewing any disciplinary history. Industry organizations such as the American Society of Concrete Contractors and the National Asphalt Pavement Association stress the importance of contractor experience with local soils, climate, and municipal standards. Homeowner-focused construction guides recommend asking to see recent driveway projects in the same area, requesting references, and confirming the contractor’s familiarity with local public works and building departments for permitting. Consumer protection materials from the Federal Trade Commission and CSLB caution against high-pressure sales tactics and large upfront payments. In California, CSLB notes that down payments for home improvement contracts are generally limited by law to the lesser of 10% of the contract price or $1,000, with subsequent payments tied to milestones. Written contracts should clearly specify base thickness and compaction, concrete or asphalt mix design, reinforcement, joint spacing, slope and drainage details, and warranty terms. Reputable trade publications suggest comparing at least three detailed bids and evaluating differences in scope, not just bottom-line cost. Review of insurance certificates (general liability and, where applicable, workers’ compensation) is recommended to understand coverage in the event of property damage or on-site injuries.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

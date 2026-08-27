@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Custom Cabinet Trends Shaping LA Kitchen Remodels",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Los Angeles–focused cabinetry articles report that custom kitchen cabinets in the region increasingly blend minimalist aesthetics with highly functional storage and environmentally conscious materials. Local cabinet trend discussions describe a strong shift toward flat-panel doors, clean lines, and reduced ornamentation, giving kitchens a streamlined, contemporary look that integrates with open-plan living spaces. Dark, bold finishes and two-tone combinations—such as darker lowers paired with lighter uppers—are also highlighted as gaining popularity. Industry sources on custom cabinets in Los Angeles emphasize growing interest in natural wood and eco-friendly materials. As homeowners become more aware of environmental impacts, local cabinetmakers are reported to use sustainably sourced woods, low-VOC finishes, and composite materials that meet stricter emissions standards. Cabinet industry associations and green building resources discuss the role of certifications and compliant finishes in improving indoor air quality, which resonates in dense urban markets like LA. Functionally, LA homeowners are prioritizing smart storage solutions. Local cabinetry trend articles note that features such as deep drawers for pots and pans, pull-out shelves, built-in spice racks, corner carousels, and integrated trash and recycling centers are increasingly standard in custom designs. Some sources also mention the incorporation of charging drawers, appliance garages, and dedicated coffee or beverage stations to reduce countertop clutter. Technology integration is another emerging theme. Industry commentary on Los Angeles cabinetry trends points to cabinets designed to accommodate under-cabinet lighting, hidden outlets, and even motorized lift mechanisms in some high-end projects. Collectively, these trends show that custom cabinets in Los Angeles remodels serve as a central design tool: they shape the kitchen’s visual character, support high-density storage in compact urban footprints, and reflect regional priorities around sustainability and modern living.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

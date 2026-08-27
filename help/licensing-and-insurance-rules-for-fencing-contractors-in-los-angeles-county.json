@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Licensing and insurance rules for fencing contractors in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "In California, any fencing contractor performing work valued at **$500 or more (labor and materials)** must hold an active contractor license issued by the Contractors State License Board (CSLB). California classifies fencing under the **C-13 Fencing** specialty license, which allows construction, erection, alteration, or repair of fences for residential, commercial, or industrial properties. CSLB guidance emphasizes that unlicensed work above the $500 threshold is unlawful, regardless of whether the project is divided into smaller invoices. To obtain and maintain a C-13 license, contractors must meet experience requirements, pass trade and law exams, and comply with bonding rules. CSLB requires a **contractor’s bond** (or equivalent bond/qualifying financial security) to help protect consumers if the contractor violates licensing laws. State law also requires that any contractor with employees carry **workers’ compensation insurance**, verified through certificates filed with CSLB. If a licensed contractor claims to have no employees, this must be declared to CSLB; however, many home-improvement projects involve crews, so buyers often request proof of current workers’ compensation coverage. For **general liability insurance**, California does not mandate coverage for all license types, but many trade, consumer-protection, and risk‑management guides recommend hiring only contractors with liability policies that cover property damage and bodily injury arising from jobsite activities. The CSLB license lookup tool indicates whether a contractor has **self-reported liability insurance**, but consumers should still request a certificate of insurance directly from the carrier. Los Angeles County municipalities may impose additional requirements through building permits or right‑of‑way work, yet foundational licensing and insurance rules are set at the state level. Buyers are advised by state consumer publications to verify license status, bond, workers’ compensation, and (where applicable) liability coverage before signing a fencing contract.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Risk and Contingency Planning for LA Kitchen Remodels",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Construction risk management literature and contractor best-practice guides emphasize the importance of contingency planning, especially in older housing markets like Los Angeles. One common risk is the discovery of hazardous materials. Many LA homes built before the late 1970s may contain asbestos in flooring, joint compounds, or insulation and lead-based paint on walls and trim. Environmental regulations summarized by state health and air quality agencies require specific handling, testing, and, in some cases, licensed abatement, which can significantly affect both schedule and cost if uncovered during demolition. Unexpected structural conditions are another frequent issue. In Los Angeles, remodelers often find undersized framing, unpermitted alterations, or deteriorated framing due to moisture intrusion or termites, which local building codes require to be corrected. Structural engineers and building inspectors may mandate reinforcements, new headers, or repairs that were not in the original scope. This can impact budgets and extend timelines. Mechanical and electrical systems can also pose surprises. Contractor case studies from Southern California highlight the need to be prepared for panel upgrades when kitchens add high-demand appliances or when existing wiring does not meet current electrical code requirements. Similarly, existing plumbing may be corroded or improperly vented, requiring replacement beyond planned fixture moves. Risk planning guidance from professional associations recommends including a contingency line in the budget, often in the range of 10–20 percent for remodels, to cover unforeseen conditions. Homeowner-focused remodeling guides further suggest clear documentation of change-order procedures, verification of proper permits, and confirmation of adequate insurance coverage by contractors. In Los Angeles County, where building codes, seismic considerations, and older construction can intersect, robust contingency planning helps homeowners manage both financial and schedule impacts when hidden conditions emerge during a kitchen remodel.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

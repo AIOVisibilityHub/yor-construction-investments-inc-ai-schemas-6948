@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pitfalls and Risk Management in ADU Addition Projects",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Experience from ADU-focused contractors, along with guidance from California’s Contractors State License Board and local building departments, highlights several recurring pitfalls. A frequent regulatory issue is starting work before permits are issued or deviating from approved plans without formal revisions; building officials warn that this can result in stop-work orders, fines, and costly rework. Incomplete or inaccurate site plans, especially those that misrepresent property lines, easements, or existing structures, can also lead to zoning conflicts during plan check. To mitigate these issues, practitioners recommend obtaining accurate surveys where boundaries are uncertain and maintaining clear communication with planning staff about any nonstandard site conditions. On the construction side, underestimating the scope of required upgrades in garage conversions—such as foundation strengthening, structural retrofits, or full replacement of outdated electrical and plumbing—can erode contingencies and damage project economics. Industry case studies from Los Angeles cite hidden conditions in older garages, including inadequate footings, termite damage, and unpermitted electrical work, as routine discovery items. Setting aside a realistic contingency budget and performing exploratory demolition or pre-purchase inspections helps manage this risk. Another common pitfall involves misalignment between design selections and budget, particularly when owners choose finishes or systems that exceed initial allowances; clear change-order procedures and transparent unit-cost information are widely recommended as remedies. Delays in utility coordination, such as scheduling new electrical service or sewer inspections, can also extend timelines. Seasoned contractors in the region plan utility applications early and maintain documentation of all agency communications. Finally, poor documentation or vague contracts, which consumer agencies caution against, make disputes more likely; including detailed scopes, schedules, and payment terms aligned with CSLB guidance is a key mitigation strategy.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

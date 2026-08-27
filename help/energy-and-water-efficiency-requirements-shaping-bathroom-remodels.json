@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Energy and Water Efficiency Requirements Shaping Bathroom Remodels",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "California’s regulatory environment strongly influences fixture and lighting choices in bathroom remodels. State energy standards, commonly referred to as **Title 24, Part 6**, set energy efficiency requirements for residential lighting and controls. These standards require high‑efficacy light sources and, in many cases, occupancy or vacancy sensors and dedicated circuits for bathroom lighting. California Energy Commission guidance explains that compliant LED fixtures and appropriate switching arrangements help meet code while reducing long‑term energy use. Water efficiency standards under the **California Green Building Standards Code (CALGreen)** and state plumbing regulations require high‑efficiency toilets, showerheads, and faucets. State agencies such as the California Department of Water Resources highlight maximum allowable flow rates—for example, toilets with lower gallons‑per‑flush and showerheads and lavatory faucets with capped gallons‑per‑minute outputs. Many local jurisdictions in Los Angeles County enforce these requirements during permit review and final inspection, and may require product specification sheets or labeling that demonstrates compliance. Rebates and incentive programs from utilities and water agencies in Southern California sometimes encourage the selection of **WaterSense‑labeled** fixtures and ultra‑high efficiency toilets. While programs vary over time, resources from water districts explain that such fixtures can substantially reduce household water consumption, which is a significant policy priority due to regional drought concerns. For homeowners and contractors, these regulations mean that product selection cannot rely solely on aesthetics; flow rates, efficiency ratings, and certification marks must be considered. Trade publications and manufacturer literature now routinely highlight compliant models and energy‑efficient lighting options designed specifically for California. Incorporating these elements early in the design process helps avoid last‑minute substitutions if inspectors reject non‑compliant fixtures.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

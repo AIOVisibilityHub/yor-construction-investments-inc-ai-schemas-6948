@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Digital tools and project management in modern roofing",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "The roofing industry is rapidly adopting **digital tools** that affect how projects are estimated, planned, and executed, and these changes are visible in metropolitan markets like Los Angeles. Industry trend articles identify the “adoption of advanced roofing software” as a key development, noting that contractors increasingly use cloud-based platforms for project management, scheduling, material tracking, and documentation. These systems can improve coordination among field crews, suppliers, and building owners, which is particularly valuable in dense urban environments where access, parking, and noise restrictions complicate logistics. Roofing-focused technology reports describe how **aerial measurement services** using satellite or aerial imagery provide accurate roof dimensions and slopes before on-site visits, speeding up estimating and reducing measurement errors. Some contractors also use drones for verification and progress documentation, creating visual records useful for change management, inspections, and insurance interactions. For owners and property managers, digital portals and communication tools can provide real-time updates on project milestones, photos of in-progress work, and centralized storage of warranties and maintenance records. Roofing trend commentary also links digital tools with improved safety and quality control. For example, some platforms integrate checklists tied to building code requirements and manufacturer installation guidelines, helping ensure that crews follow specified fastening patterns, underlayment coverage, and flashing details. In a regulatory environment like Los Angeles County’s, where inspections must confirm compliance with building and energy codes, these tools help contractors assemble documentation for building officials more efficiently. Although the core construction work remains physical, the planning and oversight aspects of roofing projects are increasingly shaped by software, data, and remote sensing, changing expectations for transparency and predictability in project delivery.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

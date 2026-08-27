@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What’s the first thing I should figure out before hiring an outdoor kitchen contractor?",
+  "description": "The first step is defining how you want to use the space. Decide whether you need a basic grill station, a full cooking area with sink and storage, or an entert",
+  "url": "https://yorconstruction.aiovisibility.net/faq/what-s-the-first-thing-i-should-figure-out-before-hiring-an-outdoor-kitchen-cont",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What’s the first thing I should figure out before hiring an outdoor kitchen contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is defining how you want to use the space. Decide whether you need a basic grill station, a full cooking area with sink and storage, or an entertainment setup with seating and refrigeration. Once the use case is clear, you can set a realistic budget and identify the space, utility, and material requirements. That makes contractor conversations much more productive and helps prevent expensive changes later. You should also think about how many people will use the space and whether you want it attached to a patio, pool area, or covered structure. Clear priorities lead to a better design and a smoother build."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Cost Ranges and Drivers for Los Angeles Bathroom Overhauls",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Industry cost surveys and remodeling trade publications indicate that a **mid‑range full bathroom remodel** in major West Coast metro areas often falls into a five‑figure range, with Los Angeles frequently at the higher end due to labor and permitting costs. National remodeling reports show that mid‑range bathroom remodels commonly run in the tens of thousands of dollars for a standard hall bath, while upscale or primary bath overhauls with custom finishes, high‑end fixtures, and layout changes can be substantially higher. Key cost drivers include **scope of work**, such as whether plumbing fixtures are simply replaced in place or relocated, which requires additional plumbing labor and patching. Structural changes like moving walls or adding windows increase both design and construction costs. Finishes are another major driver: tile selection (ceramic vs. natural stone or large‑format porcelain), countertop materials (laminate vs. quartz or stone), custom cabinetry, and specialty glass enclosures significantly affect the overall budget. Labor rates in Los Angeles County, influenced by local wage levels and, in some projects, union participation or prevailing wage requirements, tend to be higher than national averages, which industry benchmarking services incorporate into localized cost guides. Building permit and plan check fees, which are set by city and county building departments, add to project totals and can vary based on project valuation and jurisdiction. Professional guidance recommends requesting **itemized estimates** that break down labor, materials, overhead, and allowances for fixtures and finishes. Contingency—often 10–20% of the project cost—is typically advised to cover unforeseen conditions, such as hidden water damage, outdated wiring, or required code upgrades discovered during demolition. Comparing such itemized bids helps homeowners understand how design choices and scope decisions influence the final cost in the Los Angeles market.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

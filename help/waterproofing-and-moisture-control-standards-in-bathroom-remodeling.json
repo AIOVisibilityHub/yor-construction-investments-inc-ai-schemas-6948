@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Waterproofing and Moisture Control Standards in Bathroom Remodeling",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Waterproofing is a critical component of any bathroom remodel, and failures can lead to mold, structural damage, and disputes. Modern bathroom renovations generally draw on standards and best practices from manufacturer installation instructions and recognized industry bodies such as the **Tile Council of North America (TCNA)** and the **American National Standards Institute (ANSI)**. The TCNA Handbook and ANSI A118 series establish recommended methods and performance standards for tile installations, including shower pans, walls, and floors. For wet areas like showers, these standards and manufacturer specifications require a **continuous waterproof membrane** or properly constructed shower pan beneath tile. Approved systems can include liquid‑applied membranes, sheet membranes, or traditional mortar beds with liners, but all must be installed according to tested methods. Manufacturer documentation for popular waterproofing systems emphasizes substrate preparation, required cure times, seam treatments, and compatible mortars and sealants. Building codes adopted in California require bathrooms to be constructed to prevent moisture from damaging structural elements. The California Residential Code and Plumbing Code include provisions on shower liners, receptor construction, and protection of framing from water penetration. Inspectors often check that shower pans are properly sloped to the drain and may require a water “flood test” on new pans in some jurisdictions. Homeowners can verify quality by asking contractors which waterproofing systems and methods they use, requesting that installation follow specific TCNA details or manufacturer systems, and confirming that crew members are trained in those products. Documentation of product names, lot numbers, and installation dates can be kept with project records. Visible clues after completion—such as no hollow‑sounding tiles, correct slopes, and properly sealed corners and penetrations—also align with industry guidance on successful installations.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

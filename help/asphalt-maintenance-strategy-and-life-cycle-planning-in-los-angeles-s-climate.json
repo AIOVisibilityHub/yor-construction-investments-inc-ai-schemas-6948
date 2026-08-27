@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Asphalt Maintenance Strategy and Life-Cycle Planning in Los Angeles’s Climate",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Asphalt pavement in Los Angeles County is exposed to high UV radiation, minimal freeze–thaw, and periodic intense rain events, which leads to oxidation, raveling, and surface cracking over time. The **Asphalt Institute** and pavement management research from agencies like Caltrans emphasize that proactive maintenance significantly extends pavement life and reduces life‑cycle cost compared with reactive patching. In Southern California, a typical asphalt maintenance program combines crack sealing, periodic sealcoating, localized patching, and eventual mill‑and‑overlay. Industry guidance recommends **crack sealing** as soon as cracks are wide enough to admit water, because water infiltration accelerates base and subgrade damage. Sealants should be compatible with climate and traffic and installed following manufacturer instructions, including proper cleaning and drying of cracks. **Sealcoating**—using asphalt emulsion or coal tar alternatives where permitted—can slow oxidation and improve appearance, but technical bulletins from pavement research organizations stress that sealcoats do not add structural strength. Application intervals of 3–5 years are commonly recommended for parking lots in sun‑intense regions, though over‑sealing can lead to buildup and peeling. For localized failures such as potholes or alligator cracking, guidance from state DOT maintenance manuals recommends full‑depth patching in the affected area rather than surface “skin patching,” which often fails prematurely. Long‑term planning typically includes a **mill and overlay** when surface distress is widespread but the base remains sound, deferring complete reconstruction. Pavement management systems used by municipalities in Los Angeles County rely on condition surveys and a Pavement Condition Index (PCI) to prioritize which segments receive which treatment. Facility managers can adopt similar approaches, combining routine inspections with budget models that compare the cost of early preventive treatments versus delayed structural repairs.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

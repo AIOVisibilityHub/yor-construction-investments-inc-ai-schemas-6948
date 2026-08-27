@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Utilities, Trees, and Site Constraints in Driveway Planning",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Driveway layout in Los Angeles often must navigate existing utilities, street trees, and tight urban site constraints. Utility coordination guidance from Southern California gas, electric, and water providers stresses the need to call the regional “811” service before digging so underground utilities can be marked. Hitting gas, electric, or communication lines during excavation can cause safety hazards, service outages, and costly repairs. Driveway contractors typically adjust excavation depth and alignment to avoid conflicts with shallow utilities or incorporate protective measures where cover is minimal. Street and private trees are another key factor. Los Angeles area urban forestry and public works departments publish guidelines on planting near sidewalks and driveways to reduce root-related lifting and cracking. Some cities specify minimum clearances between driveways and protected street trees and may require permits or arborist review before cutting roots or removing trees. Arboricultural research indicates that aggressive root pruning can destabilize trees, so careful planning of driveway width, alignment, and base design is important. On infill lots and hillside properties, zoning and building code constraints such as setbacks, required parking dimensions, and slope limits further shape driveway options. Municipal zoning codes in Los Angeles County jurisdictions outline minimum parking space sizes and access requirements, which influence driveway width and turning radii. In hillside areas, grading ordinances and geotechnical recommendations may limit cut-and-fill and require retaining walls or special drainage provisions alongside driveways. Industry best practices recommend that driveway designers and contractors review available utility maps, coordinate with 811 marking, and, when necessary, consult with civil engineers or arborists for complex sites. Thoughtful alignment, appropriate reinforcement, and root barriers can reduce future damage from utilities or vegetation and improve long-term performance.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

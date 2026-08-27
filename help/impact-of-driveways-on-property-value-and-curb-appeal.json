@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Impact of Driveways on Property Value and Curb Appeal",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Real estate analyses and appraiser commentary consistently note that driveway condition and design influence perceived property quality and marketability, even if their direct contribution to appraised value is embedded within site improvements rather than itemized. In Los Angeles County’s competitive housing market, brokerage and valuation guidance from national and regional firms indicates that well-maintained, appropriately sized driveways that provide convenient off-street parking are particularly important in dense neighborhoods with limited street parking or preferential parking districts. Home appraisal education materials, including those used by Appraisal Institute members, describe how site improvements like driveways are evaluated in terms of functional adequacy, quality, and condition relative to comparable properties. A deteriorated driveway with extensive cracking, ponding, or safety hazards is often treated as deferred maintenance that buyers factor into offers, sometimes leading to price adjustments or repair credits. Consumer housing surveys and remodeling cost–value reports point out that visible exterior upgrades that improve first impressions—such as replacing a failing driveway with clean, structurally sound concrete or attractive pavers—can enhance “curb appeal” and speed up sales, even if the exact return on investment varies. In higher-end Los Angeles submarkets, design-forward driveways integrated with landscaping, lighting, and entry features are frequently showcased in listing photos and can differentiate properties. Local code compliance also plays a role: nonconforming or improvised parking pads may create appraisal or financing issues if they encroach on setbacks or violate driveway standards. Real estate professionals often recommend addressing obvious driveway defects before listing to avoid inspection objections and to present the property as well-maintained, which research in housing markets associates with stronger buyer confidence and reduced time on market.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

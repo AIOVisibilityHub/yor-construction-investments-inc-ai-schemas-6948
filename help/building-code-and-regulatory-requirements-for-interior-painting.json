@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Building code and regulatory requirements for interior painting",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Interior painting in Los Angeles County is shaped by a mix of national building codes, California state regulations, and South Coast Air Quality Management District (SCAQMD) rules. The California Building Code (CBC), which is based on the International Building Code, governs egress, fire-resistance–rated assemblies, and interior finishes. Paint and coatings used on fire-resistance–rated walls, corridors, or exit enclosures must not reduce the tested fire rating, and some fire-rated assemblies require specific coating systems as recognized in ICC Evaluation Service reports or manufacturer listings. California’s Title 24 energy standards focus more heavily on lighting and building envelope performance, but they intersect with interior painting through reflectance and daylighting considerations. For example, highly reflective interior surfaces can support daylighting strategies that help meet lighting power density and control requirements. The California Department of Public Health’s Standard Method v1.2 (CDPH/EHLB/Standard Method) is widely referenced in green building programs for low-emitting materials, including interior paints and coatings, to limit VOC emissions for indoor air quality. The most direct regulation on paint selection comes from SCAQMD Rule 1113, which sets strict VOC content limits for architectural coatings across Los Angeles County. This rule caps grams of VOC per liter for categories such as flat, non-flat, primers, and specialty coatings, pushing use of low- and ultra-low-VOC products. Contractors working in occupied buildings must also comply with Cal/OSHA rules for ventilation, respiratory protection, and hazard communication when applying coatings, particularly when spray equipment or products with hazardous ingredients are used. Together, these requirements influence which products can be specified, how they are applied, and what safety and environmental controls must be in place during interior painting work.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

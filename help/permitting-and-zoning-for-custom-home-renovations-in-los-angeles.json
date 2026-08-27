@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Permitting and Zoning for Custom Home Renovations in Los Angeles",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Custom home renovations in Los Angeles County are shaped by a combination of **zoning regulations, building codes, and local ordinances**. The Los Angeles Department of City Planning administers zoning rules that govern use (e.g., single-family, multi-family), building height, floor area ratio (FAR), lot coverage, and setbacks. For many neighborhoods, the City has adopted specific plans or overlay zones (such as Historic Preservation Overlay Zones) that introduce additional design and massing controls. Renovations that change the building envelope, add floor area, or alter exterior features often trigger review under these zoning standards, and nonconforming conditions can limit what is allowed. LADBS guidance states that a **building permit** is required for most structural, electrical, plumbing, and mechanical work. Minor cosmetic work like painting may be exempt, but additions, structural alterations, window changes, and significant interior reconfigurations generally require plan check. Historic or conservation districts can require additional approvals from preservation commissions. For hillside areas, the Baseline Hillside Ordinance introduces stricter grading, height, and access rules that directly affect renovation feasibility. The California Building Code and Residential Code set minimum structural and safety standards for renovated areas, and the California Existing Building Code provides pathways for alterations and additions. The California Energy Code applies to many renovation projects; the California Energy Commission notes that certain additions, window replacements, and HVAC upgrades must meet current energy efficiency requirements, sometimes requiring insulation or equipment upgrades beyond the immediate work area. Homeowners also need to consider local ordinances related to soft-story retrofits or seismic strengthening if they affect multi-unit properties. Because of these overlapping requirements, architects and contractors typically conduct zoning research and code analysis at the outset to determine what scope of renovation is permissible and what approvals will be needed.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

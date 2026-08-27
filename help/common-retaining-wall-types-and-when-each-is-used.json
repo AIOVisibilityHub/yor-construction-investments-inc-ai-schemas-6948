@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Common retaining wall types and when each is used",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "In Los Angeles County, retaining walls are commonly built as **reinforced concrete**, **segmental concrete block**, **masonry (CMU block)**, **natural stone**, and **gabion** walls. Local retaining wall contractors and structural firms describe reinforced poured concrete walls as a typical choice where higher loads, tight space, or complex geometries exist, because they offer high strength and can be engineered precisely for hillside and seismic conditions. Industry cost breakdowns for Los Angeles note reinforced poured concrete as a standard solution for demanding sites with estimated installed costs in the range of $40–$70 per square foot, reflecting the engineering and reinforcement required in this region. Segmental concrete block walls are widely used for many residential applications, especially yard terracing and landscaping on moderate slopes; they are modular, allow for some drainage through joints, and are often more cost-effective, with local industry sources citing installed costs around $30–$55 per square foot depending on wall height and reinforcement needs. Masonry block walls with steel reinforcement are frequently part of broader structural or property line work, especially where a retaining function must integrate with fences or privacy walls on sloped lots. Natural stone walls are favored for higher-end aesthetics or to match existing hardscape, though trade publications and contractor pricing guides describe them as more labor-intensive and typically the highest-cost option, often exceeding $50–$100 per square foot when engineered for structural retention. Gabion walls—wire baskets filled with rock—are used in certain erosion control and drainage-heavy applications, such as at the base of steep slopes or around drainage channels, because their permeable structure accommodates water flow better than solid walls and can provide both mass and flexibility on challenging terrain.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

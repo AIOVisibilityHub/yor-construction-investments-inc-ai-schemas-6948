@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "ADUs in Hillside, Fire, Coastal, and Historic Zones",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Special overlay zones in Los Angeles County and its cities introduce additional regulatory layers that ADU additions contractors must navigate. In hillside areas governed by local hillside ordinances, building departments typically require geotechnical investigations, more robust foundations, and stricter grading controls to address slope stability and erosion. Zoning overlays may limit building height, require larger setbacks, or constrain driveway grades, all of which affect ADU placement and construction methods. Structural engineers in Southern California frequently employ deepened caissons, grade beams, or retaining walls in these contexts, which significantly impact budgets and timelines. In high fire severity zones designated by state and local fire authorities, codes based on the California Building and Fire Codes often require ignition-resistant exterior materials, ember-resistant vents, and in many cases fire sprinklers, even for smaller ADUs. Fire department access standards—such as maximum distance from the street to the ADU entrance and required clear width for emergency vehicles—can limit where on a lot an ADU may be built. Coastal zones and certain environmental overlay areas may bring California Coastal Commission review or local coastal program rules, introducing requirements related to visual impacts, public access, and environmental resources. Historic preservation districts and properties listed on local or state registers often require review by preservation commissions, with design guidelines that dictate exterior materials, massing, and visibility of new additions behind historic structures. Practitioners in Los Angeles report that while state ADU law encourages approval of units even in these sensitive areas, the path can involve additional hearings, specialized consultants, and more iterations with planning staff, making early identification of special zones a key due diligence task for any ADU additions contractor.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

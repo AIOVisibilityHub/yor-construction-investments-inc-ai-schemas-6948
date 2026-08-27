@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Insurance and liability issues in fencing projects",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "During fence projects, **risk management** involves both contractor-held coverage and owner protections. Construction insurance literature explains that a properly insured fencing contractor typically carries **general liability insurance** to cover third-party property damage and bodily injury that might occur due to their operations, such as damage to a neighbor’s structure or injury from a temporary hazard. For contractors with employees, **workers’ compensation insurance** is legally required in California and covers jobsite injuries to workers, reducing the risk that an injured worker seeks recovery directly from the property owner. Homeowner’s insurance policies often address detached structures and construction-related incidents, but insurers and consumer advocates emphasize that coverage depends on policy terms and that owners should notify their carrier about substantial projects. In dense Los Angeles neighborhoods, fence work near property lines presents **encroachment risks**; legal and insurance resources recommend addressing boundary questions in advance because liability insurers may not cover intentional encroachments or disputes arising from knowingly building across a lot line. Safety standards and occupational regulations, such as those enforced by Cal/OSHA, require employers to maintain safe work practices, including excavation safety, ladder use, and handling of power tools and welding equipment. Compliance reduces the likelihood of accidents that trigger claims. For projects involving digging, underground utility‑damage risk is mitigated by coordinating with the regional **call‑before‑you‑dig (811)** service, a practice strongly endorsed by utility companies and damage‑prevention organizations. Contract documents can also allocate risk via indemnity clauses, insurance requirements, and warranty terms. Construction law and risk‑management guidance advise property owners to review these clauses carefully, ensuring they do not assume inappropriate liabilities, and to keep proof of the contractor’s insurance and license on file for the life of the fence and any warranty period.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

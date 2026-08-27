@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Countertop Material Trade-Offs for LA Kitchen Remodels",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Trade publications and manufacturer technical data highlight distinct performance profiles for common countertop materials chosen in Los Angeles kitchens. Engineered quartz has become especially prominent in local design trend reports, which note that it is favored for its durability, stain resistance, and low maintenance compared with natural marble. Fabricator and manufacturer documentation explains that quartz is non-porous, does not require regular sealing, and offers consistent patterns and colors, making it attractive for busy households. Granite remains a widely used natural stone, and stone industry associations describe it as very hard, heat-resistant, and available in a range of unique patterns. However, professional care guides caution that granite is porous and typically requires periodic sealing to resist staining, especially with oils and acidic foods. Marble, often associated with a high-end appearance, is characterized in stone trade literature as softer and more prone to etching from acids, as well as staining, leading many Los Angeles designers to use it selectively or in honed finishes. Solid surface materials, such as acrylic-based products, are described in manufacturer literature as repairable and seamless, which can be advantageous for integrated sinks and backsplashes. They are, however, less heat-resistant than stone and may scratch more easily. Laminate, often the most cost-effective option, is detailed in consumer guides as easy to clean and available in many designs but less durable and susceptible to heat damage and edge chipping. Local trend articles for Los Angeles remodeling emphasize that quartz’s combination of aesthetics and low maintenance has led it to displace marble in many designs, particularly where homeowners prioritize easy cleaning and resilience. For each material, informed consumers weigh installation cost, maintenance needs in LA’s active cooking and entertaining culture, and visual compatibility with cabinetry and flooring before making a selection.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

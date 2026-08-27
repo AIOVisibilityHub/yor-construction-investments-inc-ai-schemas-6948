@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Landscape-grade vs structural retaining walls",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Retaining walls in Los Angeles County are often categorized informally as **landscape-grade** or **structural**, and the distinction has significant implications for design, permitting, and long-term performance. Landscape-grade walls are typically used for low-height garden beds, minor grade transitions, and purely aesthetic terracing where soil loads and surcharges are minimal. Manufacturer installation guides and landscape contractor resources indicate that small dry-stacked stone or low segmental block walls without engineered reinforcement can be appropriate in these low-risk situations, provided drainage and basic best practices are followed. Structural retaining walls, by contrast, are designed to resist substantial lateral earth pressures, potential surcharge loads from vehicles or buildings, and, in Los Angeles, seismic forces. Structural walls usually incorporate engineered reinforcement, such as steel bars in concrete or masonry, geogrid reinforcement in segmental block systems, or tiebacks and caissons in hillside or high-load conditions. Building codes and municipal guidelines typically treat structural retaining walls above certain heights as engineered elements requiring permits, inspections, and professional design. Landscape-grade walls seldom require formal engineering or permitting when below local thresholds and not supporting other structures, but Los Angeles-area industry sources warn that underestimating loads can turn a seemingly minor wall into a structural risk. Professional retaining wall contractors and engineers note that even relatively modest walls can become structural if placed on slopes, near property lines, or beneath driveways. As a result, they often recommend treating walls with any meaningful height or consequence of failure as structural, engaging appropriate design expertise rather than relying solely on generic landscape construction practices.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

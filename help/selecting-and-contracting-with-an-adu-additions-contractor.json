@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Selecting and Contracting with an ADU Additions Contractor",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Consumer protection agencies and construction industry groups emphasize several best practices when hiring an ADU additions contractor in California. The Contractors State License Board (CSLB) advises homeowners to verify the contractor’s active license status, classification (often B – General Building for ADUs), workers’ compensation coverage, and any disciplinary actions using the state’s licensing database. The CSLB also recommends obtaining multiple detailed bids, ensuring each outlines scope of work, materials, allowances, and key exclusions to make comparisons meaningful. Industry hiring guides for ADU contractors in Los Angeles further highlight the importance of checking experience specifically with accessory dwelling units, including familiarity with local zoning, plan check processes, and utility coordination in the jurisdiction where the project is located. Contract terms are another major focus of consumer guidance. The CSLB limits down payments on home improvement contracts to the lesser of 10% of the contract price or $1,000, with progress payments tied to verifiable milestones rather than time alone. Contracts should clearly identify responsibilities for permitting, design services, and engineering, and specify how change orders will be priced and approved. Reputable trade publications recommend that homeowners request references for recent ADU projects and, where possible, visit completed jobs to evaluate build quality and finishes. Insurance considerations—including general liability and, when applicable, builder’s risk coverage—should be discussed and documented. For projects in Los Angeles County, where ADUs may involve complex site conditions or special zones, experts also suggest confirming that the contractor has a network of design professionals and consultants (architects, structural engineers, energy consultants) to address jurisdiction-specific requirements efficiently.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Licensing, Insurance, and Bonding for Custom Build Contractors in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "In Los Angeles County, a **custom build contractor** must hold an active license with the California Contractors State License Board (CSLB) for any job of $500 or more in labor and materials. California law requires contractors to display their license number on contracts and advertising, and homeowners can verify status, classifications, and complaints via the CSLB’s public lookup tool. CSLB guidance explains that most residential custom home and major renovation work is performed under a “B” General Building Contractor license. For **insurance and bonding**, the CSLB notes that licensed contractors must have either a **$25,000 contractor’s bond** or approved equivalent on file to protect the public against certain violations of license law. The bond is not a blanket warranty, but it can offer some recourse in cases such as willful contract violations. The California Department of Insurance explains that responsible contractors typically carry **general liability insurance** to cover bodily injury or property damage arising from their operations, even though this insurance is not mandated for all license types. For firms with employees, California’s Labor Code and Cal/OSHA rules require **workers’ compensation insurance**, and the CSLB records whether a licensee has an active workers’ compensation policy. In Los Angeles County municipalities, contractors also generally need a **local business license** and must comply with building, zoning, and safety regulations enforced by the Los Angeles Department of Building and Safety (LADBS) or the relevant city building department. LADBS emphasizes that permits must be obtained by a properly licensed contractor or owner-builder, and inspections are required at various stages. Informed owners routinely confirm CSLB license status, workers’ compensation coverage, and ask for proof of liability insurance and bonding before signing a construction contract.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

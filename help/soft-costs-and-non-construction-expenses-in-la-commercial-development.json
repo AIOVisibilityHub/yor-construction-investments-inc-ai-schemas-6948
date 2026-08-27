@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Soft Costs and Non-Construction Expenses in LA Commercial Development",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Beyond direct building costs, **commercial construction in Los Angeles County** involves a range of **soft costs and non-construction expenses** that can materially affect project feasibility. Industry cost guides and developer pro forma benchmarks commonly estimate soft costs (excluding land) as adding roughly 20–35% on top of hard construction costs in high-regulation markets like Los Angeles. These expenses typically include architectural and engineering design fees, specialty consultants (such as structural, MEP, geotechnical, traffic, and environmental), permitting and plan-check fees, entitlement and legal costs, surveying, testing and inspections, and project management or owner’s representation services. In Los Angeles, entitlement-related professional services and legal expenses can be higher than in many markets due to complex zoning, environmental review procedures, and potential community engagement or negotiation efforts noted in regional construction challenge analyses. Financing costs, including construction loan interest, lender fees, and required reserves, are another significant category, with sensitivity to interest rate conditions highlighted in economic outlook reports and developer surveys. Insurance, including builder’s risk and general liability, as well as bonding for certain project types, also contributes meaningfully to non-construction budgets, particularly in seismically active regions like Southern California where risk pricing can be elevated. Additionally, developers often budget for tenant improvement allowances, marketing and lease-up costs, and contingencies for both hard and soft costs. Trade publications and development case studies underscore the importance of incorporating realistic soft cost assumptions early in feasibility analysis, as underestimating fees, timelines, or financing conditions is a common source of cost overruns and return compression in Los Angeles commercial projects.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

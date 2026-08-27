@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Typical Mid-Range and Upscale Kitchen Remodel Costs in LA County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Industry cost surveys and construction trade reports indicate that kitchen remodel pricing in the Los Angeles market runs higher than the national average due to labor, permitting, and material costs. The widely cited Cost vs. Value reports from remodeling industry publishers show that a mid-range major kitchen remodel in the Los Angeles region often falls in the low six-figure range, while a minor, mid-range kitchen update (refacing cabinets, replacing fronts, counters, and fixtures without changing layout) trends substantially lower. These benchmarks suggest that mid-range projects in Southern California generally outpace comparable projects in many other U.S. metros. For upscale work, the same cost benchmarking sources show that high-end kitchen remodels in Los Angeles typically extend well above mid-range budgets, especially when custom cabinetry, premium stone or engineered quartz, luxury appliances, and structural changes are involved. Industry commentators on West Coast construction pricing emphasize that local labor rates, seismic retrofitting needs, and city-specific permit and plan-check fees all contribute to this premium. Trade publications geared toward builders note that adding structural work, moving plumbing and gas lines, or reconfiguring load-bearing walls can significantly increase the total. Professional remodeler surveys and project case studies focusing on Southern California also describe cost variability tied to existing conditions. For example, older Los Angeles housing stock may require electrical service upgrades or asbestos and lead-based paint abatement, which environmental safety regulations can make costly. Regional contractor associations report that finish selections—such as custom European-style cabinets, integrated panel-ready appliances, and designer lighting—are among the main drivers taking a kitchen from mid-range to upscale. In Los Angeles County, informed consumers typically plan a budget range rather than a single number and anticipate contingencies for unforeseen structural or systems issues uncovered during demolition.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}
