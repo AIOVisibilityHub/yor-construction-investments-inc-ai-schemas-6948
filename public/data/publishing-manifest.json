@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T20:16:33.338Z",
+  "generatedAt": "2026-08-27T20:39:42.281Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -101,11 +101,11 @@
     ]
   },
   "package": {
-    "totalFiles": 128,
-    "totalBytes": 401684,
+    "totalFiles": 820,
+    "totalBytes": 4173825,
     "stats": {
-      "faqs": 38,
-      "helpArticles": 38,
+      "faqs": 465,
+      "helpArticles": 303,
       "services": 1,
       "webpages": 0,
       "personnel": 2,
@@ -118,7 +118,7 @@
       "reviews": 9,
       "qna": 0,
       "research": 0,
-      "total": 105
+      "total": 797
     }
   },
   "entrypoints": {
@@ -321,6 +321,2141 @@
       {
         "path": "faqs/how-long-does-window-installation-take.json",
         "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-home-addition-take-from-first-idea-to-move-in.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-do-i-need-for-a-home-addition-in-los-angeles-and-who-handles-them.json",
+        "bytes": 1839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-property-is-even-eligible-for-an-addition-under-local-zoning.json",
+        "bytes": 1709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-home-addition-increase-my-property-taxes-in-los-angeles-county-and-by-how.json",
+        "bytes": 1759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-cheaper-to-build-up-with-a-second-story-addition-or-build-out-on-the-groun.json",
+        "bytes": 1781,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-getting-burned-by-a-bad-contractor-on-my-addition-project.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-hidden-costs-that-surprise-people-during-a-home-addition.json",
+        "bytes": 1757,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-during-a-major-addition-or-is-it-smarter-to-move-out-temp.json",
+        "bytes": 1832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-home-addition-pay-off-when-i-sell-or-am-i-overbuilding-for-my-neighborhoo.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-my-new-addition-doesn-t-look-like-it-was-obviously-bolted-ont.json",
+        "bytes": 1663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-different-about-building-an-addition-on-a-hillside-or-sloped-lot-in-los-a.json",
+        "bytes": 1673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-adding-a-bedroom-or-bathroom-affect-resale-value-specifically-in-places.json",
+        "bytes": 1861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-contractors-when-getting-bids-for-a-home-addition-so-i-can-com.json",
+        "bytes": 1781,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-budget-is-tight-but-i-really-need-more-space-are-there-smarter-ways-t.json",
+        "bytes": 1714,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-and-approvals-should-i-expect-during-and-after-a-home-addition.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-a-bad-contractor-experience-before-how-can-i-protect-myself-this-time-with.json",
+        "bytes": 1739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-architect-for-my-addition-or-can-a-contractor-handle-the-design.json",
+        "bytes": 1745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-special-issues-should-i-watch-out-for-when-adding-onto-an-older-home-in-los.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-design-an-addition-that-works-for-my-family-now-but-also-lets-me-age-i.json",
+        "bytes": 1734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-city-or-county-delays-my-addition-permit-or-keeps-asking.json",
+        "bytes": 1825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-construction-dust-noise-and-mess-under-control-during-a-home-addi.json",
+        "bytes": 1696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-and-decisions-do-i-need-ready-before-my-contractor-can-give-me.json",
+        "bytes": 1755,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-county.json",
+        "bytes": 1142,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-for-a-bathroom-remodel-in-los-angeles.json",
+        "bytes": 1053,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bathroom-remodel-take-from-start-to-finish.json",
+        "bytes": 1063,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-decide-before-i-start-remodeling-my-bathroom.json",
+        "bytes": 1050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-rip-and-replace-remodel-and-a-gut-remodel.json",
+        "bytes": 1145,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-remodel-gives-the-best-return-on-value.json",
+        "bytes": 1044,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-home-during-a-bathroom-remodel.json",
+        "bytes": 991,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-problems-show-up-during-bathroom-remodeling.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-for-unexpected-issues.json",
+        "bytes": 947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-bathroom-remodeling-contractor.json",
+        "bytes": 1044,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-questions-should-i-ask-before-signing-a-remodel-contract.json",
+        "bytes": 1023,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-the-bathroom-before-selling-my-house.json",
+        "bytes": 1015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-upgrades-matter-most-for-resale-in-pasadena.json",
+        "bytes": 1050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-small-bathroom-be-remodeled-without-making-it-feel-crowded.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-remodel-mistakes-cause-the-most-regret.json",
+        "bytes": 979,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update.json",
+        "bytes": 1042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-a-bathroom-remodel-on-budget.json",
+        "bytes": 978,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-time-of-year-to-remodel-a-bathroom-in-sherman-oaks.json",
+        "bytes": 1103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-walk-in-showers-worth-it-in-bathroom-remodeling.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-master-bathroom-remodel-cost-compared-with-a-guest-bathroom.json",
+        "bytes": 1103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel.json",
+        "bytes": 1049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-messy-is-a-bathroom-remodel-and-how-do-i-protect-the-rest-of-the-house.json",
+        "bytes": 1073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-best-bathroom-remodeling-options-for-rancho-palos-verdes-homes.json",
+        "bytes": 1135,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-want-a-bathroom-remodel-but-only-have-a-limited-budget.json",
+        "bytes": 1091,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county.json",
+        "bytes": 1906,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-figure-out-first-before-starting-a-kitchen-remodel.json",
+        "bytes": 1790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-kitchen-remodel-usually-take-from-demo-to-finished-in-los-angele.json",
+        "bytes": 1773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-basic-process-of-a-kitchen-remodel-step-by-step.json",
+        "bytes": 1739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-kitchen-remodel-worth-it-for-resale-value-in-los-angeles.json",
+        "bytes": 1701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-set-a-realistic-kitchen-remodel-budget-without-getting-burned-halfway-t.json",
+        "bytes": 1725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-on-a-tight-budget-what-are-the-smartest-places-to-save-vs-spend-in-a-kitchen.json",
+        "bytes": 1791,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-permits-for-a-kitchen-remodel-in-los-angeles-county.json",
+        "bytes": 1698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-among-so-many-option.json",
+        "bytes": 1684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-things-that-can-go-wrong-during-a-kitchen-remodel.json",
+        "bytes": 1625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-my-kitchen-or-move-to-get-a-better-kitchen-in-los-angeles.json",
+        "bytes": 1704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-a-full-kitchen-remodel-and-just-a-refresh.json",
+        "bytes": 1759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-a-kitchen-remodel-when-i-can-t-be-without-a-kitchen-for-months.json",
+        "bytes": 1621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-layout-rules-should-i-know-so-my-new-kitchen-actually-works-better-not-just.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-watch-out-for-when-comparing-multiple-kitchen-remodel-quotes.json",
+        "bytes": 1605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-small-or-condo-kitchen-remodel-typically-cost-in-los-angeles-are.json",
+        "bytes": 1771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-special-issues-come-up-when-remodeling-an-older-kitchen-in-los-angeles-or-p.json",
+        "bytes": 1675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-home-during-a-kitchen-remodel-in-los-angeles-or-is-that-unreali.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-my-new-kitchen-design-won-t-feel-dated-in-a-few-years.json",
+        "bytes": 1600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-kitchen-remodeling-contractor-before-i-sign-anything.json",
+        "bytes": 1565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-should-i-expect-permits-and-inspections-to-add-to-my-kitchen-remodel-ti.json",
+        "bytes": 1714,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-special-design-or-construction-considerations-for-kitchens-in-area.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-diy-kitchen-remodel-realistic-or-should-i-always-hire-professionals.json",
+        "bytes": 1656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-roof-needs-to-be-repaired-or-completely-replaced.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-roofing-materials-work-best-for-homes-in-los-angeles-and-nearby-areas-like.json",
+        "bytes": 1989,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-new-roof-usually-cost-in-los-angeles-county.json",
+        "bytes": 1716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-roof-replacement-typically-take-from-start-to-finish.json",
+        "bytes": 1679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-the-roof-replacement-process-at-my-home.json",
+        "bytes": 1701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-should-i-have-my-roof-inspected-in-a-place-like-los-angeles.json",
+        "bytes": 1658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-warning-signs-my-roof-is-about-to-start-leaking.json",
+        "bytes": 1618,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-right-now-if-my-roof-is-leaking-during-a-rainstorm.json",
+        "bytes": 1671,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-trustworthy-roofing-contractor-in-los-angeles-county.json",
+        "bytes": 1685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-questions-should-i-ask-a-roofer-before-i-sign-a-contract.json",
+        "bytes": 1673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-of-a-deposit-is-normal-for-a-roofing-project-and-when-do-i-pay-the-rest.json",
+        "bytes": 1665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-typical-lifespan-of-different-roofing-materials.json",
+        "bytes": 1641,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-roof-is-flat-or-low-slope-what-special-issues-should-i-watch-out-for.json",
+        "bytes": 1556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-just-patch-over-a-leak-myself-or-do-i-really-need-a-professional-roofer.json",
+        "bytes": 1645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-roof-leak-always-covered-by-homeowners-insurance.json",
+        "bytes": 1529,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-roof-certification-and-do-i-need-one-when-buying-or-selling-a-home-in.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-roofing-permit-and-inspection-process-work-in-cities-like-los-angel.json",
+        "bytes": 1719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-cool-roofs-really-worth-it-in-hot-areas-like-the-san-fernando-valley-tarzana.json",
+        "bytes": 1773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-roofing-quotes-so-i-m-not-just-picking-the-cheapest-one.json",
+        "bytes": 1604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-if-i-delay-fixing-a-known-roof-issue.json",
+        "bytes": 1572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-new-roofing-really-improve-my-home-s-energy-efficiency-and-comfort.json",
+        "bytes": 1640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-or-check-if-i-had-a-bad-experience-with-a-previous-roofer-and.json",
+        "bytes": 1687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-roofing-issues-specific-to-coastal-areas-like-rancho-palos-verdes.json",
+        "bytes": 1690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-maintenance-should-i-be-doing-on-my-roof-each-year.json",
+        "bytes": 1603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-noisy-and-disruptive-is-roofing-work-and-how-can-i-minimize-the-impact-on-my.json",
+        "bytes": 1667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-los-angeles-building-actually-needs-seismic-retrofitting-or.json",
+        "bytes": 2116,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-exactly-is-seismic-retrofitting-and-what-parts-of-my-house-or-building-does.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-think-my-los-angeles-soft-story-apartment-building-n.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-seismic-retrofitting-usually-cost-for-a-small-to-mid-size-apartmen.json",
+        "bytes": 1928,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-do-any-seismic-retrofitting-myself-or-is-this-always-something-that-needs.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-seismic-retrofitting-usually-take-from-the-first-inspection-to-fin.json",
+        "bytes": 1894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-on-an-older-building.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-a-basic-code-minimum-seismic-retrofit-and-a-more-r.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-seismic-retrofit-contractor-in-los-angeles-without-get.json",
+        "bytes": 1842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-county-or-is.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-proof-or-documentation-will-i-have-after-a-seismic-retrofit-is-comp.json",
+        "bytes": 1849,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-disruptive-is-seismic-retrofitting-for-tenants-in-an-occupied-apartment-buil.json",
+        "bytes": 1832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-my-single-family-home-in-sherman-oaks-really-at-risk-if-it-was-built-before-1.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-typical-steps-in-a-seismic-retrofit-project-for-a-soft-story-buildi.json",
+        "bytes": 1762,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-seismic-retrofitting-affect-my-building-s-resale-value-in-places-like-p.json",
+        "bytes": 1851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-on-a-tight-budget-what-are-the-most-cost-effective-seismic-upgrades-i-can-do.json",
+        "bytes": 1777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-rebates-incentives-or-assistance-programs-for-seismic-retrofitting.json",
+        "bytes": 1854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-building-s-original-plans-are-missing-can-i-still-move-forward-with-a.json",
+        "bytes": 1797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-los-angeles-soft-story-retrofit-deadlines-and-requirements-differ-from-ne.json",
+        "bytes": 1889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-a-bad-experience-with-a-contractor-before-how-can-i-protect-myself-on-a-se.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-a-major-earthquake-hits-before-i-can-finish-retrofitting-my-valley-villa.json",
+        "bytes": 1870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-past-owners-already-did-a-seismic-retrofit-on-my-los-angeles-p.json",
+        "bytes": 1809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-my-earthquake-insurance-rates-go-down-after-i-retrofit-and-how-do-i-prove-i.json",
+        "bytes": 1764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-worth-retrofitting-a-small-rental-property-in-los-angeles-if-i-might-sell.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-commercial-contractor-for-my-project-in-los-angeles-co.json",
+        "bytes": 1074,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-do-i-need-before-starting-commercial-construction-in-los-angeles.json",
+        "bytes": 1086,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-commercial-construction-project-usually-take.json",
+        "bytes": 1007,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-my-commercial-construction-bid-so-different-from-other-bids.json",
+        "bytes": 999,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-contractor-before-signing-a-commercial-construction-contract.json",
+        "bytes": 1024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-my-business-open-during-commercial-construction.json",
+        "bytes": 992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-during-a-commercial-remodel.json",
+        "bytes": 952,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-a-contractor-has-enough-experience-for-my-type-of-project.json",
+        "bytes": 984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-design-build-better-than-hiring-a-separate-architect-and-contractor.json",
+        "bytes": 1003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-contingency-should-i-budget-for-commercial-construction.json",
+        "bytes": 983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-insurance-should-a-commercial-contractor-carry.json",
+        "bytes": 955,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-accurate-pricing-for-a-tenant-improvement-project.json",
+        "bytes": 980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-tenant-improvement-and-a-full-commercial-renova.json",
+        "bytes": 1060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-change-orders-on-a-commercial-job.json",
+        "bytes": 938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-commercial-construction-be-done-on-a-tight-deadline.json",
+        "bytes": 934,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-build-out-a-commercial-space-in-pasadena.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-contractors-handle-unexpected-problems-inside-older-buildings.json",
+        "bytes": 990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-way-to-compare-commercial-contractors.json",
+        "bytes": 962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-project-needs-a-general-contractor-or-a-specialist.json",
+        "bytes": 990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-construction-delays-affect-my-lease-or-opening-date.json",
+        "bytes": 990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-reduce-disruption-for-tenants-in-an-occupied-building-in-sherman-oaks.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-inspections-on-a-commercial-project.json",
+        "bytes": 950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-the-finished-space-is-ada-compliant.json",
+        "bytes": 946,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-before-starting-commercial-construction-in-tarzana-or-the-val.json",
+        "bytes": 1028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-a-contractor-will-really-finish-the-job-after-they-start.json",
+        "bytes": 1014,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-los-angeles-property-is-even-eligible-for-an-adu-before-i-sp.json",
+        "bytes": 1848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-build-an-adu-in-los-angeles-county-and-have.json",
+        "bytes": 1685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-realistically-cost-to-build-an-adu-in-los-angeles-right-now.json",
+        "bytes": 1660,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-my-existing-detached-garage-into-an-adu-and-is-that-cheaper-than-b.json",
+        "bytes": 1738,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-whole-adu-process-take-in-los-angeles-from-idea-to-move-in.json",
+        "bytes": 1640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-do-i-actually-need-to-build-an-adu-and-who-handles-all-that-paperwo.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-step-by-step-process-to-build-an-adu-in-los-angeles-county-from-first.json",
+        "bytes": 1732,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-worth-building-an-adu-in-los-angeles-if-i-only-plan-to-rent-it-out-how-goo.json",
+        "bytes": 1787,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-hidden-costs-people-don-t-see-coming-with-adu-construction.json",
+        "bytes": 1694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-during-adu-construction-and-how-do-i-avoid-horror-story-situat.json",
+        "bytes": 1708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-an-architect-or-designer-for-a-small-adu-or-can-a-contractor-ju.json",
+        "bytes": 1750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-during-adu-construction-or-will-i-need-to-move-out.json",
+        "bytes": 1587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-should-i-expect-during-adu-construction-and-what-happens-if-som.json",
+        "bytes": 1737,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-adu-construction-impact-my-property-taxes-and-insurance.json",
+        "bytes": 1662,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-different-about-building-an-adu-in-the-city-of-los-angeles-compared-to-ot.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-the-rules-or-timelines-different-for-adus-in-pasadena-compared-to-los-angele.json",
+        "bytes": 1678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-home-is-in-sherman-oaks-valley-village-tarzana-how-does-being-in-the-san-fern.json",
+        "bytes": 1737,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-watch-out-for-when-building-an-adu-in-hillside-or-view-sensitive-a.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-a-detached-adu-or-an-attached-over-garage-adu-what-are-the-pros-a.json",
+        "bytes": 1624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-prefab-or-modular-adu-cheaper-or-faster-than-a-stick-built-adu-in-los-angel.json",
+        "bytes": 1663,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-diy-parts-of-my-adu-construction-to-save-money-or-is-that-too-risky.json",
+        "bytes": 1623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-adu-permit-gets-delayed-or-rejected-do-i-have-any-options-besides-sta.json",
+        "bytes": 1719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-and-documents-should-i-gather-before-meeting-an-adu-contractor.json",
+        "bytes": 1639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-adu-contractor-in-los-angeles-and-avoid-getting-burned.json",
+        "bytes": 1656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-do-i-even-start-if-i-m-thinking-about-a-home-addition-on-my-house.json",
+        "bytes": 1761,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-typical-room-addition-cost-and-what-s-a-realistic-budget-range.json",
+        "bytes": 1689,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-home-addition-usually-take-from-first-call-to-move-in-ready.json",
+        "bytes": 1570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-approvals-do-i-need-for-a-home-addition-in-los-angeles-county.json",
+        "bytes": 1684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-house-structure-and-foundation-can-handle-a-second-story-add.json",
+        "bytes": 1678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition.json",
+        "bytes": 1509,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-my-addition-looking-like-a-weird-box-stuck-onto-my-house.json",
+        "bytes": 1552,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-contractor-for-a-home-addition.json",
+        "bytes": 1550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-during-a-major-addition-or-do-i-need-to-move-out.json",
+        "bytes": 1601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-a-home-addition-if-my-budget-is-tight-but-i-really-need-more-space.json",
+        "bytes": 1647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-about-building-an-adu-or-garage-conversion-addition-in-los-an.json",
+        "bytes": 1632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-estimate-if-a-home-addition-will-actually-increase-my-property-value.json",
+        "bytes": 1629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documents-and-information-should-i-gather-before-meeting-an-addition-contra.json",
+        "bytes": 1592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-the-city-delays-my-addition-permits-or-keeps-asking-for-plan-cha.json",
+        "bytes": 1562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-a-home-addition-and-a-remodel-and-why-does-it-matt.json",
+        "bytes": 1605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-protect-myself-from-addition-cost-overruns-and-endless-change-orders.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-special-issues-should-i-expect-when-adding-onto-an-older-los-angeles-home.json",
+        "bytes": 1646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-diy-part-of-my-home-addition-to-save-money-and-which-parts-are-safe-to-tac.json",
+        "bytes": 1654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-design-a-home-addition-that-works-for-my-growing-family-now-and-aging.json",
+        "bytes": 1622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-watch-out-for-in-an-addition-contract-before-i-sign-anything.json",
+        "bytes": 1499,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-noisy-and-disruptive-is-an-addition-project-in-a-dense-area-like-los-angeles.json",
+        "bytes": 1675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-addition-finishes-but-the-final-inspection-doesn-t-pass-right-away.json",
+        "bytes": 1600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-m-thinking-about-remodeling-my-bathroom.json",
+        "bytes": 1818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-full-bathroom-remodel-usually-cost-in-los-angeles-county.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bathroom-remodel-really-take-from-start-to-finish.json",
+        "bytes": 1783,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remodel-my-bathroom-in-los-angeles-county.json",
+        "bytes": 1742,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-steps-in-the-bathroom-remodeling-process.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-worth-remodeling-a-bathroom-before-selling-my-house.json",
+        "bytes": 1678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-house-during-a-bathroom-remodel-or-is-that-unrealistic.json",
+        "bytes": 1711,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-hidden-costs-or-gotchas-in-bathroom-remodeling.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-cheaper-to-just-update-fixtures-and-tile-instead-of-a-full-bathroom-gut.json",
+        "bytes": 1685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-try-to-diy-my-bathroom-remodel-or-hire-professionals.json",
+        "bytes": 1589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-set-a-realistic-bathroom-remodel-budget-if-money-is-tight.json",
+        "bytes": 1698,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-order-should-things-be-done-in-during-a-bathroom-remodel.json",
+        "bytes": 1665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-a-small-bathroom-feel-bigger-without-moving-walls.json",
+        "bytes": 1578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-features-give-the-best-long-term-value-and-daily-comfort.json",
+        "bytes": 1680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-bathroom-remodeling-contractor-before-i-sign-anything.json",
+        "bytes": 1620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-code-or-special-rules-affect-bathroom-remodels-in-california-and-la.json",
+        "bytes": 1664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-my-bathroom-remodel-going-over-budget-once-work-starts.json",
+        "bytes": 1619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-different-about-remodeling-a-bathroom-in-a-los-angeles-condo-or-hoa-build.json",
+        "bytes": 1666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-last-contractor-did-a-bad-job-on-my-bathroom-remodel.json",
+        "bytes": 1728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-new-bathroom-safer-for-aging-in-place-or-mobility-issues.json",
+        "bytes": 1611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-design-trends-are-popular-now-and-which-ones-won-t-age-badly.json",
+        "bytes": 1679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-bathroom-remodel-bids-that-are-wildly-different-in-price.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-warranty-or-guarantee-should-i-expect-on-a-bathroom-remodel.json",
+        "bytes": 1639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-kitchen-remodel-usually-cost-in-los-angeles-county.json",
+        "bytes": 1934,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-kitchen-remodel-really-take-from-start-to-finish.json",
+        "bytes": 1882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-set-a-realistic-kitchen-remodel-budget-so-i-don-t-get-blindsided-later.json",
+        "bytes": 1919,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-actual-step-by-step-process-of-a-kitchen-remodel.json",
+        "bytes": 1890,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-kitchen-contractor-in-los-angeles-without-getting-burn.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-cheaper-to-reface-my-kitchen-cabinets-or-replace-them-entirely.json",
+        "bytes": 1875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-during-a-kitchen-remodel-or-is-that-a-bad-idea.json",
+        "bytes": 1802,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-hidden-costs-and-gotchas-in-a-kitchen-remodel.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-kitchen-layout-for-a-small-space-in-an-older-la-bungalow.json",
+        "bytes": 1880,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-remodel-my-kitchen-on-a-tight-budget-without-it-looking-cheap.json",
+        "bytes": 1895,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-kitchen-contractor-before-i-sign-anything.json",
+        "bytes": 1763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-my-kitchen-going-out-of-style-in-a-few-years.json",
+        "bytes": 1817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-kitchen-remodel-actually-increase-my-home-s-value-in-los-angeles.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-a-kitchen-remodel-when-i-need-it-done-on-a-tight-deadline.json",
+        "bytes": 1810,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-try-to-diy-my-kitchen-remodel-or-hire-professionals.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-last-contractor-experience-was-bad-and-i-m-nervous-to-rem.json",
+        "bytes": 1895,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-design-a-kitchen-that-works-for-both-serious-cooking-and-entertaining.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-energy-efficient-and-eco-friendly-can-a-modern-kitchen-remodel-be.json",
+        "bytes": 1768,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-different-about-remodeling-a-condo-kitchen-in-los-angeles-compared-to-a-h.json",
+        "bytes": 1842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-handle-kitchen-remodeling-when-i-have-kids-and-pets-at-home.json",
+        "bytes": 1717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-are-my-kitchen-remodel-quotes-so-different-in-price-for-the-same-project.json",
+        "bytes": 1822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-roof-really-needs-to-be-replaced-or-if-a-repair-is-enough.json",
+        "bytes": 1882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-roofing-material-is-best-for-a-house-in-los-angeles-county.json",
+        "bytes": 1819,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-new-roof-usually-cost-in-los-angeles-and-what-really-affects-the.json",
+        "bytes": 1824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-should-a-new-roof-last-in-southern-california-s-climate.json",
+        "bytes": 1658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-roof-is-leaking-after-the-recent-rain-in-la-what-should-i-do-first-and-how-ur.json",
+        "bytes": 1740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-roof-replacement-usually-take-from-start-to-finish.json",
+        "bytes": 1632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-licenses-and-insurance-should-a-roofing-contractor-have-in-california.json",
+        "bytes": 1729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-be-included-in-a-proper-roofing-estimate-or-quote.json",
+        "bytes": 1596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-okay-to-roof-over-existing-shingles-or-should-i-insist-on-a-full-tear-off.json",
+        "bytes": 1629,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-a-roofer-s-warranty-is-actually-good-or-just-marketing.json",
+        "bytes": 1674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-new-roof-help-lower-my-energy-bills-in-a-hot-area-like-los-angeles.json",
+        "bytes": 1728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-three-very-different-roofing-bids-without-getting-ripped.json",
+        "bytes": 1731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-house-during-a-roof-replacement-or-is-it-unsafe.json",
+        "bytes": 1623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-roof-maintenance-should-i-be-doing-each-year-to-avoid-big-repairs-later.json",
+        "bytes": 1695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-roofing-budget-is-really-tight-what-are-the-smartest-corners-i-can-and-can-t.json",
+        "bytes": 1844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-special-roofing-issues-should-homeowners-in-los-angeles-county-watch-out-fo.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-storm-or-wind-damage-to-my-roof-is-serious-enough-to-address-ri.json",
+        "bytes": 1684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-roofer-during-the-first-meeting-so-i-don-t-regret-my-choice.json",
+        "bytes": 1700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-realistic-or-safe-to-do-roofing-work-myself-to-save-money.json",
+        "bytes": 1695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-disruptive-is-a-roof-replacement-in-a-dense-los-angeles-neighborhood-or-mult.json",
+        "bytes": 1792,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-new-roof-increase-my-home-s-value-or-help-if-i-plan-to-sell-soon.json",
+        "bytes": 1708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-roofing-project-is-delayed-or-taking-much-longer-than-pro.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-roof-inspections-work-and-when-should-i-schedule-one-in-los-angeles.json",
+        "bytes": 1716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-los-angeles-house-actually-needs-seismic-retrofitting-or-if.json",
+        "bytes": 2003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-exactly-does-seismic-retrofitting-do-for-my-house-during-a-big-earthquake.json",
+        "bytes": 1849,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-seismic-retrofitting-typically-cost-for-a-single-family-home-in-lo.json",
+        "bytes": 1820,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-seismic-retrofitting-mandatory-for-my-building-in-los-angeles-county-or-is-it.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-basic-step-by-step-process-for-getting-a-seismic-retrofit-done-on-my.json",
+        "bytes": 1797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-seismic-retrofitting-usually-take-and-will-i-have-to-move-out-whil.json",
+        "bytes": 1838,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-do-my-own-seismic-retrofitting-as-a-diy-project-or-is-that-a-bad-idea.json",
+        "bytes": 1815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-if-i-don-t-retrofit-my-older-los-angeles-home-for-ear.json",
+        "bytes": 1879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-seismic-retrofitting-actually-increase-my-home-s-value-or-is-it-just-sunk-c.json",
+        "bytes": 1798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-trustworthy-seismic-retrofit-contractor-in-los-angeles-and-avo.json",
+        "bytes": 1805,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-seismic-retrofitting-and-a-regular-remodel-can-i-c.json",
+        "bytes": 1910,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-the-inspection-and-permitting-process-for-a-seismic.json",
+        "bytes": 1862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-grants-rebates-or-financial-assistance-programs-to-help-pay-for-se.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-buildings-are-considered-high-priority-for-seismic-retrofitting-in.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-my-budget-is-limited-what-are-the-most-important-seismic-retrofits-to-do-firs.json",
+        "bytes": 1798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-my-older-home-has-already-been-seismically-retrofitted-or-not.json",
+        "bytes": 1835,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json",
+        "bytes": 1872,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-my-soft-story-apartment-building-in-los-angeles-at-risk-and-what-s-different.json",
+        "bytes": 2073,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-could-go-wrong-during-a-seismic-retrofit-project-and-how-do-i-protect-mysel.json",
+        "bytes": 1857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-disruptive-is-seismic-retrofitting-to-my-daily-life-if-i-have-kids-and-work.json",
+        "bytes": 1777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-i-m-planning-to-buy-an-older-house-in-los-angeles-what-should-i-look-for-or-a.json",
+        "bytes": 1900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-seismic-retrofitting-change-how-my-house-looks-or-is-it-mostly-hidden.json",
+        "bytes": 1800,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-there-s-another-big-earthquake-after-i-retrofit-what-kind-of-damage-should-i.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-do-seismic-retrofit-standards-change-and-will-today-s-retrofit-become.json",
+        "bytes": 1935,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-figure-out-first-before-starting-a-commercial-construction-project.json",
+        "bytes": 2095,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-commercial-construction-different-from-residential-construction-and-why-d.json",
+        "bytes": 2147,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-commercial-contractor-for-my-project-without-getting-b.json",
+        "bytes": 1979,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-approvals-do-i-need-for-a-commercial-build-out-in-los-angeles-c.json",
+        "bytes": 2098,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-commercial-construction-project-really-take-from-idea-to.json",
+        "bytes": 1987,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-commercial-construction-cost-per-square-foot-and-why-do-estimates.json",
+        "bytes": 2051,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-that-can-derail-a-commercial-construction-project-and.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-and-decisions-do-i-need-ready-before-asking-contractors-to-bid.json",
+        "bytes": 1946,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-design-build-and-traditional-design-bid-build-for.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-my-business-running-during-commercial-construction-or-a-major-remo.json",
+        "bytes": 1902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-specific-challenges-should-i-expect-with-commercial-construction-in-los-ang.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-a-commercial-contractor-is-properly-licensed-and-insured-in-ca.json",
+        "bytes": 1993,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-commercial-construction-projects-in-la-always-seem-to-get-delayed-and-wha.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-commercial-construction-bids-come-in-way-over-my-budget.json",
+        "bytes": 1941,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-realistic-expectations-for-change-orders-on-a-commercial-construction-j.json",
+        "bytes": 1900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-sure-my-new-commercial-space-is-ada-compliant-and-accessible-for-e.json",
+        "bytes": 1968,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-about-seismic-and-structural-requirements-for-commercial-buil.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-cheaper-to-renovate-an-existing-commercial-building-or-build-new-in-los-an.json",
+        "bytes": 1939,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-a-commercial-construction-project-on-a-tight-budget-without-sacrif.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-and-post-construction-support-should-i-expect-on-a-commercial-pr.json",
+        "bytes": 1899,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-manage-a-commercial-construction-project-myself-to-save-money-or-do-i-real.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-watch-for-in-a-commercial-construction-contract-before-i-sign-it.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-early-should-i-involve-a-contractor-if-i-m-just-starting-to-think-about-a-co.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-ongoing-maintenance-should-i-plan-for-after-my-commercial-construction-proj.json",
+        "bytes": 1933,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-an-adu-and-how-does-adu-construction-actually-work-in-los-angeles-county.json",
+        "bytes": 1874,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-really-cost-to-build-an-adu-in-los-angeles-county-right-now.json",
+        "bytes": 1841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-building-an-adu-on-my-p.json",
+        "bytes": 1804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-design-permit-and-build-an-adu-in-los-angeles-county.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-even-qualify-to-build-an-adu-on-my-los-angeles-county-property.json",
+        "bytes": 1742,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kinds-of-adus-can-i-build-garage-conversion-detached-above-garage-jadu-and.json",
+        "bytes": 1881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-big-can-my-adu-be-in-los-angeles-county-and-are-there-height-limits-i-should.json",
+        "bytes": 1868,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-extra-parking-for-an-adu-in-los-angeles-or-can-i-skip-it.json",
+        "bytes": 1774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-approvals-are-required-to-build-an-adu-in-unincorporated-los-an.json",
+        "bytes": 1851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-finance-an-adu-if-i-don-t-have-a-lot-of-cash-on-hand.json",
+        "bytes": 1767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-building-an-adu-in-los-angeles-county-actually-worth-it-financially.json",
+        "bytes": 1745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-and-things-that-can-go-wrong-with-adu-construction.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-setbacks-and-property-line-rules-apply-to-adus-and-how-close-can-i-build-to.json",
+        "bytes": 1879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-my-existing-detached-garage-into-an-adu-in-los-angeles-and-what-sh.json",
+        "bytes": 1815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-building-an-adu-increase-my-property-taxes-a-lot-in-los-angeles-county.json",
+        "bytes": 1714,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-and-construction-milestones-should-i-expect-during-adu-construc.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f.json",
+        "bytes": 1776,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-adus-work-on-multifamily-properties-in-los-angeles-county-duplexes-and-sm.json",
+        "bytes": 1888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-a-two-story-adu-or-an-adu-over-my-garage-in-los-angeles-or-am-i-limi.json",
+        "bytes": 1799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-design-features-should-i-prioritize-to-make-a-small-adu-feel-bigger-and-ren.json",
+        "bytes": 1752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-choosing-a-contractor-for-adu-construction-in-los-an.json",
+        "bytes": 1709,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-while-building-an-adu-in-the-backyard-or-will-constructio.json",
+        "bytes": 1812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-special-adu-rules-i-should-know-about-if-my-property-is-in-the-cit.json",
+        "bytes": 1841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-rent-out-my-adu-long-term-or-on-airbnb-in-los-angeles-county-and-are-there.json",
+        "bytes": 1787,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-m-on-a-tight-budget-how-can-i-keep-adu-costs-as-low-as-possible-withou.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-typical-kitchen-remodel-cost-in-los-angeles-county-and-what-s-a.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-full-kitchen-remodel-usually-take-from-demo-to-completion-and-wh.json",
+        "bytes": 1812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-prioritize-if-my-kitchen-remodel-budget-is-limited-but-i-still-wan.json",
+        "bytes": 1952,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-bathroom-remodel-usually-cost-in-los-angeles-and-what-s-a-fair-p.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-bathroom-remodel-take-and-will-i-be-without-a-shower-the.json",
+        "bytes": 1847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-important-waterproofing-details-in-a-bathroom-remodel-so-i-don.json",
+        "bytes": 1895,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-value-does-a-room-addition-actually-add-to-my-home-and-is-it-worth-the.json",
+        "bytes": 1923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-the-process-of-building-a-room-addition-usually-look-like-from-start-t.json",
+        "bytes": 1919,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-room-addition-usually-take-in-los-angeles-county-including-permi.json",
+        "bytes": 1914,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning.json",
+        "bytes": 1916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-building-an-adu-in-los-angeles-still-worth-it-in-2026-and-what-kind-of-rental.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-basic-eligibility-rules-for-building-an-adu-on-my-property-in-los-a.json",
+        "bytes": 1899,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-the-adu-design-and-permitting-process-look-like-in-los-angeles-and-how.json",
+        "bytes": 1886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-convert-my-existing-garage-into-an-adu-or-build-a-new-detached-unit-and.json",
+        "bytes": 1866,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-choose-a-commercial-construction-contractor-in-los-angeles-for-my-t.json",
+        "bytes": 2055,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-a-commercial-tenant-improvement-ti-project-in-los-an.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-commercial-construction-or-tenant-improvement-projects-in-los-angele.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-code-and-ada-issues-that-trip-up-commercial-construction-pr.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-contractor-s-work-is-behind-schedule-or-not-matching-the.json",
+        "bytes": 1947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-compare-multiple-bids-for-a-remodel-or-addition-when-the-prices-are-ve.json",
+        "bytes": 1901,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-absolutely-hire-a-professional-instead-of-attempting-diy-for-remod.json",
+        "bytes": 1942,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-and-decisions-do-i-need-ready-before-meeting-a-contractor-about.json",
+        "bytes": 1869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-my-family-safe-and-daily-life-manageable-during-a-major-kitchen-o.json",
+        "bytes": 1892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project.json",
+        "bytes": 1888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-full-kitchen-remodel-usually-cost-and-what-drives-the-price-up-o.json",
+        "bytes": 1766,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-m-thinking-about-a-room-addition-but-have-no-idea-wh.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-bathroom-remodel-take-from-demo-to-completion.json",
+        "bytes": 1748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-existing-home-structure-can-handle-a-second-story-addition.json",
+        "bytes": 1750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-do-i-actually-need-for-a-kitchen-or-bathroom-remodel-and-what-happe.json",
+        "bytes": 1868,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-a-general-contractor-is-actually-reliable-and-not-going-to-dis.json",
+        "bytes": 1818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-realistic-timeline-for-designing-and-building-an-adu-on-my-property.json",
+        "bytes": 1683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-seismic-retrofitting-really-necessary-for-my-older-house-or-is-it-mostly-upse.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-per-square-foot-for-an-adu-and-why-do-i-hear-such-diffe.json",
+        "bytes": 1747,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-an-adu-and-just-doing-a-regular-room-addition-for.json",
+        "bytes": 1812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/for-a-kitchen-remodel-how-do-i-prioritize-where-to-spend-vs-where-to-save-withou.json",
+        "bytes": 1797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-disruptive-is-a-bathroom-or-kitchen-remodel-to-daily-life-and-can-we-stay-in.json",
+        "bytes": 1767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar.json",
+        "bytes": 1870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor.json",
+        "bytes": 1817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-ve-had-a-bad-contractor-experience-before-how-do-i-structure-a-new-remodeling.json",
+        "bytes": 1772,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/for-commercial-construction-in-los-angeles-what-s-different-from-renovating-a-ho.json",
+        "bytes": 1905,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-early-signs-that-my-roof-might-need-replacement-instead-of-just-ano.json",
+        "bytes": 1767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-have-ready-before-meeting-a-contractor-about-a-home-ad.json",
+        "bytes": 1733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-los-angeles-how-does-my-budget-change-if-i-want-high-end-finishes-for-a-bathr.json",
+        "bytes": 1850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-phase-a-large-remodel-kitchen-baths-and-additions-to-spread-out-costs-or-i.json",
+        "bytes": 1780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/for-a-garage-renovation-that-s-not-an-adu-what-should-i-consider-if-i-might-want.json",
+        "bytes": 1754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p.json",
+        "bytes": 1782,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/for-los-angeles-seismic-retrofits-and-additions-how-do-local-codes-affect-my-pro.json",
+        "bytes": 1802,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kind-of-maintenance-or-follow-up-should-i-expect-after-a-major-remodel-or-n.json",
+        "bytes": 1782,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-pick-the-right-custom-build-contractor-for-a-major-home-renovation-so-i.json",
+        "bytes": 2061,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-m-planning-a-full-custom-home-renovation-but-don-t-k.json",
+        "bytes": 1943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-custom-home-renovation-usually-take-from-design-to-move-in.json",
+        "bytes": 1859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-custom-home-renovation-or-addition-typically-cost-and-how-do-i-know.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-with-a-custom-home-renovation-and-how-can-i-avoid-a-n.json",
+        "bytes": 1932,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-custom-home-building-process-actually-work-from-empty-lot-to-move-i.json",
+        "bytes": 1834,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-build-a-custom-home-compared-with-buying-an-existing-ho.json",
+        "bytes": 1881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-and-approvals-are-needed-for-a-custom-home-build-or-major-addition.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-a-custom-build-contractor-during-the-first-meeting-so-i-don-t.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-property-is-suitable-for-a-custom-outdoor-kitchen-and-patio.json",
+        "bytes": 1950,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-custom-outdoor-kitchen-usually-cost-and-what-drives-the-price-up-or.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-design-and-build-a-custom-outdoor-kitchen-and-patio-rea.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-watch-out-for-when-putting-a-pool-outdoor-kitchen-and-patio-all-to.json",
+        "bytes": 1890,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-a-concrete-patio-pavers-or-decking-for-a-custom-outdoor.json",
+        "bytes": 1935,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-before-installing-a-custom-inground-pool-in-los-angeles-count.json",
+        "bytes": 1901,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-pool-really-cost-beyond-just-the-shell-price.json",
+        "bytes": 1740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-ongoing-maintenance-responsibilities-and-costs-after-installing-a-c.json",
+        "bytes": 1833,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-building-an-adu-accessory-dwelling-unit-in-los-angeles-county-worth-it-financ.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-rules-and-constraints-i-should-know-before-planning-a-custom-a.json",
+        "bytes": 1865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-design-permit-and-build-a-custom-adu-in-los-angeles-cou.json",
+        "bytes": 1831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-a-custom-home-addition-project-while-i-m-still-livin.json",
+        "bytes": 1866,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-a-custom-build-or-renovation-project-from-constantly-going-over-bu.json",
+        "bytes": 1847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before.json",
+        "bytes": 1861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-diy-reasonable-for-home-improvements-and-when-should-i-definitely-hire-a.json",
+        "bytes": 1855,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-an-outdoor-kitchen-is-worth-it-for-my-backyard-or-am-i-just-spe.json",
+        "bytes": 1496,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-thing-i-should-figure-out-before-hiring-an-outdoor-kitchen-cont.json",
+        "bytes": 1401,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-an-outdoor-kitchen-usually-cost-in-los-angeles-county.json",
+        "bytes": 1407,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-for-an-outdoor-kitchen-in-california.json",
+        "bytes": 1333,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-an-outdoor-kitchen-from-start-to-finish.json",
+        "bytes": 1378,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-outdoor-kitchen-features-are-actually-worth-paying-for.json",
+        "bytes": 1327,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-hold-up-best-for-outdoor-kitchens-in-los-angeles-weather.json",
+        "bytes": 1367,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-an-outdoor-kitchen-on-a-small-patio-or-tight-backyard.json",
+        "bytes": 1315,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-an-outdoor-kitchen-contractor-before-signing-anything.json",
+        "bytes": 1355,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price.json",
+        "bytes": 1327,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-with-an-outdoor-kitchen-project.json",
+        "bytes": 1319,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-a-built-in-grill-or-a-full-custom-outdoor-kitchen.json",
+        "bytes": 1348,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-do-an-outdoor-kitchen-all-at-once-or-in-phases.json",
+        "bytes": 1348,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-an-outdoor-kitchen-from-becoming-a-maintenance-headache.json",
+        "bytes": 1346,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool.json",
+        "bytes": 1292,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-a-contractor-is-experienced-with-outdoor-kitchens-specifically.json",
+        "bytes": 1458,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-biggest-mistake-people-make-when-designing-an-outdoor-kitchen.json",
+        "bytes": 1289,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-plumbing-and-electricity-to-an-existing-patio-for-an-outdoor-kitchen.json",
+        "bytes": 1350,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-outdoor-kitchen-design-works-best-for-entertaining-in-los-angeles.json",
+        "bytes": 1357,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-space-do-i-really-need-for-an-outdoor-kitchen.json",
+        "bytes": 1268,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-during-the-outdoor-kitchen-construction-process.json",
+        "bytes": 1359,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-way-to-get-a-realistic-outdoor-kitchen-estimate-in-pasadena.json",
+        "bytes": 1365,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-choosing-an-outdoor-kitchen-contractor-just-because-their-price-i.json",
+        "bytes": 1360,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-benefits-of-hiring-a-local-los-angeles-county-outdoor-kitchen.json",
+        "bytes": 1420,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-far-in-advance-should-i-start-planning-an-outdoor-kitchen-if-i-want-it-ready.json",
+        "bytes": 1353,
         "purpose": "schema"
       }
     ],
@@ -533,6 +2668,1331 @@
         "path": "help/window-replacement.json",
         "bytes": 638,
         "purpose": "schema"
+      },
+      {
+        "path": "help/coordinating-fence-and-driveway-improvements.json",
+        "bytes": 3297,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/retaining-wall-construction-in-los-angeles-county.json",
+        "bytes": 3150,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-know-before-building-an-adu-in-los-angeles.json",
+        "bytes": 3326,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-retrofitting-and-foundation-repair-in-earthquake-country.json",
+        "bytes": 3412,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/evaluating-solar-installation-during-a-remodel.json",
+        "bytes": 3341,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/air-conditioning-installation-for-additions-and-adus.json",
+        "bytes": 3334,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodeling-options-that-affect-cost-and-performance.json",
+        "bytes": 3396,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/selecting-a-commercial-contractor-for-los-angeles-projects.json",
+        "bytes": 3379,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/window-installation-decisions-that-affect-comfort-and-compliance.json",
+        "bytes": 3255,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/roofing-contractor-questions-for-los-angeles-homes.json",
+        "bytes": 3305,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-post-remodel-interior-painting.json",
+        "bytes": 3228,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodeling-factors-buyers-should-compare.json",
+        "bytes": 3331,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hiring-a-room-addition-contractor-in-los-angeles-county.json",
+        "bytes": 3266,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-tax-financing-and-rental-economics-of-adus.json",
+        "bytes": 3733,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-code-and-green-building-requirements-for-adus.json",
+        "bytes": 3763,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/using-los-angeles-county-s-pre-approved-adu-plans.json",
+        "bytes": 3670,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-timelines-for-adu-additions-in-los-angeles.json",
+        "bytes": 3759,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-inspections-for-adus-in-los-angeles-county.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adus-in-hillside-fire-coastal-and-historic-zones.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/selecting-and-contracting-with-an-adu-additions-contractor.json",
+        "bytes": 3714,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pitfalls-and-risk-management-in-adu-addition-projects.json",
+        "bytes": 3885,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/zoning-and-size-rules-for-adus-in-los-angeles-county.json",
+        "bytes": 3786,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-ranges-and-budget-drivers-for-adu-additions-in-los-angeles.json",
+        "bytes": 3722,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utilities-services-and-site-infrastructure-for-adus.json",
+        "bytes": 3746,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-and-layout-strategies-for-successful-adus.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structural-and-seismic-requirements-for-adu-additions-and-conversions.json",
+        "bytes": 3726,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.json",
+        "bytes": 3605,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adus-as-a-tool-for-housing-affordability-and-supply-in-los-angeles.json",
+        "bytes": 3575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utility-connections-and-infrastructure-considerations-for-adus.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/los-angeles-county-pre-approved-adu-plan-program.json",
+        "bytes": 3650,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/parking-requirements-and-exemptions-for-adus.json",
+        "bytes": 3530,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/definition-and-core-requirements-for-adus-and-jadus-in-los-angeles-county.json",
+        "bytes": 3602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/scale-and-growth-of-adu-development-in-los-angeles-county.json",
+        "bytes": 3555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-patterns-and-lender-perspectives-on-adu-projects.json",
+        "bytes": 3641,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-detached-attached-and-garage-conversion-adus.json",
+        "bytes": 3757,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/zoning-and-permitting-framework-for-adus-in-los-angeles-county.json",
+        "bytes": 3652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-code-and-safety-compliance-for-adus.json",
+        "bytes": 3577,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-adu-construction-costs-and-cost-drivers-in-los-angeles-county.json",
+        "bytes": 3646,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drivers-behind-the-adu-boom-in-los-angeles-county.json",
+        "bytes": 3775,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-income-benchmarks-and-market-positioning-for-los-angeles-county-adus.json",
+        "bytes": 3719,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fire-life-safety-and-access-requirements-for-adus.json",
+        "bytes": 3766,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-garage-conversions-and-new-detached-adus.json",
+        "bytes": 3870,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-code-calgreen-and-energy-code-considerations-for-adus.json",
+        "bytes": 3830,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-la-county-pre-approved-adu-plans-on-design-services.json",
+        "bytes": 3651,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-plan-check-and-construction-timelines-for-adus.json",
+        "bytes": 3856,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/designing-adus-for-long-term-value-and-rental-potential.json",
+        "bytes": 3829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contract-and-project-management-basics-for-adu-engagements.json",
+        "bytes": 3792,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-components-and-budget-planning-for-adu-design-and-build.json",
+        "bytes": 3889,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/due-diligence-on-adu-contractors-local-experience.json",
+        "bytes": 3808,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.json",
+        "bytes": 3933,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-and-professional-credentials-for-adu-design-contractors.json",
+        "bytes": 3893,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/incorporating-accessibility-and-aging-in-place-features-in-adus.json",
+        "bytes": 3676,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utility-capacity-connections-and-adu-design-in-la-county.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/consumer-protections-payments-and-disputes-in-california-bathroom-remodeling.json",
+        "bytes": 3806,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/water-and-energy-efficiency-standards-impacting-bathroom-remodels.json",
+        "bytes": 3917,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hazardous-materials-lead-and-asbestos-considerations-in-bathroom-demolition.json",
+        "bytes": 3835,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-timelines-and-scheduling-factors-for-bathroom-overhauls.json",
+        "bytes": 3809,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/evaluating-bathroom-contractors-via-reviews-and-references.json",
+        "bytes": 3904,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accessibility-and-universal-design-in-bathroom-overhauls.json",
+        "bytes": 3851,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waterproofing-standards-and-practices-for-showers-and-wet-zones.json",
+        "bytes": 3918,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-ranges-and-drivers-for-los-angeles-bathroom-overhauls.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-codes-and-safety-standards-for-bathroom-renovations.json",
+        "bytes": 3764,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-contract-and-documentation-requirements-in-california-bathroom-projects.json",
+        "bytes": 3790,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-and-bonding-expectations-for-bathroom-contractors.json",
+        "bytes": 3806,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/required-licensing-for-bathroom-overhaul-contractors-in-los-angeles-county.json",
+        "bytes": 3657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permit-requirements-and-responsibilities-for-bathroom-overhauls.json",
+        "bytes": 3707,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/noise-dust-and-occupant-comfort-during-bathroom-remodeling.json",
+        "bytes": 3648,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accessibility-and-aging-in-place-considerations-in-bathroom-design.json",
+        "bytes": 3843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-and-water-efficiency-requirements-shaping-bathroom-remodels.json",
+        "bytes": 3891,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/manufacturer-warranties-and-workmanship-guarantees-in-bathroom-projects.json",
+        "bytes": 3873,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/assessing-contractor-experience-portfolios-and-references.json",
+        "bytes": 3888,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-insurance-and-permits-for-bathroom-remodeling-in-los-angeles-county.json",
+        "bytes": 4072,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-timelines-and-construction-sequencing-for-bathroom-renovels.json",
+        "bytes": 3831,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-structures-and-budget-drivers-for-la-county-bathroom-remodels.json",
+        "bytes": 3951,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-and-inspection-considerations-for-los-angeles-bathroom-renovations.json",
+        "bytes": 3922,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-improvement-contract-and-payment-practices-under-california-rules.json",
+        "bytes": 3680,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/local-permitting-and-jurisdictional-nuances-within-los-angeles-county.json",
+        "bytes": 3810,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/risks-of-unlicensed-work-and-consumer-protection-guidance.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waste-management-recycling-and-environmental-compliance-in-bathroom-projects.json",
+        "bytes": 3972,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/waterproofing-and-moisture-control-standards-in-bathroom-remodeling.json",
+        "bytes": 3820,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/economic-outlook-and-forecast-for-los-angeles-commercial-construction.json",
+        "bytes": 3731,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/environmental-and-seismic-design-drivers-in-los-angeles-commercial-construction.json",
+        "bytes": 3660,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/office-vs-retail-vs-industrial-segment-specific-dynamics-in-la-commercial-constr.json",
+        "bytes": 3751,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/regional-workforce-development-and-skilled-labor-supply-for-la-commercial-constr.json",
+        "bytes": 3660,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainability-and-green-building-requirements-in-los-angeles-commercial-constru.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adaptive-reuse-as-a-strategic-option-in-los-angeles-commercial-development.json",
+        "bytes": 3748,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stakeholder-and-community-engagement-in-southern-california-commercial-projects.json",
+        "bytes": 3627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/regulatory-and-permitting-complexity-in-los-angeles-county-commercial-projects.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-risks-and-challenges-in-southern-california-commercial-construction.json",
+        "bytes": 3713,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/soft-costs-and-non-construction-expenses-in-la-commercial-development.json",
+        "bytes": 3747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-cost-per-square-foot-benchmarks-in-los-angeles-county.json",
+        "bytes": 3714,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/labor-market-and-workforce-dynamics-in-los-angeles-commercial-construction.json",
+        "bytes": 3738,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/market-size-and-demand-drivers-for-commercial-construction-in-california-and-los.json",
+        "bytes": 3758,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/transit-oriented-development-and-infrastructure-impacts-on-commercial-projects.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hoa-and-neighborhood-overlay-impacts-on-custom-residential-design.json",
+        "bytes": 3881,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-and-energy-compliance-for-custom-home-builds-in-los-angeles.json",
+        "bytes": 3838,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/regulatory-considerations-for-custom-outdoor-patios-and-hardscapes.json",
+        "bytes": 3850,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-and-geotechnical-drivers-of-custom-home-and-pool-design.json",
+        "bytes": 3943,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structural-and-zoning-constraints-for-custom-home-additions.json",
+        "bytes": 3924,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accessibility-and-aging-in-place-factors-in-custom-renovations.json",
+        "bytes": 3897,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/regulatory-framework-for-custom-adu-builds-in-los-angeles.json",
+        "bytes": 3846,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/consumer-protection-and-contracting-practices-in-custom-residential-construction.json",
+        "bytes": 3976,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/energy-and-sustainability-standards-for-custom-renovations-and-additions.json",
+        "bytes": 4004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-and-safety-requirements-for-custom-outdoor-kitchens.json",
+        "bytes": 3910,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-insurance-and-bonding-for-custom-build-contractors-in-los-angeles-coun.json",
+        "bytes": 3740,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-and-zoning-for-custom-home-renovations-in-los-angeles.json",
+        "bytes": 3908,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-safety-and-permitting-for-custom-pool-installations.json",
+        "bytes": 3933,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-and-accessibility-constraints-on-driveway-design.json",
+        "bytes": 3780,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-driveways-on-property-value-and-curb-appeal.json",
+        "bytes": 3806,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utilities-trees-and-site-constraints-in-driveway-planning.json",
+        "bytes": 3826,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/driveway-installation-cost-ranges-in-los-angeles-county.json",
+        "bytes": 3693,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-driveway-drainage-and-runoff-management.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/evaluating-and-choosing-a-qualified-driveway-contractor.json",
+        "bytes": 3721,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/driveway-maintenance-and-lifecycle-expectations-by-material.json",
+        "bytes": 3849,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/best-driveway-materials-for-los-angeles-county-conditions.json",
+        "bytes": 3903,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-structural-and-drainage-design-considerations-for-driveways.json",
+        "bytes": 3785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/environmental-and-stormwater-issues-for-driveways-in-los-angeles.json",
+        "bytes": 3932,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/decorative-and-architectural-driveway-finish-options.json",
+        "bytes": 3741,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-and-inspection-requirements-for-driveways-in-los-angeles-county.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/risks-of-unlicensed-or-uninsured-driveway-contractors-in-california.json",
+        "bytes": 3696,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-driveway-warranties-and-contracts-in-california.json",
+        "bytes": 3871,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-lines-shared-fences-and-legal-boundaries-in-california.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-los-angeles-climate-and-soil-on-fence-performance.json",
+        "bytes": 3845,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-structure-and-pricing-factors-for-fences-in-los-angeles-county.json",
+        "bytes": 3986,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/neighborhood-hoa-and-design-controls-on-fencing-in-los-angeles.json",
+        "bytes": 3860,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/security-and-privacy-driven-fence-design-in-los-angeles.json",
+        "bytes": 4003,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-fence-materials-and-applications-in-los-angeles-county.json",
+        "bytes": 3867,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-workflow-and-timeline-for-residential-fencing-projects.json",
+        "bytes": 3862,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-and-insurance-rules-for-fencing-contractors-in-los-angeles-county.json",
+        "bytes": 3874,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-and-liability-issues-in-fencing-projects.json",
+        "bytes": 3914,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pool-and-spa-fence-safety-codes-in-los-angeles-county.json",
+        "bytes": 3858,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/criteria-for-choosing-a-fencing-contractor-in-los-angeles-county.json",
+        "bytes": 3947,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permit-and-zoning-requirements-for-fences-in-los-angeles-county.json",
+        "bytes": 3779,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/environmental-and-sustainability-factors-in-fencing.json",
+        "bytes": 3976,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-issues-and-real-estate-in-los-angeles.json",
+        "bytes": 3832,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/local-codes-and-seismic-standards-for-foundation-repair.json",
+        "bytes": 3911,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/soil-and-expansive-clay-impacts-on-foundations.json",
+        "bytes": 4008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-considerations-in-foundation-repair.json",
+        "bytes": 3881,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/assessing-bids-and-pricing-for-foundation-repair.json",
+        "bytes": 3858,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-foundation-issues-in-los-angeles-county.json",
+        "bytes": 3918,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-foundation-repair-techniques-in-los-angeles.json",
+        "bytes": 4070,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-inspections-for-foundation-work.json",
+        "bytes": 3949,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-and-professional-credentials-to-verify.json",
+        "bytes": 3923,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drainage-and-moisture-control-around-foundations.json",
+        "bytes": 3911,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/warranties-and-longevity-of-foundation-repairs.json",
+        "bytes": 3898,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hillside-foundation-repair-considerations.json",
+        "bytes": 3879,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-involve-a-structural-engineer.json",
+        "bytes": 3835,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lead-based-paint-obligations-in-interior-repainting.json",
+        "bytes": 3935,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/color-and-lighting-considerations-in-interior-painting.json",
+        "bytes": 3775,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/role-of-online-reviews-in-los-angeles-interior-painting-market.json",
+        "bytes": 3768,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/industry-quality-standards-for-interior-paint-finishes.json",
+        "bytes": 3829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/voc-regulations-and-paint-choices-under-scaqmd-rule-1113.json",
+        "bytes": 3692,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/indoor-air-quality-considerations-for-interior-paint.json",
+        "bytes": 4000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/standards-based-surface-preparation-for-interior-painting.json",
+        "bytes": 3963,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-code-and-regulatory-requirements-for-interior-painting.json",
+        "bytes": 3753,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/residential-vs-commercial-interior-painting-considerations.json",
+        "bytes": 3812,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contracts-warranties-and-change-management-in-painting-projects.json",
+        "bytes": 3810,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-drivers-for-interior-painting-in-the-los-angeles-market.json",
+        "bytes": 3858,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/osha-driven-safety-practices-for-interior-painting-crews.json",
+        "bytes": 3869,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/scheduling-and-phasing-interior-painting-in-occupied-spaces.json",
+        "bytes": 3839,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-cabinet-trends-shaping-la-kitchen-remodels.json",
+        "bytes": 3845,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-appliances-and-connected-tech-in-la-kitchens.json",
+        "bytes": 3890,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-title-24-and-calgreen-on-la-kitchen-lighting-and-appliances.json",
+        "bytes": 3897,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-and-inspection-timelines-for-la-kitchen-remodels.json",
+        "bytes": 4002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/space-planning-in-la-kitchens-layouts-and-flow.json",
+        "bytes": 3948,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-mid-range-and-upscale-kitchen-remodel-costs-in-la-county.json",
+        "bytes": 3879,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/countertop-material-trade-offs-for-la-kitchen-remodels.json",
+        "bytes": 3802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/current-kitchen-design-trends-in-los-angeles.json",
+        "bytes": 3726,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-la-county-codes-and-permits-for-kitchen-remodeling.json",
+        "bytes": 4082,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plumbing-gas-and-ventilation-challenges-in-la-kitchen-reconfigs.json",
+        "bytes": 3973,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/risk-and-contingency-planning-for-la-kitchen-remodels.json",
+        "bytes": 3865,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structural-and-seismic-factors-in-opening-la-kitchens.json",
+        "bytes": 4037,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainability-and-indoor-air-quality-in-la-kitchen-remodels.json",
+        "bytes": 3863,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/checking-a-contractor-s-license-in-california.json",
+        "bytes": 3069,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-durable-kitchen-materials.json",
+        "bytes": 3044,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodel-timelines-and-scheduling.json",
+        "bytes": 3081,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-kitchen-remodel-bids-fairly.json",
+        "bytes": 3135,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reviewing-portfolios-and-references.json",
+        "bytes": 3089,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-kitchen-remodel-contract.json",
+        "bytes": 3253,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/efficiency-upgrades-during-a-kitchen-remodel.json",
+        "bytes": 3129,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hidden-conditions-in-older-kitchens.json",
+        "bytes": 3173,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-and-jobsite-risk-controls.json",
+        "bytes": 3062,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permit-rules-for-kitchen-remodeling-projects.json",
+        "bytes": 3205,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-layout-changes-affect-contractor-choice.json",
+        "bytes": 3122,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-kitchen-remodel-costs-in-los-angeles-county.json",
+        "bytes": 3178,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/remodeling-older-and-historic-kitchens.json",
+        "bytes": 3191,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ada-and-california-accessibility-standards-for-parking-lot-paving-and-striping.json",
+        "bytes": 3824,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stormwater-and-environmental-compliance-for-asphalt-paving-in-los-angeles-county.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-asphalt-and-concrete-paving-materials-for-los-angeles-projects.json",
+        "bytes": 3792,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/air-quality-and-emissions-constraints-on-asphalt-paving-in-los-angeles.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/use-of-recycled-materials-and-sustainable-methods-in-local-paving.json",
+        "bytes": 3818,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budgeting-and-capital-planning-for-pavement-rehabilitation-and-replacement.json",
+        "bytes": 3953,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/asphalt-maintenance-strategy-and-life-cycle-planning-in-los-angeles-s-climate.json",
+        "bytes": 3862,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pavement-design-and-typical-thickness-for-los-angeles-parking-lots.json",
+        "bytes": 3680,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/different-paving-priorities-for-commercial-hoa-and-municipal-owners.json",
+        "bytes": 3962,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-bonding-and-insurance-requirements-for-paving-contractors-in-los-angel.json",
+        "bytes": 3874,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/quality-control-and-testing-standards-for-paving-projects.json",
+        "bytes": 3752,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/safety-and-traffic-control-requirements-for-paving-work-zones.json",
+        "bytes": 3773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-and-inspection-considerations-for-paving-and-driveway-projects.json",
+        "bytes": 3877,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-code-requirements-for-retaining-walls-in-los-angeles-county.json",
+        "bytes": 3594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/evaluation-and-repair-approaches-for-failing-retaining-walls.json",
+        "bytes": 3742,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/climate-and-soil-impacts-on-retaining-wall-materials-and-longevity.json",
+        "bytes": 3762,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-line-and-urban-context-issues-for-retaining-walls.json",
+        "bytes": 3734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drainage-requirements-and-practices-for-retaining-walls.json",
+        "bytes": 3535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-retaining-wall-types-and-when-each-is-used.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cost-ranges-and-key-cost-drivers-for-retaining-walls.json",
+        "bytes": 3653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/construction-best-practices-and-quality-control-for-retaining-walls.json",
+        "bytes": 3873,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/landscape-grade-vs-structural-retaining-walls.json",
+        "bytes": 3676,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/licensing-and-qualifications-for-retaining-wall-contractors.json",
+        "bytes": 3833,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/geotechnical-studies-for-hillside-retaining-walls.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-and-hillside-design-factors-for-retaining-walls.json",
+        "bytes": 3816,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/digital-tools-and-project-management-in-modern-roofing.json",
+        "bytes": 3846,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cool-roofing-energy-savings-and-compliance-in-la-county.json",
+        "bytes": 3795,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/insurance-weather-risk-and-resilient-roofing-choices.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/reroofing-with-rooftop-solar-in-los-angeles-county.json",
+        "bytes": 3815,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/sustainable-and-energy-efficient-roofing-drivers-in-la-county.json",
+        "bytes": 3993,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/smart-roofing-technologies-and-their-role-in-los-angeles.json",
+        "bytes": 3856,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/coastal-vs-inland-roofing-choices-in-los-angeles-county.json",
+        "bytes": 3967,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/roof-maintenance-best-practices-for-los-angeles-conditions.json",
+        "bytes": 3741,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/los-angeles-county-reroofing-codes-and-permits.json",
+        "bytes": 3787,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aesthetics-curb-appeal-and-roofing-design-in-los-angeles.json",
+        "bytes": 3952,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-and-emerging-roofing-materials-in-los-angeles.json",
+        "bytes": 3986,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/green-roofs-and-vegetative-systems-on-los-angeles-buildings.json",
+        "bytes": 3833,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fire-resistant-roofing-and-wildfire-risk-in-los-angeles-county.json",
+        "bytes": 3753,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-title-24-energy-standards-on-room-additions.json",
+        "bytes": 3794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-additions-vs-adus-and-garage-conversions-in-los-angeles.json",
+        "bytes": 3816,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/zoning-constraints-on-home-additions-in-los-angeles-county.json",
+        "bytes": 3819,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-addition-cost-ranges-and-cost-drivers-in-los-angeles.json",
+        "bytes": 3832,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/evaluating-and-choosing-a-room-additions-contractor.json",
+        "bytes": 3739,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/typical-timeline-and-workflow-for-a-room-addition.json",
+        "bytes": 3855,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/code-and-seismic-standards-governing-room-additions.json",
+        "bytes": 3927,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/contract-and-payment-best-practices-for-room-additions.json",
+        "bytes": 3761,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-strategies-for-seamless-room-additions.json",
+        "bytes": 3852,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/financing-strategies-for-room-additions.json",
+        "bytes": 3824,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/inspections-and-quality-control-in-room-addition-projects.json",
+        "bytes": 3711,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-approvals-for-room-additions-in-los-angeles-county.json",
+        "bytes": 3818,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/risks-of-unpermitted-room-additions-in-los-angeles-county.json",
+        "bytes": 3854,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impact-of-seismic-retrofits-on-tenants-and-operations-in-la.json",
+        "bytes": 3740,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-los-angeles-retrofit-rules-compare-to-other-california-cities.json",
+        "bytes": 3800,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permitting-and-enforcement-for-seismic-retrofits-in-los-angeles.json",
+        "bytes": 3750,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/los-angeles-county-requirements-for-older-concrete-tilt-up-buildings.json",
+        "bytes": 3616,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/residential-seismic-retrofit-costs-in-los-angeles.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deadlines-and-process-under-los-angeles-soft-story-retrofit-rules.json",
+        "bytes": 3493,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-los-angeles-owners-retrofit-even-when-not-yet-required.json",
+        "bytes": 3754,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-retrofit-strategies-for-los-angeles-wood-frame-soft-story-buildings.json",
+        "bytes": 3618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-due-diligence-for-acquisitions-in-los-angeles-county.json",
+        "bytes": 3743,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/emerging-trends-in-los-angeles-county-seismic-retrofitting.json",
+        "bytes": 3863,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-seismic-retrofitting-means-in-the-los-angeles-county-context.json",
+        "bytes": 3773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/emerging-la-county-rules-for-high-rise-nonductile-concrete-retrofits.json",
+        "bytes": 3671,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seismic-performance-objectives-guiding-la-retrofit-projects.json",
+        "bytes": 3808,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/which-los-angeles-area-buildings-must-be-retrofitted-by-law.json",
+        "bytes": 3625,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nem-3-0-and-optimal-solar-system-design-in-los-angeles-county.json",
+        "bytes": 3700,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/title-24-requirements-and-solar-on-new-construction-in-los-angeles.json",
+        "bytes": 3805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/utility-incentives-and-rules-affecting-solar-roi-in-los-angeles-county.json",
+        "bytes": 3963,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-value-and-transaction-effects-of-solar-in-los-angeles.json",
+        "bytes": 3849,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/impacts-of-home-battery-storage-on-los-angeles-solar-projects.json",
+        "bytes": 3889,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-resource-climate-and-urban-design-realities-in-los-angeles.json",
+        "bytes": 3773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/economics-and-financing-of-residential-solar-in-los-angeles-county.json",
+        "bytes": 3873,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/key-solar-contract-and-consumer-protection-issues-in-los-angeles.json",
+        "bytes": 3861,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-and-multifamily-solar-considerations-in-los-angeles-county.json",
+        "bytes": 3924,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/interconnection-requirements-and-constraints-for-la-county-solar.json",
+        "bytes": 3793,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.json",
+        "bytes": 3889,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/permits-and-codes-governing-residential-solar-in-los-angeles-county.json",
+        "bytes": 3901,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-on-existing-structures-structural-and-interconnection-issues.json",
+        "bytes": 3820,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/incentives-and-tax-policy-impacts-on-la-solar-projects.json",
+        "bytes": 3907,
+        "purpose": "schema"
       }
     ],
     "locations": [
@@ -680,47 +4140,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16687,
+        "bytes": 22572,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 30637,
+        "bytes": 36402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 23348,
+        "bytes": 29261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 15529,
+        "bytes": 21094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11989,
+        "bytes": 17629,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 43377,
+        "bytes": 655384,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 44384,
+        "bytes": 699984,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 18146,
+        "bytes": 23897,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 17293,
+        "bytes": 22921,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -757,32 +4217,32 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 47351,
+        "bytes": 389805,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 13836,
+        "bytes": 106891,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 13836,
+        "bytes": 106891,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2574,
+        "bytes": 2576,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 12592,
+        "bytes": 136418,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 12658,
+        "bytes": 113321,
         "purpose": "AI sitemap"
       },
       {
