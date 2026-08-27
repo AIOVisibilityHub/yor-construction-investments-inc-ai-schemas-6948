@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T20:02:36.339Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "YOR Construction & Investments, Inc.",
+    "canonicalUrl": "https://yorconstruction.aiovisibility.net",
+    "primaryWebsiteUrl": "https://yorconstruction.com",
+    "aiDataHub": "https://yorconstruction.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "YOR Construction & Investments, Inc. — canonical website",
+      "url": "https://yorconstruction.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "YOR Construction & Investments, Inc. — AI Data Hub",
+      "url": "https://yorconstruction.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
+    }
+  }
+}

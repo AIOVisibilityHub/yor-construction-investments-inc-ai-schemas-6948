@@ -1,0 +1,802 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T20:02:36.341Z",
+  "client": {
+    "name": "YOR Construction & Investments, Inc.",
+    "canonicalUrl": "https://yorconstruction.aiovisibility.net",
+    "primaryWebsiteUrl": "https://yorconstruction.com",
+    "pagesUrl": "https://yorconstruction.aiovisibility.net",
+    "phone": "+1-888-457-7746",
+    "locations": [
+      {
+        "name": "YOR Construction & Investments, Inc. Office",
+        "address": "12135 Miranda Street, Suite 204",
+        "city": "Valley Village",
+        "state": "CA",
+        "zip": "91607",
+        "phone": "+1-888-457-7746"
+      },
+      {
+        "name": "YOR Construction - Van Nuys Office",
+        "address": "6308 Woodman Ave, Suite 210",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip": "91401",
+        "phone": "+1-818-925-6810"
+      },
+      {
+        "name": "YOR Construction - Tarzana Service Location",
+        "address": "18627 Topham St",
+        "city": "Tarzana",
+        "state": "CA",
+        "zip": "91335",
+        "phone": "+1-818-925-6810"
+      }
+    ],
+    "services": [
+      "Additions",
+      "Bathroom Remodeling",
+      "Kitchen Remodeling",
+      "Pools",
+      "Patios and Decks",
+      "Patio Enclosures and Covers",
+      "Roofing",
+      "Cement and Concrete Work",
+      "Stucco",
+      "Foundation Repair",
+      "Paving",
+      "Accessory Dwelling Units (ADUs)",
+      "Patio Planning and Installation",
+      "Deck Construction",
+      "Patio Covers",
+      "Interior Paint Repair",
+      "Driveway Construction",
+      "Fences",
+      "Solar System Installation",
+      "Retaining Walls",
+      "Window Installation and Glass Replacement",
+      "Seismic Retrofitting and House Bolting",
+      "Commercial Construction",
+      "Gas Station Conversions",
+      "New Building Construction",
+      "Foundation and Framing",
+      "Full House Remodeling",
+      "Exterior Painting",
+      "Air Conditioning/HVAC Services"
+    ],
+    "cities": [
+      "Los Angeles",
+      "Tarzana",
+      "Burbank",
+      "Thousand Oaks",
+      "West Hollywood",
+      "Pasadena",
+      "Simi Valley",
+      "Glendale",
+      "Malibu",
+      "Rancho Palos Verdes",
+      "Van Nuys",
+      "Reseda",
+      "Calabasas",
+      "Hollywood",
+      "South Pasadena",
+      "North Hollywood",
+      "West Covina",
+      "Bel Air",
+      "Beverly Hills",
+      "Brentwood (Los Angeles)",
+      "Canoga Park",
+      "Chatsworth",
+      "Encino",
+      "Granada Hills",
+      "Lake Balboa",
+      "Mission Hills",
+      "North Glendale",
+      "North Hills",
+      "Northridge",
+      "Pacific Palisades",
+      "Panorama City",
+      "Valley Village",
+      "Tarzana "
+    ]
+  },
+  "package": {
+    "totalFiles": 128,
+    "totalBytes": 451696,
+    "stats": {
+      "faqs": 38,
+      "helpArticles": 38,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 2,
+      "products": 0,
+      "locations": 3,
+      "awards": 2,
+      "caseStudies": 7,
+      "organization": 1,
+      "press": 4,
+      "reviews": 9,
+      "qna": 0,
+      "research": 0,
+      "total": 105
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/how-to-size-an-ac-unit.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-live-on-site-with-an-adu.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-step-in-remodeling.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-until-concrete-is-walkable.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-needed.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-permits-required-for-decks.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-fails-a-deck-inspection.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/cost-of-concrete-vs-asphalt-driveway.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/license-verification.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-constitutes-a-construction-emergency.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-paint-for-coastal-homes.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-fence-for-security.json",
+        "bytes": 614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-floors-for-pets-kids.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/signs-of-foundation-issues.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/signs-of-foundation-problems.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/risks-of-unlicensed-framers.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-budget-for-a-full-remodel.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-did-my-garage-door-spring-break.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-repair-it-myself.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-garage-door-should-i-choose.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-roi-projects-in-ca.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-to-repaint-interiors.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-kitchen-remodel-cost.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-avoid-locksmith-scams.json",
+        "bytes": 603,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-questions-to-ask-patio-contractors.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/recommended-materials-for-patio-covers.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/best-materials-for-southern-ca-climates.json",
+        "bytes": 752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/benefits-of-enclosures-vs-covers.json",
+        "bytes": 705,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-verify-paving-contractor-licenses.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/emergency-service-availability.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/permits-needed-for-retaining-walls.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-roof-last.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/converting-garage-to-living-space.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-seismic-retrofitting.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-evaluate-my-roof-for-solar.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/traditional-vs-synthetic-stucco.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-chemicals-shouldn-t-go-in-the-skimmer.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-window-installation-take.json",
+        "bytes": 607,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/roofing-service.json",
+        "bytes": 2879,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/kobi-raham-profile.json",
+        "bytes": 2519,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/kobi-raham-los-angeles.json",
+        "bytes": 2517,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/llm-structured-data.json",
+        "bytes": 1777,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/air-conditioning.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accessory-dwelling-units.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodeling.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/concrete-services.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/commercial-buildouts.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deck-building.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deck-safety.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/driveway-installation.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/electrical-work.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/emergency-services.json",
+        "bytes": 681,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/exterior-painting.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fencing.json",
+        "bytes": 627,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flooring.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-work.json",
+        "bytes": 637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/foundation-repair.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/framing.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/whole-home-renovation.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/garage-door-repairs.json",
+        "bytes": 781,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/garage-door-replacements.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-renovation.json",
+        "bytes": 642,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/interior-painting.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/kitchen-remodeling.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/locksmith-services.json",
+        "bytes": 641,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/patio-construction.json",
+        "bytes": 662,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/patio-covers.json",
+        "bytes": 660,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/patio-deck-construction.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/patio-enclosures.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/paving-services.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plumbing-services.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/retaining-walls.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/roofing.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-conversions.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/earthquake-retrofitting.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/solar-panel-installation.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stucco-application.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/swimming-pool-maintenance.json",
+        "bytes": 663,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/window-replacement.json",
+        "bytes": 638,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/yor-construction-investments-inc-office.json",
+        "bytes": 378,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/yor-construction-van-nuys-office.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations/yor-construction-tarzana-service-location.json",
+        "bytes": 355,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/gaf-master-elite-contractor.json",
+        "bytes": 247,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/trex-platinum-recognition.json",
+        "bytes": 243,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/master-bathroom-remodel.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/painting-crown-molding.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/full-house-remodel.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/master-bath-renovation.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/whole-home-remodel.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/fence-installation-la.json",
+        "bytes": 491,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/modern-bathroom-project.json",
+        "bytes": 463,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/yor-construction-investments-inc-organization.json",
+        "bytes": 2834,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/yor-construction-investments.json",
+        "bytes": 415,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/y-o-r-construction-profile.json",
+        "bytes": 362,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/testimonials-page.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/company-facebook-page.json",
+        "bytes": 348,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/great-for-multiple-projects-1-review.json",
+        "bytes": 385,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/bathroom-remodel-success-2-review.json",
+        "bytes": 365,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/adu-stucco-paint-excellence-3-review.json",
+        "bytes": 376,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/bathroom-remodel-on-time-4-review.json",
+        "bytes": 350,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/shower-bathroom-fixes-5-review.json",
+        "bytes": 352,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-remodel-guided-well-6-review.json",
+        "bytes": 332,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-remodel-success-7-review.json",
+        "bytes": 372,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/adu-build-with-delays-8-review.json",
+        "bytes": 367,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/roofing-job-satisfaction-9-review.json",
+        "bytes": 364,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 22570,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 36400,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 29261,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 21094,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 17629,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 49023,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 49976,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 23897,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 22921,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 323,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 2404,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 382,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 262,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1501,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 47037,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 13688,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 13688,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 2426,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 12444,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 12658,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1072,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
+    }
+  }
+}
