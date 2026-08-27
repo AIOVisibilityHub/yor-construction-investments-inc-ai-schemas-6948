@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Which Los Angeles-area buildings must be retrofitted by law?",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Mandatory seismic retrofit requirements in the Los Angeles region depend on building type and jurisdiction. In the City of Los Angeles, the municipal soft‑story ordinance identified approximately 13,500 existing wood‑frame buildings as subject to mandatory retrofit, according to city program summaries compiled by structural engineering and code-tracking services. The ordinance applies to wood‑frame structures with four or more dwelling units, a construction permit prior to January 1, 1978, and a soft, weak, or open front condition at the ground level where parking or open space exists with one or more stories above. The city also has a separate mandatory program for certain older nonductile concrete buildings, with longer compliance timelines. For Los Angeles County (outside the City of Los Angeles), Chapter 95 of the Los Angeles County Building Code covers concrete tilt‑up buildings for which permits were issued before April 13, 1975. LA County Public Works explains that these buildings must be identified, structurally analyzed, anchored, and, where deficiencies are found, either strengthened or demolished. Beyond tilt‑ups, the County Board of Supervisors has introduced an ordinance to mandate seismic retrofits for certain high‑rise nonductile concrete buildings in unincorporated areas or those owned by the County itself, requiring evaluations and retrofits within set periods from issuance of a compliance order. Because municipal codes differ, a building in Los Angeles County may be subject to the City of Los Angeles soft‑story program, a County tilt‑up requirement, a high‑rise nonductile concrete mandate, or none of these, depending on its location, construction type, and age. Building owners typically confirm applicability by reviewing local ordinances and contacting the relevant building department.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

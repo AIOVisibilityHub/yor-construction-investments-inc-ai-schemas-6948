@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Commercial and multifamily solar considerations in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "## Commercial and multifamily solar vs. residential in Los Angeles Commercial and multifamily solar projects in Los Angeles County differ from residential systems in terms of **scale, rate structures, metering configurations, and financing options**. Commercial installations often involve larger kW capacities, more complex electrical infrastructure, and engineered mounting solutions for flat or low‑slope roofs. Building codes and structural standards require more detailed engineering for large arrays, including wind uplift and seismic considerations, as seen in structural guidance for commercial rooftops. Electric rate structures for commercial customers in LADWP and Southern California Edison territories typically include **demand charges** based on peak kW usage in addition to energy (kWh) charges. Industry case studies and utility program materials show that commercial solar can reduce both energy consumption and, when combined with storage or load management, demand peaks. This changes the economics and sizing approach compared with purely kWh‑focused residential designs. For multifamily properties, metering arrangements—master‑metered vs. individually metered units—determine whether traditional net metering, **virtual net metering**, or other allocation mechanisms apply. California policies have created pathways for distributing solar benefits among tenants in certain multifamily and affordable housing contexts, but program eligibility and administrative requirements add complexity. Financing options also diverge. Commercial owners may use capital leases, operating leases, PPAs, or specialized financing such as **PACE (Property Assessed Clean Energy)**, depending on jurisdictional availability and lender requirements. Tax treatment differs as well: businesses can leverage accelerated depreciation and federal tax credits, while residential owners rely primarily on the Investment Tax Credit. As a result, commercial and multifamily solar planning in LA County typically involves detailed financial modeling, coordination with lenders, and careful review of tenant and common‑area load profiles.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

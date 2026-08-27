@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Financing Strategies for Room Additions",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Homeowners in Los Angeles County typically use several established **financing mechanisms** for room additions, as documented by mortgage industry guidance, consumer finance regulators, and housing agencies. Traditional options include **cash-out mortgage refinancing**, where the homeowner replaces an existing mortgage with a larger loan and uses the difference to fund construction. Mortgage lender and Consumer Financial Protection Bureau (CFPB) resources note that this can offer lower interest rates than unsecured credit but extends mortgage debt. Another common tool is a **home equity loan or home equity line of credit (HELOC)**, which uses available equity as collateral. Bank and credit union disclosures explain that home equity loans provide a fixed lump sum at a fixed rate, while HELOCs function as revolving credit with variable rates; both typically require sufficient equity and acceptable debt-to-income ratios. Some California homeowners have used **Property Assessed Clean Energy (PACE)** programs for energy-related improvements, but state and consumer protection agencies caution that PACE financing attaches as a property tax assessment and can affect refinancing or sale. For broad room additions, PACE may only apply to eligible energy-efficiency components. Contractor-arranged financing through third-party lenders is also common, though regulators and consumer advocates advise carefully reviewing interest rates, fees, and lien implications. The FHA’s **203(k) rehabilitation loan** and similar renovation loan products allow purchase or refinance plus renovation funds in a single mortgage, subject to federal program rules and lender participation. Financial planners generally recommend comparing total borrowing costs, understanding whether financing is secured by the home, and preserving an emergency reserve. Local government housing programs sometimes offer limited grants or low-interest loans for rehabilitation or accessibility improvements, but these are often income-restricted and may not cover large discretionary additions.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

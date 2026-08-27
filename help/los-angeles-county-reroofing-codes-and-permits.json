@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Los Angeles County reroofing codes and permits",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Reroofing in Los Angeles County is regulated primarily under the California Building Code (CBC) as locally amended, and enforced by Los Angeles County Public Works and local city building departments. The County’s Building Code Manual for reroofing, for example, specifies that changing an existing roof to **metal roofing** may require prior approval from the Department of Regional Planning, due to potential glare, aesthetics, and zoning considerations, and sets conditions for roofs with or without solar energy systems (as outlined in the County’s 2023 Building Code Manual for Reroofing on Roofs With or Without Solar Energy Systems). Building officials use these manuals to interpret and apply CBC Chapter 15 (Roof Assemblies and Rooftop Structures), including structural load, fire classification, and weather protection standards. Permits are typically required whenever more than a limited area of roofing is replaced, when the roof covering type is changed (e.g., from asphalt shingle to tile or metal), or when new structural work or rooftop equipment is added. The County guidance stresses verifying existing structural capacity for heavier materials, roof slope and drainage compliance, and ensuring that reroofing does not compromise existing solar installations or required roof access pathways used by fire departments. Energy codes, including California’s Title 24, also apply; these require minimum cool-roof reflectance and emittance values in many low-slope and some steep-slope applications in climate zones that include Los Angeles. Local jurisdictions may add wildfire-related provisions in very high fire hazard severity zones, requiring Class A fire-rated coverings. Homeowners and contractors are generally expected to submit manufacturer specifications, product listings, and sometimes structural calculations when applying for reroofing permits, ensuring that installations follow tested assemblies and code-listed fastening patterns. All work is subject to inspection prior to final approval.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

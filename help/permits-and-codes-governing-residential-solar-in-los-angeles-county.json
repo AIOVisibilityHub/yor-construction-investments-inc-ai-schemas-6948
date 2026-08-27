@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Permits and codes governing residential solar in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "## Permitting and code requirements for LA County residential solar Residential solar projects in Los Angeles County must comply with both **California statewide codes** and local jurisdiction requirements. California’s Building Standards Code incorporates the **California Electrical Code (CEC)** and **California Building Code (CBC)**, which set baseline rules for structural integrity, wiring methods, overcurrent protection, conduit routing, and equipment listing. Local building departments in cities such as Los Angeles, Glendale, and Pasadena adopt these codes with amendments and require plan review and field inspections. The California Fire Code and local fire ordinances define **setbacks and pathways** for rooftop arrays to preserve firefighter access. Fire service guidance typically requires clear access zones along roof ridges and edges, and limits on contiguous array sizes on certain roof types. Plan submittals often must include roof layout, equipment locations, and labeling details that reflect these provisions. The City of Los Angeles has implemented **streamlined permitting** pathways for standard residential photovoltaic systems that meet defined size and design criteria. Building and Safety guidance describes over‑the‑counter or online expedited permits where structural calculations, attachment details, and electrical one‑line diagrams follow approved templates. However, projects with unusual roof conditions, heavy equipment loads, or integrated storage usually undergo more detailed review. Interconnection approval from the serving utility is a separate but parallel requirement. LADWP and SCE both specify application forms, single‑line diagrams, and equipment documentation that must be accepted before a system can operate in parallel with the grid. Utilities reference national standards such as **UL 1741** for inverters and require anti‑islanding and protective relaying consistent with IEEE interconnection standards. Taken together, compliance requires coordination among building officials, fire authorities, and the utility from design through final inspection.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

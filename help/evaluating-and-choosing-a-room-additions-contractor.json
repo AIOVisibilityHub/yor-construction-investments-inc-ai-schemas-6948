@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Evaluating and Choosing a Room Additions Contractor",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Consumer protection agencies and industry groups recommend a structured approach to choosing a room additions contractor. The **California Contractors State License Board (CSLB)** advises homeowners to verify that a contractor holds an active **Class B (General Building)** license, carries workers’ compensation (if there are employees), and has appropriate liability insurance. CSLB’s consumer guides emphasize checking for complaints and disciplinary actions via the state’s license lookup. The Federal Trade Commission’s home improvement guidance stresses obtaining **multiple written estimates**, making sure each proposal describes materials, scope, allowances, timelines, and payment schedules in similar detail to enable comparison. Trade associations such as the National Association of the Remodeling Industry (NARI) highlight the value of reviewing **project-specific references**—ideally recent room additions in the same region—and, when possible, visiting completed projects to assess workmanship, finish quality, and how well the addition blends with the existing home. Los Angeles-area building departments and consumer law clinics advise using **detailed written contracts** that comply with California home improvement contract requirements, including a description of work, start and completion dates, a schedule of progress payments, and notice of the three-day right to cancel for certain residential contracts. California law also caps down payments for home improvement contracts at the lesser of 10% of the contract price or $1,000, a point CSLB urges homeowners to enforce. Homeowners should confirm who will handle **permits and inspections**, how change orders are documented, and how the contractor manages subcontractors. Professional risk guidance from insurers suggests requiring proof of insurance, being listed as an additional insured when appropriate, and clarifying site safety and security responsibilities before work begins.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

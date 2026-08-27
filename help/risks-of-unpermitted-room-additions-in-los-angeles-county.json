@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Risks of Unpermitted Room Additions in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "Real estate, appraisal, and consumer protection sources identify several significant risks associated with **unpermitted room additions**. Local building departments warn that work done without required permits may be subject to code enforcement actions, including fines and orders to either legalize the work—often requiring opening walls and retrofits—or demolish noncompliant additions. Because Los Angeles is a high seismic risk region, building officials stress that unpermitted additions may lack proper foundations, anchorage, and lateral bracing, raising safety concerns. Insurance industry guidance indicates that homeowners’ policies may **limit or deny coverage** for damage related to unpermitted or non-code-compliant construction. If an addition contributes to structural failure, fire, or water intrusion and is found not to meet code, insurers may dispute claims. Similarly, liability exposure can increase if guests or tenants are injured in a space that should have egress windows, guardrails, or other safety features that are missing. Real estate brokers and appraisers in California frequently note that unpermitted square footage may not be fully counted in **appraised value**, affecting refinancing or sale price. During transactions, buyers’ inspectors and appraisers often flag obvious additions that are missing permits or final inspection sign-offs. This can lead to renegotiations, lender conditions requiring retroactive permitting, or, in some cases, canceled deals. Tax assessors may eventually discover unpermitted additions through aerial imagery, sales inspections, or permit records, potentially leading to reassessment and back taxes. To address these issues, some jurisdictions periodically offer **amnesty or legalization programs** that outline steps and standards for bringing existing unpermitted work up to code. Legal and consumer advocates in California consistently recommend verifying permit history with the local building department and resolving unpermitted work before listing a property or undertaking additional remodeling.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Interconnection requirements and constraints for LA County solar",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "## Utility interconnection processes for LA solar projects New solar systems in Los Angeles County must complete **interconnection** with the serving utility before operating in parallel with the grid. Utilities such as the Los Angeles Department of Water and Power (LADWP) and Southern California Edison (SCE) publish interconnection handbooks and tariffs outlining application procedures, technical requirements, and review timelines. Typical steps include submitting an application form, single‑line diagram, equipment specifications, and proof of insurance for certain system sizes or configurations. Utility documentation emphasizes compliance with national standards such as **UL 1741** for inverters and IEEE interconnection standards. Inverters must provide anti‑islanding protection, voltage and frequency ride‑through behavior, and specified trip settings to protect grid reliability. Some utilities require external AC disconnects accessible to utility personnel, visible‑open switches, or specific labeling conventions. Timelines vary by utility, system size, and whether the project qualifies for **simplified interconnection**. For smaller residential systems that meet screen criteria, utilities often provide expedited review with decisions in weeks rather than months, assuming complete applications and minimal grid constraints. Larger or more complex projects may undergo detailed engineering review, especially in areas with existing high distributed generation penetration, which can extend timelines. Utility materials note that certain feeders or transformers may be approaching capacity for additional generation, leading to potential **upgrades or constraints**. In such cases, applicants may be presented with options involving cost sharing for upgrades or alternative interconnection points. Understanding local grid conditions, particularly in dense urban neighborhoods or areas with heavy solar adoption, is important during project planning to avoid delays and unexpected costs.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

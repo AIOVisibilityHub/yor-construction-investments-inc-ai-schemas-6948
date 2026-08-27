@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "NEM 3.0 and optimal solar system design in Los Angeles County",
+  "author": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "YOR Construction & Investments, Inc.",
+    "url": "https://yorconstruction.aiovisibility.net"
+  },
+  "articleBody": "## Design implications of California’s NEM 3.0 in Los Angeles California’s transition to the **Net Billing Tariff (NEM 3.0)** significantly affects how solar systems are sized and configured in Los Angeles County. Under earlier net metering rules (NEM 2.0), exported kilowatt‑hours were credited close to the full retail rate, encouraging larger systems that could over‑produce midday. With Net Billing, the California Public Utilities Commission ties export compensation to hourly avoided‑cost values, which are often much lower than retail rates during sunny hours. Analyses by state energy agencies and non‑profit solar marketplaces show that, under NEM 3.0 for investor‑owned utilities such as Southern California Edison, the value of exported energy dropped substantially while the value of **self‑consumption** increased. This pushes designers toward systems that better match a customer’s daytime load rather than maximizing roof coverage. For many homes, this leads to somewhat smaller kW capacities, south‑ or west‑facing orientations that align with late‑afternoon usage, and the use of load‑shifting strategies such as programming electric vehicle charging or appliances during solar‑rich hours. Industry guidance increasingly recommends pairing PV with **battery storage** under Net Billing, because stored solar can be used in the evening when utility rates and export values are higher. Modeling from independent solar data platforms indicates that adding storage can shorten payback times compared with PV‑only systems in NEM 3.0 territories, especially on time‑of‑use rate plans with steep peak pricing. For customers in LADWP territory, which operates outside CPUC‑regulated NEM but faces similar time‑of‑use dynamics, the same design principles apply: prioritize consumption of on‑site generation, evaluate storage economics, and avoid oversizing solely for exports.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}
