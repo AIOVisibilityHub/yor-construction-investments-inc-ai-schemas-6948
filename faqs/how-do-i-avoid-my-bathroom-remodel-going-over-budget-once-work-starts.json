@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I avoid my bathroom remodel going over budget once work starts?",
-  "description": "The best protection is a detailed, fixed‑scope contract with clear allowances and making most design decisions before demolition. Changes after work begins are",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-avoid-my-bathroom-remodel-going-over-budget-once-work-starts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I avoid my bathroom remodel going over budget once work starts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best protection is a detailed, fixed‑scope contract with clear allowances and making most design decisions before demolition. Changes after work begins are the #1 driver of over‑budget projects.\n\nSurprises behind the walls can’t always be avoided, but you can limit self‑inflicted costs by locking down selections and scope. Having a contingency buffer also keeps you from panicking when something unexpected pops up.\n\nKEY FACTORS:\n- Detailed line‑item estimate and written scope of work\n- Finalized tile, fixtures, and layout before demo\n- Reasonable allowances for items you haven’t picked yet\n- 10–15% contingency fund for hidden issues\n\nAsk your contractor to flag anything “at risk” for hidden problems before you sign, like suspected water damage. Insist that any changes be documented in writing with cost and time impact so you can decide with eyes open."
-      }
-    }
-  ],
+  "name": "How do I avoid my bathroom remodel going over budget once work starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I avoid my bathroom remodel going over budget once work starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best protection is a detailed, fixed‑scope contract with clear allowances and making most design decisions before demolition. Changes after work begins are the #1 driver of over‑budget projects.\n\nSurprises behind the walls can’t always be avoided, but you can limit self‑inflicted costs by locking down selections and scope. Having a contingency buffer also keeps you from panicking when something unexpected pops up.\n\nKEY FACTORS:\n- Detailed line‑item estimate and written scope of work\n- Finalized tile, fixtures, and layout before demo\n- Reasonable allowances for items you haven’t picked yet\n- 10–15% contingency fund for hidden issues\n\nAsk your contractor to flag anything “at risk” for hidden problems before you sign, like suspected water damage. Insist that any changes be documented in writing with cost and time impact so you can decide with eyes open.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best protection is a detailed, fixed‑scope contract with clear allowances and making most design decisions before demolition. Changes after work begins are"
 }

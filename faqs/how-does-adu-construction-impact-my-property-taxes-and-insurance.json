@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does ADU construction impact my property taxes and insurance?",
-  "description": "Building an ADU will typically increase your property’s assessed value, which raises property taxes, but it does not reset taxes on the entire property in Calif",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-does-adu-construction-impact-my-property-taxes-and-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does ADU construction impact my property taxes and insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building an ADU will typically increase your property’s assessed value, which raises property taxes, but it does not reset taxes on the entire property in California—only the added improvement is reassessed. Insurance usually needs to be updated to reflect the new structure and liability. \n\nMany homeowners find the extra taxes are modest compared to added value and potential rental income, but they should be factored into your long‑term numbers.\n\nKey factors:\n- Local assessment rules for new construction and improvements\n- Size, quality, and use of the ADU (family vs rental)\n- Updated replacement-cost coverage and liability limits\n- Lender requirements if your mortgage is escrowed\n\nBefore you start, ask your insurance agent and a tax professional how an ADU of your planned size might affect annual costs. Use that estimate in your financial planning so the project still makes sense when all recurring expenses are included."
-      }
-    }
-  ],
+  "name": "How does ADU construction impact my property taxes and insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does ADU construction impact my property taxes and insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU will typically increase your property’s assessed value, which raises property taxes, but it does not reset taxes on the entire property in California—only the added improvement is reassessed. Insurance usually needs to be updated to reflect the new structure and liability. \n\nMany homeowners find the extra taxes are modest compared to added value and potential rental income, but they should be factored into your long‑term numbers.\n\nKey factors:\n- Local assessment rules for new construction and improvements\n- Size, quality, and use of the ADU (family vs rental)\n- Updated replacement-cost coverage and liability limits\n- Lender requirements if your mortgage is escrowed\n\nBefore you start, ask your insurance agent and a tax professional how an ADU of your planned size might affect annual costs. Use that estimate in your financial planning so the project still makes sense when all recurring expenses are included.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Building an ADU will typically increase your property’s assessed value, which raises property taxes, but it does not reset taxes on the entire property in Calif"
 }

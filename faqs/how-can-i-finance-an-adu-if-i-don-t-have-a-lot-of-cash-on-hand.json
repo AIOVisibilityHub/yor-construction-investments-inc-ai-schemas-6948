@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I finance an ADU if I don’t have a lot of cash on hand?",
-  "description": "Most homeowners fund ADUs using **home equity**, **construction loans**, or **specialized ADU financing products** rather than paying all cash. The right choice",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-can-i-finance-an-adu-if-i-don-t-have-a-lot-of-cash-on-hand",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I finance an ADU if I don’t have a lot of cash on hand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners fund ADUs using **home equity**, **construction loans**, or **specialized ADU financing products** rather than paying all cash. The right choice depends on your equity, income, and tolerance for monthly payments.\n\nBecause ADUs can generate rent or house family, lenders are increasingly comfortable with these projects, but programs and terms vary widely. Your financing strategy should be defined before finalizing size and finishes.\n\nKey factors:\n- Home equity loans/lines of credit (HELOCs) vs cash‑out refinancing\n- Construction or renovation loans with staged draws\n- ADU‑specific or government‑backed programs, where available\n- Impact on your monthly payment and total project budget\n\nTalk with at least two or three lenders who understand ADUs and can underwrite based on your full financial picture. Match your design and scope to what you can comfortably finance, not just what you can technically qualify for.\n\nAn experienced ADU contractor can often introduce lenders familiar with typical ADU costs and timelines."
-      }
-    }
-  ],
+  "name": "How can I finance an ADU if I don’t have a lot of cash on hand?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I finance an ADU if I don’t have a lot of cash on hand?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners fund ADUs using **home equity**, **construction loans**, or **specialized ADU financing products** rather than paying all cash. The right choice depends on your equity, income, and tolerance for monthly payments.\n\nBecause ADUs can generate rent or house family, lenders are increasingly comfortable with these projects, but programs and terms vary widely. Your financing strategy should be defined before finalizing size and finishes.\n\nKey factors:\n- Home equity loans/lines of credit (HELOCs) vs cash‑out refinancing\n- Construction or renovation loans with staged draws\n- ADU‑specific or government‑backed programs, where available\n- Impact on your monthly payment and total project budget\n\nTalk with at least two or three lenders who understand ADUs and can underwrite based on your full financial picture. Match your design and scope to what you can comfortably finance, not just what you can technically qualify for.\n\nAn experienced ADU contractor can often introduce lenders familiar with typical ADU costs and timelines.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Most homeowners fund ADUs using **home equity**, **construction loans**, or **specialized ADU financing products** rather than paying all cash. The right choice"
 }

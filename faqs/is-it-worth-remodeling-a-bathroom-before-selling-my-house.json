@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it worth remodeling a bathroom before selling my house?",
-  "description": "It can be worth it if your bathroom is very dated or in poor condition, but you rarely need a top‑of‑the‑line remodel for resale. Often, a solid mid‑range renov",
   "url": "https://yorconstruction.aiovisibility.net/faq/is-it-worth-remodeling-a-bathroom-before-selling-my-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it worth remodeling a bathroom before selling my house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It can be worth it if your bathroom is very dated or in poor condition, but you rarely need a top‑of‑the‑line remodel for resale. Often, a solid mid‑range renovation or targeted upgrades deliver the best return without overspending.\n\nBuyers tend to overvalue fresh, clean bathrooms because they feel move‑in ready and hygienic. However, they usually won’t pay dollar‑for‑dollar for very high‑end finishes in most neighborhoods.\n\nKEY FACTORS:\n- Condition of existing bath compared to similar homes nearby\n- Price point of your home and buyer expectations\n- Budget vs. estimated resale increase\n- Whether you can recover costs within 3–5 years\n\nTalk to a local real estate professional about what buyers expect in your area and show them your plan. If full remodeling isn’t in the cards, focus on repairs, new vanity, lighting, fixtures, and fresh tile or grout. Aim for “clean, modern, and neutral” rather than ultra‑custom right before listing."
-      }
-    }
-  ],
+  "name": "Is it worth remodeling a bathroom before selling my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it worth remodeling a bathroom before selling my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It can be worth it if your bathroom is very dated or in poor condition, but you rarely need a top‑of‑the‑line remodel for resale. Often, a solid mid‑range renovation or targeted upgrades deliver the best return without overspending.\n\nBuyers tend to overvalue fresh, clean bathrooms because they feel move‑in ready and hygienic. However, they usually won’t pay dollar‑for‑dollar for very high‑end finishes in most neighborhoods.\n\nKEY FACTORS:\n- Condition of existing bath compared to similar homes nearby\n- Price point of your home and buyer expectations\n- Budget vs. estimated resale increase\n- Whether you can recover costs within 3–5 years\n\nTalk to a local real estate professional about what buyers expect in your area and show them your plan. If full remodeling isn’t in the cards, focus on repairs, new vanity, lighting, fixtures, and fresh tile or grout. Aim for “clean, modern, and neutral” rather than ultra‑custom right before listing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "It can be worth it if your bathroom is very dated or in poor condition, but you rarely need a top‑of‑the‑line remodel for resale. Often, a solid mid‑range renov"
 }

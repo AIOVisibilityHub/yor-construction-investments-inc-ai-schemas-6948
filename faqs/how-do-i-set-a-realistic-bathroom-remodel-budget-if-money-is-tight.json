@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I set a realistic bathroom remodel budget if money is tight?",
-  "description": "Start by defining a firm maximum number you’re comfortable with, then work backwards to prioritize essentials over nice‑to‑haves. Focus on layout staying the sa",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-set-a-realistic-bathroom-remodel-budget-if-money-is-tight",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I set a realistic bathroom remodel budget if money is tight?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by defining a firm maximum number you’re comfortable with, then work backwards to prioritize essentials over nice‑to‑haves. Focus on layout staying the same, standard‑size fixtures, and mid‑range materials to stretch your budget.\n\nTrying to do too much with too little often leads to poor workmanship or unfinished projects. It’s better to do a simpler, well‑executed remodel than a flashy one with corners cut.\n\nKEY FACTORS:\n- Non‑negotiables (fix leaks, improve ventilation, safe electrical)\n- Willingness to keep existing layout and some elements\n- Material choices (prefab vanity vs. custom, ceramic vs. stone)\n- Contingency fund, even if small (5–10%)\n\nTell your contractor your true budget early and ask for options at that price point instead of asking for a champagne design on a beer budget. If needed, phase upgrades over time—do the critical infrastructure now, and cosmetics later. A good pro will help you allocate funds wisely."
-      }
-    }
-  ],
+  "name": "How do I set a realistic bathroom remodel budget if money is tight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I set a realistic bathroom remodel budget if money is tight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining a firm maximum number you’re comfortable with, then work backwards to prioritize essentials over nice‑to‑haves. Focus on layout staying the same, standard‑size fixtures, and mid‑range materials to stretch your budget.\n\nTrying to do too much with too little often leads to poor workmanship or unfinished projects. It’s better to do a simpler, well‑executed remodel than a flashy one with corners cut.\n\nKEY FACTORS:\n- Non‑negotiables (fix leaks, improve ventilation, safe electrical)\n- Willingness to keep existing layout and some elements\n- Material choices (prefab vanity vs. custom, ceramic vs. stone)\n- Contingency fund, even if small (5–10%)\n\nTell your contractor your true budget early and ask for options at that price point instead of asking for a champagne design on a beer budget. If needed, phase upgrades over time—do the critical infrastructure now, and cosmetics later. A good pro will help you allocate funds wisely.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start by defining a firm maximum number you’re comfortable with, then work backwards to prioritize essentials over nice‑to‑haves. Focus on layout staying the sa"
 }

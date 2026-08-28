@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design features should I prioritize to make a small ADU feel bigger and rent for more?",
-  "description": "To make a small ADU **feel larger and more valuable**, prioritize natural light, smart layout, and storage over raw square footage. Good design can turn a 400–6",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-design-features-should-i-prioritize-to-make-a-small-adu-feel-bigger-and-ren",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design features should I prioritize to make a small ADU feel bigger and rent for more?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To make a small ADU **feel larger and more valuable**, prioritize natural light, smart layout, and storage over raw square footage. Good design can turn a 400–600 sq ft unit into a highly livable space.\n\nRenters and family both respond strongly to how the unit lives day‑to‑day, not just room count. Simple upgrades in flow and finishes can justify higher rents and reduce vacancies.\n\nKey factors:\n- Open‑plan living/kitchen, minimal hallways, and good furniture placement\n- Large windows, glass doors, and higher ceilings where allowed\n- Built‑in storage, closets, and multi‑use furniture zones\n- Durable, attractive finishes that photograph well for listings\n\nAsk your designer to model furniture layouts and circulation, not just walls. Focus spending on the kitchen, bathroom, and light/air rather than lots of small, enclosed rooms.\n\nExperienced ADU designers know what tenants and family members actually value in compact units in your market."
-      }
-    }
-  ],
+  "name": "What design features should I prioritize to make a small ADU feel bigger and rent for more?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design features should I prioritize to make a small ADU feel bigger and rent for more?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a small ADU **feel larger and more valuable**, prioritize natural light, smart layout, and storage over raw square footage. Good design can turn a 400–600 sq ft unit into a highly livable space.\n\nRenters and family both respond strongly to how the unit lives day‑to‑day, not just room count. Simple upgrades in flow and finishes can justify higher rents and reduce vacancies.\n\nKey factors:\n- Open‑plan living/kitchen, minimal hallways, and good furniture placement\n- Large windows, glass doors, and higher ceilings where allowed\n- Built‑in storage, closets, and multi‑use furniture zones\n- Durable, attractive finishes that photograph well for listings\n\nAsk your designer to model furniture layouts and circulation, not just walls. Focus spending on the kitchen, bathroom, and light/air rather than lots of small, enclosed rooms.\n\nExperienced ADU designers know what tenants and family members actually value in compact units in your market.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To make a small ADU **feel larger and more valuable**, prioritize natural light, smart layout, and storage over raw square footage. Good design can turn a 400–6"
 }

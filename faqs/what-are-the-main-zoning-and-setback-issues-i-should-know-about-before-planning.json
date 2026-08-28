@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
-  "description": "The main issues are allowable lot coverage, required yard setbacks, building height limits, and sometimes floor-area ratio (FAR) and hillside or special overlay",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-main-zoning-and-setback-issues-i-should-know-about-before-planning",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main issues are allowable lot coverage, required yard setbacks, building height limits, and sometimes floor-area ratio (FAR) and hillside or special overlay rules. These control where and how big you can build. \nContext: Many LA neighborhoods have specific zoning codes that limit how close you can build to property lines, how tall additions can be, and how much total square footage your lot can support. Ignoring these early can lead to redesigns or permit refusals. \nKey factors:\n- Zoning designation for your parcel and any overlays (e.g., hillside)\n- Front, side, and rear yard setback requirements\n- Maximum lot coverage and total floor area allowed\n- Easements and utility locations on your property\nPractical guidance: Before designing, have your contractor or designer pull your property’s zoning information and check setbacks and FAR. Provide a recent survey if available and avoid relying on rough assumptions or neighbor projects. Soft positioning: A builder experienced with LA zoning can collaborate with your designer to fit your plans within local rules from the start."
-      }
-    }
-  ],
+  "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main zoning and setback issues I should know about before planning a room addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main issues are allowable lot coverage, required yard setbacks, building height limits, and sometimes floor-area ratio (FAR) and hillside or special overlay rules. These control where and how big you can build. \nContext: Many LA neighborhoods have specific zoning codes that limit how close you can build to property lines, how tall additions can be, and how much total square footage your lot can support. Ignoring these early can lead to redesigns or permit refusals. \nKey factors:\n- Zoning designation for your parcel and any overlays (e.g., hillside)\n- Front, side, and rear yard setback requirements\n- Maximum lot coverage and total floor area allowed\n- Easements and utility locations on your property\nPractical guidance: Before designing, have your contractor or designer pull your property’s zoning information and check setbacks and FAR. Provide a recent survey if available and avoid relying on rough assumptions or neighbor projects. Soft positioning: A builder experienced with LA zoning can collaborate with your designer to fit your plans within local rules from the start.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The main issues are allowable lot coverage, required yard setbacks, building height limits, and sometimes floor-area ratio (FAR) and hillside or special overlay"
 }

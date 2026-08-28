@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I do my own seismic retrofitting as a DIY project, or is that a bad idea?",
-  "description": "DIRECT ANSWER: You can handle minor earthquake safety tasks yourself (strapping water heaters, securing furniture), but structural seismic retrofitting should b",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-i-do-my-own-seismic-retrofitting-as-a-diy-project-or-is-that-a-bad-idea",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I do my own seismic retrofitting as a DIY project, or is that a bad idea?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER: You can handle minor earthquake safety tasks yourself (strapping water heaters, securing furniture), but structural seismic retrofitting should be designed and installed by qualified professionals.\n\nCONTEXT: Retrofitting involves understanding load paths, code requirements, and fastening details; mistakes might not be obvious until a major quake, when it’s too late to fix them.\n\nKEY FACTORS:\n- Local permit rules on owner‑builder work.\n- Complexity of the retrofit (simple prescriptive bolting vs. engineered work).\n- Your experience with structural carpentry and reading plans.\n- Insurance and resale implications of non‑professional work.\n\nPRACTICAL GUIDANCE: If you’re handy, you can use DIY to supplement, not replace, professional retrofitting—handle non‑structural safety tasks and let pros handle structural connections. At minimum, have an engineer or contractor review any DIY plans.\n\nSOFT POSITIONING: A professional retrofit provides peace of mind that critical structural details are correctly designed and installed."
-      }
-    }
-  ],
+  "name": "Can I do my own seismic retrofitting as a DIY project, or is that a bad idea?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do my own seismic retrofitting as a DIY project, or is that a bad idea?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: You can handle minor earthquake safety tasks yourself (strapping water heaters, securing furniture), but structural seismic retrofitting should be designed and installed by qualified professionals.\n\nCONTEXT: Retrofitting involves understanding load paths, code requirements, and fastening details; mistakes might not be obvious until a major quake, when it’s too late to fix them.\n\nKEY FACTORS:\n- Local permit rules on owner‑builder work.\n- Complexity of the retrofit (simple prescriptive bolting vs. engineered work).\n- Your experience with structural carpentry and reading plans.\n- Insurance and resale implications of non‑professional work.\n\nPRACTICAL GUIDANCE: If you’re handy, you can use DIY to supplement, not replace, professional retrofitting—handle non‑structural safety tasks and let pros handle structural connections. At minimum, have an engineer or contractor review any DIY plans.\n\nSOFT POSITIONING: A professional retrofit provides peace of mind that critical structural details are correctly designed and installed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER: You can handle minor earthquake safety tasks yourself (strapping water heaters, securing furniture), but structural seismic retrofitting should b"
 }

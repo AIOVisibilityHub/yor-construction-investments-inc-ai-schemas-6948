@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose between three very different roofing bids without getting ripped off?",
-  "description": "You should compare **scope, materials, and warranties**, not just the bottom-line price, and avoid any bid that’s suspiciously low or vague. The best value is u",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-choose-between-three-very-different-roofing-bids-without-getting-ripped",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose between three very different roofing bids without getting ripped off?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should compare **scope, materials, and warranties**, not just the bottom-line price, and avoid any bid that’s suspiciously low or vague. The best value is usually a contractor with clear details, solid references, and mid-range pricing, not the cheapest number.\n\nRoofing quotes often differ because each contractor has made different assumptions about wood repair, underlayment, flashing, or cleanup. Without matching scopes, you’re not comparing the same job.\n\nKey factors:\n- Written scope (tear-off, deck repair, flashing, ventilation, cleanup)\n- Material brand/grade, underlayment type, and warranty\n- License/insurance status and local reputation\n- Payment schedule (avoid large upfront payments)\n\nAsk each roofer to clarify anything unclear and to match scopes so you can compare apples to apples. If one bid is much cheaper, ask exactly what they are doing differently; if they can’t justify it convincingly, treat that as a warning sign."
-      }
-    }
-  ],
+  "name": "How do I choose between three very different roofing bids without getting ripped off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between three very different roofing bids without getting ripped off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should compare **scope, materials, and warranties**, not just the bottom-line price, and avoid any bid that’s suspiciously low or vague. The best value is usually a contractor with clear details, solid references, and mid-range pricing, not the cheapest number.\n\nRoofing quotes often differ because each contractor has made different assumptions about wood repair, underlayment, flashing, or cleanup. Without matching scopes, you’re not comparing the same job.\n\nKey factors:\n- Written scope (tear-off, deck repair, flashing, ventilation, cleanup)\n- Material brand/grade, underlayment type, and warranty\n- License/insurance status and local reputation\n- Payment schedule (avoid large upfront payments)\n\nAsk each roofer to clarify anything unclear and to match scopes so you can compare apples to apples. If one bid is much cheaper, ask exactly what they are doing differently; if they can’t justify it convincingly, treat that as a warning sign.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You should compare **scope, materials, and warranties**, not just the bottom-line price, and avoid any bid that’s suspiciously low or vague. The best value is u"
 }

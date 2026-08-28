@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "If my budget is limited, what are the most important seismic retrofits to do first?",
-  "description": "DIRECT ANSWER: With a tight budget, focus first on keeping the building on its foundation—typically foundation bolting and cripple‑wall bracing—before tackling",
   "url": "https://yorconstruction.aiovisibility.net/faq/if-my-budget-is-limited-what-are-the-most-important-seismic-retrofits-to-do-firs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "If my budget is limited, what are the most important seismic retrofits to do first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER: With a tight budget, focus first on keeping the building on its foundation—typically foundation bolting and cripple‑wall bracing—before tackling less critical upgrades.\n\nCONTEXT: Earthquake damage is often worst when the entire structure shifts or falls off its foundation. Addressing this basic load path provides substantial risk reduction for relatively modest cost.\n\nKEY FACTORS:\n- Foundation anchoring: sill plate bolts, hold‑downs, and proper washers.\n- Cripple‑wall bracing with plywood shear panels, correctly nailed.\n- Securing heavy, top‑heavy items (water heaters, tall furniture, chimneys).\n- Known structural “red flags” identified by an engineer.\n\nPRACTICAL GUIDANCE: Ask your engineer or contractor to mark items as “critical,” “important,” and “optional” on your scope. Complete the critical items now and plan the rest in phases as funds allow.\n\nSOFT POSITIONING: A good retrofit plan can be phased so you get the highest safety benefit from each dollar spent."
-      }
-    }
-  ],
+  "name": "If my budget is limited, what are the most important seismic retrofits to do first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "If my budget is limited, what are the most important seismic retrofits to do first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER: With a tight budget, focus first on keeping the building on its foundation—typically foundation bolting and cripple‑wall bracing—before tackling less critical upgrades.\n\nCONTEXT: Earthquake damage is often worst when the entire structure shifts or falls off its foundation. Addressing this basic load path provides substantial risk reduction for relatively modest cost.\n\nKEY FACTORS:\n- Foundation anchoring: sill plate bolts, hold‑downs, and proper washers.\n- Cripple‑wall bracing with plywood shear panels, correctly nailed.\n- Securing heavy, top‑heavy items (water heaters, tall furniture, chimneys).\n- Known structural “red flags” identified by an engineer.\n\nPRACTICAL GUIDANCE: Ask your engineer or contractor to mark items as “critical,” “important,” and “optional” on your scope. Complete the critical items now and plan the rest in phases as funds allow.\n\nSOFT POSITIONING: A good retrofit plan can be phased so you get the highest safety benefit from each dollar spent.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER: With a tight budget, focus first on keeping the building on its foundation—typically foundation bolting and cripple‑wall bracing—before tackling"
 }

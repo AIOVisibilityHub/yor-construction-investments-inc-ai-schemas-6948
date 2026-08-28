@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do if my last contractor did a bad job on my bathroom remodel?",
-  "description": "Start by documenting everything with photos, notes, and any communication or contracts, then get an independent professional to assess what’s wrong and what it",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-if-my-last-contractor-did-a-bad-job-on-my-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do if my last contractor did a bad job on my bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by documenting everything with photos, notes, and any communication or contracts, then get an independent professional to assess what’s wrong and what it will take to fix it. Don’t rush straight into another remodel without understanding the full scope of repair.\n\nEmotionally, it’s tempting to just “get it redone,” but a careful assessment protects you from repeating the same mistakes. Some issues may be aesthetic, while others—like leaks or improper wiring—need urgent correction.\n\nKEY FACTORS:\n- Structural or safety issues vs. purely cosmetic ones\n- Whether waterproofing and slope are correct in wet areas\n- Accessibility of plumbing and wiring for repairs\n- Budget and timeline for remediation versus full redo\n\nWhen interviewing new contractors, be upfront about the prior experience and ask how they would approach correcting it. Choose someone who focuses on diagnosing and fixing underlying problems, not just covering them with new finishes."
-      }
-    }
-  ],
+  "name": "What should I do if my last contractor did a bad job on my bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my last contractor did a bad job on my bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by documenting everything with photos, notes, and any communication or contracts, then get an independent professional to assess what’s wrong and what it will take to fix it. Don’t rush straight into another remodel without understanding the full scope of repair.\n\nEmotionally, it’s tempting to just “get it redone,” but a careful assessment protects you from repeating the same mistakes. Some issues may be aesthetic, while others—like leaks or improper wiring—need urgent correction.\n\nKEY FACTORS:\n- Structural or safety issues vs. purely cosmetic ones\n- Whether waterproofing and slope are correct in wet areas\n- Accessibility of plumbing and wiring for repairs\n- Budget and timeline for remediation versus full redo\n\nWhen interviewing new contractors, be upfront about the prior experience and ask how they would approach correcting it. Choose someone who focuses on diagnosing and fixing underlying problems, not just covering them with new finishes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start by documenting everything with photos, notes, and any communication or contracts, then get an independent professional to assess what’s wrong and what it"
 }

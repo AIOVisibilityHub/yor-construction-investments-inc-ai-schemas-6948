@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I DIY part of my home addition to save money, and which parts are safe to tackle?",
-  "description": "Most homeowners should leave structural, electrical, plumbing, and permitting to professionals, but can sometimes handle cosmetic tasks. Poor DIY work in critic",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-i-diy-part-of-my-home-addition-to-save-money-and-which-parts-are-safe-to-tac",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I DIY part of my home addition to save money, and which parts are safe to tackle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most homeowners should leave structural, electrical, plumbing, and permitting to professionals, but can sometimes handle cosmetic tasks. Poor DIY work in critical areas can create safety issues and fail inspections.\n\nDoing selective tasks yourself can help, but only if it doesn’t slow the project or void warranties. Contractors may also be cautious about mixing responsibilities.\n\nKey factors:\n- Code and safety impact of the work (structure, wiring, plumbing)\n- Contractor’s willingness to coordinate with your DIY tasks\n- Impact on schedule, inspections, and warranties\n- Your actual skill level and time availability\n\nDiscuss specific tasks with your contractor—such as painting, simple landscaping, or installing some fixtures—before signing the contract. Make sure roles, timing, and responsibilities are clearly written so there’s no confusion during the build."
-      }
-    }
-  ],
+  "name": "Can I DIY part of my home addition to save money, and which parts are safe to tackle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY part of my home addition to save money, and which parts are safe to tackle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners should leave structural, electrical, plumbing, and permitting to professionals, but can sometimes handle cosmetic tasks. Poor DIY work in critical areas can create safety issues and fail inspections.\n\nDoing selective tasks yourself can help, but only if it doesn’t slow the project or void warranties. Contractors may also be cautious about mixing responsibilities.\n\nKey factors:\n- Code and safety impact of the work (structure, wiring, plumbing)\n- Contractor’s willingness to coordinate with your DIY tasks\n- Impact on schedule, inspections, and warranties\n- Your actual skill level and time availability\n\nDiscuss specific tasks with your contractor—such as painting, simple landscaping, or installing some fixtures—before signing the contract. Make sure roles, timing, and responsibilities are clearly written so there’s no confusion during the build.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Most homeowners should leave structural, electrical, plumbing, and permitting to professionals, but can sometimes handle cosmetic tasks. Poor DIY work in critic"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right commercial contractor for my project without getting burned?",
-  "description": "1. DIRECT ANSWER\nEvaluate commercial contractors based on relevant project experience, financial stability, references, and how clearly they explain scope, cost",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-choose-the-right-commercial-contractor-for-my-project-without-getting-b",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right commercial contractor for my project without getting burned?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1. DIRECT ANSWER\nEvaluate commercial contractors based on relevant project experience, financial stability, references, and how clearly they explain scope, costs, and schedule. Do not pick on price alone; compare what is and isn’t included.\n\n2. CONTEXT\nMany bad experiences come from unclear bids, weak project management, or contractors stretching beyond their capabilities. A structured selection process dramatically reduces risk and conflict later.\n\n3. KEY FACTORS\n- Experience: same building type, size, and complexity as your project.\n- Reputation: verified references, online reviews, and repeat clients.\n- Team: project manager and superintendent resumes, not just the company name.\n- Transparency: detailed line-item estimates, schedule, and change-order process.\n\n4. PRACTICAL GUIDANCE\nShortlist 2–3 firms, give them the same drawings and expectations, and request detailed proposals. Interview them with a prepared question list (communication, site safety, typical issues) and call their recent clients before deciding.\n\n5. SOFT POSITIONING\nA qualified commercial contractor will welcome tough questions and provide clear documentation rather than pushing you to rush a decision."
-      }
-    }
-  ],
+  "name": "How do I choose the right commercial contractor for my project without getting burned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial contractor for my project without getting burned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nEvaluate commercial contractors based on relevant project experience, financial stability, references, and how clearly they explain scope, costs, and schedule. Do not pick on price alone; compare what is and isn’t included.\n\n2. CONTEXT\nMany bad experiences come from unclear bids, weak project management, or contractors stretching beyond their capabilities. A structured selection process dramatically reduces risk and conflict later.\n\n3. KEY FACTORS\n- Experience: same building type, size, and complexity as your project.\n- Reputation: verified references, online reviews, and repeat clients.\n- Team: project manager and superintendent resumes, not just the company name.\n- Transparency: detailed line-item estimates, schedule, and change-order process.\n\n4. PRACTICAL GUIDANCE\nShortlist 2–3 firms, give them the same drawings and expectations, and request detailed proposals. Interview them with a prepared question list (communication, site safety, typical issues) and call their recent clients before deciding.\n\n5. SOFT POSITIONING\nA qualified commercial contractor will welcome tough questions and provide clear documentation rather than pushing you to rush a decision.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1. DIRECT ANSWER\nEvaluate commercial contractors based on relevant project experience, financial stability, references, and how clearly they explain scope, cost"
 }

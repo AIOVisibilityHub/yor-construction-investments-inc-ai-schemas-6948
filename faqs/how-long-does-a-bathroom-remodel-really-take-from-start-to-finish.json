@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a bathroom remodel really take from start to finish?",
-  "description": "From first design conversation to final punch list, many bathroom remodels take 8–16 weeks, and complex projects can take longer. The actual in‑home constructio",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-a-bathroom-remodel-really-take-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a bathroom remodel really take from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "From first design conversation to final punch list, many bathroom remodels take 8–16 weeks, and complex projects can take longer. The actual in‑home construction is often 3–8 weeks, depending on scope and how smoothly materials and inspections go.\n\nPeople often underestimate the pre‑construction phase: design, selections, ordering, and permitting can take as long as construction itself. Delays typically come from special‑order materials, change orders, or inspection scheduling.\n\nKEY FACTORS:\n- Design and selection time (1–6+ weeks)\n- Permits and scheduling city inspections\n- Material lead times for tile, custom cabinetry, and glass\n- Scope complexity (moving plumbing, electrical upgrades, structural work)\n\nAsk each contractor for a rough schedule broken into phases and what could realistically extend that timeline. Plan some flexibility into your life for dust, noise, and temporary bathroom arrangements so normal hiccups don’t feel like a crisis. A contractor who is honest about time, not just fast, is usually the safer choice."
-      }
-    }
-  ],
+  "name": "How long does a bathroom remodel really take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel really take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "From first design conversation to final punch list, many bathroom remodels take 8–16 weeks, and complex projects can take longer. The actual in‑home construction is often 3–8 weeks, depending on scope and how smoothly materials and inspections go.\n\nPeople often underestimate the pre‑construction phase: design, selections, ordering, and permitting can take as long as construction itself. Delays typically come from special‑order materials, change orders, or inspection scheduling.\n\nKEY FACTORS:\n- Design and selection time (1–6+ weeks)\n- Permits and scheduling city inspections\n- Material lead times for tile, custom cabinetry, and glass\n- Scope complexity (moving plumbing, electrical upgrades, structural work)\n\nAsk each contractor for a rough schedule broken into phases and what could realistically extend that timeline. Plan some flexibility into your life for dust, noise, and temporary bathroom arrangements so normal hiccups don’t feel like a crisis. A contractor who is honest about time, not just fast, is usually the safer choice.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "From first design conversation to final punch list, many bathroom remodels take 8–16 weeks, and complex projects can take longer. The actual in‑home constructio"
 }

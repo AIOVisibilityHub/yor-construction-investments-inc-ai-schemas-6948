@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should be included in a proper roofing estimate or quote?",
-  "description": "A good **roofing estimate** should clearly list materials, labor, scope of work, wood replacement terms, cleanup, warranties, and payment schedule. If these det",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-be-included-in-a-proper-roofing-estimate-or-quote",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should be included in a proper roofing estimate or quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good **roofing estimate** should clearly list materials, labor, scope of work, wood replacement terms, cleanup, warranties, and payment schedule. If these details are missing, it’s harder to compare bids or hold anyone accountable.\n\nVague or one-line quotes often lead to surprise charges or shortcuts during the job. A detailed written estimate protects both you and the contractor.\n\nKey factors:\n- Material brand, type, color, and underlayment specification\n- Labor scope (tear-off, deck repair, flashing, vents, gutters if any)\n- Itemized costs, wood-replacement pricing, and permit/inspection fees\n- Cleanup, disposal, warranty terms, and payment milestones\n\nAsk each roofer for a written estimate you can review at home, not just on the spot. Line up the quotes side by side and compare the actual scope and materials—not just the total price—before you decide who to hire."
-      }
-    }
-  ],
+  "name": "What should be included in a proper roofing estimate or quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a proper roofing estimate or quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good **roofing estimate** should clearly list materials, labor, scope of work, wood replacement terms, cleanup, warranties, and payment schedule. If these details are missing, it’s harder to compare bids or hold anyone accountable.\n\nVague or one-line quotes often lead to surprise charges or shortcuts during the job. A detailed written estimate protects both you and the contractor.\n\nKey factors:\n- Material brand, type, color, and underlayment specification\n- Labor scope (tear-off, deck repair, flashing, vents, gutters if any)\n- Itemized costs, wood-replacement pricing, and permit/inspection fees\n- Cleanup, disposal, warranty terms, and payment milestones\n\nAsk each roofer for a written estimate you can review at home, not just on the spot. Line up the quotes side by side and compare the actual scope and materials—not just the total price—before you decide who to hire.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A good **roofing estimate** should clearly list materials, labor, scope of work, wood replacement terms, cleanup, warranties, and payment schedule. If these det"
 }

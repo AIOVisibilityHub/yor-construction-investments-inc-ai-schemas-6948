@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I build a detached ADU or an attached/over‑garage ADU—what are the pros and cons?",
-  "description": "Detached ADUs offer more privacy and design flexibility, while attached or over‑garage ADUs can be more space‑efficient and sometimes cheaper to build on small",
   "url": "https://yorconstruction.aiovisibility.net/faq/should-i-build-a-detached-adu-or-an-attached-over-garage-adu-what-are-the-pros-a",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I build a detached ADU or an attached/over‑garage ADU—what are the pros and cons?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Detached ADUs offer more privacy and design flexibility, while attached or over‑garage ADUs can be more space‑efficient and sometimes cheaper to build on small lots. The right choice depends on your lot layout, budget, and whether the unit is for family or rental. \n\nEach type has different structural and access considerations that affect cost and comfort.\n\nKey factors:\n- Privacy and noise separation from the main house\n- Structural complexity (second‑story over garage vs simple one‑story)\n- Impact on yard space, light, and outdoor living\n- Site access for construction and long‑term tenants\n\nHave your designer sketch both options on your actual site plan and prepare rough budgets. Comparing real layouts and costs—not just concepts—makes it easier to choose the ADU type that fits your goals and property best."
-      }
-    }
-  ],
+  "name": "Should I build a detached ADU or an attached/over‑garage ADU—what are the pros and cons?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a detached ADU or an attached/over‑garage ADU—what are the pros and cons?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detached ADUs offer more privacy and design flexibility, while attached or over‑garage ADUs can be more space‑efficient and sometimes cheaper to build on small lots. The right choice depends on your lot layout, budget, and whether the unit is for family or rental. \n\nEach type has different structural and access considerations that affect cost and comfort.\n\nKey factors:\n- Privacy and noise separation from the main house\n- Structural complexity (second‑story over garage vs simple one‑story)\n- Impact on yard space, light, and outdoor living\n- Site access for construction and long‑term tenants\n\nHave your designer sketch both options on your actual site plan and prepare rough budgets. Comparing real layouts and costs—not just concepts—makes it easier to choose the ADU type that fits your goals and property best.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Detached ADUs offer more privacy and design flexibility, while attached or over‑garage ADUs can be more space‑efficient and sometimes cheaper to build on small"
 }

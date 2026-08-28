@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information and documents should I gather before meeting an ADU contractor or designer?",
-  "description": "Coming prepared with basic property information makes your first ADU meeting much more productive and helps you get better, more accurate guidance. You don’t ne",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-information-and-documents-should-i-gather-before-meeting-an-adu-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information and documents should I gather before meeting an ADU contractor or designer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Coming prepared with basic property information makes your first ADU meeting much more productive and helps you get better, more accurate guidance. You don’t need everything perfect, but you should have enough for them to understand your site and goals. \n\nA little prep up front often saves several back‑and‑forth calls later.\n\nKey factors:\n- Recent property tax bill and APN, plus any prior site plans or surveys\n- Photos of the yard, garage, and any slopes or tight access points\n- Rough ideas on use (family, rental, office) and target budget range\n- HOA rules or known zoning overlays if applicable\n\nGather these basics, jot down your must‑haves and nice‑to‑haves, and bring a list of questions. A good ADU professional will use this information to outline realistic options, ballpark costs, and next steps tailored to your property."
-      }
-    }
-  ],
+  "name": "What information and documents should I gather before meeting an ADU contractor or designer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information and documents should I gather before meeting an ADU contractor or designer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coming prepared with basic property information makes your first ADU meeting much more productive and helps you get better, more accurate guidance. You don’t need everything perfect, but you should have enough for them to understand your site and goals. \n\nA little prep up front often saves several back‑and‑forth calls later.\n\nKey factors:\n- Recent property tax bill and APN, plus any prior site plans or surveys\n- Photos of the yard, garage, and any slopes or tight access points\n- Rough ideas on use (family, rental, office) and target budget range\n- HOA rules or known zoning overlays if applicable\n\nGather these basics, jot down your must‑haves and nice‑to‑haves, and bring a list of questions. A good ADU professional will use this information to outline realistic options, ballpark costs, and next steps tailored to your property.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coming prepared with basic property information makes your first ADU meeting much more productive and helps you get better, more accurate guidance. You don’t ne"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical commercial construction project really take from idea to opening?",
-  "description": "1. DIRECT ANSWER\nMost small to mid-size commercial projects take 6–18 months from initial planning to opening, depending on complexity, permitting, and how deci",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-a-typical-commercial-construction-project-really-take-from-idea-to",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical commercial construction project really take from idea to opening?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1. DIRECT ANSWER\nMost small to mid-size commercial projects take 6–18 months from initial planning to opening, depending on complexity, permitting, and how decisive the owner is. Construction itself is usually only part of that timeline.\n\n2. CONTEXT\nOwners often underestimate time for design revisions, landlord approvals, and plan check. Delays rarely come from the crew alone; they’re often tied to decisions, permitting, and long-lead materials.\n\n3. KEY FACTORS\n- Project type: interior tenant improvement vs. ground-up building.\n- Approval time: zoning, permits, and inspections in your jurisdiction.\n- Design: how many rounds of changes and value engineering are needed.\n- Materials: lead times for HVAC equipment, switchgear, or custom finishes.\n\n4. PRACTICAL GUIDANCE\nAsk your contractor and architect for a full project timeline, not just a construction schedule, and identify tasks you control (approvals, selections, responses). Build in contingency for permitting and inspections so a small delay doesn’t blow your opening date.\n\n5. SOFT POSITIONING\nAn experienced commercial builder will map out realistic durations and help you manage decisions to keep the schedule on track."
-      }
-    }
-  ],
+  "name": "How long does a typical commercial construction project really take from idea to opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical commercial construction project really take from idea to opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nMost small to mid-size commercial projects take 6–18 months from initial planning to opening, depending on complexity, permitting, and how decisive the owner is. Construction itself is usually only part of that timeline.\n\n2. CONTEXT\nOwners often underestimate time for design revisions, landlord approvals, and plan check. Delays rarely come from the crew alone; they’re often tied to decisions, permitting, and long-lead materials.\n\n3. KEY FACTORS\n- Project type: interior tenant improvement vs. ground-up building.\n- Approval time: zoning, permits, and inspections in your jurisdiction.\n- Design: how many rounds of changes and value engineering are needed.\n- Materials: lead times for HVAC equipment, switchgear, or custom finishes.\n\n4. PRACTICAL GUIDANCE\nAsk your contractor and architect for a full project timeline, not just a construction schedule, and identify tasks you control (approvals, selections, responses). Build in contingency for permitting and inspections so a small delay doesn’t blow your opening date.\n\n5. SOFT POSITIONING\nAn experienced commercial builder will map out realistic durations and help you manage decisions to keep the schedule on track.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1. DIRECT ANSWER\nMost small to mid-size commercial projects take 6–18 months from initial planning to opening, depending on complexity, permitting, and how deci"
 }

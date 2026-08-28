@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
-  "description": "The best ways to prevent cost overruns are to finalize the design before construction, get a detailed fixed-price scope, keep changes to a minimum, and maintain",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-can-i-do-to-prevent-cost-overruns-on-my-remodel-addition-or-adu-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best ways to prevent cost overruns are to finalize the design before construction, get a detailed fixed-price scope, keep changes to a minimum, and maintain a realistic contingency fund for unexpected issues. Strong planning beats reacting. \nContext: Many budgets blow up because homeowners make big design changes mid-project or discover hidden problems in older homes that weren’t accounted for. Some surprises are inevitable, but their impact can be contained. \nKey factors:\n- Thorough design and selections completed before contract signing\n- Detailed written scope, exclusions, and change-order process\n- 10–20% contingency for unforeseen conditions\n- Prompt decisions when issues arise to avoid delays and extra labor\nPractical guidance: Take time in preconstruction to make most material and layout decisions, then resist “scope creep” once work begins. Ask your contractor to flag potential risk areas early and discuss cost ranges for “if we find X behind the walls.” Soft positioning: A proactive contractor will use planning and clear documentation to help keep your final cost close to the agreed budget."
-      }
-    }
-  ],
+  "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent cost overruns on my remodel, addition, or ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best ways to prevent cost overruns are to finalize the design before construction, get a detailed fixed-price scope, keep changes to a minimum, and maintain a realistic contingency fund for unexpected issues. Strong planning beats reacting. \nContext: Many budgets blow up because homeowners make big design changes mid-project or discover hidden problems in older homes that weren’t accounted for. Some surprises are inevitable, but their impact can be contained. \nKey factors:\n- Thorough design and selections completed before contract signing\n- Detailed written scope, exclusions, and change-order process\n- 10–20% contingency for unforeseen conditions\n- Prompt decisions when issues arise to avoid delays and extra labor\nPractical guidance: Take time in preconstruction to make most material and layout decisions, then resist “scope creep” once work begins. Ask your contractor to flag potential risk areas early and discuss cost ranges for “if we find X behind the walls.” Soft positioning: A proactive contractor will use planning and clear documentation to help keep your final cost close to the agreed budget.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best ways to prevent cost overruns are to finalize the design before construction, get a detailed fixed-price scope, keep changes to a minimum, and maintain"
 }

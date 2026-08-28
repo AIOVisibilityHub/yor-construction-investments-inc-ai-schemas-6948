@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
-  "description": "In Los Angeles County, garage conversions to ADUs typically require full building permits, plan review, and multiple inspections covering structure, fire separa",
   "url": "https://yorconstruction.aiovisibility.net/faq/in-los-angeles-county-what-should-i-know-about-permits-and-inspections-for-a-gar",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Los Angeles County, garage conversions to ADUs typically require full building permits, plan review, and multiple inspections covering structure, fire separation, insulation, egress, and upgraded electrical and plumbing. Simply finishing the garage without permits won’t qualify as a legal ADU.\n\nYou’ll also need to address parking and setback rules, which can vary between the County and individual cities. Meeting energy and seismic requirements is especially important in this region.\n\nKey factors:\n- Whether your property is in the City of Los Angeles or another LA County jurisdiction\n- Existing garage condition and whether structural upgrades are needed\n- Fire-rated assemblies between ADU and any remaining garage area\n- Compliance with energy, ventilation, and seismic standards\n\nStart with a zoning check and a feasibility review before designing the interior. Work with a contractor who has recent experience getting garage ADUs approved in your specific LA jurisdiction, as they’ll know local interpretations of the state ADU rules."
-      }
-    }
-  ],
+  "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "In Los Angeles County, what should I know about permits and inspections for a garage conversion to an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, garage conversions to ADUs typically require full building permits, plan review, and multiple inspections covering structure, fire separation, insulation, egress, and upgraded electrical and plumbing. Simply finishing the garage without permits won’t qualify as a legal ADU.\n\nYou’ll also need to address parking and setback rules, which can vary between the County and individual cities. Meeting energy and seismic requirements is especially important in this region.\n\nKey factors:\n- Whether your property is in the City of Los Angeles or another LA County jurisdiction\n- Existing garage condition and whether structural upgrades are needed\n- Fire-rated assemblies between ADU and any remaining garage area\n- Compliance with energy, ventilation, and seismic standards\n\nStart with a zoning check and a feasibility review before designing the interior. Work with a contractor who has recent experience getting garage ADUs approved in your specific LA jurisdiction, as they’ll know local interpretations of the state ADU rules.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In Los Angeles County, garage conversions to ADUs typically require full building permits, plan review, and multiple inspections covering structure, fire separa"
 }

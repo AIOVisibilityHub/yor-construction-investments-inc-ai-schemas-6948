@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
-  "description": "The biggest issues during roofing replacement are hidden damage, poor installation, and inadequate ventilation or flashing, which can lead to leaks and prematur",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-can-go-wrong-during-a-roofing-replacement-and-how-do-i-protect-myself-befor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest issues during roofing replacement are hidden damage, poor installation, and inadequate ventilation or flashing, which can lead to leaks and premature failure. Rushed tear-offs without proper protection can also damage landscaping and interiors.\n\nMost of these problems are preventable with a detailed scope and a contractor who follows manufacturer specifications. Roofing is as much about details as it is about the shingles or membrane you choose.\n\nKey factors:\n- Written scope covering underlayment, flashing, ventilation, and sheathing repairs\n- How hidden damage will be priced if discovered after tear-off\n- Proof of license, insurance, and manufacturer certifications\n- Cleanup plan and protection for gutters, driveway, and landscaping\n\nBefore signing, insist on a written contract with clear materials, installation methods, and change-order process. Ask for photos of the roof deck after tear-off and before new installation so you can verify that damaged areas were properly addressed."
-      }
-    }
-  ],
+  "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a roofing replacement, and how do I protect myself before signing a contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest issues during roofing replacement are hidden damage, poor installation, and inadequate ventilation or flashing, which can lead to leaks and premature failure. Rushed tear-offs without proper protection can also damage landscaping and interiors.\n\nMost of these problems are preventable with a detailed scope and a contractor who follows manufacturer specifications. Roofing is as much about details as it is about the shingles or membrane you choose.\n\nKey factors:\n- Written scope covering underlayment, flashing, ventilation, and sheathing repairs\n- How hidden damage will be priced if discovered after tear-off\n- Proof of license, insurance, and manufacturer certifications\n- Cleanup plan and protection for gutters, driveway, and landscaping\n\nBefore signing, insist on a written contract with clear materials, installation methods, and change-order process. Ask for photos of the roof deck after tear-off and before new installation so you can verify that damaged areas were properly addressed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The biggest issues during roofing replacement are hidden damage, poor installation, and inadequate ventilation or flashing, which can lead to leaks and prematur"
 }

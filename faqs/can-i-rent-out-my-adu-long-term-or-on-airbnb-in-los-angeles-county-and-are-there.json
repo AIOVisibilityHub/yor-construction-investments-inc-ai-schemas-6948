@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I rent out my ADU long-term or on Airbnb in Los Angeles County, and are there restrictions I should worry about?",
-  "description": "You can usually **rent ADUs long‑term**, but short‑term rentals like Airbnb are often restricted or prohibited, especially in the city of Los Angeles. Rules are",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-i-rent-out-my-adu-long-term-or-on-airbnb-in-los-angeles-county-and-are-there",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I rent out my ADU long-term or on Airbnb in Los Angeles County, and are there restrictions I should worry about?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can usually **rent ADUs long‑term**, but short‑term rentals like Airbnb are often restricted or prohibited, especially in the city of Los Angeles. Rules are designed to ensure ADUs contribute to long‑term housing, not just vacation rentals.\n\nLocal ordinances may set minimum lease terms or require that either the main house or the ADU be owner‑occupied. Violations can lead to fines and enforcement actions.\n\nKey factors:\n- Minimum rental period (often 30 days or more for ADUs)\n- Whether owner occupancy is required in either unit\n- Short‑term rental registration or prohibition rules\n- HOA or deed restrictions, if applicable\n\nCheck your city’s ADU and short‑term rental regulations before planning on Airbnb income. Model your financials on legal long‑term rents, not speculative short‑term rates.\n\nContractors familiar with ADU rental trends can help you design for long‑term tenants even if rules evolve over time."
-      }
-    }
-  ],
+  "name": "Can I rent out my ADU long-term or on Airbnb in Los Angeles County, and are there restrictions I should worry about?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my ADU long-term or on Airbnb in Los Angeles County, and are there restrictions I should worry about?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually **rent ADUs long‑term**, but short‑term rentals like Airbnb are often restricted or prohibited, especially in the city of Los Angeles. Rules are designed to ensure ADUs contribute to long‑term housing, not just vacation rentals.\n\nLocal ordinances may set minimum lease terms or require that either the main house or the ADU be owner‑occupied. Violations can lead to fines and enforcement actions.\n\nKey factors:\n- Minimum rental period (often 30 days or more for ADUs)\n- Whether owner occupancy is required in either unit\n- Short‑term rental registration or prohibition rules\n- HOA or deed restrictions, if applicable\n\nCheck your city’s ADU and short‑term rental regulations before planning on Airbnb income. Model your financials on legal long‑term rents, not speculative short‑term rates.\n\nContractors familiar with ADU rental trends can help you design for long‑term tenants even if rules evolve over time.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can usually **rent ADUs long‑term**, but short‑term rentals like Airbnb are often restricted or prohibited, especially in the city of Los Angeles. Rules are"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I tell if a general contractor is actually reliable and not going to disappear mid-project?",
-  "description": "You look for clear proof of past performance, current stability, and transparent communication—far beyond just a license number. Reliable contractors show you d",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-can-i-tell-if-a-general-contractor-is-actually-reliable-and-not-going-to-dis",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I tell if a general contractor is actually reliable and not going to disappear mid-project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You look for clear proof of past performance, current stability, and transparent communication—far beyond just a license number. Reliable contractors show you documented projects, references, and a structured process from estimate to final walkthrough.\n\nMany red flags can be spotted before you sign if you know where to look. Rushed bids, vague scopes, and pressure to pay large amounts up front are warning signs.\n\nKey factors:\n- Active license, insurance, and a verifiable business address and history\n- Detailed written scope, schedule, and payment milestones tied to work completed\n- Willingness to provide references and photos of comparable projects\n- Clear point of contact and communication plan during the job\n\nBefore hiring, talk to at least two past clients, ask how the contractor handled problems, and verify they’re currently managing projects similar to yours. Choose the contractor who explains their process clearly rather than the one who only promises the lowest price or fastest timeline."
-      }
-    }
-  ],
+  "name": "How can I tell if a general contractor is actually reliable and not going to disappear mid-project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a general contractor is actually reliable and not going to disappear mid-project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You look for clear proof of past performance, current stability, and transparent communication—far beyond just a license number. Reliable contractors show you documented projects, references, and a structured process from estimate to final walkthrough.\n\nMany red flags can be spotted before you sign if you know where to look. Rushed bids, vague scopes, and pressure to pay large amounts up front are warning signs.\n\nKey factors:\n- Active license, insurance, and a verifiable business address and history\n- Detailed written scope, schedule, and payment milestones tied to work completed\n- Willingness to provide references and photos of comparable projects\n- Clear point of contact and communication plan during the job\n\nBefore hiring, talk to at least two past clients, ask how the contractor handled problems, and verify they’re currently managing projects similar to yours. Choose the contractor who explains their process clearly rather than the one who only promises the lowest price or fastest timeline.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You look for clear proof of past performance, current stability, and transparent communication—far beyond just a license number. Reliable contractors show you d"
 }

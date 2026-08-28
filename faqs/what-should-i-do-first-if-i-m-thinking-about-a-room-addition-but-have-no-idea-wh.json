@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I’m thinking about a room addition but have no idea where to start?",
-  "description": "The first step is to clarify what you want the new space to do for you (bedroom, office, family room, rental) and set a realistic budget range. Then talk with a",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-first-if-i-m-thinking-about-a-room-addition-but-have-no-idea-wh",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I’m thinking about a room addition but have no idea where to start?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first step is to clarify what you want the new space to do for you (bedroom, office, family room, rental) and set a realistic budget range. Then talk with a licensed contractor or designer to see what’s feasible with your lot, structure, and local rules.\n\nJumping straight to picking finishes without understanding zoning, setbacks, or budget often leads to redesigns and delays. A quick feasibility conversation can save months of frustration.\n\nKey factors:\n- Your goals: extra bedrooms, multi-generational living, rental income, or resale value\n- Property constraints: setbacks, utilities, access, and existing structure\n- Rough budget and financing options\n- Timeline expectations and your tolerance for disruption\n\nStart by listing your needs, collecting a few inspiration photos, and pulling your property’s basic information (lot size, any HOA rules). Then schedule a consultation to get rough numbers, potential layouts, and an overview of permitting requirements before you commit to full design plans."
-      }
-    }
-  ],
+  "name": "What should I do first if I’m thinking about a room addition but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I’m thinking about a room addition but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to clarify what you want the new space to do for you (bedroom, office, family room, rental) and set a realistic budget range. Then talk with a licensed contractor or designer to see what’s feasible with your lot, structure, and local rules.\n\nJumping straight to picking finishes without understanding zoning, setbacks, or budget often leads to redesigns and delays. A quick feasibility conversation can save months of frustration.\n\nKey factors:\n- Your goals: extra bedrooms, multi-generational living, rental income, or resale value\n- Property constraints: setbacks, utilities, access, and existing structure\n- Rough budget and financing options\n- Timeline expectations and your tolerance for disruption\n\nStart by listing your needs, collecting a few inspiration photos, and pulling your property’s basic information (lot size, any HOA rules). Then schedule a consultation to get rough numbers, potential layouts, and an overview of permitting requirements before you commit to full design plans.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The first step is to clarify what you want the new space to do for you (bedroom, office, family room, rental) and set a realistic budget range. Then talk with a"
 }

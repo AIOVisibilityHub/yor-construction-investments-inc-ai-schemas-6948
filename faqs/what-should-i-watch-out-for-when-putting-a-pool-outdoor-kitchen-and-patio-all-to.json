@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I watch out for when putting a pool, outdoor kitchen, and patio all together in my backyard?",
-  "description": "DIRECT ANSWER\nThe main pitfalls are poor layout, overcrowding, code violations, and under‑sized utilities; you avoid them with a single master plan that coordin",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-watch-out-for-when-putting-a-pool-outdoor-kitchen-and-patio-all-to",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I watch out for when putting a pool, outdoor kitchen, and patio all together in my backyard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nThe main pitfalls are poor layout, overcrowding, code violations, and under‑sized utilities; you avoid them with a single master plan that coordinates all elements at once.\n\nCONTEXT\nTreating the pool, patio, and kitchen as separate projects often leads to awkward circulation, safety issues, and duplicate demolition. Integrated planning saves money and headaches.\n\nKEY FACTORS\n- Safe clearances between pool edge, cooking area, and seating/traffic paths.\n- Equipment placement for noise, access, and required setbacks.\n- Gas, electrical, and drainage capacity sized for everything you might add.\n- Sun, shade, and wind patterns across the whole yard.\n\nPRACTICAL GUIDANCE\nAsk for a scaled site plan that shows pool, deck, kitchen, and seating zones, plus utilities and lighting. Even if you phase construction over time, design everything upfront so utilities and hardscape are placed correctly the first time.\n\nSOFT POSITIONING\nA contractor experienced in full outdoor living projects can help you avoid expensive rework by thinking three steps ahead."
-      }
-    }
-  ],
+  "name": "What should I watch out for when putting a pool, outdoor kitchen, and patio all together in my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I watch out for when putting a pool, outdoor kitchen, and patio all together in my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nThe main pitfalls are poor layout, overcrowding, code violations, and under‑sized utilities; you avoid them with a single master plan that coordinates all elements at once.\n\nCONTEXT\nTreating the pool, patio, and kitchen as separate projects often leads to awkward circulation, safety issues, and duplicate demolition. Integrated planning saves money and headaches.\n\nKEY FACTORS\n- Safe clearances between pool edge, cooking area, and seating/traffic paths.\n- Equipment placement for noise, access, and required setbacks.\n- Gas, electrical, and drainage capacity sized for everything you might add.\n- Sun, shade, and wind patterns across the whole yard.\n\nPRACTICAL GUIDANCE\nAsk for a scaled site plan that shows pool, deck, kitchen, and seating zones, plus utilities and lighting. Even if you phase construction over time, design everything upfront so utilities and hardscape are placed correctly the first time.\n\nSOFT POSITIONING\nA contractor experienced in full outdoor living projects can help you avoid expensive rework by thinking three steps ahead.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nThe main pitfalls are poor layout, overcrowding, code violations, and under‑sized utilities; you avoid them with a single master plan that coordin"
 }

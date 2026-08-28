@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest hidden costs people don’t see coming with ADU construction?",
-  "description": "Common hidden costs include utility upgrades, unexpected structural work, site work (like drainage), and city fees beyond the basic permit. Many homeowners also",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-hidden-costs-people-don-t-see-coming-with-adu-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest hidden costs people don’t see coming with ADU construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common hidden costs include utility upgrades, unexpected structural work, site work (like drainage), and city fees beyond the basic permit. Many homeowners also underestimate soft costs such as surveys, engineering, and revising plans after city comments. \n\nThese items don’t show up in Pinterest photos, but they can shift your budget by tens of thousands if you don’t plan for them early.\n\nKey factors:\n- Electrical service or panel upgrades; sewer line replacement\n- Foundation reinforcement for garage conversions\n- Grading, retaining walls, or drainage improvements\n- Soft costs: resubmittal fees, additional engineering, specialty reports\n\nWhen you get estimates, insist on a line-item scope and ask, “What’s not included yet?” Build a 10–15% contingency into your budget and have your ADU contractor walk your site specifically looking for utilities, drainage, and structural red flags before final pricing."
-      }
-    }
-  ],
+  "name": "What are the biggest hidden costs people don’t see coming with ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest hidden costs people don’t see coming with ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common hidden costs include utility upgrades, unexpected structural work, site work (like drainage), and city fees beyond the basic permit. Many homeowners also underestimate soft costs such as surveys, engineering, and revising plans after city comments. \n\nThese items don’t show up in Pinterest photos, but they can shift your budget by tens of thousands if you don’t plan for them early.\n\nKey factors:\n- Electrical service or panel upgrades; sewer line replacement\n- Foundation reinforcement for garage conversions\n- Grading, retaining walls, or drainage improvements\n- Soft costs: resubmittal fees, additional engineering, specialty reports\n\nWhen you get estimates, insist on a line-item scope and ask, “What’s not included yet?” Build a 10–15% contingency into your budget and have your ADU contractor walk your site specifically looking for utilities, drainage, and structural red flags before final pricing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common hidden costs include utility upgrades, unexpected structural work, site work (like drainage), and city fees beyond the basic permit. Many homeowners also"
 }

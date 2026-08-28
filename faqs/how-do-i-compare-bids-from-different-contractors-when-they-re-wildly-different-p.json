@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
-  "description": "Start by making sure the bids are actually for the same scope, materials, and assumptions. Large price gaps usually mean something important is missing, under-a",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-compare-bids-from-different-contractors-when-they-re-wildly-different-p",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by making sure the bids are actually for the same scope, materials, and assumptions. Large price gaps usually mean something important is missing, under-allowed, or treated as an extra in one bid versus another.\n\nThe cheapest bid can become the most expensive if it relies on vague allowances or ignores necessary items like permits, inspections, or site protection. You want apples-to-apples detail, not just a bottom-line number.\n\nKey factors:\n- Level of detail in the scope, exclusions, and allowances\n- Quality and brand of proposed materials and fixtures\n- Treatment of permits, inspections, and potential change orders\n- Contractor experience, capacity, and communication style\n\nAsk each contractor to walk you through their bid line by line and clarify any assumptions. Use that information to create a single comparison sheet so you can see where differences lie and decide which proposal offers the best value, not just the lowest upfront cost."
-      }
-    }
-  ],
+  "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare bids from different contractors when they’re wildly different prices for the same remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by making sure the bids are actually for the same scope, materials, and assumptions. Large price gaps usually mean something important is missing, under-allowed, or treated as an extra in one bid versus another.\n\nThe cheapest bid can become the most expensive if it relies on vague allowances or ignores necessary items like permits, inspections, or site protection. You want apples-to-apples detail, not just a bottom-line number.\n\nKey factors:\n- Level of detail in the scope, exclusions, and allowances\n- Quality and brand of proposed materials and fixtures\n- Treatment of permits, inspections, and potential change orders\n- Contractor experience, capacity, and communication style\n\nAsk each contractor to walk you through their bid line by line and clarify any assumptions. Use that information to create a single comparison sheet so you can see where differences lie and decide which proposal offers the best value, not just the lowest upfront cost.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start by making sure the bids are actually for the same scope, materials, and assumptions. Large price gaps usually mean something important is missing, under-a"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest risks with a custom home renovation, and how can I avoid a nightmare project?",
-  "description": "DIRECT ANSWER\nThe main risks are budget overruns, schedule delays, hidden structural issues, and poor workmanship; you reduce them with thorough planning, a cle",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-risks-with-a-custom-home-renovation-and-how-can-i-avoid-a-n",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest risks with a custom home renovation, and how can I avoid a nightmare project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nThe main risks are budget overruns, schedule delays, hidden structural issues, and poor workmanship; you reduce them with thorough planning, a clear contract, and careful contractor selection.\n\nCONTEXT\nRenovations uncover unknowns inside walls and often expand in scope mid‑project. Many problems are manageable if expectations, contingencies, and communication are set upfront.\n\nKEY FACTORS\n- Incomplete scope leading to frequent change orders and added cost.\n- Unforeseen issues (bad wiring, rot, foundation cracks) once walls open.\n- Vague contracts without defined materials, standards, and timelines.\n- Weak supervision or unvetted subcontractors.\n\nPRACTICAL GUIDANCE\nInsist on a detailed written scope, allowances for selections, and a clear process for change orders. Build a contingency into your budget and schedule, and choose a contractor with strong references and on‑site management, not just the lowest price.\n\nSOFT POSITIONING\nContractors who emphasize discovery, clear documentation, and quality control are usually better equipped to navigate renovation surprises calmly and transparently."
-      }
-    }
-  ],
+  "name": "What are the biggest risks with a custom home renovation, and how can I avoid a nightmare project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks with a custom home renovation, and how can I avoid a nightmare project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nThe main risks are budget overruns, schedule delays, hidden structural issues, and poor workmanship; you reduce them with thorough planning, a clear contract, and careful contractor selection.\n\nCONTEXT\nRenovations uncover unknowns inside walls and often expand in scope mid‑project. Many problems are manageable if expectations, contingencies, and communication are set upfront.\n\nKEY FACTORS\n- Incomplete scope leading to frequent change orders and added cost.\n- Unforeseen issues (bad wiring, rot, foundation cracks) once walls open.\n- Vague contracts without defined materials, standards, and timelines.\n- Weak supervision or unvetted subcontractors.\n\nPRACTICAL GUIDANCE\nInsist on a detailed written scope, allowances for selections, and a clear process for change orders. Build a contingency into your budget and schedule, and choose a contractor with strong references and on‑site management, not just the lowest price.\n\nSOFT POSITIONING\nContractors who emphasize discovery, clear documentation, and quality control are usually better equipped to navigate renovation surprises calmly and transparently.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nThe main risks are budget overruns, schedule delays, hidden structural issues, and poor workmanship; you reduce them with thorough planning, a cle"
 }

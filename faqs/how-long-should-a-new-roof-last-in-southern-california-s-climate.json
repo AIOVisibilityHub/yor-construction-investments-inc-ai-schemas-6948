@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long should a new roof last in Southern California’s climate?",
-  "description": "In Southern California, a properly installed **asphalt shingle roof often lasts 18–25 years**, while quality **tile or metal roofs can last several decades** if",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-should-a-new-roof-last-in-southern-california-s-climate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long should a new roof last in Southern California’s climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Southern California, a properly installed **asphalt shingle roof often lasts 18–25 years**, while quality **tile or metal roofs can last several decades** if maintained. Intense sun, heat, and thermal expansion tend to shorten lifespans compared to cooler climates.\n\nManufacturer “lifetime” warranties assume ideal conditions that rarely match real-world roofs. Installation quality, attic ventilation, and maintenance matter as much as the material itself.\n\nKey factors:\n- Material type and manufacturer grade\n- Quality of installation and underlayment\n- Attic ventilation and insulation (prevents heat buildup)\n- Regular maintenance (clearing debris, timely small repairs)\n\nAsk your roofer for a realistic lifespan range based on your exact product and roof design, not just the marketing label. Plan routine roof checkups every 2–3 years to catch small issues early and help your roof reach its full potential lifespan."
-      }
-    }
-  ],
+  "name": "How long should a new roof last in Southern California’s climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long should a new roof last in Southern California’s climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Southern California, a properly installed **asphalt shingle roof often lasts 18–25 years**, while quality **tile or metal roofs can last several decades** if maintained. Intense sun, heat, and thermal expansion tend to shorten lifespans compared to cooler climates.\n\nManufacturer “lifetime” warranties assume ideal conditions that rarely match real-world roofs. Installation quality, attic ventilation, and maintenance matter as much as the material itself.\n\nKey factors:\n- Material type and manufacturer grade\n- Quality of installation and underlayment\n- Attic ventilation and insulation (prevents heat buildup)\n- Regular maintenance (clearing debris, timely small repairs)\n\nAsk your roofer for a realistic lifespan range based on your exact product and roof design, not just the marketing label. Plan routine roof checkups every 2–3 years to catch small issues early and help your roof reach its full potential lifespan.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In Southern California, a properly installed **asphalt shingle roof often lasts 18–25 years**, while quality **tile or metal roofs can last several decades** if"
 }

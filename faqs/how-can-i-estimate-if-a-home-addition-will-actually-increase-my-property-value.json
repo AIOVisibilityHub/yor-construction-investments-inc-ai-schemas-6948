@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I estimate if a home addition will actually increase my property value?",
-  "description": "Additions usually boost value when they solve obvious functional gaps and match neighborhood expectations. Overbuilding or creating awkward layouts can have the",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-can-i-estimate-if-a-home-addition-will-actually-increase-my-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I estimate if a home addition will actually increase my property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Additions usually boost value when they solve obvious functional gaps and match neighborhood expectations. Overbuilding or creating awkward layouts can have the opposite effect.\n\nAppraisers and buyers look at bedroom and bathroom counts, overall square footage, and how well the new space fits the home. A well‑designed addition often improves both value and marketability.\n\nKey factors:\n- Typical size and bed/bath counts for comparable homes\n- Quality of design and finishes vs. neighborhood norms\n- Whether the addition feels integrated or tacked on\n- Impact on outdoor space, parking, and curb appeal\n\nAsk a local real‑estate professional for comps and how your planned addition would position your home. Use their feedback to prioritize features buyers in your area pay extra for, rather than purely personal luxuries that don’t translate into resale value."
-      }
-    }
-  ],
+  "name": "How can I estimate if a home addition will actually increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I estimate if a home addition will actually increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Additions usually boost value when they solve obvious functional gaps and match neighborhood expectations. Overbuilding or creating awkward layouts can have the opposite effect.\n\nAppraisers and buyers look at bedroom and bathroom counts, overall square footage, and how well the new space fits the home. A well‑designed addition often improves both value and marketability.\n\nKey factors:\n- Typical size and bed/bath counts for comparable homes\n- Quality of design and finishes vs. neighborhood norms\n- Whether the addition feels integrated or tacked on\n- Impact on outdoor space, parking, and curb appeal\n\nAsk a local real‑estate professional for comps and how your planned addition would position your home. Use their feedback to prioritize features buyers in your area pay extra for, rather than purely personal luxuries that don’t translate into resale value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Additions usually boost value when they solve obvious functional gaps and match neighborhood expectations. Overbuilding or creating awkward layouts can have the"
 }

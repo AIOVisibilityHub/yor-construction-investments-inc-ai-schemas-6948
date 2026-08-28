@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
-  "description": "If your ADU permit is **rejected or stalled**, the usual cause is incomplete plans or code conflicts, not that ADUs are banned. Most issues can be fixed with ta",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-happens-if-my-adu-permit-application-gets-rejected-or-stuck-in-plan-check-f",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your ADU permit is **rejected or stalled**, the usual cause is incomplete plans or code conflicts, not that ADUs are banned. Most issues can be fixed with targeted revisions.\n\nJurisdictions must process ADU applications within specific time frames, but corrections and resubmittals can stretch timelines. Staying responsive and organized is key.\n\nKey factors:\n- The specific correction comments or code sections cited\n- Whether issues are zoning‑related (location/size) or building‑code‑related (structural, egress, energy)\n- Communication between your designer, engineer, and plan checker\n- Deadlines for resubmittal or permit expiration\n\nCarefully review the correction list with your design team and respond point‑by‑point, providing clear revisions or justifications. Avoid piecemeal responses that invite another full round of comments.\n\nExperienced ADU designers and contractors know how to interpret correction notes and craft revisions that get approvals moving again."
-      }
-    }
-  ],
+  "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my ADU permit application gets rejected or stuck in plan check for months?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your ADU permit is **rejected or stalled**, the usual cause is incomplete plans or code conflicts, not that ADUs are banned. Most issues can be fixed with targeted revisions.\n\nJurisdictions must process ADU applications within specific time frames, but corrections and resubmittals can stretch timelines. Staying responsive and organized is key.\n\nKey factors:\n- The specific correction comments or code sections cited\n- Whether issues are zoning‑related (location/size) or building‑code‑related (structural, egress, energy)\n- Communication between your designer, engineer, and plan checker\n- Deadlines for resubmittal or permit expiration\n\nCarefully review the correction list with your design team and respond point‑by‑point, providing clear revisions or justifications. Avoid piecemeal responses that invite another full round of comments.\n\nExperienced ADU designers and contractors know how to interpret correction notes and craft revisions that get approvals moving again.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If your ADU permit is **rejected or stalled**, the usual cause is incomplete plans or code conflicts, not that ADUs are banned. Most issues can be fixed with ta"
 }

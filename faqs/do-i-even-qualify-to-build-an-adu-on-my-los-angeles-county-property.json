@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I even qualify to build an ADU on my Los Angeles County property?",
-  "description": "Many residential properties in Los Angeles County **do qualify** for at least one ADU, but you must confirm the details for your parcel. State law is favorable,",
   "url": "https://yorconstruction.aiovisibility.net/faq/do-i-even-qualify-to-build-an-adu-on-my-los-angeles-county-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I even qualify to build an ADU on my Los Angeles County property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many residential properties in Los Angeles County **do qualify** for at least one ADU, but you must confirm the details for your parcel. State law is favorable, yet local zoning and site constraints still apply.\n\nQualification is less about income or credit and more about land use, access, and safety requirements. A quick zoning check usually answers the big “yes/no” question.\n\nKey factors:\n- Zoning must allow residential use (single-family or multifamily)\n- Lot must contain or propose a primary dwelling\n- Fire/access rules (street frontage, fire department requirements)\n- Site constraints like easements, flood zones, or hillside restrictions\n\nCheck your zoning map and ADU standards, or ask a designer/builder to run a parcel check for you. If your lot meets basic criteria, the next step is confirming what size and type of ADU the rules will support.\n\nProfessionals who routinely handle ADUs in Los Angeles County can usually tell you your eligibility in a single review of your APN and site plan."
-      }
-    }
-  ],
+  "name": "Do I even qualify to build an ADU on my Los Angeles County property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I even qualify to build an ADU on my Los Angeles County property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many residential properties in Los Angeles County **do qualify** for at least one ADU, but you must confirm the details for your parcel. State law is favorable, yet local zoning and site constraints still apply.\n\nQualification is less about income or credit and more about land use, access, and safety requirements. A quick zoning check usually answers the big “yes/no” question.\n\nKey factors:\n- Zoning must allow residential use (single-family or multifamily)\n- Lot must contain or propose a primary dwelling\n- Fire/access rules (street frontage, fire department requirements)\n- Site constraints like easements, flood zones, or hillside restrictions\n\nCheck your zoning map and ADU standards, or ask a designer/builder to run a parcel check for you. If your lot meets basic criteria, the next step is confirming what size and type of ADU the rules will support.\n\nProfessionals who routinely handle ADUs in Los Angeles County can usually tell you your eligibility in a single review of your APN and site plan.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many residential properties in Los Angeles County **do qualify** for at least one ADU, but you must confirm the details for your parcel. State law is favorable,"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What inspections should I expect during ADU construction, and what happens if something fails?",
-  "description": "You can expect multiple inspections throughout an ADU build, typically including foundation, framing, rough plumbing and electrical, insulation, and final inspe",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-inspections-should-i-expect-during-adu-construction-and-what-happens-if-som",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What inspections should I expect during ADU construction, and what happens if something fails?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can expect multiple inspections throughout an ADU build, typically including foundation, framing, rough plumbing and electrical, insulation, and final inspection. Inspectors verify the work matches approved plans and code; if something fails, the contractor must correct it and call for a reinspection. \n\nInspections may feel stressful, but they are your safeguard against hidden issues that could haunt you later.\n\nKey factors:\n- Sequence of inspections tied to major construction milestones\n- Role of city/county inspector vs third‑party special inspections (if needed)\n- Documentation: approved plans, correction notices, and sign‑offs\n- Impact of failed inspections on schedule and cost\n\nAsk your builder to share the anticipated inspection schedule and who meets inspectors on site. If a phase fails, insist on seeing what was corrected before it’s covered, so you know problems are resolved properly and not rushed just to pass."
-      }
-    }
-  ],
+  "name": "What inspections should I expect during ADU construction, and what happens if something fails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What inspections should I expect during ADU construction, and what happens if something fails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can expect multiple inspections throughout an ADU build, typically including foundation, framing, rough plumbing and electrical, insulation, and final inspection. Inspectors verify the work matches approved plans and code; if something fails, the contractor must correct it and call for a reinspection. \n\nInspections may feel stressful, but they are your safeguard against hidden issues that could haunt you later.\n\nKey factors:\n- Sequence of inspections tied to major construction milestones\n- Role of city/county inspector vs third‑party special inspections (if needed)\n- Documentation: approved plans, correction notices, and sign‑offs\n- Impact of failed inspections on schedule and cost\n\nAsk your builder to share the anticipated inspection schedule and who meets inspectors on site. If a phase fails, insist on seeing what was corrected before it’s covered, so you know problems are resolved properly and not rushed just to pass.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can expect multiple inspections throughout an ADU build, typically including foundation, framing, rough plumbing and electrical, insulation, and final inspe"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
-  "description": "The biggest risks are unclear scope, under-budgeting, hidden structural or system issues, permit/inspection delays, and hiring the wrong contractor. Most major",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-risks-that-can-derail-a-kitchen-remodeling-project-and-how",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The biggest risks are unclear scope, under-budgeting, hidden structural or system issues, permit/inspection delays, and hiring the wrong contractor. Most major problems trace back to one of these. \nContext: Kitchens involve almost every trade—framing, electrical, plumbing, HVAC, cabinetry, and finishes—so mis-coordination or cutting corners can create safety issues, cost overruns, and long delays. \nKey factors:\n- Starting without detailed plans, specs, and a written contract\n- Choosing a low bid from an unlicensed or underinsured contractor\n- Old wiring, plumbing, or water damage discovered during demo\n- Changing the design mid-project without understanding cost/time impact\nPractical guidance: Insist on a clear scope, itemized estimate, and signed change-order process before demo starts. Verify license, insurance, and references, and keep a 10–20% contingency fund for surprises. Soft positioning: An experienced contractor will help you spot common pitfalls early and build protections into the contract and schedule."
-      }
-    }
-  ],
+  "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks that can derail a kitchen remodeling project, and how do I avoid them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are unclear scope, under-budgeting, hidden structural or system issues, permit/inspection delays, and hiring the wrong contractor. Most major problems trace back to one of these. \nContext: Kitchens involve almost every trade—framing, electrical, plumbing, HVAC, cabinetry, and finishes—so mis-coordination or cutting corners can create safety issues, cost overruns, and long delays. \nKey factors:\n- Starting without detailed plans, specs, and a written contract\n- Choosing a low bid from an unlicensed or underinsured contractor\n- Old wiring, plumbing, or water damage discovered during demo\n- Changing the design mid-project without understanding cost/time impact\nPractical guidance: Insist on a clear scope, itemized estimate, and signed change-order process before demo starts. Verify license, insurance, and references, and keep a 10–20% contingency fund for surprises. Soft positioning: An experienced contractor will help you spot common pitfalls early and build protections into the contract and schedule.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The biggest risks are unclear scope, under-budgeting, hidden structural or system issues, permit/inspection delays, and hiring the wrong contractor. Most major"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I ask a bathroom remodeling contractor before I sign anything?",
-  "description": "Ask about their license and insurance, how many bathrooms they’ve done recently, their typical timeline, and exactly what’s included (and excluded) in the bid.",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-ask-a-bathroom-remodeling-contractor-before-i-sign-anything",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I ask a bathroom remodeling contractor before I sign anything?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ask about their license and insurance, how many bathrooms they’ve done recently, their typical timeline, and exactly what’s included (and excluded) in the bid. Also ask who will be on site daily and how they handle surprises and change orders.\n\nThese questions reveal not just competence, but also how they communicate and manage expectations. Vague answers or reluctance to put details in writing are red flags.\n\nKEY FACTORS:\n- License number, insurance, and any complaints on record\n- Detailed scope of work, payment schedule, and change‑order policy\n- Written timeline and who your main contact is\n- How they protect your home and handle punch lists\n\nBring a written list of questions to each meeting so you can compare answers across contractors. Choose the one who is clear, honest, and detailed—not just the one who promises the fastest job or lowest price."
-      }
-    }
-  ],
+  "name": "What should I ask a bathroom remodeling contractor before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a bathroom remodeling contractor before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about their license and insurance, how many bathrooms they’ve done recently, their typical timeline, and exactly what’s included (and excluded) in the bid. Also ask who will be on site daily and how they handle surprises and change orders.\n\nThese questions reveal not just competence, but also how they communicate and manage expectations. Vague answers or reluctance to put details in writing are red flags.\n\nKEY FACTORS:\n- License number, insurance, and any complaints on record\n- Detailed scope of work, payment schedule, and change‑order policy\n- Written timeline and who your main contact is\n- How they protect your home and handle punch lists\n\nBring a written list of questions to each meeting so you can compare answers across contractors. Choose the one who is clear, honest, and detailed—not just the one who promises the fastest job or lowest price.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ask about their license and insurance, how many bathrooms they’ve done recently, their typical timeline, and exactly what’s included (and excluded) in the bid."
 }

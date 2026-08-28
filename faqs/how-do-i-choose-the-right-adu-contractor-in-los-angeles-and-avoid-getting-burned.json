@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right ADU contractor in Los Angeles and avoid getting burned?",
-  "description": "Choosing the right contractor is arguably the most important ADU decision; you want someone experienced with ADUs and your local jurisdiction, not just the lowe",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-choose-the-right-adu-contractor-in-los-angeles-and-avoid-getting-burned",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right ADU contractor in Los Angeles and avoid getting burned?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor is arguably the most important ADU decision; you want someone experienced with ADUs and your local jurisdiction, not just the lowest bidder. Look for a track record of finished ADUs, clear communication, and detailed written contracts. \n\nThe cheapest estimate up front often becomes the most expensive once delays, change orders, and quality issues are factored in.\n\nKey factors:\n- Number of ADUs completed in the last few years locally\n- Recent references you can actually call or visit\n- Detailed scope, schedule, and payment milestones in writing\n- Licensing, insurance, and responsiveness to questions\n\nInterview at least two or three ADU-focused contractors, ask to see completed projects, and compare not just price but clarity of scope and process. The team that explains things clearly and transparently is usually the one you’ll want to build with."
-      }
-    }
-  ],
+  "name": "How do I choose the right ADU contractor in Los Angeles and avoid getting burned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right ADU contractor in Los Angeles and avoid getting burned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is arguably the most important ADU decision; you want someone experienced with ADUs and your local jurisdiction, not just the lowest bidder. Look for a track record of finished ADUs, clear communication, and detailed written contracts. \n\nThe cheapest estimate up front often becomes the most expensive once delays, change orders, and quality issues are factored in.\n\nKey factors:\n- Number of ADUs completed in the last few years locally\n- Recent references you can actually call or visit\n- Detailed scope, schedule, and payment milestones in writing\n- Licensing, insurance, and responsiveness to questions\n\nInterview at least two or three ADU-focused contractors, ask to see completed projects, and compare not just price but clarity of scope and process. The team that explains things clearly and transparently is usually the one you’ll want to build with.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Choosing the right contractor is arguably the most important ADU decision; you want someone experienced with ADUs and your local jurisdiction, not just the lowe"
 }

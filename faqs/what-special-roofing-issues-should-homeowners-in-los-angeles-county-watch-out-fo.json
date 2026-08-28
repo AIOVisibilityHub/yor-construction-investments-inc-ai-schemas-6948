@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What special roofing issues should homeowners in Los Angeles County watch out for?",
-  "description": "In Los Angeles County, the big roofing issues are **sun and heat damage, wind-driven rain, wildfire embers in some areas, and occasional heavy downpours after l",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-special-roofing-issues-should-homeowners-in-los-angeles-county-watch-out-fo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What special roofing issues should homeowners in Los Angeles County watch out for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Los Angeles County, the big roofing issues are **sun and heat damage, wind-driven rain, wildfire embers in some areas, and occasional heavy downpours after long dry spells**. These conditions punish aging roofs and expose weak spots quickly.\n\nUV exposure dries out shingles and seals, while Santa Ana winds and debris can lift or crack materials. In hillside or wildland-adjacent neighborhoods, ember resistance and Class A fire-rated roofs are especially important.\n\nKey factors:\n- UV and heat aging of shingles, sealants, and underlayment\n- Proper flashing and waterproofing at walls, chimneys, and skylights\n- Fire rating and ember resistance in higher-risk zones\n- Drainage design to handle intense but infrequent storms\n\nAsk a local roofer about how your current roof type performs in these conditions and what upgrades (like better underlayment, cool-roof materials, or improved flashing) would make the biggest difference. Local experience matters more than generic advice from other climates."
-      }
-    }
-  ],
+  "name": "What special roofing issues should homeowners in Los Angeles County watch out for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What special roofing issues should homeowners in Los Angeles County watch out for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, the big roofing issues are **sun and heat damage, wind-driven rain, wildfire embers in some areas, and occasional heavy downpours after long dry spells**. These conditions punish aging roofs and expose weak spots quickly.\n\nUV exposure dries out shingles and seals, while Santa Ana winds and debris can lift or crack materials. In hillside or wildland-adjacent neighborhoods, ember resistance and Class A fire-rated roofs are especially important.\n\nKey factors:\n- UV and heat aging of shingles, sealants, and underlayment\n- Proper flashing and waterproofing at walls, chimneys, and skylights\n- Fire rating and ember resistance in higher-risk zones\n- Drainage design to handle intense but infrequent storms\n\nAsk a local roofer about how your current roof type performs in these conditions and what upgrades (like better underlayment, cool-roof materials, or improved flashing) would make the biggest difference. Local experience matters more than generic advice from other climates.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In Los Angeles County, the big roofing issues are **sun and heat damage, wind-driven rain, wildfire embers in some areas, and occasional heavy downpours after l"
 }

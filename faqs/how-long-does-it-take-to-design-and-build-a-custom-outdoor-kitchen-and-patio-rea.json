@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to design and build a custom outdoor kitchen and patio, realistically?",
-  "description": "DIRECT ANSWER\nMost custom outdoor kitchen and patio projects take a few weeks for design and approvals and roughly 4–12 weeks for construction, depending on sco",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-it-take-to-design-and-build-a-custom-outdoor-kitchen-and-patio-rea",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to design and build a custom outdoor kitchen and patio, realistically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nMost custom outdoor kitchen and patio projects take a few weeks for design and approvals and roughly 4–12 weeks for construction, depending on scope and permitting.\n\nCONTEXT\nTimelines stretch when you add structural covers, retaining walls, or complex hardscapes. Weather and special‑order materials can also affect scheduling.\n\nKEY FACTORS\n- Whether engineering and permits are needed for covers, walls, or gas lines.\n- Complexity of hardscape (concrete, pavers, drainage) and utility work.\n- Lead times for appliances, custom countertops, and specialty finishes.\n- Contractor workload and seasonality.\n\nPRACTICAL GUIDANCE\nAsk your contractor for a Gantt‑style schedule showing design, permits (if needed), utilities, hardscape, and finish installation. Try to finalize appliance and material selections early to avoid delays once work begins.\n\nSOFT POSITIONING\nOrganized outdoor builders will plan around permitting and lead times so your new space is ready for the season you care about most."
-      }
-    }
-  ],
+  "name": "How long does it take to design and build a custom outdoor kitchen and patio, realistically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and build a custom outdoor kitchen and patio, realistically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nMost custom outdoor kitchen and patio projects take a few weeks for design and approvals and roughly 4–12 weeks for construction, depending on scope and permitting.\n\nCONTEXT\nTimelines stretch when you add structural covers, retaining walls, or complex hardscapes. Weather and special‑order materials can also affect scheduling.\n\nKEY FACTORS\n- Whether engineering and permits are needed for covers, walls, or gas lines.\n- Complexity of hardscape (concrete, pavers, drainage) and utility work.\n- Lead times for appliances, custom countertops, and specialty finishes.\n- Contractor workload and seasonality.\n\nPRACTICAL GUIDANCE\nAsk your contractor for a Gantt‑style schedule showing design, permits (if needed), utilities, hardscape, and finish installation. Try to finalize appliance and material selections early to avoid delays once work begins.\n\nSOFT POSITIONING\nOrganized outdoor builders will plan around permitting and lead times so your new space is ready for the season you care about most.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nMost custom outdoor kitchen and patio projects take a few weeks for design and approvals and roughly 4–12 weeks for construction, depending on sco"
 }

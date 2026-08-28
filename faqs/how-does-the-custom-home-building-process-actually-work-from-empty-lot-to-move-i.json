@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does the custom home building process actually work from empty lot to move‑in?",
-  "description": "DIRECT ANSWER\nCustom home building typically moves through land/feasibility, design, permitting, site prep, construction, inspections, and final walkthrough bef",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-does-the-custom-home-building-process-actually-work-from-empty-lot-to-move-i",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does the custom home building process actually work from empty lot to move‑in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nCustom home building typically moves through land/feasibility, design, permitting, site prep, construction, inspections, and final walkthrough before move‑in.\n\nCONTEXT\nUnlike tract homes, custom builds require more owner decisions and coordination. Understanding the stages helps you anticipate your involvement and decision points.\n\nKEY FACTORS\n- Feasibility: zoning, setbacks, utilities, soil, and budget alignment.\n- Design: floor plans, engineering, and selections to match budget.\n- Permitting and approvals before any major construction.\n- Construction: foundation, framing, rough‑ins, insulation, finishes, and final inspections.\n\nPRACTICAL GUIDANCE\nAsk your builder to walk you through their step‑by‑step process and when they will need your decisions. Keep all drawings, specs, and change orders organized, and schedule periodic site visits at agreed‑upon milestones.\n\nSOFT POSITIONING\nA structured custom builder will have a clear roadmap and communication plan so you always know what’s happening and what comes next."
-      }
-    }
-  ],
+  "name": "How does the custom home building process actually work from empty lot to move‑in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does the custom home building process actually work from empty lot to move‑in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nCustom home building typically moves through land/feasibility, design, permitting, site prep, construction, inspections, and final walkthrough before move‑in.\n\nCONTEXT\nUnlike tract homes, custom builds require more owner decisions and coordination. Understanding the stages helps you anticipate your involvement and decision points.\n\nKEY FACTORS\n- Feasibility: zoning, setbacks, utilities, soil, and budget alignment.\n- Design: floor plans, engineering, and selections to match budget.\n- Permitting and approvals before any major construction.\n- Construction: foundation, framing, rough‑ins, insulation, finishes, and final inspections.\n\nPRACTICAL GUIDANCE\nAsk your builder to walk you through their step‑by‑step process and when they will need your decisions. Keep all drawings, specs, and change orders organized, and schedule periodic site visits at agreed‑upon milestones.\n\nSOFT POSITIONING\nA structured custom builder will have a clear roadmap and communication plan so you always know what’s happening and what comes next.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nCustom home building typically moves through land/feasibility, design, permitting, site prep, construction, inspections, and final walkthrough bef"
 }

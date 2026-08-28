@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I plan a home addition if my budget is tight but I really need more space?",
-  "description": "With a tight budget, you need to reduce complexity and prioritize function over finishes. A smaller, well‑designed space is usually better than a large but poor",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-plan-a-home-addition-if-my-budget-is-tight-but-i-really-need-more-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I plan a home addition if my budget is tight but I really need more space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "With a tight budget, you need to reduce complexity and prioritize function over finishes. A smaller, well‑designed space is usually better than a large but poorly built one.\n\nSimple shapes, fewer structural changes, and standard finishes free up budget for must‑have square footage and basic quality. You can upgrade finishes later more easily than structure.\n\nKey factors:\n- Compact footprint and simple rooflines\n- Reusing existing plumbing locations where possible\n- Standard‑grade fixtures and finishes with good durability\n- Phasing future upgrades (cabinets, built‑ins, landscaping)\n\nTell your designer your absolute budget ceiling and ask them to design *to that number*, not above it. Get one solid, realistic plan instead of multiple unaffordable options, and be ruthless about separating needs (bedroom, bathroom) from wants (high‑end tile, custom millwork)."
-      }
-    }
-  ],
+  "name": "How do I plan a home addition if my budget is tight but I really need more space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I plan a home addition if my budget is tight but I really need more space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a tight budget, you need to reduce complexity and prioritize function over finishes. A smaller, well‑designed space is usually better than a large but poorly built one.\n\nSimple shapes, fewer structural changes, and standard finishes free up budget for must‑have square footage and basic quality. You can upgrade finishes later more easily than structure.\n\nKey factors:\n- Compact footprint and simple rooflines\n- Reusing existing plumbing locations where possible\n- Standard‑grade fixtures and finishes with good durability\n- Phasing future upgrades (cabinets, built‑ins, landscaping)\n\nTell your designer your absolute budget ceiling and ask them to design *to that number*, not above it. Get one solid, realistic plan instead of multiple unaffordable options, and be ruthless about separating needs (bedroom, bathroom) from wants (high‑end tile, custom millwork).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "With a tight budget, you need to reduce complexity and prioritize function over finishes. A smaller, well‑designed space is usually better than a large but poor"
 }

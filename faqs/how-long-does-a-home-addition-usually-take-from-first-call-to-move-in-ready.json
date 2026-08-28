@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a home addition usually take from first call to move‑in ready?",
-  "description": "For most homeowners, a full addition takes several months from first consultation to completion. The build phase is only part of the timeline; design, permits,",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-a-home-addition-usually-take-from-first-call-to-move-in-ready",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a home addition usually take from first call to move‑in ready?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most homeowners, a full addition takes several months from first consultation to completion. The build phase is only part of the timeline; design, permits, and inspections add significant time.\n\nYour schedule will depend on city review times, material availability, and how quickly you make decisions. Rushing usually leads to mistakes or change orders.\n\nKey factors:\n- Design and planning: a few weeks to a few months\n- Permits and approvals: often 4–12+ weeks depending on backlog\n- Construction: commonly 2–6 months based on size and complexity\n- Inspection scheduling and punch‑list fixes at the end\n\nAsk contractors for a realistic, best‑case and worst‑case schedule, not just the optimistic version. Plan your life assuming the longer scenario so delays feel manageable rather than catastrophic."
-      }
-    }
-  ],
+  "name": "How long does a home addition usually take from first call to move‑in ready?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a home addition usually take from first call to move‑in ready?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most homeowners, a full addition takes several months from first consultation to completion. The build phase is only part of the timeline; design, permits, and inspections add significant time.\n\nYour schedule will depend on city review times, material availability, and how quickly you make decisions. Rushing usually leads to mistakes or change orders.\n\nKey factors:\n- Design and planning: a few weeks to a few months\n- Permits and approvals: often 4–12+ weeks depending on backlog\n- Construction: commonly 2–6 months based on size and complexity\n- Inspection scheduling and punch‑list fixes at the end\n\nAsk contractors for a realistic, best‑case and worst‑case schedule, not just the optimistic version. Plan your life assuming the longer scenario so delays feel manageable rather than catastrophic.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "For most homeowners, a full addition takes several months from first consultation to completion. The build phase is only part of the timeline; design, permits,"
 }

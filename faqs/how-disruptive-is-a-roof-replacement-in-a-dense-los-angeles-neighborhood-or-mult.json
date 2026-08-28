@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How disruptive is a roof replacement in a dense Los Angeles neighborhood or multi-family building?",
-  "description": "Roof replacement in a **dense LA neighborhood** or multi-family building can be quite disruptive in the short term—expect noise, parking impacts, and limited ac",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-disruptive-is-a-roof-replacement-in-a-dense-los-angeles-neighborhood-or-mult",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How disruptive is a roof replacement in a dense Los Angeles neighborhood or multi-family building?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Roof replacement in a **dense LA neighborhood** or multi-family building can be quite disruptive in the short term—expect noise, parking impacts, and limited access to some areas—but it’s manageable with good planning and communication. The main disturbance is usually concentrated into 1–3 active workdays.\n\nTight lots and shared spaces raise logistical issues like material staging, crane or lift access, and debris removal. Coordination with neighbors or HOA is often required.\n\nKey factors:\n- Street parking and access for trucks and dumpsters\n- Building rules about work hours and noise\n- Shared roof areas and multiple unit penetrations (vents, skylights)\n- Safety zones where residents shouldn’t walk during work\n\nBefore work starts, ask your roofer to provide a schedule and site plan you can share with neighbors or building management. Clear communication about timing, noise, and temporary restrictions reduces friction and helps the project run smoothly for everyone."
-      }
-    }
-  ],
+  "name": "How disruptive is a roof replacement in a dense Los Angeles neighborhood or multi-family building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How disruptive is a roof replacement in a dense Los Angeles neighborhood or multi-family building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof replacement in a **dense LA neighborhood** or multi-family building can be quite disruptive in the short term—expect noise, parking impacts, and limited access to some areas—but it’s manageable with good planning and communication. The main disturbance is usually concentrated into 1–3 active workdays.\n\nTight lots and shared spaces raise logistical issues like material staging, crane or lift access, and debris removal. Coordination with neighbors or HOA is often required.\n\nKey factors:\n- Street parking and access for trucks and dumpsters\n- Building rules about work hours and noise\n- Shared roof areas and multiple unit penetrations (vents, skylights)\n- Safety zones where residents shouldn’t walk during work\n\nBefore work starts, ask your roofer to provide a schedule and site plan you can share with neighbors or building management. Clear communication about timing, noise, and temporary restrictions reduces friction and helps the project run smoothly for everyone.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Roof replacement in a **dense LA neighborhood** or multi-family building can be quite disruptive in the short term—expect noise, parking impacts, and limited ac"
 }

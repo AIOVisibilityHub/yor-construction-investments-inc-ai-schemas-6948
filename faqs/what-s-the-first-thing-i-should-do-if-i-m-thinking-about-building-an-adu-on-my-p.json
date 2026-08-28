@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What’s the first thing I should do if I’m thinking about building an ADU on my property?",
-  "description": "The first step is to **confirm feasibility on your specific lot**—not to jump straight into detailed design. You want to know what’s allowed before spending ser",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-s-the-first-thing-i-should-do-if-i-m-thinking-about-building-an-adu-on-my-p",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What’s the first thing I should do if I’m thinking about building an ADU on my property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first step is to **confirm feasibility on your specific lot**—not to jump straight into detailed design. You want to know what’s allowed before spending serious money on plans.\n\nADU rules are generous but still shaped by zoning, setbacks, utilities, and existing structures. A quick feasibility check can prevent you from designing something that can’t be approved.\n\nKey factors:\n- Zoning and lot size, including any overlays or HOA rules\n- Available yard area that meets setback and height limits\n- Location of existing utilities and potential tie-in points\n- Any easements, slopes, or access issues\n\nUse your address to pull zoning info, then review local ADU standards or talk with a designer/builder who can run a basic site study. Once you know the envelope (max size, height, placement), you can move confidently into concept design and budgeting.\n\nA good ADU contractor will often offer a low-cost feasibility or pre-design service to answer “Can I?” before “What will it look like?”."
-      }
-    }
-  ],
+  "name": "What’s the first thing I should do if I’m thinking about building an ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What’s the first thing I should do if I’m thinking about building an ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to **confirm feasibility on your specific lot**—not to jump straight into detailed design. You want to know what’s allowed before spending serious money on plans.\n\nADU rules are generous but still shaped by zoning, setbacks, utilities, and existing structures. A quick feasibility check can prevent you from designing something that can’t be approved.\n\nKey factors:\n- Zoning and lot size, including any overlays or HOA rules\n- Available yard area that meets setback and height limits\n- Location of existing utilities and potential tie-in points\n- Any easements, slopes, or access issues\n\nUse your address to pull zoning info, then review local ADU standards or talk with a designer/builder who can run a basic site study. Once you know the envelope (max size, height, placement), you can move confidently into concept design and budgeting.\n\nA good ADU contractor will often offer a low-cost feasibility or pre-design service to answer “Can I?” before “What will it look like?”.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The first step is to **confirm feasibility on your specific lot**—not to jump straight into detailed design. You want to know what’s allowed before spending ser"
 }

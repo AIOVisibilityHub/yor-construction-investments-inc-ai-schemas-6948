@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my property is suitable for a custom outdoor kitchen and patio, or if I’m trying to force it?",
-  "description": "DIRECT ANSWER\nYour property is a good fit if there’s adequate space, access, drainage, and setback clearance for a safe, functional layout that ties logically t",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-know-if-my-property-is-suitable-for-a-custom-outdoor-kitchen-and-patio",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my property is suitable for a custom outdoor kitchen and patio, or if I’m trying to force it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nYour property is a good fit if there’s adequate space, access, drainage, and setback clearance for a safe, functional layout that ties logically to your indoor living areas.\n\nCONTEXT\nTrying to squeeze a full outdoor kitchen into a cramped or sloped area can create code, drainage, and usability headaches. A feasibility check avoids expensive rework.\n\nKEY FACTORS\n- Usable square footage after respecting property lines, easements, and setbacks.\n- Reasonable distance from the house for utilities (gas, power, water, sewer).\n- Slope, drainage patterns, and existing trees or structures.\n- Wind, sun exposure, and privacy from neighbors.\n\nPRACTICAL GUIDANCE\nHave a contractor do an on‑site assessment, including measurements, photos, and notes on utilities and grading. Ask them to sketch 1–2 layout options that show traffic flow, grill clearances, and seating so you can see whether the space will feel comfortable or cramped.\n\nSOFT POSITIONING\nExperienced outdoor living designers can quickly tell you what your yard can realistically support and how to make it feel intentional, not forced."
-      }
-    }
-  ],
+  "name": "How do I know if my property is suitable for a custom outdoor kitchen and patio, or if I’m trying to force it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my property is suitable for a custom outdoor kitchen and patio, or if I’m trying to force it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nYour property is a good fit if there’s adequate space, access, drainage, and setback clearance for a safe, functional layout that ties logically to your indoor living areas.\n\nCONTEXT\nTrying to squeeze a full outdoor kitchen into a cramped or sloped area can create code, drainage, and usability headaches. A feasibility check avoids expensive rework.\n\nKEY FACTORS\n- Usable square footage after respecting property lines, easements, and setbacks.\n- Reasonable distance from the house for utilities (gas, power, water, sewer).\n- Slope, drainage patterns, and existing trees or structures.\n- Wind, sun exposure, and privacy from neighbors.\n\nPRACTICAL GUIDANCE\nHave a contractor do an on‑site assessment, including measurements, photos, and notes on utilities and grading. Ask them to sketch 1–2 layout options that show traffic flow, grill clearances, and seating so you can see whether the space will feel comfortable or cramped.\n\nSOFT POSITIONING\nExperienced outdoor living designers can quickly tell you what your yard can realistically support and how to make it feel intentional, not forced.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nYour property is a good fit if there’s adequate space, access, drainage, and setback clearance for a safe, functional layout that ties logically t"
 }

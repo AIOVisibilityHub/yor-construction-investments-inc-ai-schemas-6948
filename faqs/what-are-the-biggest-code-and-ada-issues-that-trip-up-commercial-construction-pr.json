@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest code and ADA issues that trip up commercial construction projects in Los Angeles?",
-  "description": "Common problem areas include ADA accessibility (paths of travel, restrooms, counters), fire and life-safety (exits, sprinklers, alarms), and MEPS coordination (",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-code-and-ada-issues-that-trip-up-commercial-construction-pr",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest code and ADA issues that trip up commercial construction projects in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common problem areas include ADA accessibility (paths of travel, restrooms, counters), fire and life-safety (exits, sprinklers, alarms), and MEPS coordination (mechanical, electrical, plumbing, structural). These often generate plan-check comments and inspection delays. \nContext: Los Angeles enforces state and local codes strictly, and even modest tenant improvements can trigger upgrades in common areas or restrooms. Overlooking ADA slopes, door clearances, or fixture heights can require costly revisions late in the project. \nKey factors:\n- Accessibility requirements for entrances, parking, restrooms, and service counters\n- Exit routes, travel distances, and fire-rated assemblies\n- Adequate power, HVAC capacity, and ventilation for the intended use\n- Coordination between base-building conditions and tenant work\nPractical guidance: Engage design and contracting teams who understand current ADA and life-safety requirements and ask for early code reviews before submitting plans. During construction, perform internal inspections for ADA and life-safety details before calling for city inspections. Soft positioning: A code-savvy contractor can help catch these issues early so approvals and final sign-offs go more smoothly."
-      }
-    }
-  ],
+  "name": "What are the biggest code and ADA issues that trip up commercial construction projects in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest code and ADA issues that trip up commercial construction projects in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problem areas include ADA accessibility (paths of travel, restrooms, counters), fire and life-safety (exits, sprinklers, alarms), and MEPS coordination (mechanical, electrical, plumbing, structural). These often generate plan-check comments and inspection delays. \nContext: Los Angeles enforces state and local codes strictly, and even modest tenant improvements can trigger upgrades in common areas or restrooms. Overlooking ADA slopes, door clearances, or fixture heights can require costly revisions late in the project. \nKey factors:\n- Accessibility requirements for entrances, parking, restrooms, and service counters\n- Exit routes, travel distances, and fire-rated assemblies\n- Adequate power, HVAC capacity, and ventilation for the intended use\n- Coordination between base-building conditions and tenant work\nPractical guidance: Engage design and contracting teams who understand current ADA and life-safety requirements and ask for early code reviews before submitting plans. During construction, perform internal inspections for ADA and life-safety details before calling for city inspections. Soft positioning: A code-savvy contractor can help catch these issues early so approvals and final sign-offs go more smoothly.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common problem areas include ADA accessibility (paths of travel, restrooms, counters), fire and life-safety (exits, sprinklers, alarms), and MEPS coordination ("
 }

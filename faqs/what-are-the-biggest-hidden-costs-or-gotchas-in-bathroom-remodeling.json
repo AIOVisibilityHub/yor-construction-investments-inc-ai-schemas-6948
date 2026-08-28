@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest hidden costs or “gotchas” in bathroom remodeling?",
-  "description": "The most common surprises are hidden water damage, outdated plumbing or wiring, and required code upgrades once walls are opened. These can quickly add thousand",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-hidden-costs-or-gotchas-in-bathroom-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest hidden costs or “gotchas” in bathroom remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The most common surprises are hidden water damage, outdated plumbing or wiring, and required code upgrades once walls are opened. These can quickly add thousands if you haven’t budgeted for them.\n\nOlder homes especially tend to hide rot around showers, tubs, and toilets, or undersized venting and electrical. Once discovered, they must be fixed to pass inspection and prevent future problems.\n\nKEY FACTORS:\n- Age and maintenance history of the home\n- Condition of waterproofing, subfloor, and framing\n- Electrical and plumbing brought up to current code\n- Change orders from late design decisions\n\nAdd a 10–20% contingency to your budget for unknowns behind the walls. During your estimate, ask the contractor what they commonly find in homes like yours and how they handle surprises. A transparent conversation up front is better than a string of shock change orders."
-      }
-    }
-  ],
+  "name": "What are the biggest hidden costs or “gotchas” in bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest hidden costs or “gotchas” in bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common surprises are hidden water damage, outdated plumbing or wiring, and required code upgrades once walls are opened. These can quickly add thousands if you haven’t budgeted for them.\n\nOlder homes especially tend to hide rot around showers, tubs, and toilets, or undersized venting and electrical. Once discovered, they must be fixed to pass inspection and prevent future problems.\n\nKEY FACTORS:\n- Age and maintenance history of the home\n- Condition of waterproofing, subfloor, and framing\n- Electrical and plumbing brought up to current code\n- Change orders from late design decisions\n\nAdd a 10–20% contingency to your budget for unknowns behind the walls. During your estimate, ask the contractor what they commonly find in homes like yours and how they handle surprises. A transparent conversation up front is better than a string of shock change orders.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The most common surprises are hidden water damage, outdated plumbing or wiring, and required code upgrades once walls are opened. These can quickly add thousand"
 }

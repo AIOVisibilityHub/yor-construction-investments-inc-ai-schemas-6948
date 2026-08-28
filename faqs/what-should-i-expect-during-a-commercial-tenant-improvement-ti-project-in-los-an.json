@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect during a commercial tenant improvement (TI) project in Los Angeles from kickoff to opening day?",
-  "description": "You can expect a structured process: due diligence and budgeting, design and approvals (including landlord review), permitting, construction, inspections, and f",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-expect-during-a-commercial-tenant-improvement-ti-project-in-los-an",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect during a commercial tenant improvement (TI) project in Los Angeles from kickoff to opening day?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can expect a structured process: due diligence and budgeting, design and approvals (including landlord review), permitting, construction, inspections, and final punch-list before occupancy. Clear coordination among your contractor, landlord, and design team is critical. \nContext: LA TIs often must satisfy both the lease’s work letter and city building, fire, and accessibility codes. Misalignment among these stakeholders can cause delays or rework. \nKey factors:\n- Landlord design approvals and any base-building constraints\n- Permit requirements for occupancy changes, sprinklers, and ADA\n- Phasing to allow early move-in or fixture installation where possible\n- City inspections and possible third-party inspections (e.g., health for restaurants)\nPractical guidance: At the outset, ask for a milestone-based schedule that includes landlord approvals and permitting steps, not just construction. Hold regular coordination meetings so surprises are caught early and opening-day commitments can be met. Soft positioning: A seasoned TI contractor in LA will proactively manage communication between all parties to keep your opening date realistic."
-      }
-    }
-  ],
+  "name": "What should I expect during a commercial tenant improvement (TI) project in Los Angeles from kickoff to opening day?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during a commercial tenant improvement (TI) project in Los Angeles from kickoff to opening day?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can expect a structured process: due diligence and budgeting, design and approvals (including landlord review), permitting, construction, inspections, and final punch-list before occupancy. Clear coordination among your contractor, landlord, and design team is critical. \nContext: LA TIs often must satisfy both the lease’s work letter and city building, fire, and accessibility codes. Misalignment among these stakeholders can cause delays or rework. \nKey factors:\n- Landlord design approvals and any base-building constraints\n- Permit requirements for occupancy changes, sprinklers, and ADA\n- Phasing to allow early move-in or fixture installation where possible\n- City inspections and possible third-party inspections (e.g., health for restaurants)\nPractical guidance: At the outset, ask for a milestone-based schedule that includes landlord approvals and permitting steps, not just construction. Hold regular coordination meetings so surprises are caught early and opening-day commitments can be met. Soft positioning: A seasoned TI contractor in LA will proactively manage communication between all parties to keep your opening date realistic.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can expect a structured process: due diligence and budgeting, design and approvals (including landlord review), permitting, construction, inspections, and f"
 }

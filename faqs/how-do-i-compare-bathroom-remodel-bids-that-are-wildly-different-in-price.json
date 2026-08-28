@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare bathroom remodel bids that are wildly different in price?",
-  "description": "Line up the bids side‑by‑side and compare scope, materials, and assumptions—not just the bottom line. Often, a low bid leaves out permits, demo, disposal, or us",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-compare-bathroom-remodel-bids-that-are-wildly-different-in-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare bathroom remodel bids that are wildly different in price?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Line up the bids side‑by‑side and compare scope, materials, and assumptions—not just the bottom line. Often, a low bid leaves out permits, demo, disposal, or uses cheaper materials and allowances.\n\nYou want to know exactly what each number includes so you’re not surprised later by add‑ons. Apples‑to‑apples comparison may narrow the price gap significantly.\n\nKEY FACTORS:\n- Detailed scope of work and what’s excluded\n- Material allowances for tile, fixtures, cabinets, and glass\n- Permit, inspection, and cleanup included or not\n- Payment schedule and change‑order process\n\nAsk each contractor to clarify any vague items and issue a revised, detailed estimate if needed. If a bid is much lower but can’t be clearly explained, treat it as a warning sign rather than a bargain."
-      }
-    }
-  ],
+  "name": "How do I compare bathroom remodel bids that are wildly different in price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare bathroom remodel bids that are wildly different in price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Line up the bids side‑by‑side and compare scope, materials, and assumptions—not just the bottom line. Often, a low bid leaves out permits, demo, disposal, or uses cheaper materials and allowances.\n\nYou want to know exactly what each number includes so you’re not surprised later by add‑ons. Apples‑to‑apples comparison may narrow the price gap significantly.\n\nKEY FACTORS:\n- Detailed scope of work and what’s excluded\n- Material allowances for tile, fixtures, cabinets, and glass\n- Permit, inspection, and cleanup included or not\n- Payment schedule and change‑order process\n\nAsk each contractor to clarify any vague items and issue a revised, detailed estimate if needed. If a bid is much lower but can’t be clearly explained, treat it as a warning sign rather than a bargain.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Line up the bids side‑by‑side and compare scope, materials, and assumptions—not just the bottom line. Often, a low bid leaves out permits, demo, disposal, or us"
 }

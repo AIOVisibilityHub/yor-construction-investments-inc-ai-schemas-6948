@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it cheaper to build up or build out for a home addition?",
-  "description": "Building up can avoid new foundation and yard loss, but it usually requires more structural work and staircase space. Building out typically needs new foundatio",
   "url": "https://yorconstruction.aiovisibility.net/faq/is-it-cheaper-to-build-up-or-build-out-for-a-home-addition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it cheaper to build up or build out for a home addition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Building up can avoid new foundation and yard loss, but it usually requires more structural work and staircase space. Building out typically needs new foundation and roofing but can be simpler structurally.\n\nThe cheaper option depends on your house, lot, and local zoning. In tight urban lots, building up may be the only option that meets setback rules.\n\nKey factors:\n- Need for new foundations vs. strengthening existing ones\n- Impact on roof, stairs, and lower‑level layout\n- Zoning height limits and yard setback requirements\n- Access for construction and how much you value yard space\n\nAsk your designer to price both massing options at a conceptual level. Evaluate not only construction cost, but also how each option affects flow, natural light, resale appeal, and your yard or outdoor living space."
-      }
-    }
-  ],
+  "name": "Is it cheaper to build up or build out for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to build up or build out for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building up can avoid new foundation and yard loss, but it usually requires more structural work and staircase space. Building out typically needs new foundation and roofing but can be simpler structurally.\n\nThe cheaper option depends on your house, lot, and local zoning. In tight urban lots, building up may be the only option that meets setback rules.\n\nKey factors:\n- Need for new foundations vs. strengthening existing ones\n- Impact on roof, stairs, and lower‑level layout\n- Zoning height limits and yard setback requirements\n- Access for construction and how much you value yard space\n\nAsk your designer to price both massing options at a conceptual level. Evaluate not only construction cost, but also how each option affects flow, natural light, resale appeal, and your yard or outdoor living space.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Building up can avoid new foundation and yard loss, but it usually requires more structural work and staircase space. Building out typically needs new foundatio"
 }

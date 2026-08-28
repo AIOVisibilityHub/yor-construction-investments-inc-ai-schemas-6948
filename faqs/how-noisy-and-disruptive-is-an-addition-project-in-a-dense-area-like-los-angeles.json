@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How noisy and disruptive is an addition project in a dense area like Los Angeles, and what can I do about neighbors?",
-  "description": "Addition projects are noisy, generate dust, and mean more trucks and trade workers on your street. In dense LA neighborhoods, good neighbor communication can pr",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-noisy-and-disruptive-is-an-addition-project-in-a-dense-area-like-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How noisy and disruptive is an addition project in a dense area like Los Angeles, and what can I do about neighbors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Addition projects are noisy, generate dust, and mean more trucks and trade workers on your street. In dense LA neighborhoods, good neighbor communication can prevent complaints and tension.\n\nCities also enforce work‑hour restrictions and can respond to noise complaints, so planning ahead matters. A respectful approach goes a long way.\n\nKey factors:\n- Allowed construction hours and noise ordinances\n- Parking and access for crews without blocking driveways\n- Dust and debris control measures (fencing, nets, cleanup)\n- Clear communication with neighbors before and during work\n\nAsk your contractor how they handle site cleanliness, noise, and parking, and include expectations in the contract. Give close neighbors a heads‑up about schedule and milestones, and share a contact number for issues so concerns can be addressed quickly."
-      }
-    }
-  ],
+  "name": "How noisy and disruptive is an addition project in a dense area like Los Angeles, and what can I do about neighbors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How noisy and disruptive is an addition project in a dense area like Los Angeles, and what can I do about neighbors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addition projects are noisy, generate dust, and mean more trucks and trade workers on your street. In dense LA neighborhoods, good neighbor communication can prevent complaints and tension.\n\nCities also enforce work‑hour restrictions and can respond to noise complaints, so planning ahead matters. A respectful approach goes a long way.\n\nKey factors:\n- Allowed construction hours and noise ordinances\n- Parking and access for crews without blocking driveways\n- Dust and debris control measures (fencing, nets, cleanup)\n- Clear communication with neighbors before and during work\n\nAsk your contractor how they handle site cleanliness, noise, and parking, and include expectations in the contract. Give close neighbors a heads‑up about schedule and milestones, and share a contact number for issues so concerns can be addressed quickly.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Addition projects are noisy, generate dust, and mean more trucks and trade workers on your street. In dense LA neighborhoods, good neighbor communication can pr"
 }

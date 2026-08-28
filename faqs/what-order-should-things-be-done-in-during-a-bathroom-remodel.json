@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What order should things be done in during a bathroom remodel?",
-  "description": "The usual sequence is: design and selections, permits, demolition, rough plumbing and electrical, inspection, then waterproofing, tile, cabinets, fixtures, pain",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-order-should-things-be-done-in-during-a-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What order should things be done in during a bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The usual sequence is: design and selections, permits, demolition, rough plumbing and electrical, inspection, then waterproofing, tile, cabinets, fixtures, paint, and final touches. Deviating from that order often leads to rework and delays.\n\nThis sequence ensures that hidden systems are correct before you close walls and install finishes. For example, tile should not go in until waterproofing and inspections are complete.\n\nKEY FACTORS:\n- Getting rough‑in work inspected before covering walls\n- Proper curing time for waterproofing and tile products\n- Scheduling glass, countertop, and mirror measurements at the right time\n- Coordinating multiple trades so they are not tripping over each other\n\nAsk your contractor for a simple step‑by‑step plan and how they handle dependencies, like glass lead times or inspection windows. When you understand the order, you’re less likely to request changes at a stage when they’re costly or impossible."
-      }
-    }
-  ],
+  "name": "What order should things be done in during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What order should things be done in during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The usual sequence is: design and selections, permits, demolition, rough plumbing and electrical, inspection, then waterproofing, tile, cabinets, fixtures, paint, and final touches. Deviating from that order often leads to rework and delays.\n\nThis sequence ensures that hidden systems are correct before you close walls and install finishes. For example, tile should not go in until waterproofing and inspections are complete.\n\nKEY FACTORS:\n- Getting rough‑in work inspected before covering walls\n- Proper curing time for waterproofing and tile products\n- Scheduling glass, countertop, and mirror measurements at the right time\n- Coordinating multiple trades so they are not tripping over each other\n\nAsk your contractor for a simple step‑by‑step plan and how they handle dependencies, like glass lead times or inspection windows. When you understand the order, you’re less likely to request changes at a stage when they’re costly or impossible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The usual sequence is: design and selections, permits, demolition, rough plumbing and electrical, inspection, then waterproofing, tile, cabinets, fixtures, pain"
 }

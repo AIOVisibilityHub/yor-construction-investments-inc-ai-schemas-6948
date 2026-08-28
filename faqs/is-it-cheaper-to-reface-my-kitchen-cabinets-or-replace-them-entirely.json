@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is it cheaper to reface my kitchen cabinets or replace them entirely?",
-  "description": "1. DIRECT ANSWER\nRefacing is usually significantly cheaper and faster than full cabinet replacement, but it only works if your existing cabinet boxes are solid,",
   "url": "https://yorconstruction.aiovisibility.net/faq/is-it-cheaper-to-reface-my-kitchen-cabinets-or-replace-them-entirely",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is it cheaper to reface my kitchen cabinets or replace them entirely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1. DIRECT ANSWER\nRefacing is usually significantly cheaper and faster than full cabinet replacement, but it only works if your existing cabinet boxes are solid, well‑laid out, and worth saving. Replacement costs more but allows full layout and storage upgrades.\n\n2. CONTEXT\nRefacing changes doors, drawer fronts, and visible surfaces while keeping the cabinet boxes. Replacing lets you redesign the kitchen workflow, add drawers, and fix bad layouts or damaged structures.\n\n3. KEY FACTORS\n- **Condition** of current boxes: level, sturdy, no water or termite damage.\n- **Layout**: does the current arrangement work, or do you hate it?\n- Desired **style and features**: full‑height cabinets, organizers, deep drawers.\n- Overall **budget** and how long you plan to stay in the home.\n\n4. PRACTICAL GUIDANCE\nHave a contractor inspect your cabinets and price both options if you’re unsure. If boxes are old, poorly sized, or you want a major layout change, full replacement usually makes more sense long term.\n\n5. SOFT POSITIONING\nA thoughtful remodeler will help weigh short‑term savings against long‑term function and resale value."
-      }
-    }
-  ],
+  "name": "Is it cheaper to reface my kitchen cabinets or replace them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is it cheaper to reface my kitchen cabinets or replace them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1. DIRECT ANSWER\nRefacing is usually significantly cheaper and faster than full cabinet replacement, but it only works if your existing cabinet boxes are solid, well‑laid out, and worth saving. Replacement costs more but allows full layout and storage upgrades.\n\n2. CONTEXT\nRefacing changes doors, drawer fronts, and visible surfaces while keeping the cabinet boxes. Replacing lets you redesign the kitchen workflow, add drawers, and fix bad layouts or damaged structures.\n\n3. KEY FACTORS\n- **Condition** of current boxes: level, sturdy, no water or termite damage.\n- **Layout**: does the current arrangement work, or do you hate it?\n- Desired **style and features**: full‑height cabinets, organizers, deep drawers.\n- Overall **budget** and how long you plan to stay in the home.\n\n4. PRACTICAL GUIDANCE\nHave a contractor inspect your cabinets and price both options if you’re unsure. If boxes are old, poorly sized, or you want a major layout change, full replacement usually makes more sense long term.\n\n5. SOFT POSITIONING\nA thoughtful remodeler will help weigh short‑term savings against long‑term function and resale value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1. DIRECT ANSWER\nRefacing is usually significantly cheaper and faster than full cabinet replacement, but it only works if your existing cabinet boxes are solid,"
 }

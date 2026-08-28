@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I avoid my addition looking like a weird box stuck onto my house?",
-  "description": "To avoid a tacked‑on look, the addition needs to match your home’s proportions, rooflines, window styles, and materials. Good design is as important as good con",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-avoid-my-addition-looking-like-a-weird-box-stuck-onto-my-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I avoid my addition looking like a weird box stuck onto my house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To avoid a tacked‑on look, the addition needs to match your home’s proportions, rooflines, window styles, and materials. Good design is as important as good construction.\n\nPoorly integrated additions can hurt curb appeal and resale value, even if they add square footage. Thoughtful design makes the new space feel like it has always been there.\n\nKey factors:\n- Matching roof pitch, eaves, and overhangs\n- Aligning window sizes, styles, and trim details\n- Using complementary siding, stucco textures, and paint colors\n- Creating logical interior circulation and ceiling heights\n\nWork with a designer or contractor who shows you 3D views or elevations, not just a floor plan. Walk around your house with them and discuss how every exterior change will look from the street, the yard, and key rooms inside."
-      }
-    }
-  ],
+  "name": "How do I avoid my addition looking like a weird box stuck onto my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I avoid my addition looking like a weird box stuck onto my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To avoid a tacked‑on look, the addition needs to match your home’s proportions, rooflines, window styles, and materials. Good design is as important as good construction.\n\nPoorly integrated additions can hurt curb appeal and resale value, even if they add square footage. Thoughtful design makes the new space feel like it has always been there.\n\nKey factors:\n- Matching roof pitch, eaves, and overhangs\n- Aligning window sizes, styles, and trim details\n- Using complementary siding, stucco textures, and paint colors\n- Creating logical interior circulation and ceiling heights\n\nWork with a designer or contractor who shows you 3D views or elevations, not just a floor plan. Walk around your house with them and discuss how every exterior change will look from the street, the yard, and key rooms inside.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To avoid a tacked‑on look, the addition needs to match your home’s proportions, rooflines, window styles, and materials. Good design is as important as good con"
 }
