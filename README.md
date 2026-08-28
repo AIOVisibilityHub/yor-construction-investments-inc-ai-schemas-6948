@@ -10,15 +10,15 @@ Canonical AI Data Package for YOR Construction & Investments, Inc..
 
 ## Stats
 - 465 faqs
-- 303 helpArticles
-- 1 services
-- 2 personnel
-- 3 locations
-- 2 awards
-- 7 caseStudies
-- 1 organization
 - 4 press
+- 2 awards
 - 9 reviews
+- 1 services
+- 3 locations
+- 2 personnel
+- 7 caseStudies
+- 303 helpArticles
+- 1 organization
 - **797** total
 
 ## Cross-Destination Index — Related AI Data Sources

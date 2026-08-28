@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T20:39:57.796Z",
+  "generatedAt": "2026-08-28T22:52:12.148Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -9,28 +9,28 @@
     "phone": "+1-888-457-7746",
     "locations": [
       {
-        "name": "YOR Construction & Investments, Inc. Office",
-        "address": "12135 Miranda Street, Suite 204",
-        "city": "Valley Village",
-        "state": "CA",
         "zip": "91607",
-        "phone": "+1-888-457-7746"
+        "city": "Valley Village",
+        "name": "YOR Construction & Investments, Inc. Office",
+        "phone": "+1-888-457-7746",
+        "state": "CA",
+        "address": "12135 Miranda Street, Suite 204"
       },
       {
-        "name": "YOR Construction - Van Nuys Office",
-        "address": "6308 Woodman Ave, Suite 210",
-        "city": "Van Nuys",
-        "state": "CA",
         "zip": "91401",
-        "phone": "+1-818-925-6810"
+        "city": "Van Nuys",
+        "name": "YOR Construction - Van Nuys Office",
+        "phone": "+1-818-925-6810",
+        "state": "CA",
+        "address": "6308 Woodman Ave, Suite 210"
       },
       {
-        "name": "YOR Construction - Tarzana Service Location",
-        "address": "18627 Topham St",
-        "city": "Tarzana",
-        "state": "CA",
         "zip": "91335",
-        "phone": "+1-818-925-6810"
+        "city": "Tarzana",
+        "name": "YOR Construction - Tarzana Service Location",
+        "phone": "+1-818-925-6810",
+        "state": "CA",
+        "address": "18627 Topham St"
       }
     ],
     "services": [
@@ -102,23 +102,23 @@
   },
   "package": {
     "totalFiles": 820,
-    "totalBytes": 4122057,
+    "totalBytes": 4172338,
     "stats": {
+      "qna": 0,
       "faqs": 465,
-      "helpArticles": 303,
+      "press": 4,
+      "total": 797,
+      "awards": 2,
+      "reviews": 9,
+      "products": 0,
+      "research": 0,
       "services": 1,
       "webpages": 0,
-      "personnel": 2,
-      "products": 0,
       "locations": 3,
-      "awards": 2,
+      "personnel": 2,
       "caseStudies": 7,
-      "organization": 1,
-      "press": 4,
-      "reviews": 9,
-      "qna": 0,
-      "research": 0,
-      "total": 797
+      "helpArticles": 303,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -4140,47 +4140,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16689,
+        "bytes": 22372,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 30639,
+        "bytes": 36202,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 23348,
+        "bytes": 29161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 15529,
+        "bytes": 20994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11989,
+        "bytes": 17529,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 649738,
+        "bytes": 655284,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 694392,
+        "bytes": 699884,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 18146,
+        "bytes": 23797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 17293,
+        "bytes": 22821,
         "purpose": "LLM-optimized public page"
       }
     ],
