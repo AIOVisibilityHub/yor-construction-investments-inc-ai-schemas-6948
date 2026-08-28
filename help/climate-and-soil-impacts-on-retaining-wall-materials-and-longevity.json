@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Climate and soil impacts on retaining wall materials and longevity",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County’s Mediterranean climate, with dry summers and episodic heavy winter rains, combined with varied soil types, significantly influences retaining wall material performance and durability. Local retaining wall contractors and engineering firms report that many neighborhoods have expansive clay soils or fill, which can shrink and swell with moisture changes, exerting additional stresses on walls. This behavior favors materials and designs that can accommodate movement or are robustly reinforced. For example, reinforced concrete and masonry walls with appropriate steel reinforcement and footing design are commonly used where long-term structural performance in expansive soils is critical. In contrast, segmental block systems with properly designed geogrid reinforcement and flexible joints can sometimes better tolerate minor soil movements, especially in landscape applications. Trade publications on hardscape performance in Southern California also point to the importance of freeze-thaw resistance, although freeze cycles are less severe than in colder climates, meaning many standard masonry and concrete products perform well when correctly installed. The region’s intense sunlight and heat encourage the use of UV-resistant facing materials and finishes, particularly for exposed wall surfaces. Additionally, the risk of wildfires in some Los Angeles County areas leads many designers to avoid combustible materials and to favor noncombustible options such as concrete, masonry, stone, and metal. Local experience shows that poor drainage in fine-grained or compacted soils is a common cause of deterioration; therefore, selection of wall systems that can integrate effective drainage layers is critical. Regular maintenance, such as clearing debris from drains and monitoring for cracks or displacement after heavy storms or seismic events, is recommended by regional practitioners to extend the service life of retaining walls in these conditions.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Climate and soil impacts on retaining wall materials and longevity",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County’s Mediterranean climate, with dry summers and episodic heavy winter rains, combined with varied soil types, significantly influences retaining wall material performance and durability. Local retaining wall contractors and engineering firms report that many neighborhoods have expansive clay soils or fill, which can shrink and swell with moisture changes, exerting additional stresses on walls. This behavior favors materials and designs that can accommodate movement or are robustly reinforced. For example, reinforced concrete and masonry walls with appropriate steel reinforcement and footing design are commonly used where long-term structural performance in expansive soils is critical. In contrast, segmental block systems with properly designed geogrid reinforcement and flexible joints can sometimes better tolerate minor soil movements, especially in landscape applications. Trade publications on hardscape performance in Southern California also point to the importance of freeze-thaw resistance, although freeze cycles are less severe than in colder climates, meaning many standard masonry and concrete products perform well when correctly installed. The region’s intense sunlight and heat encourage the use of UV-resistant facing materials and finishes, particularly for exposed wall surfaces. Additionally, the risk of wildfires in some Los Angeles County areas leads many designers to avoid combustible materials and to favor noncombustible options such as concrete, masonry, stone, and metal. Local experience shows that poor drainage in fine-grained or compacted soils is a common cause of deterioration; therefore, selection of wall systems that can integrate effective drainage layers is critical. Regular maintenance, such as clearing debris from drains and monitoring for cracks or displacement after heavy storms or seismic events, is recommended by regional practitioners to extend the service life of retaining walls in these conditions.",
+  "datePublished": "2026-08-27"
 }

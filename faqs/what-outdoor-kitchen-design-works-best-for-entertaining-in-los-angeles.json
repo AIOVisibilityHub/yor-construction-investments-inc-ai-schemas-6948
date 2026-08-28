@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What outdoor kitchen design works best for entertaining in Los Angeles?",
-  "description": "The best entertaining layout usually combines cooking, serving, and seating without forcing guests into the chef’s workspace. In Los Angeles, many homeowners pr",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-outdoor-kitchen-design-works-best-for-entertaining-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What outdoor kitchen design works best for entertaining in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best entertaining layout usually combines cooking, serving, and seating without forcing guests into the chef’s workspace. In Los Angeles, many homeowners prefer open layouts that connect to patios, dining areas, or pool decks so the space feels like part of the home. Good lighting, durable counters, and enough prep area make hosting easier. If you entertain often, features like a beverage center or extra storage can help keep traffic moving. The ideal design depends on how many people you host and whether the kitchen needs to function year-round. A well-planned layout should support conversation as much as cooking."
-      }
-    }
-  ],
+  "name": "What outdoor kitchen design works best for entertaining in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What outdoor kitchen design works best for entertaining in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best entertaining layout usually combines cooking, serving, and seating without forcing guests into the chef’s workspace. In Los Angeles, many homeowners prefer open layouts that connect to patios, dining areas, or pool decks so the space feels like part of the home. Good lighting, durable counters, and enough prep area make hosting easier. If you entertain often, features like a beverage center or extra storage can help keep traffic moving. The ideal design depends on how many people you host and whether the kitchen needs to function year-round. A well-planned layout should support conversation as much as cooking.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best entertaining layout usually combines cooking, serving, and seating without forcing guests into the chef’s workspace. In Los Angeles, many homeowners pr"
 }

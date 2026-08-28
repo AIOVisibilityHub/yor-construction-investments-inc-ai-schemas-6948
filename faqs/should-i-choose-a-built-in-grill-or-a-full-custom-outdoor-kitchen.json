@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose a built-in grill or a full custom outdoor kitchen?",
-  "description": "A built-in grill is usually the better choice if you want a simpler, lower-cost upgrade with fewer moving parts. A full custom outdoor kitchen makes more sense",
   "url": "https://yorconstruction.aiovisibility.net/faq/should-i-choose-a-built-in-grill-or-a-full-custom-outdoor-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose a built-in grill or a full custom outdoor kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A built-in grill is usually the better choice if you want a simpler, lower-cost upgrade with fewer moving parts. A full custom outdoor kitchen makes more sense when you want storage, prep space, refrigeration, and a design that matches the house and yard. The right option depends on how often you cook outside and how much of the space you want to dedicate to entertaining. Built-in setups are easier to keep compact, while custom kitchens offer more flexibility and better long-term usability. Think about whether you need just a cooking station or an actual outdoor living hub. That distinction usually makes the decision much easier."
-      }
-    }
-  ],
+  "name": "Should I choose a built-in grill or a full custom outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a built-in grill or a full custom outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in grill is usually the better choice if you want a simpler, lower-cost upgrade with fewer moving parts. A full custom outdoor kitchen makes more sense when you want storage, prep space, refrigeration, and a design that matches the house and yard. The right option depends on how often you cook outside and how much of the space you want to dedicate to entertaining. Built-in setups are easier to keep compact, while custom kitchens offer more flexibility and better long-term usability. Think about whether you need just a cooking station or an actual outdoor living hub. That distinction usually makes the decision much easier.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A built-in grill is usually the better choice if you want a simpler, lower-cost upgrade with fewer moving parts. A full custom outdoor kitchen makes more sense"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Security and privacy-driven fence design in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Security and privacy priorities in Los Angeles County drive distinct **design choices** for residential and commercial fencing. Crime‑prevention and security design literature explains that effective security fencing balances **deterrence, delay, and visibility**. For many homes, solid or semi‑solid fences in side and rear yards provide privacy while front-yard designs may favor open metal pickets or lower walls to maintain natural surveillance from the street, consistent with principles of Crime Prevention Through Environmental Design (CPTED). Excessively tall or solid front fences can sometimes create hiding places, a concern noted by CPTED practitioners and some local planning documents. Commercial and industrial properties often require higher levels of perimeter security. Security standards and federal facility guidelines describe the use of **chain-link fencing with appropriate height**, smaller mesh size, and, where permitted, toppings such as barbed wire or razor wire, particularly in restricted or utility areas. In urban Los Angeles settings, aesthetic and community standards may limit the use of more aggressive features, leading businesses to pair tall ornamental steel or welded wire mesh fences with controlled access gates, lighting, and electronic surveillance. Privacy expectations also vary by neighborhood. In dense residential zones, planning and zoning materials report frequent tension between residents seeking taller privacy fences and rules designed to preserve light, air, and neighbor views. Pool and yard use, proximity to multi-story homes, and street noise from freeways or arterial roads all influence owners’ preferences for fence height and solidity. Acoustic studies indicate that solid fences can provide some noise reduction, though higher walls or specialized sound barriers are typically needed for major reductions near freeways. Security and privacy decisions must ultimately be reconciled with local **height limits, visibility triangles at corners and driveways, and design restrictions** from HOAs or specific plans. Professional security and design guidance suggests integrating fences with lighting, planting, and access control rather than relying on the fence alone.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Security and privacy-driven fence design in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Security and privacy priorities in Los Angeles County drive distinct **design choices** for residential and commercial fencing. Crime‑prevention and security design literature explains that effective security fencing balances **deterrence, delay, and visibility**. For many homes, solid or semi‑solid fences in side and rear yards provide privacy while front-yard designs may favor open metal pickets or lower walls to maintain natural surveillance from the street, consistent with principles of Crime Prevention Through Environmental Design (CPTED). Excessively tall or solid front fences can sometimes create hiding places, a concern noted by CPTED practitioners and some local planning documents. Commercial and industrial properties often require higher levels of perimeter security. Security standards and federal facility guidelines describe the use of **chain-link fencing with appropriate height**, smaller mesh size, and, where permitted, toppings such as barbed wire or razor wire, particularly in restricted or utility areas. In urban Los Angeles settings, aesthetic and community standards may limit the use of more aggressive features, leading businesses to pair tall ornamental steel or welded wire mesh fences with controlled access gates, lighting, and electronic surveillance. Privacy expectations also vary by neighborhood. In dense residential zones, planning and zoning materials report frequent tension between residents seeking taller privacy fences and rules designed to preserve light, air, and neighbor views. Pool and yard use, proximity to multi-story homes, and street noise from freeways or arterial roads all influence owners’ preferences for fence height and solidity. Acoustic studies indicate that solid fences can provide some noise reduction, though higher walls or specialized sound barriers are typically needed for major reductions near freeways. Security and privacy decisions must ultimately be reconciled with local **height limits, visibility triangles at corners and driveways, and design restrictions** from HOAs or specific plans. Professional security and design guidance suggests integrating fences with lighting, planting, and access control rather than relying on the fence alone.",
+  "datePublished": "2026-08-27"
 }

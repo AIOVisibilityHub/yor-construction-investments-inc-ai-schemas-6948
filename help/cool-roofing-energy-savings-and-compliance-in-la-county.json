@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Cool roofing, energy savings, and compliance in LA County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Cool roofs—roof systems with high solar reflectance and thermal emittance—are widely promoted in Southern California because they reduce heat gain and cooling demand in hot climates. Energy standards such as California’s Title 24 energy code set minimum reflectance and emittance requirements for many nonresidential and some residential roof applications in climate zones that include Los Angeles, and these standards are enforced through local building departments at permit stage. Regional roofing resources aimed at Southern California commercial buildings highlight that cool roofing can lower roof surface temperatures, improve occupant comfort, and reduce air-conditioning loads, leading to lower electricity use and demand charges in areas like Los Angeles County where cooling is a major end use. Industry articles focused on Southern California commercial properties note that cool roofs can provide year‑round benefits by reducing summer cooling costs and moderating indoor temperatures, especially on low-slope roofs commonly found on retail, office, and industrial buildings. Manufacturers’ technical documentation typically provides rated solar reflectance and emissivity values tested under standards such as CRRC (Cool Roof Rating Council), which building officials reference to verify compliance with energy code requirements. Many cool roof membranes and coatings are designed to meet or exceed these criteria while also satisfying the fire classification and durability requirements of building codes. Trade publications reporting on roofing trends indicate that energy-efficient and “cool” roofing systems are now a mainstream expectation in hot markets, driven by both regulatory requirements and owner interest in lower operating costs and potential utility incentives. For Los Angeles County projects, designers must balance code-required reflectance with other considerations such as glare, rooftop equipment layout, and the interaction of reflective surfaces with neighboring buildings.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Cool roofing, energy savings, and compliance in LA County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Cool roofs—roof systems with high solar reflectance and thermal emittance—are widely promoted in Southern California because they reduce heat gain and cooling demand in hot climates. Energy standards such as California’s Title 24 energy code set minimum reflectance and emittance requirements for many nonresidential and some residential roof applications in climate zones that include Los Angeles, and these standards are enforced through local building departments at permit stage. Regional roofing resources aimed at Southern California commercial buildings highlight that cool roofing can lower roof surface temperatures, improve occupant comfort, and reduce air-conditioning loads, leading to lower electricity use and demand charges in areas like Los Angeles County where cooling is a major end use. Industry articles focused on Southern California commercial properties note that cool roofs can provide year‑round benefits by reducing summer cooling costs and moderating indoor temperatures, especially on low-slope roofs commonly found on retail, office, and industrial buildings. Manufacturers’ technical documentation typically provides rated solar reflectance and emissivity values tested under standards such as CRRC (Cool Roof Rating Council), which building officials reference to verify compliance with energy code requirements. Many cool roof membranes and coatings are designed to meet or exceed these criteria while also satisfying the fire classification and durability requirements of building codes. Trade publications reporting on roofing trends indicate that energy-efficient and “cool” roofing systems are now a mainstream expectation in hot markets, driven by both regulatory requirements and owner interest in lower operating costs and potential utility incentives. For Los Angeles County projects, designers must balance code-required reflectance with other considerations such as glare, rooftop equipment layout, and the interaction of reflective surfaces with neighboring buildings.",
+  "datePublished": "2026-08-27"
 }

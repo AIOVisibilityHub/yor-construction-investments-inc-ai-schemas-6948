@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Consumer Protection and Contracting Practices in Custom Residential Construction",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "For custom residential construction in California, agencies and consumer advocates emphasize **clear written contracts, payment protections, and documentation**. The California Contractors State License Board (CSLB) publishes consumer guides outlining required contract elements for home improvement and construction projects, including contractor license information, a description of the work, start and completion dates, total price, and a schedule of progress payments. California law limits down payments for home improvement contracts—typically to the lesser of 10% of the contract price or a specific dollar cap—and prohibits demanding excessive payment before work is performed. The CSLB and the California Department of Consumer Affairs advise homeowners to verify the contractor’s license status, workers’ compensation coverage, and disciplinary history. They recommend obtaining multiple bids, checking references, and ensuring that any promises or changes are captured through documented change orders signed by both parties. For larger custom builds or significant additions, many owners and contractors use **AIA (American Institute of Architects)** or other industry-standard contract forms, which provide structured provisions on scope, change management, dispute resolution, and risk allocation. Homeowners are also encouraged to confirm that the contractor is appropriately insured and bonded and to avoid paying in cash or making final payment until substantial completion, final inspection, and correction of known defects. The Federal Trade Commission’s home repair and improvement guidance underscores the importance of avoiding high-pressure sales tactics, insisting on written estimates, and understanding warranty terms in writing. In Los Angeles County, local building departments further protect consumers by requiring permits and inspections for covered work, which can help verify that structural, electrical, plumbing, and mechanical installations comply with code. Maintaining a complete project file—including permits, approved plans, inspection records, and correspondence—supports future resale and provides evidence if disputes arise.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Consumer Protection and Contracting Practices in Custom Residential Construction",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "For custom residential construction in California, agencies and consumer advocates emphasize **clear written contracts, payment protections, and documentation**. The California Contractors State License Board (CSLB) publishes consumer guides outlining required contract elements for home improvement and construction projects, including contractor license information, a description of the work, start and completion dates, total price, and a schedule of progress payments. California law limits down payments for home improvement contracts—typically to the lesser of 10% of the contract price or a specific dollar cap—and prohibits demanding excessive payment before work is performed. The CSLB and the California Department of Consumer Affairs advise homeowners to verify the contractor’s license status, workers’ compensation coverage, and disciplinary history. They recommend obtaining multiple bids, checking references, and ensuring that any promises or changes are captured through documented change orders signed by both parties. For larger custom builds or significant additions, many owners and contractors use **AIA (American Institute of Architects)** or other industry-standard contract forms, which provide structured provisions on scope, change management, dispute resolution, and risk allocation. Homeowners are also encouraged to confirm that the contractor is appropriately insured and bonded and to avoid paying in cash or making final payment until substantial completion, final inspection, and correction of known defects. The Federal Trade Commission’s home repair and improvement guidance underscores the importance of avoiding high-pressure sales tactics, insisting on written estimates, and understanding warranty terms in writing. In Los Angeles County, local building departments further protect consumers by requiring permits and inspections for covered work, which can help verify that structural, electrical, plumbing, and mechanical installations comply with code. Maintaining a complete project file—including permits, approved plans, inspection records, and correspondence—supports future resale and provides evidence if disputes arise.",
+  "datePublished": "2026-08-27"
 }

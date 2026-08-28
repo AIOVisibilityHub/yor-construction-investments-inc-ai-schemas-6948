@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Coastal vs. inland roofing choices in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County spans coastal, basin, valley, and foothill microclimates, and roofing material selection must reflect differences in **salt exposure, temperature swings, UV intensity, and wildfire risk**. Building science and manufacturer guidance for coastal environments highlight the corrosive effects of salt-laden air on metal components; therefore, near-coastal areas often require corrosion-resistant fasteners and coatings, such as stainless steel or specially coated steel, and careful detailing to prevent accelerated deterioration of flashings and metal roof panels. Manufacturers’ technical data sheets frequently specify distance-from-coast limitations or special maintenance recommendations for metal roofing and accessories. In inland valleys and foothills, higher summer temperatures and more pronounced heatwaves increase the importance of cool roofs, robust underlayments, and sufficient attic ventilation to manage heat build-up. Energy-efficiency and roofing trend sources focusing on Southern California note that reflective roofing materials, radiant barriers, and appropriate insulation levels help reduce cooling loads in these hotter microclimates. Conversely, hillside and wildland–urban interface areas, common in the foothills, face elevated wildfire risk; state and local codes in these zones generally require Class A fire-rated roofing assemblies and may influence owners to favor tile, certain asphalt shingles, or metal profiles that provide superior ember resistance. Across both coastal and inland zones, UV exposure is intense, so manufacturer documentation emphasizes UV-resistant formulations in membranes, coatings, and shingles to prevent premature aging. Wind exposure can also differ, with some coastal and canyon locations subject to higher wind uplift; as a result, code-compliant fastening patterns and product ratings for wind speed become a key selection factor. Local building departments and coastal commissions may add aesthetic or reflectivity-related conditions in highly visible or sensitive coastal areas, so early verification of zoning and design guidelines is important when choosing roofing for different parts of Los Angeles County.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Coastal vs. inland roofing choices in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County spans coastal, basin, valley, and foothill microclimates, and roofing material selection must reflect differences in **salt exposure, temperature swings, UV intensity, and wildfire risk**. Building science and manufacturer guidance for coastal environments highlight the corrosive effects of salt-laden air on metal components; therefore, near-coastal areas often require corrosion-resistant fasteners and coatings, such as stainless steel or specially coated steel, and careful detailing to prevent accelerated deterioration of flashings and metal roof panels. Manufacturers’ technical data sheets frequently specify distance-from-coast limitations or special maintenance recommendations for metal roofing and accessories. In inland valleys and foothills, higher summer temperatures and more pronounced heatwaves increase the importance of cool roofs, robust underlayments, and sufficient attic ventilation to manage heat build-up. Energy-efficiency and roofing trend sources focusing on Southern California note that reflective roofing materials, radiant barriers, and appropriate insulation levels help reduce cooling loads in these hotter microclimates. Conversely, hillside and wildland–urban interface areas, common in the foothills, face elevated wildfire risk; state and local codes in these zones generally require Class A fire-rated roofing assemblies and may influence owners to favor tile, certain asphalt shingles, or metal profiles that provide superior ember resistance. Across both coastal and inland zones, UV exposure is intense, so manufacturer documentation emphasizes UV-resistant formulations in membranes, coatings, and shingles to prevent premature aging. Wind exposure can also differ, with some coastal and canyon locations subject to higher wind uplift; as a result, code-compliant fastening patterns and product ratings for wind speed become a key selection factor. Local building departments and coastal commissions may add aesthetic or reflectivity-related conditions in highly visible or sensitive coastal areas, so early verification of zoning and design guidelines is important when choosing roofing for different parts of Los Angeles County.",
+  "datePublished": "2026-08-27"
 }

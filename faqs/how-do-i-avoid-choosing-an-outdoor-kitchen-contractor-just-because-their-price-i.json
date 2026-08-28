@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I avoid choosing an outdoor kitchen contractor just because their price is low?",
-  "description": "Look for clarity, experience, and scope completeness rather than the lowest number. A low bid can hide missing permits, weak materials, excluded utility work, o",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-avoid-choosing-an-outdoor-kitchen-contractor-just-because-their-price-i",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I avoid choosing an outdoor kitchen contractor just because their price is low?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for clarity, experience, and scope completeness rather than the lowest number. A low bid can hide missing permits, weak materials, excluded utility work, or vague assumptions about site conditions. Ask each contractor to explain exactly what is included and what could trigger added cost. You should also check whether they have completed similar projects and whether they provide a clear schedule. The best value often comes from the contractor who reduces uncertainty, not the one with the cheapest headline price. Comparing detailed proposals is the safest way to make a good decision."
-      }
-    }
-  ],
+  "name": "How do I avoid choosing an outdoor kitchen contractor just because their price is low?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I avoid choosing an outdoor kitchen contractor just because their price is low?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for clarity, experience, and scope completeness rather than the lowest number. A low bid can hide missing permits, weak materials, excluded utility work, or vague assumptions about site conditions. Ask each contractor to explain exactly what is included and what could trigger added cost. You should also check whether they have completed similar projects and whether they provide a clear schedule. The best value often comes from the contractor who reduces uncertainty, not the one with the cheapest headline price. Comparing detailed proposals is the safest way to make a good decision.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Look for clarity, experience, and scope completeness rather than the lowest number. A low bid can hide missing permits, weak materials, excluded utility work, o"
 }

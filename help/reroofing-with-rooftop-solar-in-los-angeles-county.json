@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Reroofing with rooftop solar in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County has issued specific Building Code Manual guidance for reroofing on roofs with or without solar energy systems, reflecting the rapid growth of rooftop solar in the region. The County’s reroofing manual addressing roofs with solar energy systems explains that, where rooftop-mounted photovoltaic (PV) arrays are present, permits and inspections must ensure that the reroofing work does not compromise the structural support, weatherproofing, or fire-rating of the roof assembly. It outlines that when reroofing beneath existing solar installations, panels may need to be removed and reinstalled to allow proper replacement of underlayment or coverings, and any associated attachments must maintain watertight integrity. The same County guidance notes that when reroofing changes the roof covering—such as to metal roofing—additional planning approvals may be necessary, particularly where the roof also carries solar equipment. Inspectors look for code-compliant clearances required by fire codes, including access pathways around solar arrays and setbacks from ridges and edges that facilitate firefighter operations; these are based on California Fire Code provisions and local amendments often adopted in Los Angeles-area jurisdictions. Industry standards and manufacturer documentation for PV mounting systems stress that attachments must be compatible with the new roof covering and installed according to tested assembly details to preserve both structural performance and warranties. Solar industry best-practice guidelines coordinated with building officials recommend coordinating schedules so that roofing and solar contractors can sequence work without leaving exposed penetrations or partially completed flashing. Where solar is planned but not yet installed, energy and building codes in California sometimes encourage or require “solar-ready” provisions—such as reserved roof areas and conduit pathways—which designers must consider when selecting roof materials and detailing penetrations during reroofing.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Reroofing with rooftop solar in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County has issued specific Building Code Manual guidance for reroofing on roofs with or without solar energy systems, reflecting the rapid growth of rooftop solar in the region. The County’s reroofing manual addressing roofs with solar energy systems explains that, where rooftop-mounted photovoltaic (PV) arrays are present, permits and inspections must ensure that the reroofing work does not compromise the structural support, weatherproofing, or fire-rating of the roof assembly. It outlines that when reroofing beneath existing solar installations, panels may need to be removed and reinstalled to allow proper replacement of underlayment or coverings, and any associated attachments must maintain watertight integrity. The same County guidance notes that when reroofing changes the roof covering—such as to metal roofing—additional planning approvals may be necessary, particularly where the roof also carries solar equipment. Inspectors look for code-compliant clearances required by fire codes, including access pathways around solar arrays and setbacks from ridges and edges that facilitate firefighter operations; these are based on California Fire Code provisions and local amendments often adopted in Los Angeles-area jurisdictions. Industry standards and manufacturer documentation for PV mounting systems stress that attachments must be compatible with the new roof covering and installed according to tested assembly details to preserve both structural performance and warranties. Solar industry best-practice guidelines coordinated with building officials recommend coordinating schedules so that roofing and solar contractors can sequence work without leaving exposed penetrations or partially completed flashing. Where solar is planned but not yet installed, energy and building codes in California sometimes encourage or require “solar-ready” provisions—such as reserved roof areas and conduit pathways—which designers must consider when selecting roof materials and detailing penetrations during reroofing.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Typical Timelines and Scheduling Factors for Bathroom Overhauls",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Remodeling industry surveys and contractor case studies suggest that a **standard full bathroom overhaul**—including demolition, rough plumbing and electrical, inspections, drywall, tile, and fixture installation—often takes several weeks once work begins, with total timelines extending longer when design, permitting, and material lead times are included. In Los Angeles, scheduling inspections through local building departments, coordinating multiple trades, and managing supply logistics can all affect duration. Key factors include project **scope and complexity**. A cosmetic upgrade that keeps the layout and replaces surfaces may move faster than a gut renovation involving structural changes, new windows, or moving plumbing lines. Specialty elements like custom cabinetry, stone fabrication, or custom shower enclosures can introduce multi‑week lead times, as noted in many trade publications. The availability of licensed plumbers, electricians, and tile installers in a high‑demand market like Los Angeles County also influences scheduling. Permitting and inspections add necessary steps. Building departments often require separate inspections for rough plumbing and electrical, waterproofing (such as shower pan tests), and final completion. Delays can occur if work is not ready when scheduled or if inspectors require corrections. Industry advice encourages homeowners to finalize **design decisions and material selections** before demolition to avoid change‑order delays. Best‑practice guidance from remodeler associations emphasizes clear communication about schedule in the written contract, including estimated start and completion dates, allowances for unforeseen conditions, and procedures for handling delays. Weather typically has less impact on interior bathroom projects in Southern California than on exterior work, but access restrictions in multifamily buildings, HOA rules on work hours, and parking limitations in dense neighborhoods can influence the day‑to‑day pace of construction.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Typical Timelines and Scheduling Factors for Bathroom Overhauls",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Remodeling industry surveys and contractor case studies suggest that a **standard full bathroom overhaul**—including demolition, rough plumbing and electrical, inspections, drywall, tile, and fixture installation—often takes several weeks once work begins, with total timelines extending longer when design, permitting, and material lead times are included. In Los Angeles, scheduling inspections through local building departments, coordinating multiple trades, and managing supply logistics can all affect duration. Key factors include project **scope and complexity**. A cosmetic upgrade that keeps the layout and replaces surfaces may move faster than a gut renovation involving structural changes, new windows, or moving plumbing lines. Specialty elements like custom cabinetry, stone fabrication, or custom shower enclosures can introduce multi‑week lead times, as noted in many trade publications. The availability of licensed plumbers, electricians, and tile installers in a high‑demand market like Los Angeles County also influences scheduling. Permitting and inspections add necessary steps. Building departments often require separate inspections for rough plumbing and electrical, waterproofing (such as shower pan tests), and final completion. Delays can occur if work is not ready when scheduled or if inspectors require corrections. Industry advice encourages homeowners to finalize **design decisions and material selections** before demolition to avoid change‑order delays. Best‑practice guidance from remodeler associations emphasizes clear communication about schedule in the written contract, including estimated start and completion dates, allowances for unforeseen conditions, and procedures for handling delays. Weather typically has less impact on interior bathroom projects in Southern California than on exterior work, but access restrictions in multifamily buildings, HOA rules on work hours, and parking limitations in dense neighborhoods can influence the day‑to‑day pace of construction.",
+  "datePublished": "2026-08-27"
 }

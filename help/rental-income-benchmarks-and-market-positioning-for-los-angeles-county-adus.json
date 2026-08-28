@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Rental Income Benchmarks and Market Positioning for Los Angeles County ADUs",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Local ADU-focused resources that track rental performance in Los Angeles County report typical **market rents by ADU size**, providing benchmarks for income projections. One regional ADU data source cites average monthly rents of approximately **$1,369 for studio ADUs**, **$1,765 for one-bedroom ADUs**, **$2,263 for two-bedroom ADUs**, and **$2,735 for three-bedroom ADUs** within the Los Angeles area. These figures illustrate that ADUs can command substantial rents relative to their size, reflecting strong demand for smaller, self-contained units in a supply-constrained rental market. Urban policy research from institutions analyzing Los Angeles housing markets notes that **newly built ADUs often rent for less than comparably located new apartments**, but still at levels accessible mostly to **middle-income** rather than very low-income renters. Studies on income-restricted ADUs in Los Angeles point out that even when ADUs are intended to expand affordable housing stock, their construction and operating costs tend to push them into moderate-rent tiers, although they can still undercut newer multifamily rents in many neighborhoods. From an investment and underwriting standpoint, these rent benchmarks feed into **cash-flow modeling and return calculations** for homeowners and small investors. Financial and policy analyses emphasize accounting for **vacancy, maintenance, property taxes, insurance, and financing costs** against the projected rent. Because ADU rents are strongly tied to local neighborhood conditions and quality of the build, sources recommend using **hyper-local rental comps** and consulting up-to-date market data rather than relying on countywide averages alone. Nonetheless, the documented averages and policy research consistently show that ADUs in Los Angeles County can generate meaningful supplemental income, often significantly offsetting mortgage or construction financing payments.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Rental Income Benchmarks and Market Positioning for Los Angeles County ADUs",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Local ADU-focused resources that track rental performance in Los Angeles County report typical **market rents by ADU size**, providing benchmarks for income projections. One regional ADU data source cites average monthly rents of approximately **$1,369 for studio ADUs**, **$1,765 for one-bedroom ADUs**, **$2,263 for two-bedroom ADUs**, and **$2,735 for three-bedroom ADUs** within the Los Angeles area. These figures illustrate that ADUs can command substantial rents relative to their size, reflecting strong demand for smaller, self-contained units in a supply-constrained rental market. Urban policy research from institutions analyzing Los Angeles housing markets notes that **newly built ADUs often rent for less than comparably located new apartments**, but still at levels accessible mostly to **middle-income** rather than very low-income renters. Studies on income-restricted ADUs in Los Angeles point out that even when ADUs are intended to expand affordable housing stock, their construction and operating costs tend to push them into moderate-rent tiers, although they can still undercut newer multifamily rents in many neighborhoods. From an investment and underwriting standpoint, these rent benchmarks feed into **cash-flow modeling and return calculations** for homeowners and small investors. Financial and policy analyses emphasize accounting for **vacancy, maintenance, property taxes, insurance, and financing costs** against the projected rent. Because ADU rents are strongly tied to local neighborhood conditions and quality of the build, sources recommend using **hyper-local rental comps** and consulting up-to-date market data rather than relying on countywide averages alone. Nonetheless, the documented averages and policy research consistently show that ADUs in Los Angeles County can generate meaningful supplemental income, often significantly offsetting mortgage or construction financing payments.",
+  "datePublished": "2026-08-27"
 }

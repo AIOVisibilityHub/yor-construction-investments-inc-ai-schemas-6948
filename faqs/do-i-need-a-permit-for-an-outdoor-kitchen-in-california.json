@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for an outdoor kitchen in California?",
-  "description": "Many outdoor kitchen projects do require permits, especially when they involve gas lines, electrical work, plumbing, or a covered structure. The permit need dep",
   "url": "https://yorconstruction.aiovisibility.net/faq/do-i-need-a-permit-for-an-outdoor-kitchen-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for an outdoor kitchen in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many outdoor kitchen projects do require permits, especially when they involve gas lines, electrical work, plumbing, or a covered structure. The permit need depends on what is being installed and how the project connects to existing utilities. A contractor should review the scope early so you do not run into delays after construction has started. Permit requirements can also affect design choices, placement, and timeline. If your build is simple and mostly freestanding, the process may be easier, but utility connections still need careful review. The safest approach is to confirm permit needs before ordering appliances or beginning demolition."
-      }
-    }
-  ],
+  "name": "Do I need a permit for an outdoor kitchen in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for an outdoor kitchen in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many outdoor kitchen projects do require permits, especially when they involve gas lines, electrical work, plumbing, or a covered structure. The permit need depends on what is being installed and how the project connects to existing utilities. A contractor should review the scope early so you do not run into delays after construction has started. Permit requirements can also affect design choices, placement, and timeline. If your build is simple and mostly freestanding, the process may be easier, but utility connections still need careful review. The safest approach is to confirm permit needs before ordering appliances or beginning demolition.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many outdoor kitchen projects do require permits, especially when they involve gas lines, electrical work, plumbing, or a covered structure. The permit need dep"
 }

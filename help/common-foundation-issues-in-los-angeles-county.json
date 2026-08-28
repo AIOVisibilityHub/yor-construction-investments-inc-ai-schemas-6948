@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Common Foundation Issues in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Common Foundation Issues in Los Angeles County Los Angeles County homes frequently experience **foundation settlement, cracking, and slab displacement** driven by local soil and climate conditions. The California Geological Survey and regional geotechnical studies note that large parts of Los Angeles are underlain by **expansive clay soils** that shrink in dry periods and swell with moisture, exerting cyclical stress on foundations. Building department advisories for Southern California highlight this as a leading cause of differential settlement and cracked slabs, especially in older tract homes with minimal site drainage. Engineering guidance from structural and foundation repair firms operating in Los Angeles County explains that **slab-on-grade foundations** often develop cracks, interior floor unevenness, and doors or windows that stick as soil shifts beneath the structure. In hillside neighborhoods, local building and safety agencies emphasize additional risks, including **slope movement, creep, and landslide-prone terrain**, which can cause horizontal displacement, tilting, and rotation of foundation elements. Inspection checklists published by California structural engineering associations identify visible symptoms such as stair-step cracks in masonry, separation between walls and ceilings, and gaps at baseboards as typical indicators. Seismic activity is another major factor. The California Building Code and local amendments for Los Angeles County reference the area’s high seismic risk, which can exacerbate existing settlement or create new cracking and displacement in older, under-reinforced foundations. Technical bulletins from earthquake safety programs describe how unretrofitted cripple walls, unbolted sill plates, and inadequate reinforcement contribute to foundation damage during shaking. As a result, Los Angeles homeowners commonly encounter a combination of **soil-related settlement, poor drainage effects, hillside movement, and seismic stresses**, all of which drive demand for evaluation by qualified foundation repair contractors and structural engineers. Ending with this sentence for completeness.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Common Foundation Issues in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Common Foundation Issues in Los Angeles County Los Angeles County homes frequently experience **foundation settlement, cracking, and slab displacement** driven by local soil and climate conditions. The California Geological Survey and regional geotechnical studies note that large parts of Los Angeles are underlain by **expansive clay soils** that shrink in dry periods and swell with moisture, exerting cyclical stress on foundations. Building department advisories for Southern California highlight this as a leading cause of differential settlement and cracked slabs, especially in older tract homes with minimal site drainage. Engineering guidance from structural and foundation repair firms operating in Los Angeles County explains that **slab-on-grade foundations** often develop cracks, interior floor unevenness, and doors or windows that stick as soil shifts beneath the structure. In hillside neighborhoods, local building and safety agencies emphasize additional risks, including **slope movement, creep, and landslide-prone terrain**, which can cause horizontal displacement, tilting, and rotation of foundation elements. Inspection checklists published by California structural engineering associations identify visible symptoms such as stair-step cracks in masonry, separation between walls and ceilings, and gaps at baseboards as typical indicators. Seismic activity is another major factor. The California Building Code and local amendments for Los Angeles County reference the area’s high seismic risk, which can exacerbate existing settlement or create new cracking and displacement in older, under-reinforced foundations. Technical bulletins from earthquake safety programs describe how unretrofitted cripple walls, unbolted sill plates, and inadequate reinforcement contribute to foundation damage during shaking. As a result, Los Angeles homeowners commonly encounter a combination of **soil-related settlement, poor drainage effects, hillside movement, and seismic stresses**, all of which drive demand for evaluation by qualified foundation repair contractors and structural engineers. Ending with this sentence for completeness.",
+  "datePublished": "2026-08-27"
 }

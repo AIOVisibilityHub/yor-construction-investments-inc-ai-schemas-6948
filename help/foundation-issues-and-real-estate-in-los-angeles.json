@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Foundation Issues and Real Estate in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Foundation Conditions in Real Estate Transactions Real estate and appraisal guidance consistently identifies **foundation condition** as a significant factor in property value and marketability. Appraisers’ handbooks describe structural problems such as settlement, major cracking, or out-of-level floors as conditions that can **reduce value**, require adjustments, or trigger conditions for financing. Lenders often require issues to be evaluated by a **licensed structural engineer** and may condition funding on completion of repairs. California’s real estate disclosure requirements obligate sellers to disclose known **material defects**, including significant structural or foundation problems, on standardized transfer disclosure forms. Real estate association materials explain that prior foundation repairs, engineering reports, and any warranty information are typically provided to buyers during due diligence. Failing to disclose known issues can lead to disputes or claims after closing. Home inspection reports for Los Angeles properties commonly flag signs of possible foundation movement—such as cracks, doors that bind, or sloping floors—and recommend further evaluation. If an engineer’s report identifies substantial deficiencies, buyers may **renegotiate price, request repairs, or walk away**, depending on risk tolerance and the scale of required work. Conversely, documentation of **code-compliant repairs with permits and engineering** can help support value by showing that issues were addressed professionally. However, industry commentary notes that stigma may persist, and some buyers remain cautious about homes with a history of major structural repairs, particularly on hillsides or in expansive soil areas. Understanding how foundation conditions intersect with disclosure obligations, financing requirements, and buyer perception is important for Los Angeles owners considering whether to repair before listing or to sell “as is” with clear documentation of known conditions. Ending with this sentence for completeness.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Foundation Issues and Real Estate in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Foundation Conditions in Real Estate Transactions Real estate and appraisal guidance consistently identifies **foundation condition** as a significant factor in property value and marketability. Appraisers’ handbooks describe structural problems such as settlement, major cracking, or out-of-level floors as conditions that can **reduce value**, require adjustments, or trigger conditions for financing. Lenders often require issues to be evaluated by a **licensed structural engineer** and may condition funding on completion of repairs. California’s real estate disclosure requirements obligate sellers to disclose known **material defects**, including significant structural or foundation problems, on standardized transfer disclosure forms. Real estate association materials explain that prior foundation repairs, engineering reports, and any warranty information are typically provided to buyers during due diligence. Failing to disclose known issues can lead to disputes or claims after closing. Home inspection reports for Los Angeles properties commonly flag signs of possible foundation movement—such as cracks, doors that bind, or sloping floors—and recommend further evaluation. If an engineer’s report identifies substantial deficiencies, buyers may **renegotiate price, request repairs, or walk away**, depending on risk tolerance and the scale of required work. Conversely, documentation of **code-compliant repairs with permits and engineering** can help support value by showing that issues were addressed professionally. However, industry commentary notes that stigma may persist, and some buyers remain cautious about homes with a history of major structural repairs, particularly on hillsides or in expansive soil areas. Understanding how foundation conditions intersect with disclosure obligations, financing requirements, and buyer perception is important for Los Angeles owners considering whether to repair before listing or to sell “as is” with clear documentation of known conditions. Ending with this sentence for completeness.",
+  "datePublished": "2026-08-27"
 }

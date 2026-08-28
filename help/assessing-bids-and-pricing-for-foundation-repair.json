@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Assessing Bids and Pricing for Foundation Repair",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Evaluating Foundation Repair Bids and Costs Consumer guidance from the California Contractors State License Board and state consumer agencies recommends obtaining **multiple written bids** for foundation repair work, especially on significant structural projects. These sources stress focusing on **scope and quality** rather than simply choosing the lowest price. Each bid should clearly describe the proposed repair method (for example, number and type of piers, depth assumptions, reinforcement details), inclusion of engineering services, permit fees, and site restoration. Industry publications on residential foundation repair note that pricing is often based on **linear footage, number/depth of piers, site access, and complexity**, rather than a single standard rate. Factors such as hillside conditions, need for shoring, or presence of utilities can significantly increase cost. Professional bodies urge homeowners to question overly vague or unusually low bids that lack engineering justification or ignore obvious issues like drainage. Government consumer protection materials advise verifying that all bidders hold **appropriate licenses, bonds, and insurance**, and checking for disciplinary history or significant complaints. They also encourage homeowners to confirm whether the bid is **lump sum or time-and-materials**, what contingencies exist if soils are worse than expected, and how change orders will be handled. Written contracts must comply with California home improvement contract regulations, including a clear description of work, schedule, and payment terms. State guidance limits down payments and discourages paying in cash or large sums before inspections or milestones are completed. Reputable sources recommend avoiding high-pressure sales tactics or same-day signing incentives in structural repair contexts. In Los Angeles, where foundation conditions and regulations are complex, comparing bids means evaluating **methodology, engineering input, permitting, and long-term performance**, not just initial price. Ending with this sentence for completeness.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Assessing Bids and Pricing for Foundation Repair",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Evaluating Foundation Repair Bids and Costs Consumer guidance from the California Contractors State License Board and state consumer agencies recommends obtaining **multiple written bids** for foundation repair work, especially on significant structural projects. These sources stress focusing on **scope and quality** rather than simply choosing the lowest price. Each bid should clearly describe the proposed repair method (for example, number and type of piers, depth assumptions, reinforcement details), inclusion of engineering services, permit fees, and site restoration. Industry publications on residential foundation repair note that pricing is often based on **linear footage, number/depth of piers, site access, and complexity**, rather than a single standard rate. Factors such as hillside conditions, need for shoring, or presence of utilities can significantly increase cost. Professional bodies urge homeowners to question overly vague or unusually low bids that lack engineering justification or ignore obvious issues like drainage. Government consumer protection materials advise verifying that all bidders hold **appropriate licenses, bonds, and insurance**, and checking for disciplinary history or significant complaints. They also encourage homeowners to confirm whether the bid is **lump sum or time-and-materials**, what contingencies exist if soils are worse than expected, and how change orders will be handled. Written contracts must comply with California home improvement contract regulations, including a clear description of work, schedule, and payment terms. State guidance limits down payments and discourages paying in cash or large sums before inspections or milestones are completed. Reputable sources recommend avoiding high-pressure sales tactics or same-day signing incentives in structural repair contexts. In Los Angeles, where foundation conditions and regulations are complex, comparing bids means evaluating **methodology, engineering input, permitting, and long-term performance**, not just initial price. Ending with this sentence for completeness.",
+  "datePublished": "2026-08-27"
 }

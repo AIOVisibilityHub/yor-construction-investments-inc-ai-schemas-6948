@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I keep an outdoor kitchen from becoming a maintenance headache?",
-  "description": "Choose low-maintenance materials, keep the layout simple, and avoid features you will rarely clean or use. Stainless steel, sealed surfaces, and weather-resista",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-keep-an-outdoor-kitchen-from-becoming-a-maintenance-headache",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I keep an outdoor kitchen from becoming a maintenance headache?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choose low-maintenance materials, keep the layout simple, and avoid features you will rarely clean or use. Stainless steel, sealed surfaces, and weather-resistant cabinetry usually require less upkeep than more delicate finishes. Good drainage, proper cover, and smart placement also reduce wear from sun and moisture. Maintenance becomes easier when the kitchen is designed for easy access to appliances and cleaning zones. Before finalizing the build, think about how often you want to wipe surfaces, service equipment, and protect the space seasonally. A practical design saves time long after construction is finished."
-      }
-    }
-  ],
+  "name": "How do I keep an outdoor kitchen from becoming a maintenance headache?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I keep an outdoor kitchen from becoming a maintenance headache?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose low-maintenance materials, keep the layout simple, and avoid features you will rarely clean or use. Stainless steel, sealed surfaces, and weather-resistant cabinetry usually require less upkeep than more delicate finishes. Good drainage, proper cover, and smart placement also reduce wear from sun and moisture. Maintenance becomes easier when the kitchen is designed for easy access to appliances and cleaning zones. Before finalizing the build, think about how often you want to wipe surfaces, service equipment, and protect the space seasonally. A practical design saves time long after construction is finished.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Choose low-maintenance materials, keep the layout simple, and avoid features you will rarely clean or use. Stainless steel, sealed surfaces, and weather-resista"
 }

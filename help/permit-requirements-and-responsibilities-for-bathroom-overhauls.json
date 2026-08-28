@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Permit Requirements and Responsibilities for Bathroom Overhauls",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "For a bathroom overhaul in Los Angeles County, **building permits are generally required** whenever work involves structural changes, relocation or replacement of plumbing lines, new electrical circuits, changes to ventilation, or significant alterations to walls and fixtures. The Los Angeles Department of Building and Safety (LADBS) explains that permits are required for remodeling that affects plumbing, mechanical, and electrical systems, even if the work remains within the existing footprint. Many cities in the county follow similar provisions of the California Building Code, California Residential Code, and related mechanical, plumbing, and electrical codes. LADBS and the Contractors State License Board both emphasize that the **contractor of record is typically responsible for pulling permits**, not the homeowner, when a licensed contractor is hired. Having the contractor obtain the permit ensures that their license information, insurance, and classification match the scope of work and that they are accountable for code compliance during inspections. Homeowners acting as “owner‑builder” can pull their own permits, but the CSLB warns that this shifts liability, coordination responsibilities, and some worker‑safety obligations to the owner. Permits trigger inspections at key stages (for example, rough plumbing and electrical, waterproofing, and final inspection). These inspections help enforce compliance with the California Plumbing Code, California Electrical Code, and energy and water‑efficiency requirements, such as Title 24 energy standards and local water conservation ordinances. Local building departments may also require specific documentation, such as plans showing fixture locations, ventilation details, and accessibility clearances. Failing to obtain required permits can result in fines, difficulties at resale, and potential issues with insurance claims if defects later arise.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Permit Requirements and Responsibilities for Bathroom Overhauls",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "For a bathroom overhaul in Los Angeles County, **building permits are generally required** whenever work involves structural changes, relocation or replacement of plumbing lines, new electrical circuits, changes to ventilation, or significant alterations to walls and fixtures. The Los Angeles Department of Building and Safety (LADBS) explains that permits are required for remodeling that affects plumbing, mechanical, and electrical systems, even if the work remains within the existing footprint. Many cities in the county follow similar provisions of the California Building Code, California Residential Code, and related mechanical, plumbing, and electrical codes. LADBS and the Contractors State License Board both emphasize that the **contractor of record is typically responsible for pulling permits**, not the homeowner, when a licensed contractor is hired. Having the contractor obtain the permit ensures that their license information, insurance, and classification match the scope of work and that they are accountable for code compliance during inspections. Homeowners acting as “owner‑builder” can pull their own permits, but the CSLB warns that this shifts liability, coordination responsibilities, and some worker‑safety obligations to the owner. Permits trigger inspections at key stages (for example, rough plumbing and electrical, waterproofing, and final inspection). These inspections help enforce compliance with the California Plumbing Code, California Electrical Code, and energy and water‑efficiency requirements, such as Title 24 energy standards and local water conservation ordinances. Local building departments may also require specific documentation, such as plans showing fixture locations, ventilation details, and accessibility clearances. Failing to obtain required permits can result in fines, difficulties at resale, and potential issues with insurance claims if defects later arise.",
+  "datePublished": "2026-08-27"
 }

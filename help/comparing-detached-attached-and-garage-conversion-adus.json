@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Comparing Detached, Attached, and Garage Conversion ADUs",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County Planning recognizes multiple ADU configurations, each with distinct regulatory and design implications. A **detached ADU** is a separate structure from the main home, often built as a backyard cottage. County definitions state that an ADU can be detached as long as it functions as a complete dwelling with its own kitchen and bathroom. Detached units typically require full foundations, building envelope, and separate routing of utilities from the primary dwelling, and they must meet setback and height standards defined in zoning regulations. An **attached ADU** shares at least one wall with the primary residence. It may be an addition built onto the side or rear of the existing home or a conversion of attached space such as an attached garage. The County’s ADU description indicates that attached ADUs are permitted as long as they provide a full kitchen and bathroom and meet building and fire code standards. Attached ADUs can sometimes be more cost-effective than detached units because they share existing structural components and utilities, but they may be more constrained by the existing building’s design and footprint. A **garage conversion ADU** involves repurposing an existing garage—either attached or detached—into a fully code-compliant dwelling unit. Regional ADU cost and regulatory guides stress that garage conversions must upgrade the structure to meet current residential building standards, including insulation, egress, fire separation, and often seismic or structural reinforcement. They may require replacement of parking spaces elsewhere on the property unless recent state ADU laws and local ordinances limit such parking replacement requirements. Conversion projects are frequently cited in California ADU analyses as a relatively cost-efficient path because they reuse existing structures, though hidden costs can arise from structural deficiencies or outdated electrical and plumbing systems in older Los Angeles garages.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Comparing Detached, Attached, and Garage Conversion ADUs",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County Planning recognizes multiple ADU configurations, each with distinct regulatory and design implications. A **detached ADU** is a separate structure from the main home, often built as a backyard cottage. County definitions state that an ADU can be detached as long as it functions as a complete dwelling with its own kitchen and bathroom. Detached units typically require full foundations, building envelope, and separate routing of utilities from the primary dwelling, and they must meet setback and height standards defined in zoning regulations. An **attached ADU** shares at least one wall with the primary residence. It may be an addition built onto the side or rear of the existing home or a conversion of attached space such as an attached garage. The County’s ADU description indicates that attached ADUs are permitted as long as they provide a full kitchen and bathroom and meet building and fire code standards. Attached ADUs can sometimes be more cost-effective than detached units because they share existing structural components and utilities, but they may be more constrained by the existing building’s design and footprint. A **garage conversion ADU** involves repurposing an existing garage—either attached or detached—into a fully code-compliant dwelling unit. Regional ADU cost and regulatory guides stress that garage conversions must upgrade the structure to meet current residential building standards, including insulation, egress, fire separation, and often seismic or structural reinforcement. They may require replacement of parking spaces elsewhere on the property unless recent state ADU laws and local ordinances limit such parking replacement requirements. Conversion projects are frequently cited in California ADU analyses as a relatively cost-efficient path because they reuse existing structures, though hidden costs can arise from structural deficiencies or outdated electrical and plumbing systems in older Los Angeles garages.",
+  "datePublished": "2026-08-27"
 }

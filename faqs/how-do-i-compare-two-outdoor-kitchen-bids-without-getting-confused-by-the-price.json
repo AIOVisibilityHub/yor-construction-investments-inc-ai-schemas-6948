@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
-  "description": "Compare the scope, not just the bottom line. One bid may include appliances, gas, electrical, and finishes while another may exclude them, which makes the lower",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-compare-two-outdoor-kitchen-bids-without-getting-confused-by-the-price",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compare the scope, not just the bottom line. One bid may include appliances, gas, electrical, and finishes while another may exclude them, which makes the lower number misleading. Check whether each proposal lists materials, labor, permits, demolition, cleanup, and any site-specific work. It also helps to compare timelines and warranty coverage, since cheaper bids sometimes cut corners on support. If a proposal is unclear, ask for an itemized version so you can review apples-to-apples details. The best bid is the one with the clearest scope and the least hidden risk."
-      }
-    }
-  ],
+  "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare two outdoor kitchen bids without getting confused by the price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare the scope, not just the bottom line. One bid may include appliances, gas, electrical, and finishes while another may exclude them, which makes the lower number misleading. Check whether each proposal lists materials, labor, permits, demolition, cleanup, and any site-specific work. It also helps to compare timelines and warranty coverage, since cheaper bids sometimes cut corners on support. If a proposal is unclear, ask for an itemized version so you can review apples-to-apples details. The best bid is the one with the clearest scope and the least hidden risk.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Compare the scope, not just the bottom line. One bid may include appliances, gas, electrical, and finishes while another may exclude them, which makes the lower"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Standards-based surface preparation for interior painting",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Professional surface preparation is guided by standards from organizations such as the Painting Contractors Association (PCA) and the Steel Structures Painting Council for specialized substrates. For typical residential and commercial interiors, PCA craft standards describe a graded approach to surface prep, from basic cleaning and scuff sanding to more extensive patching, skim coating, and priming. These standards emphasize that the level of preparation must match the desired finish category; higher-sheen coatings and critical-lighting conditions require more thorough defect correction. Manufacturer technical data sheets for interior paints consistently stress that surfaces must be clean, dry, and sound before coating. This typically includes removing dust, grease, and contaminants; dulling glossy surfaces; removing loose or peeling paint; and repairing cracks, nail holes, and damaged drywall with appropriate joint compound or patching material. For stains from water, smoke, or tannins, manufacturers recommend stain-blocking primers to prevent bleed-through. Building maintenance guides from trade associations indicate that inadequate prep is a leading cause of premature coating failure, including peeling, blistering, and poor adhesion. Where mildew is present, many manufacturer and Environmental Protection Agency (EPA) resources advise washing with a detergent solution and, where allowed, a mildew-removal product before priming and painting. On previously painted surfaces in older buildings, EPA’s Renovation, Repair and Painting (RRP) Rule (enforced in California through authorized programs) requires lead-safe work practices when disturbing lead-based paint in pre-1978 housing and child-occupied facilities, including containment, HEPA cleanup, and certified renovator oversight. Even when lead is not involved, jobsite safety guidance from OSHA and trade groups calls for controlling dust, maintaining ventilation, and using personal protective equipment during sanding and patching. Following these standards-based steps helps ensure that the new coating system performs as rated by the manufacturer and meets owner expectations for appearance and durability.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Standards-based surface preparation for interior painting",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Professional surface preparation is guided by standards from organizations such as the Painting Contractors Association (PCA) and the Steel Structures Painting Council for specialized substrates. For typical residential and commercial interiors, PCA craft standards describe a graded approach to surface prep, from basic cleaning and scuff sanding to more extensive patching, skim coating, and priming. These standards emphasize that the level of preparation must match the desired finish category; higher-sheen coatings and critical-lighting conditions require more thorough defect correction. Manufacturer technical data sheets for interior paints consistently stress that surfaces must be clean, dry, and sound before coating. This typically includes removing dust, grease, and contaminants; dulling glossy surfaces; removing loose or peeling paint; and repairing cracks, nail holes, and damaged drywall with appropriate joint compound or patching material. For stains from water, smoke, or tannins, manufacturers recommend stain-blocking primers to prevent bleed-through. Building maintenance guides from trade associations indicate that inadequate prep is a leading cause of premature coating failure, including peeling, blistering, and poor adhesion. Where mildew is present, many manufacturer and Environmental Protection Agency (EPA) resources advise washing with a detergent solution and, where allowed, a mildew-removal product before priming and painting. On previously painted surfaces in older buildings, EPA’s Renovation, Repair and Painting (RRP) Rule (enforced in California through authorized programs) requires lead-safe work practices when disturbing lead-based paint in pre-1978 housing and child-occupied facilities, including containment, HEPA cleanup, and certified renovator oversight. Even when lead is not involved, jobsite safety guidance from OSHA and trade groups calls for controlling dust, maintaining ventilation, and using personal protective equipment during sanding and patching. Following these standards-based steps helps ensure that the new coating system performs as rated by the manufacturer and meets owner expectations for appearance and durability.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Soil and Expansive Clay Impacts on Foundations",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Influence of Local Soils and Expansive Clays on Foundations Geotechnical reports and mapping from California state agencies show that many areas of Los Angeles County are underlain by **expansive clay soils and artificial fill**, both of which significantly affect foundation performance. Expansive clays undergo volume change as moisture content varies, causing **heave during wet periods and shrinkage during dry spells**. This cycle generates uplift and settlement forces on shallow foundations, leading to cracking and distortion of slabs and footings. Geotechnical engineering manuals recommend several strategies for design and repair in such conditions. For new or replacement foundations, they often propose **deepened footings, reinforced slabs, moisture barriers, or drilled piers** that extend below the active zone of soil movement. For repairs, underpinning to deeper, more stable soils using piers or piles reduces reliance on the unstable near-surface clays. Local building department guidelines in expansive soil areas frequently require a **geotechnical investigation** before major foundation work. These reports characterize soil properties, depth of moisture variation, and potential for expansion or collapse, and they provide design parameters to structural engineers. Where artificial fill is present—common in graded hillside lots or older subdivisions—engineers may recommend **remedial grading, overexcavation and recompaction, or deep foundations** to bypass weak or poorly compacted layers. Best-practice documents from professional societies stress that **drainage control** is critical in expansive soil zones. Keeping irrigation away from foundations, managing roof runoff through gutters and downspouts, and installing subsurface drains where needed help stabilize moisture conditions. Repair strategies that ignore drainage and soil behavior are described as high-risk, with an increased chance of recurrence of cracks or settlement. In Los Angeles County, effective foundation repair almost always integrates **geotechnical understanding, structural design, and moisture management** to mitigate the challenges posed by expansive clays and varied fill conditions. Ending with this sentence for completeness.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Soil and Expansive Clay Impacts on Foundations",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Influence of Local Soils and Expansive Clays on Foundations Geotechnical reports and mapping from California state agencies show that many areas of Los Angeles County are underlain by **expansive clay soils and artificial fill**, both of which significantly affect foundation performance. Expansive clays undergo volume change as moisture content varies, causing **heave during wet periods and shrinkage during dry spells**. This cycle generates uplift and settlement forces on shallow foundations, leading to cracking and distortion of slabs and footings. Geotechnical engineering manuals recommend several strategies for design and repair in such conditions. For new or replacement foundations, they often propose **deepened footings, reinforced slabs, moisture barriers, or drilled piers** that extend below the active zone of soil movement. For repairs, underpinning to deeper, more stable soils using piers or piles reduces reliance on the unstable near-surface clays. Local building department guidelines in expansive soil areas frequently require a **geotechnical investigation** before major foundation work. These reports characterize soil properties, depth of moisture variation, and potential for expansion or collapse, and they provide design parameters to structural engineers. Where artificial fill is present—common in graded hillside lots or older subdivisions—engineers may recommend **remedial grading, overexcavation and recompaction, or deep foundations** to bypass weak or poorly compacted layers. Best-practice documents from professional societies stress that **drainage control** is critical in expansive soil zones. Keeping irrigation away from foundations, managing roof runoff through gutters and downspouts, and installing subsurface drains where needed help stabilize moisture conditions. Repair strategies that ignore drainage and soil behavior are described as high-risk, with an increased chance of recurrence of cracks or settlement. In Los Angeles County, effective foundation repair almost always integrates **geotechnical understanding, structural design, and moisture management** to mitigate the challenges posed by expansive clays and varied fill conditions. Ending with this sentence for completeness.",
+  "datePublished": "2026-08-27"
 }

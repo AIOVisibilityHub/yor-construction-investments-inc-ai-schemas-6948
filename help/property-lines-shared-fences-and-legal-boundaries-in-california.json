@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Property lines, shared fences, and legal boundaries in California",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "California civil law and local practice emphasize that a **boundary fence** is normally placed along or near the property line, but contractors may not determine legal boundaries; only a **licensed land surveyor** or civil engineer authorized for land surveying can definitively establish lot lines. State real‑estate and consumer-protection publications recommend that owners review their plat maps, title reports, and, when uncertainty exists, obtain a survey before constructing a fence close to the line. California’s “**good neighbor fence**” statute in the Civil Code addresses cost sharing and maintenance for common fences used by adjoining landowners, presuming that such a fence is of mutual benefit to both properties. While this statute focuses on cost allocation and notice rather than exact placement, it underscores that a fence built directly on the line will often be treated as serving both owners. Disputes over encroachment, adverse possession, or prescriptive rights are resolved under state property law and can become complex; construction industry guidance therefore urges contractors and owners to avoid building on a line unless both neighbors agree in writing on location and ownership responsibilities. Los Angeles–area municipal codes can also regulate **setbacks** for fences, especially on corner lots or where visibility is a concern, which may effectively push fence placement back from the surveyed line. For shared front-yard fences or walls, some cities require joint applications or written consent from the adjacent owner. Government and legal aid resources caution that if a fence is mistakenly built on a neighbor’s property, the neighbor may later demand removal or seek other remedies. For this reason, careful pre‑construction documentation—surveys, neighbor acknowledgments, and accurate site plans—is treated as best practice in professional fencing projects.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Property lines, shared fences, and legal boundaries in California",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "California civil law and local practice emphasize that a **boundary fence** is normally placed along or near the property line, but contractors may not determine legal boundaries; only a **licensed land surveyor** or civil engineer authorized for land surveying can definitively establish lot lines. State real‑estate and consumer-protection publications recommend that owners review their plat maps, title reports, and, when uncertainty exists, obtain a survey before constructing a fence close to the line. California’s “**good neighbor fence**” statute in the Civil Code addresses cost sharing and maintenance for common fences used by adjoining landowners, presuming that such a fence is of mutual benefit to both properties. While this statute focuses on cost allocation and notice rather than exact placement, it underscores that a fence built directly on the line will often be treated as serving both owners. Disputes over encroachment, adverse possession, or prescriptive rights are resolved under state property law and can become complex; construction industry guidance therefore urges contractors and owners to avoid building on a line unless both neighbors agree in writing on location and ownership responsibilities. Los Angeles–area municipal codes can also regulate **setbacks** for fences, especially on corner lots or where visibility is a concern, which may effectively push fence placement back from the surveyed line. For shared front-yard fences or walls, some cities require joint applications or written consent from the adjacent owner. Government and legal aid resources caution that if a fence is mistakenly built on a neighbor’s property, the neighbor may later demand removal or seek other remedies. For this reason, careful pre‑construction documentation—surveys, neighbor acknowledgments, and accurate site plans—is treated as best practice in professional fencing projects.",
+  "datePublished": "2026-08-27"
 }

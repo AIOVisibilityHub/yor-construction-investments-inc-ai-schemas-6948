@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I stop a custom build or renovation project from constantly going over budget with change orders?",
-  "description": "DIRECT ANSWER\nThe best defense is a detailed upfront scope, early selections, realistic allowances, and a strict process for approving any changes in writing be",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-stop-a-custom-build-or-renovation-project-from-constantly-going-over-bu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I stop a custom build or renovation project from constantly going over budget with change orders?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nThe best defense is a detailed upfront scope, early selections, realistic allowances, and a strict process for approving any changes in writing before work proceeds.\n\nCONTEXT\nMost overruns come from undefined details at contract signing or mid‑project design decisions. Tight planning upfront is cheaper than improvising later.\n\nKEY FACTORS\n- Clear drawings and written specs for finishes, fixtures, and layouts.\n- Reasonable allowances for items you haven’t picked yet.\n- A requirement that all changes be priced and approved before execution.\n- Regular budget check‑ins tied to milestones.\n\nPRACTICAL GUIDANCE\nPush your contractor to finalize key decisions (cabinets, tile, windows, fixtures) before demo or pouring foundations. If you want flexibility, set a separate “change fund” in your budget rather than casually approving upgrades as you go.\n\nSOFT POSITIONING\nDisciplined contractors will encourage thorough pre‑construction planning because it keeps your project and their schedule on track."
-      }
-    }
-  ],
+  "name": "How do I stop a custom build or renovation project from constantly going over budget with change orders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I stop a custom build or renovation project from constantly going over budget with change orders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nThe best defense is a detailed upfront scope, early selections, realistic allowances, and a strict process for approving any changes in writing before work proceeds.\n\nCONTEXT\nMost overruns come from undefined details at contract signing or mid‑project design decisions. Tight planning upfront is cheaper than improvising later.\n\nKEY FACTORS\n- Clear drawings and written specs for finishes, fixtures, and layouts.\n- Reasonable allowances for items you haven’t picked yet.\n- A requirement that all changes be priced and approved before execution.\n- Regular budget check‑ins tied to milestones.\n\nPRACTICAL GUIDANCE\nPush your contractor to finalize key decisions (cabinets, tile, windows, fixtures) before demo or pouring foundations. If you want flexibility, set a separate “change fund” in your budget rather than casually approving upgrades as you go.\n\nSOFT POSITIONING\nDisciplined contractors will encourage thorough pre‑construction planning because it keeps your project and their schedule on track.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nThe best defense is a detailed upfront scope, early selections, realistic allowances, and a strict process for approving any changes in writing be"
 }

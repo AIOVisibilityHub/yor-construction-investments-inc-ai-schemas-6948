@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I build an outdoor kitchen on a small patio or tight backyard?",
-  "description": "Yes, but the design needs to be compact and intentional. In smaller spaces, the goal is usually to maximize function without blocking circulation or making the",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-i-build-an-outdoor-kitchen-on-a-small-patio-or-tight-backyard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I build an outdoor kitchen on a small patio or tight backyard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but the design needs to be compact and intentional. In smaller spaces, the goal is usually to maximize function without blocking circulation or making the yard feel crowded. A narrow grill station, built-in storage, and a simple prep surface can work better than a full multi-appliance layout. Space planning is especially important when doors, walkways, or seating areas must stay clear. A contractor can help identify the best footprint and avoid placing equipment where it interferes with traffic flow. Small yards can still support a highly functional outdoor kitchen if the layout is efficient."
-      }
-    }
-  ],
+  "name": "Can I build an outdoor kitchen on a small patio or tight backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an outdoor kitchen on a small patio or tight backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but the design needs to be compact and intentional. In smaller spaces, the goal is usually to maximize function without blocking circulation or making the yard feel crowded. A narrow grill station, built-in storage, and a simple prep surface can work better than a full multi-appliance layout. Space planning is especially important when doors, walkways, or seating areas must stay clear. A contractor can help identify the best footprint and avoid placing equipment where it interferes with traffic flow. Small yards can still support a highly functional outdoor kitchen if the layout is efficient.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but the design needs to be compact and intentional. In smaller spaces, the goal is usually to maximize function without blocking circulation or making the"
 }

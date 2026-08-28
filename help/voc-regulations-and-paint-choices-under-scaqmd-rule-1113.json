@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "VOC regulations and paint choices under SCAQMD Rule 1113",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "In Los Angeles County, interior paint choices are heavily influenced by South Coast Air Quality Management District (SCAQMD) Rule 1113, which regulates the VOC content of architectural coatings. This rule sets maximum VOC levels, expressed in grams per liter, for categories like flat, non-flat, and specialty coatings. Over successive amendments, SCAQMD has lowered these limits to drive down smog-forming emissions, which means many older solvent-rich paints can no longer be sold or used in the district. Manufacturers now formulate interior wall paints, primers, and trim enamels with waterborne resins and co-solvents that meet these tighter standards while still achieving acceptable durability and coverage. Industry guidance from major paint manufacturers explains that many interior paints marketed as \"low-VOC\" or \"zero-VOC\" are designed specifically to comply with strict air-district rules in California, including SCAQMD. Compliance is not optional for contractors: Rule 1113 applies to anyone who supplies, sells, or applies architectural coatings in the district, so painting firms must verify the product’s VOC data, typically listed on the technical data sheet and product label. Trade publications note that SCAQMD’s limits are among the most stringent in the United States, and many national brands follow these specifications as a de facto standard for environmentally preferable products. For interior projects, these VOC limits affect not only the base paint but also colorants, primers, sealers, and clear finishes. Some traditional oil-based enamels and specialty coatings cannot be used unless they fit into specific categories and meet the applicable VOC caps. As a result, designers and contractors in Los Angeles often standardize on waterborne acrylic systems and low-emission primers that allow compliance while supporting good indoor air quality and fewer odor concerns for occupants.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "VOC regulations and paint choices under SCAQMD Rule 1113",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "In Los Angeles County, interior paint choices are heavily influenced by South Coast Air Quality Management District (SCAQMD) Rule 1113, which regulates the VOC content of architectural coatings. This rule sets maximum VOC levels, expressed in grams per liter, for categories like flat, non-flat, and specialty coatings. Over successive amendments, SCAQMD has lowered these limits to drive down smog-forming emissions, which means many older solvent-rich paints can no longer be sold or used in the district. Manufacturers now formulate interior wall paints, primers, and trim enamels with waterborne resins and co-solvents that meet these tighter standards while still achieving acceptable durability and coverage. Industry guidance from major paint manufacturers explains that many interior paints marketed as \"low-VOC\" or \"zero-VOC\" are designed specifically to comply with strict air-district rules in California, including SCAQMD. Compliance is not optional for contractors: Rule 1113 applies to anyone who supplies, sells, or applies architectural coatings in the district, so painting firms must verify the product’s VOC data, typically listed on the technical data sheet and product label. Trade publications note that SCAQMD’s limits are among the most stringent in the United States, and many national brands follow these specifications as a de facto standard for environmentally preferable products. For interior projects, these VOC limits affect not only the base paint but also colorants, primers, sealers, and clear finishes. Some traditional oil-based enamels and specialty coatings cannot be used unless they fit into specific categories and meet the applicable VOC caps. As a result, designers and contractors in Los Angeles often standardize on waterborne acrylic systems and low-emission primers that allow compliance while supporting good indoor air quality and fewer odor concerns for occupants.",
+  "datePublished": "2026-08-27"
 }

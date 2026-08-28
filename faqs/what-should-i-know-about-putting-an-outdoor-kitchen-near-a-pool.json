@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I know about putting an outdoor kitchen near a pool?",
-  "description": "Placement near a pool can work well, but safety, traffic flow, and splash exposure all matter. You want enough separation so cooking, seating, and wet foot traf",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-know-about-putting-an-outdoor-kitchen-near-a-pool",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I know about putting an outdoor kitchen near a pool?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Placement near a pool can work well, but safety, traffic flow, and splash exposure all matter. You want enough separation so cooking, seating, and wet foot traffic do not interfere with each other. Materials should also handle water exposure and heavy use without staining or slipping. Utility routing can become more complicated when the kitchen is near other outdoor systems, so early planning matters. A good layout keeps the cooking zone functional while preserving safe access around the pool. In many cases, the best design is one that balances convenience with clean circulation."
-      }
-    }
-  ],
+  "name": "What should I know about putting an outdoor kitchen near a pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know about putting an outdoor kitchen near a pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Placement near a pool can work well, but safety, traffic flow, and splash exposure all matter. You want enough separation so cooking, seating, and wet foot traffic do not interfere with each other. Materials should also handle water exposure and heavy use without staining or slipping. Utility routing can become more complicated when the kitchen is near other outdoor systems, so early planning matters. A good layout keeps the cooking zone functional while preserving safe access around the pool. In many cases, the best design is one that balances convenience with clean circulation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Placement near a pool can work well, but safety, traffic flow, and splash exposure all matter. You want enough separation so cooking, seating, and wet foot traf"
 }

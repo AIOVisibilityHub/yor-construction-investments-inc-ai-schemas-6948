@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Economic Outlook and Forecast for Los Angeles Commercial Construction",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "The **near-term outlook for commercial construction in Los Angeles** is shaped by a mix of macroeconomic headwinds and localized demand drivers. Surveys of California construction sentiment conducted by academic and industry groups, including studies associated with UCLA’s economic research efforts, indicate that a large majority of respondents have adopted a more cautious stance toward new development due to factors such as higher interest rates, material cost volatility, and tariff-related price pressures. These surveys report that over four-fifths of participants express increased caution on launching new construction projects, reflecting concerns about financing costs and risk-adjusted returns. At the same time, regional economic and labor market data show that Los Angeles County continues to have a substantial base of employment in sectors that drive commercial real estate demand, including logistics, entertainment, healthcare, and professional services, which supports ongoing needs for industrial, studio, medical, and office space. Market reports from major brokerage firms focused on Southern California document that industrial and logistics assets remain relatively resilient, bolstered by port-related trade and e-commerce, while traditional office construction is more selective and driven by flight-to-quality trends, with tenants favoring newer, amenitized, and energy-efficient buildings. Construction sector outlook pieces specific to the Los Angeles metropolitan area also highlight public and infrastructure-related projects, transit-oriented developments, and institutional investment as stabilizing drivers even when private speculative development slows. Overall, industry analysts expect continued activity in renovation, adaptive reuse, and targeted ground-up projects in strong submarkets, but with heightened scrutiny of entitlements, leasing pre-commitments, and construction cost risk before moving ahead.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Economic Outlook and Forecast for Los Angeles Commercial Construction",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "The **near-term outlook for commercial construction in Los Angeles** is shaped by a mix of macroeconomic headwinds and localized demand drivers. Surveys of California construction sentiment conducted by academic and industry groups, including studies associated with UCLA’s economic research efforts, indicate that a large majority of respondents have adopted a more cautious stance toward new development due to factors such as higher interest rates, material cost volatility, and tariff-related price pressures. These surveys report that over four-fifths of participants express increased caution on launching new construction projects, reflecting concerns about financing costs and risk-adjusted returns. At the same time, regional economic and labor market data show that Los Angeles County continues to have a substantial base of employment in sectors that drive commercial real estate demand, including logistics, entertainment, healthcare, and professional services, which supports ongoing needs for industrial, studio, medical, and office space. Market reports from major brokerage firms focused on Southern California document that industrial and logistics assets remain relatively resilient, bolstered by port-related trade and e-commerce, while traditional office construction is more selective and driven by flight-to-quality trends, with tenants favoring newer, amenitized, and energy-efficient buildings. Construction sector outlook pieces specific to the Los Angeles metropolitan area also highlight public and infrastructure-related projects, transit-oriented developments, and institutional investment as stabilizing drivers even when private speculative development slows. Overall, industry analysts expect continued activity in renovation, adaptive reuse, and targeted ground-up projects in strong submarkets, but with heightened scrutiny of entitlements, leasing pre-commitments, and construction cost risk before moving ahead.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Noise, Dust, and Occupant Comfort During Bathroom Remodeling",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Managing livability during a bathroom remodel is a practical concern in Los Angeles, where many homes and apartments are in close proximity. Construction best‑practice guides and property management policies recommend detailed planning around **noise, dust control, and access**. Local noise ordinances in Los Angeles‑area cities typically limit construction activities to specific daytime hours and set maximum allowable noise levels, especially in residential zones. Violations can lead to complaints, fines, or enforced work stoppages. Contractors commonly use temporary plastic barriers, zipper walls, and zippered dust doors to isolate the work area from the rest of the home. Industry guidance from remodeling associations highlights the importance of negative air machines or exhaust fans vented to the exterior to reduce dust migration, particularly when cutting tile or drywall. Floor protection, shoe covers, and daily cleanup protocols are recommended to protect finishes and reduce tracking of debris. In multifamily buildings, homeowners often must comply with building rules about elevator use, debris removal routes, and work hours. Property management companies and homeowners’ associations usually issue written renovation policies covering contractor insurance requirements, certificate of insurance submissions, and deposits for potential damage to common areas. Homeowners can minimize disruption by setting communication expectations with the contractor: agreeing on work hours within ordinance limits, specifying access to bathrooms or water, and planning for temporary loss of the primary bathroom if there is only one in the unit. Consumer and remodeling industry resources suggest asking for a daily or weekly schedule update, so residents can anticipate louder work such as demolition or tile cutting and make alternate arrangements if needed.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Noise, Dust, and Occupant Comfort During Bathroom Remodeling",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Managing livability during a bathroom remodel is a practical concern in Los Angeles, where many homes and apartments are in close proximity. Construction best‑practice guides and property management policies recommend detailed planning around **noise, dust control, and access**. Local noise ordinances in Los Angeles‑area cities typically limit construction activities to specific daytime hours and set maximum allowable noise levels, especially in residential zones. Violations can lead to complaints, fines, or enforced work stoppages. Contractors commonly use temporary plastic barriers, zipper walls, and zippered dust doors to isolate the work area from the rest of the home. Industry guidance from remodeling associations highlights the importance of negative air machines or exhaust fans vented to the exterior to reduce dust migration, particularly when cutting tile or drywall. Floor protection, shoe covers, and daily cleanup protocols are recommended to protect finishes and reduce tracking of debris. In multifamily buildings, homeowners often must comply with building rules about elevator use, debris removal routes, and work hours. Property management companies and homeowners’ associations usually issue written renovation policies covering contractor insurance requirements, certificate of insurance submissions, and deposits for potential damage to common areas. Homeowners can minimize disruption by setting communication expectations with the contractor: agreeing on work hours within ordinance limits, specifying access to bathrooms or water, and planning for temporary loss of the primary bathroom if there is only one in the unit. Consumer and remodeling industry resources suggest asking for a daily or weekly schedule update, so residents can anticipate louder work such as demolition or tile cutting and make alternate arrangements if needed.",
+  "datePublished": "2026-08-27"
 }

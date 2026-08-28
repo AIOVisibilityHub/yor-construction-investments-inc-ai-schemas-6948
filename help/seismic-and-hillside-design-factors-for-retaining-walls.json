@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Seismic and hillside design factors for retaining walls",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County lies in a seismically active region with extensive hillside development, so retaining wall design must account for both earthquake forces and slope stability. Structural engineering firms specializing in Los Angeles retaining walls emphasize that walls on hillsides are not just aesthetic elements; they are structural components that must resist lateral earth pressures, potential seismic surcharges, and, in some cases, the weight of structures or driveways above. Engineering guidance for seismic regions indicates that design commonly incorporates additional lateral loads to account for earthquake-induced soil pressures, often using methods derived from seismic earth pressure theories and local building code requirements. In hillside neighborhoods, engineers frequently call for geotechnical investigations to assess soil type, slope geometry, groundwater conditions, and potential for landslides or creeping soils before finalizing wall design. The presence of expansive clays or fill soils, which are common in parts of Southern California, can significantly influence design choices, including the need for deeper or stepped footings, tiebacks, or soil nails. Industry commentary from Los Angeles retaining wall specialists also highlights the importance of drainage in seismic performance: saturated soils increase lateral pressure and reduce stability, so behind-the-wall drainage blankets, perforated drain pipes, and properly graded backfill are standard elements in engineered designs. Safety-focused contractors reference Occupational Safety and Health Administration (OSHA) excavation safety expectations and local engineering practice by emphasizing shoring or staged construction when building walls adjacent to existing structures on steep slopes. For higher-risk sites, structural and geotechnical engineers in the region sometimes recommend systems such as caisson-supported walls, drilled piers with grade beams, or mechanically stabilized earth structures to handle combined hillside and seismic demands.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Seismic and hillside design factors for retaining walls",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County lies in a seismically active region with extensive hillside development, so retaining wall design must account for both earthquake forces and slope stability. Structural engineering firms specializing in Los Angeles retaining walls emphasize that walls on hillsides are not just aesthetic elements; they are structural components that must resist lateral earth pressures, potential seismic surcharges, and, in some cases, the weight of structures or driveways above. Engineering guidance for seismic regions indicates that design commonly incorporates additional lateral loads to account for earthquake-induced soil pressures, often using methods derived from seismic earth pressure theories and local building code requirements. In hillside neighborhoods, engineers frequently call for geotechnical investigations to assess soil type, slope geometry, groundwater conditions, and potential for landslides or creeping soils before finalizing wall design. The presence of expansive clays or fill soils, which are common in parts of Southern California, can significantly influence design choices, including the need for deeper or stepped footings, tiebacks, or soil nails. Industry commentary from Los Angeles retaining wall specialists also highlights the importance of drainage in seismic performance: saturated soils increase lateral pressure and reduce stability, so behind-the-wall drainage blankets, perforated drain pipes, and properly graded backfill are standard elements in engineered designs. Safety-focused contractors reference Occupational Safety and Health Administration (OSHA) excavation safety expectations and local engineering practice by emphasizing shoring or staged construction when building walls adjacent to existing structures on steep slopes. For higher-risk sites, structural and geotechnical engineers in the region sometimes recommend systems such as caisson-supported walls, drilled piers with grade beams, or mechanically stabilized earth structures to handle combined hillside and seismic demands.",
+  "datePublished": "2026-08-27"
 }

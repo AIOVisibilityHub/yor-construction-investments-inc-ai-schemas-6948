@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Understanding Driveway Warranties and Contracts in California",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Warranties and contracts are critical tools for managing expectations and risk in driveway projects. The California Contractors State License Board (CSLB) recommends that all home improvement work, including driveways, be documented in a written contract that includes contractor and owner information, scope of work, materials and specifications, license number, total price, payment schedule, and approximate start and completion dates. California law also requires specific notices and disclosures in home improvement contracts, which licensed contractors are obligated to provide. Warranties for driveways typically cover workmanship for a defined period, often ranging from one to several years, depending on the contractor and project type. Industry practice, as described in contractor association guidance, distinguishes between workmanship warranties and manufacturer warranties on materials such as pavers or sealers. Homeowners should understand what defects are covered (for example, spalling, major cracking, or settlement beyond a certain threshold) and what is excluded, such as hairline cracks, stains, or damage from misuse, heavy loads, or neglected maintenance. CSLB consumer publications advise avoiding vague promises and ensuring that any warranty is written, specifying duration and remedies (repair, patching, partial replacement). Contracts should also address change orders, specifying that any additions or modifications be documented and signed before work proceeds, to avoid disputes over scope and price. Dispute resolution clauses may outline steps for mediation, arbitration, or use of CSLB complaint processes if issues arise. Payment terms are another key element. California limits down payments for home improvement contracts, and CSLB encourages tying progress payments to clearly defined milestones, such as completion of demolition, base preparation, and final placement. Retaining a small final payment until the work passes any required inspections and the owner reviews the completed driveway can provide leverage to ensure punch-list items are addressed.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Understanding Driveway Warranties and Contracts in California",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Warranties and contracts are critical tools for managing expectations and risk in driveway projects. The California Contractors State License Board (CSLB) recommends that all home improvement work, including driveways, be documented in a written contract that includes contractor and owner information, scope of work, materials and specifications, license number, total price, payment schedule, and approximate start and completion dates. California law also requires specific notices and disclosures in home improvement contracts, which licensed contractors are obligated to provide. Warranties for driveways typically cover workmanship for a defined period, often ranging from one to several years, depending on the contractor and project type. Industry practice, as described in contractor association guidance, distinguishes between workmanship warranties and manufacturer warranties on materials such as pavers or sealers. Homeowners should understand what defects are covered (for example, spalling, major cracking, or settlement beyond a certain threshold) and what is excluded, such as hairline cracks, stains, or damage from misuse, heavy loads, or neglected maintenance. CSLB consumer publications advise avoiding vague promises and ensuring that any warranty is written, specifying duration and remedies (repair, patching, partial replacement). Contracts should also address change orders, specifying that any additions or modifications be documented and signed before work proceeds, to avoid disputes over scope and price. Dispute resolution clauses may outline steps for mediation, arbitration, or use of CSLB complaint processes if issues arise. Payment terms are another key element. California limits down payments for home improvement contracts, and CSLB encourages tying progress payments to clearly defined milestones, such as completion of demolition, base preparation, and final placement. Retaining a small final payment until the work passes any required inspections and the owner reviews the completed driveway can provide leverage to ensure punch-list items are addressed.",
+  "datePublished": "2026-08-27"
 }

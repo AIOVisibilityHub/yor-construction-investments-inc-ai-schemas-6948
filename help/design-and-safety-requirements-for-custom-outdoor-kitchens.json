@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Design and Safety Requirements for Custom Outdoor Kitchens",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Custom outdoor kitchens in Los Angeles County must be designed not only for functionality but also for **fire safety, gas and electrical codes, and structural requirements**. The California Residential Code and California Fire Code, as adopted and amended locally, regulate clearances to combustible construction, ventilation, and the safe installation of gas appliances and barbecues. Manufacturers’ installation instructions for outdoor grills and appliances specify minimum distances from walls, overhangs, and combustible materials; building officials and fire departments generally require adherence to these instructions as part of code compliance. For **gas piping**, the California Plumbing Code sets standards for materials, sizing, support, and pressure testing. When extending natural gas lines to an outdoor kitchen, permits and inspections are typically required by the local building department, such as LADBS. The National Fire Protection Association’s NFPA 54 (National Fuel Gas Code), which informs state and local codes, provides additional technical guidance on safe gas installation. For electrical work, the California Electrical Code (based on the National Electrical Code) contains requirements for outdoor receptacles, ground-fault circuit-interrupter (GFCI) protection, wet-location fixtures, and bonding of metal components near water features. Structural and weather considerations are also important. The California Building Code and Residential Code govern foundations, anchorage, and wind resistance for outdoor structures such as countertops, shade pergolas, and attached canopies. Local health departments do not regulate private residential outdoor kitchens the way they do commercial food facilities, but Los Angeles County’s Department of Public Health provides general food safety guidance on safe food storage and preparation temperatures that informed homeowners may apply. Because outdoor kitchens combine multiple systems—gas, electrical, masonry, and sometimes plumbing—licensed trades and inspections help ensure that the installation meets current life-safety and fire-safety standards.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Design and Safety Requirements for Custom Outdoor Kitchens",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Custom outdoor kitchens in Los Angeles County must be designed not only for functionality but also for **fire safety, gas and electrical codes, and structural requirements**. The California Residential Code and California Fire Code, as adopted and amended locally, regulate clearances to combustible construction, ventilation, and the safe installation of gas appliances and barbecues. Manufacturers’ installation instructions for outdoor grills and appliances specify minimum distances from walls, overhangs, and combustible materials; building officials and fire departments generally require adherence to these instructions as part of code compliance. For **gas piping**, the California Plumbing Code sets standards for materials, sizing, support, and pressure testing. When extending natural gas lines to an outdoor kitchen, permits and inspections are typically required by the local building department, such as LADBS. The National Fire Protection Association’s NFPA 54 (National Fuel Gas Code), which informs state and local codes, provides additional technical guidance on safe gas installation. For electrical work, the California Electrical Code (based on the National Electrical Code) contains requirements for outdoor receptacles, ground-fault circuit-interrupter (GFCI) protection, wet-location fixtures, and bonding of metal components near water features. Structural and weather considerations are also important. The California Building Code and Residential Code govern foundations, anchorage, and wind resistance for outdoor structures such as countertops, shade pergolas, and attached canopies. Local health departments do not regulate private residential outdoor kitchens the way they do commercial food facilities, but Los Angeles County’s Department of Public Health provides general food safety guidance on safe food storage and preparation temperatures that informed homeowners may apply. Because outdoor kitchens combine multiple systems—gas, electrical, masonry, and sometimes plumbing—licensed trades and inspections help ensure that the installation meets current life-safety and fire-safety standards.",
+  "datePublished": "2026-08-27"
 }

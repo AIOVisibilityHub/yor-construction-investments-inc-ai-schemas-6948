@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Budgeting and Capital Planning for Pavement Rehabilitation and Replacement",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Budgeting for paving replacement in Los Angeles County involves understanding typical service lives, unit costs, and the timing of major rehabilitation versus full reconstruction. Research from pavement management programs and industry cost guides indicates that well‑designed and maintained asphalt parking lots often last 15–25 years before requiring structural rehabilitation, while concrete pavements can last longer but may require joint repairs and localized slab replacements. Construction cost data services and public bid tabulations from agencies like Los Angeles County Public Works and local cities provide reference unit prices for **asphalt overlays, milling, base repairs, and concrete work**. These show that costs per square foot rise significantly when structural base replacement or deep excavation is needed. Many facility managers therefore structure capital plans around periodic overlays and localized dig‑outs to postpone full reconstruction, informed by pavement condition surveys. Industry best practices for **pavement asset management** recommend establishing a multi‑year capital reserve based on inventory (square footage by pavement type), condition ratings, and treatment strategies. Tools modeled after municipal pavement management systems use deterioration curves and cost‑benefit analysis to determine the most cost‑effective year for treatments like slurry seal, chip seal (where allowed), or overlay. In Los Angeles, where labor, traffic control, and mobilization costs can be high, bundling multiple properties or phases into a single contract can reduce unit pricing. Owners also need to account for ancillary items that significantly affect budgets, including **ADA upgrades, drainage changes, lighting or conduit adjustments, and landscaping restoration** required as part of a paving project. Local building and public works agencies may trigger additional requirements when alterations reach certain thresholds, which can add design and construction costs. Incorporating these factors into long‑range financial planning helps avoid unexpected capital shortfalls when pavement replacement becomes unavoidable.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Budgeting and Capital Planning for Pavement Rehabilitation and Replacement",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Budgeting for paving replacement in Los Angeles County involves understanding typical service lives, unit costs, and the timing of major rehabilitation versus full reconstruction. Research from pavement management programs and industry cost guides indicates that well‑designed and maintained asphalt parking lots often last 15–25 years before requiring structural rehabilitation, while concrete pavements can last longer but may require joint repairs and localized slab replacements. Construction cost data services and public bid tabulations from agencies like Los Angeles County Public Works and local cities provide reference unit prices for **asphalt overlays, milling, base repairs, and concrete work**. These show that costs per square foot rise significantly when structural base replacement or deep excavation is needed. Many facility managers therefore structure capital plans around periodic overlays and localized dig‑outs to postpone full reconstruction, informed by pavement condition surveys. Industry best practices for **pavement asset management** recommend establishing a multi‑year capital reserve based on inventory (square footage by pavement type), condition ratings, and treatment strategies. Tools modeled after municipal pavement management systems use deterioration curves and cost‑benefit analysis to determine the most cost‑effective year for treatments like slurry seal, chip seal (where allowed), or overlay. In Los Angeles, where labor, traffic control, and mobilization costs can be high, bundling multiple properties or phases into a single contract can reduce unit pricing. Owners also need to account for ancillary items that significantly affect budgets, including **ADA upgrades, drainage changes, lighting or conduit adjustments, and landscaping restoration** required as part of a paving project. Local building and public works agencies may trigger additional requirements when alterations reach certain thresholds, which can add design and construction costs. Incorporating these factors into long‑range financial planning helps avoid unexpected capital shortfalls when pavement replacement becomes unavoidable.",
+  "datePublished": "2026-08-27"
 }

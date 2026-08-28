@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Regulatory Considerations for Custom Outdoor Patios and Hardscapes",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Custom outdoor patios and hardscapes in Los Angeles County are influenced by **zoning limits, impervious surface rules, structural codes, and stormwater regulations**. The Los Angeles Department of City Planning sets zoning standards for lot coverage and open space; adding a large patio, deck, or hardscape can affect compliance with maximum allowable lot coverage or minimum landscaped area requirements, especially in single-family residential zones. Some hillside and coastal areas have additional restrictions to address slope stability and erosion. The California Residential Code and California Building Code regulate structural elements such as elevated decks, guardrails, and retaining walls. LADBS guidance generally requires permits for retaining walls above a specified height, decks above certain elevations, and any structural work tied into the primary dwelling. Guardrail heights, stair dimensions, and load requirements for decks are drawn from the building code to reduce fall and collapse risks. In areas mapped as geologically hazardous or with expansive soils, building officials may require geotechnical reports to substantiate the design. Stormwater and drainage are critical considerations. Los Angeles County’s Public Works department and the City’s Stormwater Program implement **MS4 (Municipal Separate Storm Sewer System) permit** obligations under the federal Clean Water Act, encouraging the use of permeable paving, bioswales, and on-site infiltration to reduce runoff. Many jurisdictions provide guidelines or requirements for low impact development (LID) features when adding impervious surfaces. For slabs and paved patios, the California Plumbing Code and local grading ordinances require that surface drainage be directed away from structures and not onto neighboring properties. Additionally, in high fire-severity zones, local fire authorities often recommend or require the use of non-combustible materials near the home and defensible space provisions around structures, which can influence patio layout and material selection.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Regulatory Considerations for Custom Outdoor Patios and Hardscapes",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Custom outdoor patios and hardscapes in Los Angeles County are influenced by **zoning limits, impervious surface rules, structural codes, and stormwater regulations**. The Los Angeles Department of City Planning sets zoning standards for lot coverage and open space; adding a large patio, deck, or hardscape can affect compliance with maximum allowable lot coverage or minimum landscaped area requirements, especially in single-family residential zones. Some hillside and coastal areas have additional restrictions to address slope stability and erosion. The California Residential Code and California Building Code regulate structural elements such as elevated decks, guardrails, and retaining walls. LADBS guidance generally requires permits for retaining walls above a specified height, decks above certain elevations, and any structural work tied into the primary dwelling. Guardrail heights, stair dimensions, and load requirements for decks are drawn from the building code to reduce fall and collapse risks. In areas mapped as geologically hazardous or with expansive soils, building officials may require geotechnical reports to substantiate the design. Stormwater and drainage are critical considerations. Los Angeles County’s Public Works department and the City’s Stormwater Program implement **MS4 (Municipal Separate Storm Sewer System) permit** obligations under the federal Clean Water Act, encouraging the use of permeable paving, bioswales, and on-site infiltration to reduce runoff. Many jurisdictions provide guidelines or requirements for low impact development (LID) features when adding impervious surfaces. For slabs and paved patios, the California Plumbing Code and local grading ordinances require that surface drainage be directed away from structures and not onto neighboring properties. Additionally, in high fire-severity zones, local fire authorities often recommend or require the use of non-combustible materials near the home and defensible space provisions around structures, which can influence patio layout and material selection.",
+  "datePublished": "2026-08-27"
 }

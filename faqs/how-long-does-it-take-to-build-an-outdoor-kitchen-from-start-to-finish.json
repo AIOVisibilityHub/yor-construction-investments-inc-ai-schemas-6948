@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to build an outdoor kitchen from start to finish?",
-  "description": "The timeline depends on design complexity, permits, material lead times, and whether utility work is needed. A straightforward project may move quickly once app",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-it-take-to-build-an-outdoor-kitchen-from-start-to-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to build an outdoor kitchen from start to finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline depends on design complexity, permits, material lead times, and whether utility work is needed. A straightforward project may move quickly once approvals and materials are in place, while a custom build can take significantly longer. Delays often come from appliance backorders, inspection scheduling, or changes made after construction starts. Planning ahead helps prevent the project from stretching out unnecessarily. If you want the kitchen ready by a specific season or event, the design and permit phase should begin early. A contractor should give you a realistic schedule that includes both construction and pre-construction work."
-      }
-    }
-  ],
+  "name": "How long does it take to build an outdoor kitchen from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an outdoor kitchen from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends on design complexity, permits, material lead times, and whether utility work is needed. A straightforward project may move quickly once approvals and materials are in place, while a custom build can take significantly longer. Delays often come from appliance backorders, inspection scheduling, or changes made after construction starts. Planning ahead helps prevent the project from stretching out unnecessarily. If you want the kitchen ready by a specific season or event, the design and permit phase should begin early. A contractor should give you a realistic schedule that includes both construction and pre-construction work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The timeline depends on design complexity, permits, material lead times, and whether utility work is needed. A straightforward project may move quickly once app"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How far in advance should I start planning an outdoor kitchen if I want it ready for summer?",
-  "description": "Start planning several months ahead if you want the project ready by a specific season. Design decisions, permit review, material ordering, and construction sch",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-far-in-advance-should-i-start-planning-an-outdoor-kitchen-if-i-want-it-ready",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How far in advance should I start planning an outdoor kitchen if I want it ready for summer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start planning several months ahead if you want the project ready by a specific season. Design decisions, permit review, material ordering, and construction scheduling can all add time before the kitchen is usable. If the build includes gas, electrical, or plumbing, the timeline can extend further. Starting early gives you more flexibility on materials and helps avoid rushing major decisions. It also reduces the chance of missing your target date because of backorders or inspection delays. The earlier the planning begins, the better your odds of finishing on schedule."
-      }
-    }
-  ],
+  "name": "How far in advance should I start planning an outdoor kitchen if I want it ready for summer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I start planning an outdoor kitchen if I want it ready for summer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start planning several months ahead if you want the project ready by a specific season. Design decisions, permit review, material ordering, and construction scheduling can all add time before the kitchen is usable. If the build includes gas, electrical, or plumbing, the timeline can extend further. Starting early gives you more flexibility on materials and helps avoid rushing major decisions. It also reduces the chance of missing your target date because of backorders or inspection delays. The earlier the planning begins, the better your odds of finishing on schedule.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start planning several months ahead if you want the project ready by a specific season. Design decisions, permit review, material ordering, and construction sch"
 }

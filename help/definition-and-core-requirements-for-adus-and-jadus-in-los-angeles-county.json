@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Definition and Core Requirements for ADUs and JADUs in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County Planning defines an **Accessory Dwelling Unit (ADU)** as a residential unit with a **full kitchen and bathroom** that is accessory to a primary residential use, such as a single-family home or multifamily building. County guidance explains that an ADU may be **detached**, **attached**, or located within existing structures, and it must provide **independent living facilities**, including permanent provisions for cooking, sleeping, and sanitation. Planning materials emphasize that ADUs can be built on properties with a house or an apartment building and may be used as rental housing or as accommodation for family or caregivers on the same lot. The County also recognizes **Junior Accessory Dwelling Units (JADUs)**, which are similar in concept but more limited in size and configuration. According to Los Angeles County Planning, a JADU has a **maximum size of 500 square feet**, must be **wholly contained within the main home**, and must have its **own exterior access**. JADUs may share some infrastructure, and in practice often have more constrained kitchen configurations compared to full ADUs, consistent with statewide JADU standards in California’s Government Code. State-level guidance, summarized in industry explainers on California ADU law, notes that most full ADUs are allowed in the **800–1,200 square foot** range and must include an independent entry and complete kitchen and bath facilities to qualify. County materials also highlight that professional architects have developed pre-approved plans for different ADU types and sizes, reinforcing that the County treats ADUs as full, code-compliant dwelling units rather than informal additions. This regulatory framing affects building code compliance, permitting, utility connections, and eligibility for rental use.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Definition and Core Requirements for ADUs and JADUs in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County Planning defines an **Accessory Dwelling Unit (ADU)** as a residential unit with a **full kitchen and bathroom** that is accessory to a primary residential use, such as a single-family home or multifamily building. County guidance explains that an ADU may be **detached**, **attached**, or located within existing structures, and it must provide **independent living facilities**, including permanent provisions for cooking, sleeping, and sanitation. Planning materials emphasize that ADUs can be built on properties with a house or an apartment building and may be used as rental housing or as accommodation for family or caregivers on the same lot. The County also recognizes **Junior Accessory Dwelling Units (JADUs)**, which are similar in concept but more limited in size and configuration. According to Los Angeles County Planning, a JADU has a **maximum size of 500 square feet**, must be **wholly contained within the main home**, and must have its **own exterior access**. JADUs may share some infrastructure, and in practice often have more constrained kitchen configurations compared to full ADUs, consistent with statewide JADU standards in California’s Government Code. State-level guidance, summarized in industry explainers on California ADU law, notes that most full ADUs are allowed in the **800–1,200 square foot** range and must include an independent entry and complete kitchen and bath facilities to qualify. County materials also highlight that professional architects have developed pre-approved plans for different ADU types and sizes, reinforcing that the County treats ADUs as full, code-compliant dwelling units rather than informal additions. This regulatory framing affects building code compliance, permitting, utility connections, and eligibility for rental use.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Building Code and Safety Compliance for ADUs",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "ADUs in Los Angeles County are treated as **full dwelling units** and must comply with applicable building, electrical, plumbing, and mechanical codes. County guidance defines ADUs as units with a full kitchen and bathroom, reflecting that they must meet standards similar to primary residences under the California Residential Code or California Building Code, as adopted by local ordinance. This includes requirements for **structural safety**, **fire and life safety**, **egress**, **smoke and carbon monoxide alarms**, and **energy efficiency** under the California Energy Code. For **conversion ADUs**, such as garage conversions, county and statewide guidance emphasize that the existing structure must be upgraded to meet current residential standards. That can involve reinforcing or replacing foundations, upgrading framing to meet seismic requirements, installing proper insulation, improving ventilation, and addressing moisture control. Fire separation and rated assemblies may be required between the ADU and adjacent spaces, particularly when an attached ADU shares a wall with the primary dwelling or when the ADU is located over a garage. Los Angeles County’s participation in the **pre-approved ADU plan** program demonstrates how the County uses standard designs that already meet many code requirements, but site-specific checks remain necessary. Building and safety departments review each project for compliance with local amendments, such as hillside regulations or high fire-severity zone requirements, and conduct inspections at key construction stages. Industry sources stress that because ADUs must be legally habitable units, informal or unpermitted structures typically need substantial work to meet code when being converted into lawful ADUs, especially in older Los Angeles housing stock.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Building Code and Safety Compliance for ADUs",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "ADUs in Los Angeles County are treated as **full dwelling units** and must comply with applicable building, electrical, plumbing, and mechanical codes. County guidance defines ADUs as units with a full kitchen and bathroom, reflecting that they must meet standards similar to primary residences under the California Residential Code or California Building Code, as adopted by local ordinance. This includes requirements for **structural safety**, **fire and life safety**, **egress**, **smoke and carbon monoxide alarms**, and **energy efficiency** under the California Energy Code. For **conversion ADUs**, such as garage conversions, county and statewide guidance emphasize that the existing structure must be upgraded to meet current residential standards. That can involve reinforcing or replacing foundations, upgrading framing to meet seismic requirements, installing proper insulation, improving ventilation, and addressing moisture control. Fire separation and rated assemblies may be required between the ADU and adjacent spaces, particularly when an attached ADU shares a wall with the primary dwelling or when the ADU is located over a garage. Los Angeles County’s participation in the **pre-approved ADU plan** program demonstrates how the County uses standard designs that already meet many code requirements, but site-specific checks remain necessary. Building and safety departments review each project for compliance with local amendments, such as hillside regulations or high fire-severity zone requirements, and conduct inspections at key construction stages. Industry sources stress that because ADUs must be legally habitable units, informal or unpermitted structures typically need substantial work to meet code when being converted into lawful ADUs, especially in older Los Angeles housing stock.",
+  "datePublished": "2026-08-27"
 }

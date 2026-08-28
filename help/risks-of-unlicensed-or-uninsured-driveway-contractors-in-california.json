@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Risks of Unlicensed or Uninsured Driveway Contractors in California",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Using unlicensed or uninsured driveway contractors in California can expose property owners to financial, legal, and quality risks. The California Contractors State License Board (CSLB) explains that anyone performing construction work of $500 or more in labor and materials must be licensed, and that unlicensed activity is subject to fines and potential criminal charges. If an unlicensed worker is injured on the job, the homeowner may be treated as the employer and held liable for medical costs and lost wages under California law. CSLB consumer guides also warn that unlicensed contractors cannot obtain building permits in many jurisdictions, leading to unpermitted driveway work that may not meet code or municipal standards. This can create problems during resale, refinancing, or when resolving drainage or encroachment issues. Without proper insurance, property damage caused by construction—such as damage to utilities, structures, or neighboring properties—may fall back on the owner’s homeowners policy or personal funds, with uncertain coverage. To protect themselves, the CSLB and Federal Trade Commission recommend verifying the contractor’s license status and classification, checking for workers’ compensation coverage if the contractor has employees, and requesting proof of general liability insurance with appropriate limits. Written contracts should be used for all projects, detailing scope, materials, schedule, and payment terms, and change orders should be documented in writing. Contract law guidance in California stresses that paying in cash without receipts, making large upfront payments beyond CSLB’s legal limits, or allowing work without permits increases the owner’s risk. Keeping records of permits, inspection approvals, and warranties helps demonstrate that the driveway was built to standard and can be valuable if disputes arise or if future repairs are needed.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Risks of Unlicensed or Uninsured Driveway Contractors in California",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Using unlicensed or uninsured driveway contractors in California can expose property owners to financial, legal, and quality risks. The California Contractors State License Board (CSLB) explains that anyone performing construction work of $500 or more in labor and materials must be licensed, and that unlicensed activity is subject to fines and potential criminal charges. If an unlicensed worker is injured on the job, the homeowner may be treated as the employer and held liable for medical costs and lost wages under California law. CSLB consumer guides also warn that unlicensed contractors cannot obtain building permits in many jurisdictions, leading to unpermitted driveway work that may not meet code or municipal standards. This can create problems during resale, refinancing, or when resolving drainage or encroachment issues. Without proper insurance, property damage caused by construction—such as damage to utilities, structures, or neighboring properties—may fall back on the owner’s homeowners policy or personal funds, with uncertain coverage. To protect themselves, the CSLB and Federal Trade Commission recommend verifying the contractor’s license status and classification, checking for workers’ compensation coverage if the contractor has employees, and requesting proof of general liability insurance with appropriate limits. Written contracts should be used for all projects, detailing scope, materials, schedule, and payment terms, and change orders should be documented in writing. Contract law guidance in California stresses that paying in cash without receipts, making large upfront payments beyond CSLB’s legal limits, or allowing work without permits increases the owner’s risk. Keeping records of permits, inspection approvals, and warranties helps demonstrate that the driveway was built to standard and can be valuable if disputes arise or if future repairs are needed.",
+  "datePublished": "2026-08-27"
 }

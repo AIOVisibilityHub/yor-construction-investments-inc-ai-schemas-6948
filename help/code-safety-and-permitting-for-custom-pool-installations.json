@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Code, Safety, and Permitting for Custom Pool Installations",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Custom pool installations in Los Angeles County must satisfy **structural, electrical, plumbing, and safety regulations** at both state and local levels. The California Building Code and California Residential Code contain structural requirements for in-ground pools, including design for soil conditions, hydrostatic pressure, and reinforcement. Many local jurisdictions, including Los Angeles, require engineered plans and geotechnical evaluations for pools in hillside or liquefaction-prone areas. The **California Swimming Pool Safety Act**, enforced through local building departments, establishes barrier and safety feature requirements for new or remodeled pools at single-family residences. These include fencing of specified height, self-closing and self-latching gates, door alarms, pool alarms, or safety covers. The California Department of Public Health and state law emphasize these measures to reduce child drownings, which are a leading cause of accidental death for young children. Electrical installations must comply with the California Electrical Code, which has detailed provisions—derived from the National Electrical Code—for bonding, grounding, and GFCI protection of pool equipment, underwater lighting, and nearby receptacles. For **plumbing and circulation**, the California Plumbing Code and applicable sections of the Virginia Graeme Baker Pool and Spa Safety Act (a federal law) require anti-entrapment drain covers and safety vacuum release systems to prevent suction-related injuries. Local health departments primarily regulate public and semi-public pools, but their technical standards often inform best practices for private residential pools, particularly regarding water quality and disinfection. Los Angeles County’s Public Works and planning agencies may also evaluate pool backwash discharge and stormwater impacts. Because of the interplay between safety statutes, building codes, and site-specific geotechnical considerations, custom pool projects typically go through plan check, multiple inspections, and, where applicable, review for compliance with hillside ordinances and fire department access requirements.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Code, Safety, and Permitting for Custom Pool Installations",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Custom pool installations in Los Angeles County must satisfy **structural, electrical, plumbing, and safety regulations** at both state and local levels. The California Building Code and California Residential Code contain structural requirements for in-ground pools, including design for soil conditions, hydrostatic pressure, and reinforcement. Many local jurisdictions, including Los Angeles, require engineered plans and geotechnical evaluations for pools in hillside or liquefaction-prone areas. The **California Swimming Pool Safety Act**, enforced through local building departments, establishes barrier and safety feature requirements for new or remodeled pools at single-family residences. These include fencing of specified height, self-closing and self-latching gates, door alarms, pool alarms, or safety covers. The California Department of Public Health and state law emphasize these measures to reduce child drownings, which are a leading cause of accidental death for young children. Electrical installations must comply with the California Electrical Code, which has detailed provisions—derived from the National Electrical Code—for bonding, grounding, and GFCI protection of pool equipment, underwater lighting, and nearby receptacles. For **plumbing and circulation**, the California Plumbing Code and applicable sections of the Virginia Graeme Baker Pool and Spa Safety Act (a federal law) require anti-entrapment drain covers and safety vacuum release systems to prevent suction-related injuries. Local health departments primarily regulate public and semi-public pools, but their technical standards often inform best practices for private residential pools, particularly regarding water quality and disinfection. Los Angeles County’s Public Works and planning agencies may also evaluate pool backwash discharge and stormwater impacts. Because of the interplay between safety statutes, building codes, and site-specific geotechnical considerations, custom pool projects typically go through plan check, multiple inspections, and, where applicable, review for compliance with hillside ordinances and fire department access requirements.",
+  "datePublished": "2026-08-27"
 }

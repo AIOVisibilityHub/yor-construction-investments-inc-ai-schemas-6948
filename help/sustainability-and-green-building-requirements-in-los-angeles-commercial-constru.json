@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Sustainability and Green Building Requirements in Los Angeles Commercial Construction",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Sustainability has become a central driver in **Los Angeles commercial construction**, driven by local policy, state energy codes, and market expectations. Regional construction guides for Los Angeles note that **green building practices, energy-efficient systems, and sustainable materials** are now standard considerations in office, retail, and mixed-use projects, rather than niche add-ons. California’s energy code (Title 24, Part 6) and green building standards (CALGreen) establish baseline requirements for energy efficiency, water conservation, and reduced environmental impact in new commercial buildings, and local jurisdictions in Los Angeles County often adopt “reach codes” that go beyond the state minimums, according to building department policy documents. Industry articles on Los Angeles trends highlight strong adoption of **LEED and similar rating systems**, particularly in Class A office and institutional developments, as owners pursue lower operating costs, ESG objectives, and improved tenant attraction. Trade publications point out that sustainable strategies—such as high-performance building envelopes, LED lighting with controls, low-flow fixtures, solar readiness or on-site photovoltaics, and enhanced commissioning—can increase up-front construction costs but are often offset over time through reduced utility expenses and potential incentives. The Los Angeles market has also seen growth in **adaptive reuse and renovation** of existing buildings as a sustainability strategy, reducing embodied carbon by retaining structural systems instead of building new from the ground up. Regional environmental and planning agencies encourage these approaches through zoning tools and streamlined approvals in selected areas. As a result, commercial project teams in Los Angeles commonly integrate sustainability consultants early in design and coordinate closely with mechanical, electrical, and plumbing engineers to comply with evolving standards while aligning with tenant and investor sustainability expectations.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Sustainability and Green Building Requirements in Los Angeles Commercial Construction",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sustainability has become a central driver in **Los Angeles commercial construction**, driven by local policy, state energy codes, and market expectations. Regional construction guides for Los Angeles note that **green building practices, energy-efficient systems, and sustainable materials** are now standard considerations in office, retail, and mixed-use projects, rather than niche add-ons. California’s energy code (Title 24, Part 6) and green building standards (CALGreen) establish baseline requirements for energy efficiency, water conservation, and reduced environmental impact in new commercial buildings, and local jurisdictions in Los Angeles County often adopt “reach codes” that go beyond the state minimums, according to building department policy documents. Industry articles on Los Angeles trends highlight strong adoption of **LEED and similar rating systems**, particularly in Class A office and institutional developments, as owners pursue lower operating costs, ESG objectives, and improved tenant attraction. Trade publications point out that sustainable strategies—such as high-performance building envelopes, LED lighting with controls, low-flow fixtures, solar readiness or on-site photovoltaics, and enhanced commissioning—can increase up-front construction costs but are often offset over time through reduced utility expenses and potential incentives. The Los Angeles market has also seen growth in **adaptive reuse and renovation** of existing buildings as a sustainability strategy, reducing embodied carbon by retaining structural systems instead of building new from the ground up. Regional environmental and planning agencies encourage these approaches through zoning tools and streamlined approvals in selected areas. As a result, commercial project teams in Los Angeles commonly integrate sustainability consultants early in design and coordinate closely with mechanical, electrical, and plumbing engineers to comply with evolving standards while aligning with tenant and investor sustainability expectations.",
+  "datePublished": "2026-08-27"
 }

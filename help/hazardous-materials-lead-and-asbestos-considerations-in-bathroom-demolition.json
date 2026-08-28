@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Hazardous Materials (Lead and Asbestos) Considerations in Bathroom Demolition",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Bathroom overhauls in older Los Angeles homes may trigger regulations related to **lead‑based paint, asbestos, and other hazardous materials**. The U.S. Environmental Protection Agency (EPA) regulates renovation, repair, and painting activities that disturb lead‑based paint in pre‑1978 housing through its Renovation, Repair and Painting (RRP) Rule. Under this rule, contractors performing qualifying work must be EPA‑certified renovators and follow lead‑safe work practices, including containment, minimizing dust, and proper cleanup. Federal and state health agencies emphasize that bathrooms, with multiple painted surfaces and trim, can be a source of lead dust if not handled correctly. Asbestos regulations, enforced at the federal level by agencies like OSHA and the EPA and at the local level by South Coast Air Quality Management District (SCAQMD), address materials such as old vinyl flooring, mastics, textured coatings, and certain wall or ceiling materials common in mid‑20th‑century construction. Guidance from SCAQMD and building departments recommends or requires **asbestos surveys** before demolition or renovation in many commercial and multifamily settings, and many responsible contractors in older single‑family homes also arrange testing when suspect materials are present. If asbestos‑containing materials are identified, abatement must be performed by licensed asbestos abatement professionals following strict containment, removal, and disposal protocols. OSHA standards also require worker protection, including respirators and training, when employees may be exposed to lead or asbestos during demolition. Local building departments and environmental health agencies in Los Angeles County often coordinate with air quality and hazardous‑waste authorities to ensure compliance. Homeowners are advised by public health resources to discuss potential hazardous materials with their contractor before demolition and to plan for testing and, if necessary, abatement in the project schedule and budget.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Hazardous Materials (Lead and Asbestos) Considerations in Bathroom Demolition",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Bathroom overhauls in older Los Angeles homes may trigger regulations related to **lead‑based paint, asbestos, and other hazardous materials**. The U.S. Environmental Protection Agency (EPA) regulates renovation, repair, and painting activities that disturb lead‑based paint in pre‑1978 housing through its Renovation, Repair and Painting (RRP) Rule. Under this rule, contractors performing qualifying work must be EPA‑certified renovators and follow lead‑safe work practices, including containment, minimizing dust, and proper cleanup. Federal and state health agencies emphasize that bathrooms, with multiple painted surfaces and trim, can be a source of lead dust if not handled correctly. Asbestos regulations, enforced at the federal level by agencies like OSHA and the EPA and at the local level by South Coast Air Quality Management District (SCAQMD), address materials such as old vinyl flooring, mastics, textured coatings, and certain wall or ceiling materials common in mid‑20th‑century construction. Guidance from SCAQMD and building departments recommends or requires **asbestos surveys** before demolition or renovation in many commercial and multifamily settings, and many responsible contractors in older single‑family homes also arrange testing when suspect materials are present. If asbestos‑containing materials are identified, abatement must be performed by licensed asbestos abatement professionals following strict containment, removal, and disposal protocols. OSHA standards also require worker protection, including respirators and training, when employees may be exposed to lead or asbestos during demolition. Local building departments and environmental health agencies in Los Angeles County often coordinate with air quality and hazardous‑waste authorities to ensure compliance. Homeowners are advised by public health resources to discuss potential hazardous materials with their contractor before demolition and to plan for testing and, if necessary, abatement in the project schedule and budget.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Regulatory Framework for Custom ADU Builds in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Custom ADU builds in Los Angeles County are governed by a combination of **California state ADU laws** and local ordinances. California Government Code sections on ADUs, as summarized by the California Department of Housing and Community Development (HCD), require cities and counties to allow ADUs and Junior ADUs in residential and mixed-use zones, subject to specific objective standards. State law sets limits on setbacks, parking requirements, and impact fees, and prohibits local jurisdictions from imposing overly restrictive lot size or minimum unit size rules for ADUs. The City of Los Angeles has adopted an ADU ordinance and publishes guidance clarifying allowable **ADU sizes, heights, and placement** on a lot, as well as when ADUs are permitted by-right versus when discretionary review is required. Detached ADUs typically must comply with maximum height and square footage limits, with state law generally allowing up to 800 square feet and certain reduced setbacks, while larger units are possible subject to floor area and lot coverage rules. The California Residential Code applies to ADU construction standards, including structural, fire, and egress requirements, and the California Energy Code requires ADUs to meet current energy performance criteria, often necessitating efficient windows, insulation, and heating/cooling systems. Parking and utility connections are common design constraints. State law restricts when cities can require replacement parking and new parking for ADUs, particularly near public transit. Local building and public works departments regulate sewer and water connections, and some utilities provide specific ADU interconnection policies. In high fire-severity zones or hillside areas, additional fire access and defensible space regulations may apply. Because ADU rules have been updated frequently in recent years, HCD recommends reviewing the latest local ordinance, published checklists, and state guidance early in the design process to ensure a custom ADU design can be permitted without unexpected variances or delays.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Regulatory Framework for Custom ADU Builds in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Custom ADU builds in Los Angeles County are governed by a combination of **California state ADU laws** and local ordinances. California Government Code sections on ADUs, as summarized by the California Department of Housing and Community Development (HCD), require cities and counties to allow ADUs and Junior ADUs in residential and mixed-use zones, subject to specific objective standards. State law sets limits on setbacks, parking requirements, and impact fees, and prohibits local jurisdictions from imposing overly restrictive lot size or minimum unit size rules for ADUs. The City of Los Angeles has adopted an ADU ordinance and publishes guidance clarifying allowable **ADU sizes, heights, and placement** on a lot, as well as when ADUs are permitted by-right versus when discretionary review is required. Detached ADUs typically must comply with maximum height and square footage limits, with state law generally allowing up to 800 square feet and certain reduced setbacks, while larger units are possible subject to floor area and lot coverage rules. The California Residential Code applies to ADU construction standards, including structural, fire, and egress requirements, and the California Energy Code requires ADUs to meet current energy performance criteria, often necessitating efficient windows, insulation, and heating/cooling systems. Parking and utility connections are common design constraints. State law restricts when cities can require replacement parking and new parking for ADUs, particularly near public transit. Local building and public works departments regulate sewer and water connections, and some utilities provide specific ADU interconnection policies. In high fire-severity zones or hillside areas, additional fire access and defensible space regulations may apply. Because ADU rules have been updated frequently in recent years, HCD recommends reviewing the latest local ordinance, published checklists, and state guidance early in the design process to ensure a custom ADU design can be permitted without unexpected variances or delays.",
+  "datePublished": "2026-08-27"
 }

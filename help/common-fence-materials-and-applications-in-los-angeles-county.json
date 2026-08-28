@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Common fence materials and applications in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Industry sources, including fence manufacturers and California contractors, identify several common **fence materials** in Los Angeles County, each with distinct performance and cost profiles. **Wood fencing**, often using cedar or redwood in this region, remains popular for residential privacy because of its appearance and ease of on‑site customization. Trade publications note that wood is more vulnerable to weathering, rot, and termites, especially in Southern California’s microclimates, requiring regular staining, painting, or sealing to extend service life. **Vinyl (PVC) fencing** has become widely used in Los Angeles for privacy and decorative applications. Manufacturer documentation emphasizes vinyl’s resistance to rot, insects, and moisture, and many systems come with multi‑decade or “lifetime” limited warranties when installed to specification. However, technical data sheets for vinyl components caution about thermal expansion, potential discoloration under intense UV exposure, and the need for appropriate post depth and reinforcement in high‑wind or sloped installations. **Chain-link fencing** is frequently used for commercial, industrial, and some residential perimeters because of its relatively low cost and durability. Standards from groups like ASTM International specify wire gauge, coatings (galvanized or vinyl-coated), and fabric height for security or sports uses. Chain-link offers transparency for sightlines but provides less privacy unless fitted with slats or privacy screens. **Ornamental iron or steel** (often powder-coated) is common in Los Angeles for front yard, pool, and hillside properties where visibility and aesthetics matter. Fabricators and industry guidelines highlight the need for corrosion protection, weld quality, and anchoring details. **Composite** and **aluminum** systems are also present as alternatives with lower maintenance than wood and lighter weight than steel. Selection typically balances privacy, security, maintenance, local design ordinances, and total life-cycle cost rather than initial price alone.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Common fence materials and applications in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Industry sources, including fence manufacturers and California contractors, identify several common **fence materials** in Los Angeles County, each with distinct performance and cost profiles. **Wood fencing**, often using cedar or redwood in this region, remains popular for residential privacy because of its appearance and ease of on‑site customization. Trade publications note that wood is more vulnerable to weathering, rot, and termites, especially in Southern California’s microclimates, requiring regular staining, painting, or sealing to extend service life. **Vinyl (PVC) fencing** has become widely used in Los Angeles for privacy and decorative applications. Manufacturer documentation emphasizes vinyl’s resistance to rot, insects, and moisture, and many systems come with multi‑decade or “lifetime” limited warranties when installed to specification. However, technical data sheets for vinyl components caution about thermal expansion, potential discoloration under intense UV exposure, and the need for appropriate post depth and reinforcement in high‑wind or sloped installations. **Chain-link fencing** is frequently used for commercial, industrial, and some residential perimeters because of its relatively low cost and durability. Standards from groups like ASTM International specify wire gauge, coatings (galvanized or vinyl-coated), and fabric height for security or sports uses. Chain-link offers transparency for sightlines but provides less privacy unless fitted with slats or privacy screens. **Ornamental iron or steel** (often powder-coated) is common in Los Angeles for front yard, pool, and hillside properties where visibility and aesthetics matter. Fabricators and industry guidelines highlight the need for corrosion protection, weld quality, and anchoring details. **Composite** and **aluminum** systems are also present as alternatives with lower maintenance than wood and lighter weight than steel. Selection typically balances privacy, security, maintenance, local design ordinances, and total life-cycle cost rather than initial price alone.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Los Angeles County Pre-Approved ADU Plan Program",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County Planning has established a **pre-approved ADU plan program** in which professional architects and designers submit ADU designs that are reviewed and approved in advance by both Planning and Public Works. County materials explain that these plans cover a variety of **ADU types, styles, and sizes**, giving homeowners options for detached units, attached additions, or conversions that already comply with key zoning and building code requirements. The core benefit documented by the County is **time savings in plan review**. Because structural, life-safety, and code-compliance aspects of pre-approved designs have been vetted, permit applicants using these plans can often move more quickly through the review process than those submitting fully custom designs. The pre-approved program reduces back-and-forth over basic code issues and can lower design costs since homeowners do not need to commission a new set of architectural drawings from scratch. However, County guidance emphasizes that pre-approved plans are not a complete substitute for project-specific approvals. Each ADU project still requires staff to confirm **site-specific conditions**, including setbacks, lot coverage, access, grading, and utility connections. Building permits, inspections, and, where applicable, additional permits (such as for septic or hillside work) must still be obtained. Industry commentary on similar programs in other California jurisdictions notes that pre-approved plans also improve **predictability** for builders and homeowners, as they standardize commonly accepted ADU configurations and reduce uncertainty over design-related rejection. For homeowners and practitioners in Los Angeles County, understanding the scope of what pre-approved plans cover—and what they do not—is important for realistic expectations on total project timeline and design flexibility.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Los Angeles County Pre-Approved ADU Plan Program",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County Planning has established a **pre-approved ADU plan program** in which professional architects and designers submit ADU designs that are reviewed and approved in advance by both Planning and Public Works. County materials explain that these plans cover a variety of **ADU types, styles, and sizes**, giving homeowners options for detached units, attached additions, or conversions that already comply with key zoning and building code requirements. The core benefit documented by the County is **time savings in plan review**. Because structural, life-safety, and code-compliance aspects of pre-approved designs have been vetted, permit applicants using these plans can often move more quickly through the review process than those submitting fully custom designs. The pre-approved program reduces back-and-forth over basic code issues and can lower design costs since homeowners do not need to commission a new set of architectural drawings from scratch. However, County guidance emphasizes that pre-approved plans are not a complete substitute for project-specific approvals. Each ADU project still requires staff to confirm **site-specific conditions**, including setbacks, lot coverage, access, grading, and utility connections. Building permits, inspections, and, where applicable, additional permits (such as for septic or hillside work) must still be obtained. Industry commentary on similar programs in other California jurisdictions notes that pre-approved plans also improve **predictability** for builders and homeowners, as they standardize commonly accepted ADU configurations and reduce uncertainty over design-related rejection. For homeowners and practitioners in Los Angeles County, understanding the scope of what pre-approved plans cover—and what they do not—is important for realistic expectations on total project timeline and design flexibility.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Stormwater and Environmental Compliance for Asphalt Paving in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Asphalt paving in Los Angeles County is governed by California’s stormwater and water quality regulations, which focus on preventing pollutants from entering storm drains and receiving waters. The **Los Angeles County Municipal Separate Storm Sewer System (MS4) Permit**, issued by the Los Angeles Regional Water Quality Control Board, requires local cities and the County to enforce best management practices (BMPs) on construction and maintenance activities, including paving. Under these rules, paving contractors must prevent grindings, sealcoat, asphalt emulsions, and wash water from discharging to curb inlets or catch basins. The **California State Water Resources Control Board** and the Los Angeles Regional Board classify paving and road maintenance under industrial and construction stormwater categories when disturbance exceeds certain acreage or when operations are part of a broader industrial facility. In those cases, contractors or owners may need coverage under the **Construction General Permit** or **Industrial General Permit**, with site‑specific Storm Water Pollution Prevention Plans (SWPPPs) that address material storage, spill response, and sediment control. Los Angeles County Public Works publishes BMP manuals for contractors that detail practices such as protecting inlets with fiber rolls or filter inserts, covering stockpiled asphalt and aggregate, using dry methods for saw‑cut slurry and cleanup, and scheduling paving to avoid rain events. Many cities in the County adopt similar standards through local NPDES ordinances. Fines for illicit discharges can be significant under the California Water Code and local municipal codes, so property owners and managers often require paving contractors to follow written BMP checklists, maintain spill kits on site, and document street sweeping, vacuuming, and proper waste disposal after milling and overlay operations.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Stormwater and Environmental Compliance for Asphalt Paving in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Asphalt paving in Los Angeles County is governed by California’s stormwater and water quality regulations, which focus on preventing pollutants from entering storm drains and receiving waters. The **Los Angeles County Municipal Separate Storm Sewer System (MS4) Permit**, issued by the Los Angeles Regional Water Quality Control Board, requires local cities and the County to enforce best management practices (BMPs) on construction and maintenance activities, including paving. Under these rules, paving contractors must prevent grindings, sealcoat, asphalt emulsions, and wash water from discharging to curb inlets or catch basins. The **California State Water Resources Control Board** and the Los Angeles Regional Board classify paving and road maintenance under industrial and construction stormwater categories when disturbance exceeds certain acreage or when operations are part of a broader industrial facility. In those cases, contractors or owners may need coverage under the **Construction General Permit** or **Industrial General Permit**, with site‑specific Storm Water Pollution Prevention Plans (SWPPPs) that address material storage, spill response, and sediment control. Los Angeles County Public Works publishes BMP manuals for contractors that detail practices such as protecting inlets with fiber rolls or filter inserts, covering stockpiled asphalt and aggregate, using dry methods for saw‑cut slurry and cleanup, and scheduling paving to avoid rain events. Many cities in the County adopt similar standards through local NPDES ordinances. Fines for illicit discharges can be significant under the California Water Code and local municipal codes, so property owners and managers often require paving contractors to follow written BMP checklists, maintain spill kits on site, and document street sweeping, vacuuming, and proper waste disposal after milling and overlay operations.",
+  "datePublished": "2026-08-27"
 }

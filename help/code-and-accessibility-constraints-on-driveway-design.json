@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Code and Accessibility Constraints on Driveway Design",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Driveway design in Los Angeles County must align with state and local building, zoning, and accessibility requirements. The California Residential Code and California Building Code establish general standards for site grading and surface drainage, requiring that lots be graded so water flows away from structures and does not adversely affect adjacent properties. Local jurisdictions, including the City of Los Angeles, implement these through specific driveway and ramp standards in municipal codes and standard plans. Many Los Angeles area cities set maximum driveway slopes and regulate transitions at sidewalks and garage entries to ensure vehicle clearance and pedestrian safety. City public works departments commonly cap the driveway grade to avoid excessive steepness that can cause vehicles to bottom out and impair sight distances at the street. Standard drawings issued by the City of Los Angeles Bureau of Engineering detail cross slopes, apron configurations, and curb return radii for driveways connecting to public streets. While private residential driveways themselves are generally not required to be “accessible routes” under the Americans with Disabilities Act (ADA), interfaces with public sidewalks must maintain accessible cross slopes and smooth transitions. The U.S. Access Board’s public right-of-way accessibility guidelines and ADA Standards for Accessible Design influence how local agencies shape curb ramp and driveway crossing policies to protect pedestrian accessibility on sidewalks. For multi-family and mixed-use projects, parking facility design standards under the California Building Code, including accessible parking space slopes and routes from parking to building entrances, can affect driveway layouts, slopes, and grades within the site. Developers often coordinate driveway geometry with their civil engineer to satisfy both vehicular circulation needs and accessible route requirements reviewed during plan check by local building and public works departments.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Code and Accessibility Constraints on Driveway Design",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Driveway design in Los Angeles County must align with state and local building, zoning, and accessibility requirements. The California Residential Code and California Building Code establish general standards for site grading and surface drainage, requiring that lots be graded so water flows away from structures and does not adversely affect adjacent properties. Local jurisdictions, including the City of Los Angeles, implement these through specific driveway and ramp standards in municipal codes and standard plans. Many Los Angeles area cities set maximum driveway slopes and regulate transitions at sidewalks and garage entries to ensure vehicle clearance and pedestrian safety. City public works departments commonly cap the driveway grade to avoid excessive steepness that can cause vehicles to bottom out and impair sight distances at the street. Standard drawings issued by the City of Los Angeles Bureau of Engineering detail cross slopes, apron configurations, and curb return radii for driveways connecting to public streets. While private residential driveways themselves are generally not required to be “accessible routes” under the Americans with Disabilities Act (ADA), interfaces with public sidewalks must maintain accessible cross slopes and smooth transitions. The U.S. Access Board’s public right-of-way accessibility guidelines and ADA Standards for Accessible Design influence how local agencies shape curb ramp and driveway crossing policies to protect pedestrian accessibility on sidewalks. For multi-family and mixed-use projects, parking facility design standards under the California Building Code, including accessible parking space slopes and routes from parking to building entrances, can affect driveway layouts, slopes, and grades within the site. Developers often coordinate driveway geometry with their civil engineer to satisfy both vehicular circulation needs and accessible route requirements reviewed during plan check by local building and public works departments.",
+  "datePublished": "2026-08-27"
 }

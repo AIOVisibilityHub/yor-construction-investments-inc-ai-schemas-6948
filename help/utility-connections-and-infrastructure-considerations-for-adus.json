@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Utility Connections and Infrastructure Considerations for ADUs",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "California ADU guidance generally describes ADUs as **secondary housing units that share the same water, sewer, and electric connections as the main home**, particularly for smaller projects. Industry explainers specific to the California context state that many ADUs are tied into the existing utility laterals on the property, with separate sub-panels or submeters as needed, rather than requiring entirely new service laterals from the street. This approach can reduce upfront infrastructure costs but must comply with local utility design and capacity requirements. Los Angeles County Planning’s definition of ADUs as units with full kitchens and bathrooms implies that they must have adequate supply and waste capacity. County and local public works departments review ADU permit applications to confirm that **sewer and water systems** can handle additional load, and in some cases may require upsizing of lines or payment of connection or capacity fees. For properties on septic systems or in hillside areas, additional engineering review and permits may be needed. Electric service to ADUs typically involves extending circuits from the main panel or adding a subpanel dedicated to the ADU. Utility providers in the region allow metering configurations ranging from shared meters to separate meters for the ADU, depending on homeowner preference and utility policies. ADU cost guides for Southern California highlight **utility upgrades** as a significant cost driver, especially on older homes with undersized electrical panels or aging plumbing systems that require modernization to safely serve an additional dwelling unit. Planning and building departments coordinate with utilities during the permit and inspection process to ensure that final installations meet **safety standards, capacity requirements, and access regulations** for maintenance and shutoff.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Utility Connections and Infrastructure Considerations for ADUs",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "California ADU guidance generally describes ADUs as **secondary housing units that share the same water, sewer, and electric connections as the main home**, particularly for smaller projects. Industry explainers specific to the California context state that many ADUs are tied into the existing utility laterals on the property, with separate sub-panels or submeters as needed, rather than requiring entirely new service laterals from the street. This approach can reduce upfront infrastructure costs but must comply with local utility design and capacity requirements. Los Angeles County Planning’s definition of ADUs as units with full kitchens and bathrooms implies that they must have adequate supply and waste capacity. County and local public works departments review ADU permit applications to confirm that **sewer and water systems** can handle additional load, and in some cases may require upsizing of lines or payment of connection or capacity fees. For properties on septic systems or in hillside areas, additional engineering review and permits may be needed. Electric service to ADUs typically involves extending circuits from the main panel or adding a subpanel dedicated to the ADU. Utility providers in the region allow metering configurations ranging from shared meters to separate meters for the ADU, depending on homeowner preference and utility policies. ADU cost guides for Southern California highlight **utility upgrades** as a significant cost driver, especially on older homes with undersized electrical panels or aging plumbing systems that require modernization to safely serve an additional dwelling unit. Planning and building departments coordinate with utilities during the permit and inspection process to ensure that final installations meet **safety standards, capacity requirements, and access regulations** for maintenance and shutoff.",
+  "datePublished": "2026-08-27"
 }

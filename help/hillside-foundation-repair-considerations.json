@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Hillside Foundation Repair Considerations",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Foundation Repair Challenges on Hillside Lots Hillside properties in Los Angeles County face distinct foundation challenges due to **steep slopes, variable fill, and potential landslide or debris flow hazards**. State seismic hazard and landslide maps, along with local hillside ordinances, identify many hillside neighborhoods as areas where slope stability and geotechnical conditions require special attention. Building department policies often mandate **geotechnical investigations** for new construction and significant foundation repairs on such sites. Geotechnical and structural engineering references describe common hillside foundation systems, including **caissons (drilled shafts), grade beams, retaining walls, and tiebacks**, which anchor structures into competent underlying materials and help resist downslope movement. When distress occurs—manifesting as rotated or cracked retaining walls, stepped cracks in foundations, or downhill creep of structures—engineers typically evaluate both the **global stability of the slope** and the capacity of existing foundation elements. Local regulations frequently impose **stricter setback, drainage, and retaining wall requirements** in hillside zones. Poorly controlled surface water, leaking utilities, or uncontrolled runoff from upslope properties can significantly degrade slope stability, so repair strategies often include improved drainage, subdrains behind retaining walls, and careful control of irrigation. Access constraints, need for shoring, and coordination with adjacent properties can make hillside foundation repairs more complex and costly than similar work on level lots. Construction safety standards emphasize measures to prevent excavation collapse and protect workers and neighboring structures on steep terrain. Because of these complexities, professional bodies and local regulations strongly recommend that hillside foundation repairs be **engineered and permitted**, with construction carried out by contractors experienced in hillside work under geotechnical and structural oversight. Ending with this sentence for completeness.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Hillside Foundation Repair Considerations",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Foundation Repair Challenges on Hillside Lots Hillside properties in Los Angeles County face distinct foundation challenges due to **steep slopes, variable fill, and potential landslide or debris flow hazards**. State seismic hazard and landslide maps, along with local hillside ordinances, identify many hillside neighborhoods as areas where slope stability and geotechnical conditions require special attention. Building department policies often mandate **geotechnical investigations** for new construction and significant foundation repairs on such sites. Geotechnical and structural engineering references describe common hillside foundation systems, including **caissons (drilled shafts), grade beams, retaining walls, and tiebacks**, which anchor structures into competent underlying materials and help resist downslope movement. When distress occurs—manifesting as rotated or cracked retaining walls, stepped cracks in foundations, or downhill creep of structures—engineers typically evaluate both the **global stability of the slope** and the capacity of existing foundation elements. Local regulations frequently impose **stricter setback, drainage, and retaining wall requirements** in hillside zones. Poorly controlled surface water, leaking utilities, or uncontrolled runoff from upslope properties can significantly degrade slope stability, so repair strategies often include improved drainage, subdrains behind retaining walls, and careful control of irrigation. Access constraints, need for shoring, and coordination with adjacent properties can make hillside foundation repairs more complex and costly than similar work on level lots. Construction safety standards emphasize measures to prevent excavation collapse and protect workers and neighboring structures on steep terrain. Because of these complexities, professional bodies and local regulations strongly recommend that hillside foundation repairs be **engineered and permitted**, with construction carried out by contractors experienced in hillside work under geotechnical and structural oversight. Ending with this sentence for completeness.",
+  "datePublished": "2026-08-27"
 }

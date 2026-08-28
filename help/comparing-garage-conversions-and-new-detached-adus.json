@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Comparing Garage Conversions and New Detached ADUs",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "### Garage Conversion vs. New Detached ADU: Design Implications Garage conversions are a major subset of ADUs in Los Angeles County, and they present distinct design and code challenges compared with ground-up detached units. Industry case studies from Los Angeles ADU builders note that converting an existing garage can appear less expensive because the basic shell and slab already exist. However, the California Residential Code and energy standards require that converted spaces meet current habitable-space requirements, which often means upgrading foundations, insulating walls and roofs, replacing garage doors with code-compliant walls and windows, and addressing moisture, ventilation, and seismic concerns. In many older garages, structural engineers recommend reinforcing or partially rebuilding walls and foundations to meet modern seismic and load standards. Energy code compliance can necessitate new framing for insulation depth, high-performance windows, and upgraded heating and cooling systems. These upgrades can narrow the cost difference versus new construction, particularly if the existing structure is in poor condition. New detached ADUs, by contrast, allow full flexibility in layout, orientation, and foundation design, but involve more extensive site work, utility trenching, and potentially higher fees for new structures. Zoning and setback rules may differ slightly between conversions and new detached units; state ADU law directs local agencies to allow certain garage conversions with reduced parking requirements, and some jurisdictions treat conversions more favorably where off-street parking is impacted. Design-wise, garage conversions must work within existing footprint and height constraints, while ground-up ADUs can optimize window placement, privacy, and interior flow from scratch. An ADU design contractor should evaluate the existing garage’s condition, local zoning allowances, and permit history before recommending conversion versus replacement, using cost and code analysis rather than just the presence of an existing structure as the deciding factor.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Comparing Garage Conversions and New Detached ADUs",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "### Garage Conversion vs. New Detached ADU: Design Implications Garage conversions are a major subset of ADUs in Los Angeles County, and they present distinct design and code challenges compared with ground-up detached units. Industry case studies from Los Angeles ADU builders note that converting an existing garage can appear less expensive because the basic shell and slab already exist. However, the California Residential Code and energy standards require that converted spaces meet current habitable-space requirements, which often means upgrading foundations, insulating walls and roofs, replacing garage doors with code-compliant walls and windows, and addressing moisture, ventilation, and seismic concerns. In many older garages, structural engineers recommend reinforcing or partially rebuilding walls and foundations to meet modern seismic and load standards. Energy code compliance can necessitate new framing for insulation depth, high-performance windows, and upgraded heating and cooling systems. These upgrades can narrow the cost difference versus new construction, particularly if the existing structure is in poor condition. New detached ADUs, by contrast, allow full flexibility in layout, orientation, and foundation design, but involve more extensive site work, utility trenching, and potentially higher fees for new structures. Zoning and setback rules may differ slightly between conversions and new detached units; state ADU law directs local agencies to allow certain garage conversions with reduced parking requirements, and some jurisdictions treat conversions more favorably where off-street parking is impacted. Design-wise, garage conversions must work within existing footprint and height constraints, while ground-up ADUs can optimize window placement, privacy, and interior flow from scratch. An ADU design contractor should evaluate the existing garage’s condition, local zoning allowances, and permit history before recommending conversion versus replacement, using cost and code analysis rather than just the presence of an existing structure as the deciding factor.",
+  "datePublished": "2026-08-27"
 }

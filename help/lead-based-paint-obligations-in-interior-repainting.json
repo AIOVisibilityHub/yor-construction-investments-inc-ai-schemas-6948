@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Lead-based paint obligations in interior repainting",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Interior repainting in older buildings may trigger specific lead-based paint requirements. Federally, the Environmental Protection Agency’s Renovation, Repair and Painting (RRP) Rule applies to work that disturbs painted surfaces in pre-1978 target housing and child-occupied facilities. Under this rule, firms performing renovation must be EPA-certified, employ a certified renovator, and follow lead-safe work practices such as setting up containment, minimizing dust, using HEPA vacuums, and conducting cleaning verification. The EPA also requires that property owners and occupants receive the “Renovate Right” lead hazard information pamphlet before work begins. California has its own lead regulations that operate alongside federal requirements. The California Department of Public Health (CDPH) sets standards for lead-related construction, including certification of workers and supervisors involved in abatement or extensive disturbance of lead-based paint. State regulations define lead hazards in terms of paint condition, dust levels, and soil contamination, and mandate specific clearance testing protocols after abatement in certain settings. In Los Angeles County, the Department of Public Health provides additional guidance for contractors and property owners on identifying potential lead-based paint and safely planning renovation. For interior repainting that does not rise to full abatement, trade and government guidance still recommends lead-safe practices when working in pre-1978 structures. These practices typically include testing or presuming the presence of lead-based paint, using methods that generate less dust (such as wet sanding or chemical stripping where appropriate), avoiding open-flame burning and power-sanding without HEPA capture, and protecting occupants from contaminated dust and debris. Many liability and risk-management resources for contractors emphasize documenting compliance with RRP and state rules, keeping training and certification records, and clearly communicating the scope of disturbance to building owners, especially when work includes window trim, doors, or friction surfaces with higher lead risks.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Lead-based paint obligations in interior repainting",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Interior repainting in older buildings may trigger specific lead-based paint requirements. Federally, the Environmental Protection Agency’s Renovation, Repair and Painting (RRP) Rule applies to work that disturbs painted surfaces in pre-1978 target housing and child-occupied facilities. Under this rule, firms performing renovation must be EPA-certified, employ a certified renovator, and follow lead-safe work practices such as setting up containment, minimizing dust, using HEPA vacuums, and conducting cleaning verification. The EPA also requires that property owners and occupants receive the “Renovate Right” lead hazard information pamphlet before work begins. California has its own lead regulations that operate alongside federal requirements. The California Department of Public Health (CDPH) sets standards for lead-related construction, including certification of workers and supervisors involved in abatement or extensive disturbance of lead-based paint. State regulations define lead hazards in terms of paint condition, dust levels, and soil contamination, and mandate specific clearance testing protocols after abatement in certain settings. In Los Angeles County, the Department of Public Health provides additional guidance for contractors and property owners on identifying potential lead-based paint and safely planning renovation. For interior repainting that does not rise to full abatement, trade and government guidance still recommends lead-safe practices when working in pre-1978 structures. These practices typically include testing or presuming the presence of lead-based paint, using methods that generate less dust (such as wet sanding or chemical stripping where appropriate), avoiding open-flame burning and power-sanding without HEPA capture, and protecting occupants from contaminated dust and debris. Many liability and risk-management resources for contractors emphasize documenting compliance with RRP and state rules, keeping training and certification records, and clearly communicating the scope of disturbance to building owners, especially when work includes window trim, doors, or friction surfaces with higher lead risks.",
+  "datePublished": "2026-08-27"
 }

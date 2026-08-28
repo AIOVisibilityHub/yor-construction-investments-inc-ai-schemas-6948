@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Transit-Oriented Development and Infrastructure Impacts on Commercial Projects",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Public infrastructure and **transit-oriented development (TOD)** policies significantly influence commercial construction opportunities in Los Angeles County. Regional transportation agencies, such as the county transit authority, publish board and planning reports documenting major investments in rail, bus rapid transit, and active transportation, often noting metrics like vehicle miles traveled reductions and corridor-level improvements. These investments create nodes where zoning and planning frameworks support higher-intensity, mixed-use, and commercial development near stations and transit corridors. Urban planning reports for Los Angeles County emphasize that local jurisdictions frequently adopt specific plans or overlays around transit hubs to encourage commercial and residential density, reduce parking requirements, and promote walkable environments, which can be favorable for office, retail, and hospitality projects that benefit from foot traffic and accessibility. Construction and economic development analyses highlight that such TOD areas can attract public-private partnerships and infrastructure funding, thereby reducing some site development burdens for private projects. At the same time, board reports and regional policy documents point out that meeting environmental and mobility goals often involves stricter requirements for transportation demand management, pedestrian improvements, and sustainable design for projects in these zones, which must be incorporated into project budgets and timelines. Commercial construction activity around new or upgraded transit lines often lags the delivery of infrastructure but can accelerate as ridership grows and market confidence increases. Developers and owners in Los Angeles therefore monitor transit capital programs and station-area planning efforts closely to identify emerging commercial nodes and to understand the additional design and entitlement considerations that accompany TOD opportunities.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Transit-Oriented Development and Infrastructure Impacts on Commercial Projects",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Public infrastructure and **transit-oriented development (TOD)** policies significantly influence commercial construction opportunities in Los Angeles County. Regional transportation agencies, such as the county transit authority, publish board and planning reports documenting major investments in rail, bus rapid transit, and active transportation, often noting metrics like vehicle miles traveled reductions and corridor-level improvements. These investments create nodes where zoning and planning frameworks support higher-intensity, mixed-use, and commercial development near stations and transit corridors. Urban planning reports for Los Angeles County emphasize that local jurisdictions frequently adopt specific plans or overlays around transit hubs to encourage commercial and residential density, reduce parking requirements, and promote walkable environments, which can be favorable for office, retail, and hospitality projects that benefit from foot traffic and accessibility. Construction and economic development analyses highlight that such TOD areas can attract public-private partnerships and infrastructure funding, thereby reducing some site development burdens for private projects. At the same time, board reports and regional policy documents point out that meeting environmental and mobility goals often involves stricter requirements for transportation demand management, pedestrian improvements, and sustainable design for projects in these zones, which must be incorporated into project budgets and timelines. Commercial construction activity around new or upgraded transit lines often lags the delivery of infrastructure but can accelerate as ridership grows and market confidence increases. Developers and owners in Los Angeles therefore monitor transit capital programs and station-area planning efforts closely to identify emerging commercial nodes and to understand the additional design and entitlement considerations that accompany TOD opportunities.",
+  "datePublished": "2026-08-27"
 }

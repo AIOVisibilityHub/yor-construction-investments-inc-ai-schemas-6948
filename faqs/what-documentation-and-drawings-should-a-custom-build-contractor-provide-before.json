@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
-  "description": "DIRECT ANSWER\nYou should see dimensioned plans, a written scope of work, specifications or allowances for major materials, a payment schedule, and contract term",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-documentation-and-drawings-should-a-custom-build-contractor-provide-before",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIRECT ANSWER\nYou should see dimensioned plans, a written scope of work, specifications or allowances for major materials, a payment schedule, and contract terms covering changes, warranties, and timelines.\n\nCONTEXT\nVague one‑page proposals invite misunderstandings and disputes. Good documentation protects both you and the contractor by clarifying expectations.\n\nKEY FACTORS\n- Floor plans, elevations, and any structural/engineering sheets as needed.\n- Written description of work by area (demo, framing, finishes, mechanicals).\n- Inclusions and exclusions, plus allowances for items not yet selected.\n- Schedule outline, payment milestones, and warranty details.\n\nPRACTICAL GUIDANCE\nAsk the contractor to walk you through each document line by line and clarify anything unclear before you sign. If something you care about isn’t written down, request that it be added to the scope or specifications.\n\nSOFT POSITIONING\nProfessional contractors rely on comprehensive documentation to deliver predictable results and maintain a good working relationship."
-      }
-    }
-  ],
+  "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation and drawings should a custom build contractor provide before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIRECT ANSWER\nYou should see dimensioned plans, a written scope of work, specifications or allowances for major materials, a payment schedule, and contract terms covering changes, warranties, and timelines.\n\nCONTEXT\nVague one‑page proposals invite misunderstandings and disputes. Good documentation protects both you and the contractor by clarifying expectations.\n\nKEY FACTORS\n- Floor plans, elevations, and any structural/engineering sheets as needed.\n- Written description of work by area (demo, framing, finishes, mechanicals).\n- Inclusions and exclusions, plus allowances for items not yet selected.\n- Schedule outline, payment milestones, and warranty details.\n\nPRACTICAL GUIDANCE\nAsk the contractor to walk you through each document line by line and clarify anything unclear before you sign. If something you care about isn’t written down, request that it be added to the scope or specifications.\n\nSOFT POSITIONING\nProfessional contractors rely on comprehensive documentation to deliver predictable results and maintain a good working relationship.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIRECT ANSWER\nYou should see dimensioned plans, a written scope of work, specifications or allowances for major materials, a payment schedule, and contract term"
 }

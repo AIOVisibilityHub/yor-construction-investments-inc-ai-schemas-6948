@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Zoning and Size Rules for ADUs in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "In Los Angeles County’s unincorporated areas, an ADU additions contractor must first confirm zoning and jurisdiction, because rules differ between the County and the 88 individual cities within its boundaries. The Los Angeles County Department of Regional Planning explains that accessory dwelling units are generally allowed on most single-family residential lots, subject to state ADU law and local development standards. County guidance and California’s Government Code provisions allow at least an 800 square foot ADU up to 16 feet in height, even when local lot coverage or floor area limits would otherwise be exceeded, as long as building and safety standards are met. Where lot and context allow, larger detached ADUs up to 1,200 square feet are commonly permitted, and Los Angeles County Public Works has even published pre-approved standard plans at 800 and 1,200 square feet, showing that these sizes align with County code and plan-check practices. Setbacks and height are equally important. State law generally requires side and rear setbacks no greater than four feet for new detached ADUs, but local fire access and utility easements can effectively demand more clearance in practice. Contractors must also consider lot coverage limits, existing primary dwelling square footage, and any hillside or high fire severity zone overlays that trigger stricter height, access, or fire-resistance requirements. The County’s building and safety division emphasizes that all ADUs must comply with the California Building Code, Residential Code, Energy Code, and Green Building Standards Code (CALGreen), which influence structural design, seismic detailing, insulation, and energy systems. For additions or conversions attached to the main home, contractors need to reconcile ADU-specific rules with existing nonconforming conditions, such as older setbacks or height that no longer match current zoning but are legally established, which county planning staff and plan checkers review on a case-by-case basis.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Zoning and Size Rules for ADUs in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "In Los Angeles County’s unincorporated areas, an ADU additions contractor must first confirm zoning and jurisdiction, because rules differ between the County and the 88 individual cities within its boundaries. The Los Angeles County Department of Regional Planning explains that accessory dwelling units are generally allowed on most single-family residential lots, subject to state ADU law and local development standards. County guidance and California’s Government Code provisions allow at least an 800 square foot ADU up to 16 feet in height, even when local lot coverage or floor area limits would otherwise be exceeded, as long as building and safety standards are met. Where lot and context allow, larger detached ADUs up to 1,200 square feet are commonly permitted, and Los Angeles County Public Works has even published pre-approved standard plans at 800 and 1,200 square feet, showing that these sizes align with County code and plan-check practices. Setbacks and height are equally important. State law generally requires side and rear setbacks no greater than four feet for new detached ADUs, but local fire access and utility easements can effectively demand more clearance in practice. Contractors must also consider lot coverage limits, existing primary dwelling square footage, and any hillside or high fire severity zone overlays that trigger stricter height, access, or fire-resistance requirements. The County’s building and safety division emphasizes that all ADUs must comply with the California Building Code, Residential Code, Energy Code, and Green Building Standards Code (CALGreen), which influence structural design, seismic detailing, insulation, and energy systems. For additions or conversions attached to the main home, contractors need to reconcile ADU-specific rules with existing nonconforming conditions, such as older setbacks or height that no longer match current zoning but are legally established, which county planning staff and plan checkers review on a case-by-case basis.",
+  "datePublished": "2026-08-27"
 }

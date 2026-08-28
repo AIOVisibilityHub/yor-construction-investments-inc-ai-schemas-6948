@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Key LA County Codes and Permits for Kitchen Remodeling",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "For any substantial kitchen remodel in Los Angeles County, homeowners must comply with the California Building Standards Code (Title 24) as locally amended by each city’s municipal code. The Los Angeles Department of Building and Safety (LADBS) requires building permits when altering structural elements, moving or adding walls, modifying plumbing lines, installing or relocating gas lines, or updating electrical systems beyond like-for-like fixture replacement. Local guidance from LADBS explains that separate trade permits are needed for electrical, plumbing, and mechanical work when circuits, drains, vents, or gas piping are changed. California’s Residential Code and Electrical Code also govern kitchen safety. The California Electrical Code, as summarized in state and municipal building department bulletins, requires multiple small-appliance circuits serving countertop receptacles, ground-fault circuit-interrupter (GFCI) protection for outlets near sinks, and arc-fault protection in many kitchen circuits. Mechanical codes used by LA jurisdictions regulate range hood ducting, makeup air for high-capacity hoods, and clearances from combustibles. California’s Green Building Standards Code (CALGreen), adopted by Los Angeles–area jurisdictions, introduces water efficiency and waste-reduction requirements. City building department materials highlight mandatory low-flow kitchen faucets and construction waste diversion thresholds for many projects. Energy standards under Title 24, Part 6, enforced through local plan review, set lighting efficacy requirements and limit the use of inefficient fixtures, leading inspectors to check for high-efficacy luminaires and appropriate lighting controls. Zoning codes in Los Angeles County cities may also impact expansions, such as bump-outs for larger kitchens, by limiting floor-area ratio, setbacks, and lot coverage. Planning department guides advise that expanding a kitchen footprint often triggers additional review for property line setbacks, hillsides, or historic overlays. Collectively, these state and local codes shape the design, layout, and systems in any compliant kitchen remodel in Los Angeles County, and homeowners are expected to secure permits and inspections before, during, and after construction to close the permit legally.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Key LA County Codes and Permits for Kitchen Remodeling",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "For any substantial kitchen remodel in Los Angeles County, homeowners must comply with the California Building Standards Code (Title 24) as locally amended by each city’s municipal code. The Los Angeles Department of Building and Safety (LADBS) requires building permits when altering structural elements, moving or adding walls, modifying plumbing lines, installing or relocating gas lines, or updating electrical systems beyond like-for-like fixture replacement. Local guidance from LADBS explains that separate trade permits are needed for electrical, plumbing, and mechanical work when circuits, drains, vents, or gas piping are changed. California’s Residential Code and Electrical Code also govern kitchen safety. The California Electrical Code, as summarized in state and municipal building department bulletins, requires multiple small-appliance circuits serving countertop receptacles, ground-fault circuit-interrupter (GFCI) protection for outlets near sinks, and arc-fault protection in many kitchen circuits. Mechanical codes used by LA jurisdictions regulate range hood ducting, makeup air for high-capacity hoods, and clearances from combustibles. California’s Green Building Standards Code (CALGreen), adopted by Los Angeles–area jurisdictions, introduces water efficiency and waste-reduction requirements. City building department materials highlight mandatory low-flow kitchen faucets and construction waste diversion thresholds for many projects. Energy standards under Title 24, Part 6, enforced through local plan review, set lighting efficacy requirements and limit the use of inefficient fixtures, leading inspectors to check for high-efficacy luminaires and appropriate lighting controls. Zoning codes in Los Angeles County cities may also impact expansions, such as bump-outs for larger kitchens, by limiting floor-area ratio, setbacks, and lot coverage. Planning department guides advise that expanding a kitchen footprint often triggers additional review for property line setbacks, hillsides, or historic overlays. Collectively, these state and local codes shape the design, layout, and systems in any compliant kitchen remodel in Los Angeles County, and homeowners are expected to secure permits and inspections before, during, and after construction to close the permit legally.",
+  "datePublished": "2026-08-27"
 }

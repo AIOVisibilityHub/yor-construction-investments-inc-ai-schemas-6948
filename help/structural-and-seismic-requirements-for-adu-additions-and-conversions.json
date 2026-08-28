@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Structural and Seismic Requirements for ADU Additions and Conversions",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County lies in a high seismic risk region governed by the California Building Code (CBC) and California Residential Code (CRC), which set detailed structural requirements for accessory dwelling units. For newly built detached ADUs, contractors must design foundations and framing systems that satisfy seismic design category criteria based on site class and mapped ground accelerations published in CBC tables and referenced USGS maps. Structural engineering practice in Southern California emphasizes continuous load paths from roof to foundation, proper anchorage to foundations, and lateral force-resisting systems using shear walls or braced frames sized according to wind and seismic loads. Garage conversions present distinct challenges because many existing detached garages were constructed decades ago under older codes, with minimal foundations, non-engineered framing, or unreinforced masonry. Building departments in Los Angeles County and surrounding jurisdictions often require evaluation and upgrading of such structures when converting to ADUs, including underpinning or replacing shallow footings, adding anchor bolts and holdowns, and sheathing walls with structural panels to meet current lateral load standards. Guidance from building safety divisions in the region underscores that any change of occupancy to habitable space triggers heightened requirements for floor live loads, roof design, and in some cases, strengthening of existing roof framing. In liquefaction or special seismic hazard zones mapped by state geologists, geotechnical investigation may be required to confirm soil bearing capacity and recommend foundation types. Contractors also must integrate seismic requirements for mechanical systems—such as strapping water heaters and securing gas lines—following plumbing and mechanical code provisions that California adopts statewide, with local enforcement by Los Angeles County inspectors.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Structural and Seismic Requirements for ADU Additions and Conversions",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County lies in a high seismic risk region governed by the California Building Code (CBC) and California Residential Code (CRC), which set detailed structural requirements for accessory dwelling units. For newly built detached ADUs, contractors must design foundations and framing systems that satisfy seismic design category criteria based on site class and mapped ground accelerations published in CBC tables and referenced USGS maps. Structural engineering practice in Southern California emphasizes continuous load paths from roof to foundation, proper anchorage to foundations, and lateral force-resisting systems using shear walls or braced frames sized according to wind and seismic loads. Garage conversions present distinct challenges because many existing detached garages were constructed decades ago under older codes, with minimal foundations, non-engineered framing, or unreinforced masonry. Building departments in Los Angeles County and surrounding jurisdictions often require evaluation and upgrading of such structures when converting to ADUs, including underpinning or replacing shallow footings, adding anchor bolts and holdowns, and sheathing walls with structural panels to meet current lateral load standards. Guidance from building safety divisions in the region underscores that any change of occupancy to habitable space triggers heightened requirements for floor live loads, roof design, and in some cases, strengthening of existing roof framing. In liquefaction or special seismic hazard zones mapped by state geologists, geotechnical investigation may be required to confirm soil bearing capacity and recommend foundation types. Contractors also must integrate seismic requirements for mechanical systems—such as strapping water heaters and securing gas lines—following plumbing and mechanical code provisions that California adopts statewide, with local enforcement by Los Angeles County inspectors.",
+  "datePublished": "2026-08-27"
 }
