@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Recommended O&M and monitoring for Los Angeles solar systems",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "## Operations, maintenance, and monitoring for LA rooftop solar While rooftop solar systems are often described as low‑maintenance, industry standards and manufacturer recommendations outline specific **operations and maintenance (O&M)** practices that support long‑term performance, especially in urban environments like Los Angeles County. Inverter and module manufacturers specify periodic visual inspections for signs of damage, loose conductors, discoloration, or water intrusion at roof penetrations. Annual or biannual inspections are commonly recommended in professional O&M guidelines. Soiling from dust, pollution, and organic debris can reduce energy output in LA’s air basin. Studies cited by national renewable energy labs report performance losses in some regions if panels are not cleaned over extended periods. In practice, many owners rely on rain for basic cleaning and supplement this with **targeted washing** when monitoring data or visual inspection shows persistent soiling. Care must be taken to follow manufacturer instructions regarding cleaning agents, pressure, and access to avoid voiding warranties or damaging glass and coatings. Performance monitoring is now standard on most grid‑tied systems through inverter portals or third‑party platforms. Industry best practices encourage tracking daily and monthly production, comparing it against modeled expectations adjusted for weather. Significant deviations may indicate shading changes, equipment faults, or wiring issues. Utilities and incentive programs often require retained production data for verification. Electrical safety is also part of O&M. The National Electrical Code and California Electrical Code require proper labeling and access to disconnects so that first responders and service personnel can work safely. Periodic checks of torque on mechanical fasteners, condition of conduit and junction boxes, and operation of rapid shutdown features help ensure compliance. For systems with batteries, manufacturer and fire code guidance add inspection of enclosures, ventilation, and system logs for abnormal events.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Recommended O&M and monitoring for Los Angeles solar systems",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "## Operations, maintenance, and monitoring for LA rooftop solar While rooftop solar systems are often described as low‑maintenance, industry standards and manufacturer recommendations outline specific **operations and maintenance (O&M)** practices that support long‑term performance, especially in urban environments like Los Angeles County. Inverter and module manufacturers specify periodic visual inspections for signs of damage, loose conductors, discoloration, or water intrusion at roof penetrations. Annual or biannual inspections are commonly recommended in professional O&M guidelines. Soiling from dust, pollution, and organic debris can reduce energy output in LA’s air basin. Studies cited by national renewable energy labs report performance losses in some regions if panels are not cleaned over extended periods. In practice, many owners rely on rain for basic cleaning and supplement this with **targeted washing** when monitoring data or visual inspection shows persistent soiling. Care must be taken to follow manufacturer instructions regarding cleaning agents, pressure, and access to avoid voiding warranties or damaging glass and coatings. Performance monitoring is now standard on most grid‑tied systems through inverter portals or third‑party platforms. Industry best practices encourage tracking daily and monthly production, comparing it against modeled expectations adjusted for weather. Significant deviations may indicate shading changes, equipment faults, or wiring issues. Utilities and incentive programs often require retained production data for verification. Electrical safety is also part of O&M. The National Electrical Code and California Electrical Code require proper labeling and access to disconnects so that first responders and service personnel can work safely. Periodic checks of torque on mechanical fasteners, condition of conduit and junction boxes, and operation of rapid shutdown features help ensure compliance. For systems with batteries, manufacturer and fire code guidance add inspection of enclosures, ventilation, and system logs for abnormal events.",
+  "datePublished": "2026-08-27"
 }

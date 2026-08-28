@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Emerging LA County rules for high-rise nonductile concrete retrofits",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles County is moving toward mandatory seismic retrofits for certain high‑rise nonductile concrete buildings in unincorporated areas and County‑owned properties. According to an official announcement from the Los Angeles County Board of Supervisors and Public Works, an ordinance has been introduced that would require seismic retrofit and repair of qualifying high‑rise nonductile concrete buildings located in unincorporated County areas or owned by the County itself. The stated policy goal is to enhance seismic safety and protect lives and property. Under the proposed ordinance, owners of qualifying buildings would be required to conduct structural evaluations and, if needed, complete retrofits to meet minimum seismic safety standards within 20 years of receiving a compliance order. This long compliance period reflects both the complexity and cost of retrofitting large high‑rise concrete structures and is broadly consistent with timelines seen in other California cities for nonductile concrete retrofit programs. The County’s press information indicates that both privately owned buildings in unincorporated areas and County‑owned buildings would be covered, although details such as height thresholds, construction dates, and performance objectives are determined in the ordinance language and technical criteria adopted by Public Works and Building and Safety. For owners, investors, and lenders dealing with existing high‑rise concrete inventory in unincorporated Los Angeles County, this emerging ordinance introduces potential long‑term capital obligations tied to seismic upgrades. Monitoring the final ordinance language, implementation schedule, and any available guidance or technical manuals from LA County Public Works is important for accurately estimating retrofit scope, sequencing, and cost exposure over the 20‑year compliance horizon.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Emerging LA County rules for high-rise nonductile concrete retrofits",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles County is moving toward mandatory seismic retrofits for certain high‑rise nonductile concrete buildings in unincorporated areas and County‑owned properties. According to an official announcement from the Los Angeles County Board of Supervisors and Public Works, an ordinance has been introduced that would require seismic retrofit and repair of qualifying high‑rise nonductile concrete buildings located in unincorporated County areas or owned by the County itself. The stated policy goal is to enhance seismic safety and protect lives and property. Under the proposed ordinance, owners of qualifying buildings would be required to conduct structural evaluations and, if needed, complete retrofits to meet minimum seismic safety standards within 20 years of receiving a compliance order. This long compliance period reflects both the complexity and cost of retrofitting large high‑rise concrete structures and is broadly consistent with timelines seen in other California cities for nonductile concrete retrofit programs. The County’s press information indicates that both privately owned buildings in unincorporated areas and County‑owned buildings would be covered, although details such as height thresholds, construction dates, and performance objectives are determined in the ordinance language and technical criteria adopted by Public Works and Building and Safety. For owners, investors, and lenders dealing with existing high‑rise concrete inventory in unincorporated Los Angeles County, this emerging ordinance introduces potential long‑term capital obligations tied to seismic upgrades. Monitoring the final ordinance language, implementation schedule, and any available guidance or technical manuals from LA County Public Works is important for accurately estimating retrofit scope, sequencing, and cost exposure over the 20‑year compliance horizon.",
+  "datePublished": "2026-08-27"
 }

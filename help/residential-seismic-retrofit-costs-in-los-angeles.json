@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Residential seismic retrofit costs in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Residential seismic retrofit costs in Los Angeles vary significantly by foundation type, access, and existing conditions, but consumer‑facing earthquake safety organizations provide indicative ranges. The California Residential Mitigation Program (CRMP), which partners with state and local agencies, states that retrofitting a typical older house with a raised foundation in California often costs in the low thousands of dollars, and its homeowner materials cite example ranges in the approximate $3,000 to $7,000 band for common brace‑and‑bolt retrofits on qualifying homes. Local Los Angeles–area retrofit contractors and educational resources report similar ranges for straightforward one‑story, cripple‑wall houses on accessible crawlspace foundations. Key cost drivers include: - **Foundation type and condition**: Homes on raised foundations with accessible crawlspaces are usually less expensive to retrofit than houses on complex hillside or slab‑on‑grade foundations, where additional engineering and excavation may be required. - **House size and configuration**: Larger footprints and irregular layouts increase the length of cripple walls, number of anchor bolts, and amount of sheathing and hardware. - **Existing damage or deficiencies**: Deteriorated framing, dry rot, or prior unpermitted modifications can add repair scope beyond standard retrofit work. - **Engineering and permitting**: Site‑specific engineering analysis, plans, and permit fees add to total cost, although some standardized prescriptive retrofit programs can reduce engineering effort. Consumer guidance from state earthquake authorities emphasizes that while costs are significant, retrofitting can be substantially less expensive than repairing major earthquake damage or rebuilding, and may improve eligibility or pricing for earthquake insurance. Because of local variations in labor, materials, and permitting, homeowners in Los Angeles are typically advised to obtain multiple bids based on the same engineer’s plans.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Residential seismic retrofit costs in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Residential seismic retrofit costs in Los Angeles vary significantly by foundation type, access, and existing conditions, but consumer‑facing earthquake safety organizations provide indicative ranges. The California Residential Mitigation Program (CRMP), which partners with state and local agencies, states that retrofitting a typical older house with a raised foundation in California often costs in the low thousands of dollars, and its homeowner materials cite example ranges in the approximate $3,000 to $7,000 band for common brace‑and‑bolt retrofits on qualifying homes. Local Los Angeles–area retrofit contractors and educational resources report similar ranges for straightforward one‑story, cripple‑wall houses on accessible crawlspace foundations. Key cost drivers include: - **Foundation type and condition**: Homes on raised foundations with accessible crawlspaces are usually less expensive to retrofit than houses on complex hillside or slab‑on‑grade foundations, where additional engineering and excavation may be required. - **House size and configuration**: Larger footprints and irregular layouts increase the length of cripple walls, number of anchor bolts, and amount of sheathing and hardware. - **Existing damage or deficiencies**: Deteriorated framing, dry rot, or prior unpermitted modifications can add repair scope beyond standard retrofit work. - **Engineering and permitting**: Site‑specific engineering analysis, plans, and permit fees add to total cost, although some standardized prescriptive retrofit programs can reduce engineering effort. Consumer guidance from state earthquake authorities emphasizes that while costs are significant, retrofitting can be substantially less expensive than repairing major earthquake damage or rebuilding, and may improve eligibility or pricing for earthquake insurance. Because of local variations in labor, materials, and permitting, homeowners in Los Angeles are typically advised to obtain multiple bids based on the same engineer’s plans.",
+  "datePublished": "2026-08-27"
 }

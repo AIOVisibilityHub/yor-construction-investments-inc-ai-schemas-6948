@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Common and emerging roofing materials in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "In the Los Angeles market, **asphalt shingles, tile roofing, and low-slope membrane systems** remain dominant, but industry reports highlight rapid growth in **cool roofs, metal roofing, and solar-integrated products**. National and regional roofing trend articles in trade magazines such as Qualified Remodeler note that darker colors and impact-rated products remain popular overall, while manufacturers are expanding into metal shingles and other premium materials that can address severe weather and meet evolving energy codes. For Southern California, these trends intersect with local concerns about heat, wildfire, and sustainability. Trade and contractor blogs focused on Los Angeles and broader Southern California describe increasing homeowner interest in energy-efficient materials such as cool roof-rated asphalt shingles, reflective single-ply membranes on low-slope roofs, and even vegetative or “green” roofs on certain modern designs. Emerging-trends articles from roofing suppliers note that sustainable materials, including recycled-content products and long-life metal roofing, are gaining traction as owners seek lower life-cycle costs and better environmental performance. Several industry pieces also highlight the growth of **solar shingles and solar-integrated roofing systems**, which blend electricity generation with conventional roofing functionality and are seen as a response to California’s strong solar incentives and building energy requirements. Local roofing trend discussions for 2025–2026 reference homeowner demand for roofs that address wildfire resilience, water management, and aesthetics simultaneously; for example, fire-resistant tile or metal profiles that mimic traditional styles while offering Class A fire ratings for hillside homes. Industry analysts also point to digital tools—such as aerial measurement, 3D visualization, and smart roof monitoring sensors—as part of the broader roofing ecosystem, influencing how materials are selected and integrated rather than changing the materials themselves. Overall, the Los Angeles region illustrates national shifts toward higher-performance, energy-conscious roofing within a hot, wildfire-prone climate context.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Common and emerging roofing materials in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "In the Los Angeles market, **asphalt shingles, tile roofing, and low-slope membrane systems** remain dominant, but industry reports highlight rapid growth in **cool roofs, metal roofing, and solar-integrated products**. National and regional roofing trend articles in trade magazines such as Qualified Remodeler note that darker colors and impact-rated products remain popular overall, while manufacturers are expanding into metal shingles and other premium materials that can address severe weather and meet evolving energy codes. For Southern California, these trends intersect with local concerns about heat, wildfire, and sustainability. Trade and contractor blogs focused on Los Angeles and broader Southern California describe increasing homeowner interest in energy-efficient materials such as cool roof-rated asphalt shingles, reflective single-ply membranes on low-slope roofs, and even vegetative or “green” roofs on certain modern designs. Emerging-trends articles from roofing suppliers note that sustainable materials, including recycled-content products and long-life metal roofing, are gaining traction as owners seek lower life-cycle costs and better environmental performance. Several industry pieces also highlight the growth of **solar shingles and solar-integrated roofing systems**, which blend electricity generation with conventional roofing functionality and are seen as a response to California’s strong solar incentives and building energy requirements. Local roofing trend discussions for 2025–2026 reference homeowner demand for roofs that address wildfire resilience, water management, and aesthetics simultaneously; for example, fire-resistant tile or metal profiles that mimic traditional styles while offering Class A fire ratings for hillside homes. Industry analysts also point to digital tools—such as aerial measurement, 3D visualization, and smart roof monitoring sensors—as part of the broader roofing ecosystem, influencing how materials are selected and integrated rather than changing the materials themselves. Overall, the Los Angeles region illustrates national shifts toward higher-performance, energy-conscious roofing within a hot, wildfire-prone climate context.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Utility incentives and rules affecting solar ROI in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "## Utility rules and incentives in Los Angeles County In Los Angeles County, the economics of a solar installation are strongly shaped by utility-specific programs, especially from the Los Angeles Department of Water and Power (LADWP) and Southern California Edison (SCE). LADWP’s **Solar Incentive Program** historically offered upfront rebates per watt of installed capacity, which reduced capital costs; although funding levels change over time, LADWP guidance emphasizes that incentives are limited and offered on a first‑come, first‑served basis, so project timing influences economics. LADWP also participates in California’s **Self‑Generation Incentive Program (SGIP)** for battery storage, which can offset a substantial portion of storage costs for qualifying customers, particularly in disadvantaged or high‑fire‑threat communities. Net energy metering (NEM) policies determine how exported solar electricity is credited on bills. For customers in SCE territory, the California Public Utilities Commission’s move from NEM 2.0 to **Net Billing Tariff (NEM 3.0)** shifted compensation for exported power to time‑varying values based on avoided cost, generally lowering export credits and increasing the value of self‑consumption and storage. Consumer guidance from state agencies and non‑profit energy research groups notes that these changes lengthen payback periods for export‑heavy systems but can still yield attractive returns when systems are sized to match on‑site use. Los Angeles building departments also layer on **permitting and inspection fees**, which modestly affect project soft costs, while California’s solar rights laws and streamlined permitting initiatives aim to keep local processes predictable. Industry cost benchmarks from national laboratories show that incentive availability, utility tariffs, and permitting overhead can shift residential payback periods in LA County from roughly 6–8 years to 9–12 years depending on rate plans, system design, and whether storage is included. Careful modeling with the customer’s exact rate schedule and incentive eligibility is therefore central to any economic assessment.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Utility incentives and rules affecting solar ROI in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "## Utility rules and incentives in Los Angeles County In Los Angeles County, the economics of a solar installation are strongly shaped by utility-specific programs, especially from the Los Angeles Department of Water and Power (LADWP) and Southern California Edison (SCE). LADWP’s **Solar Incentive Program** historically offered upfront rebates per watt of installed capacity, which reduced capital costs; although funding levels change over time, LADWP guidance emphasizes that incentives are limited and offered on a first‑come, first‑served basis, so project timing influences economics. LADWP also participates in California’s **Self‑Generation Incentive Program (SGIP)** for battery storage, which can offset a substantial portion of storage costs for qualifying customers, particularly in disadvantaged or high‑fire‑threat communities. Net energy metering (NEM) policies determine how exported solar electricity is credited on bills. For customers in SCE territory, the California Public Utilities Commission’s move from NEM 2.0 to **Net Billing Tariff (NEM 3.0)** shifted compensation for exported power to time‑varying values based on avoided cost, generally lowering export credits and increasing the value of self‑consumption and storage. Consumer guidance from state agencies and non‑profit energy research groups notes that these changes lengthen payback periods for export‑heavy systems but can still yield attractive returns when systems are sized to match on‑site use. Los Angeles building departments also layer on **permitting and inspection fees**, which modestly affect project soft costs, while California’s solar rights laws and streamlined permitting initiatives aim to keep local processes predictable. Industry cost benchmarks from national laboratories show that incentive availability, utility tariffs, and permitting overhead can shift residential payback periods in LA County from roughly 6–8 years to 9–12 years depending on rate plans, system design, and whether storage is included. Careful modeling with the customer’s exact rate schedule and incentive eligibility is therefore central to any economic assessment.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Room Addition Cost Ranges and Cost Drivers in Los Angeles",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Local contractor cost guides for Los Angeles room additions commonly cite a **per-square-foot range of about $170–$250** for typical habitable space, with higher pricing for kitchens, bathrooms, and complex second-story additions. One Los Angeles contractor example describes a “basic” home addition starting around **$199 per square foot**, noting that a 450 sq. ft. addition could run about $80,000 plus city fees, and that a 1,000 sq. ft. addition often falls in the $170,000–$250,000 range depending on materials and scope. Industry remodeling surveys from organizations like Remodeling Magazine similarly report that major additions in coastal California markets tend to price at the upper end of national averages due to labor, permitting, and code requirements. Key **cost drivers** include: - **Type of space**: Bathrooms and kitchens add substantial plumbing, electrical, fixtures, and cabinetry, which national remodeling cost reports show significantly increase project budgets compared with simple bedrooms or family rooms. - **Structural complexity**: Second-story additions require reinforcement of existing foundations and framing. Engineering guidance for seismic zones highlights additional structural work needed to meet California’s earthquake design standards. - **Permits and fees**: Los Angeles area building departments charge plan check, permit, and sometimes school or impact fees based on added square footage. Municipal fee schedules show these can add thousands of dollars to large additions. - **Site conditions**: Sloped lots, limited access, or required retaining walls increase labor and engineering costs, as noted in contractor and geotechnical engineer guidance for hillside construction. - **Finish level**: Builder cost breakdowns show that high-end finishes, custom windows, and upgraded HVAC can move a project from the low to high end of the range. Because of these variables, industry sources consistently recommend a detailed on-site assessment and written scope before relying on any per-square-foot estimate.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Room Addition Cost Ranges and Cost Drivers in Los Angeles",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Local contractor cost guides for Los Angeles room additions commonly cite a **per-square-foot range of about $170–$250** for typical habitable space, with higher pricing for kitchens, bathrooms, and complex second-story additions. One Los Angeles contractor example describes a “basic” home addition starting around **$199 per square foot**, noting that a 450 sq. ft. addition could run about $80,000 plus city fees, and that a 1,000 sq. ft. addition often falls in the $170,000–$250,000 range depending on materials and scope. Industry remodeling surveys from organizations like Remodeling Magazine similarly report that major additions in coastal California markets tend to price at the upper end of national averages due to labor, permitting, and code requirements. Key **cost drivers** include: - **Type of space**: Bathrooms and kitchens add substantial plumbing, electrical, fixtures, and cabinetry, which national remodeling cost reports show significantly increase project budgets compared with simple bedrooms or family rooms. - **Structural complexity**: Second-story additions require reinforcement of existing foundations and framing. Engineering guidance for seismic zones highlights additional structural work needed to meet California’s earthquake design standards. - **Permits and fees**: Los Angeles area building departments charge plan check, permit, and sometimes school or impact fees based on added square footage. Municipal fee schedules show these can add thousands of dollars to large additions. - **Site conditions**: Sloped lots, limited access, or required retaining walls increase labor and engineering costs, as noted in contractor and geotechnical engineer guidance for hillside construction. - **Finish level**: Builder cost breakdowns show that high-end finishes, custom windows, and upgraded HVAC can move a project from the low to high end of the range. Because of these variables, industry sources consistently recommend a detailed on-site assessment and written scope before relying on any per-square-foot estimate.",
+  "datePublished": "2026-08-27"
 }

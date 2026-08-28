@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "How Los Angeles retrofit rules compare to other California cities",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Los Angeles has some of the most extensive seismic retrofit requirements in California, but they are part of a broader statewide trend. The City of Los Angeles’ soft‑story ordinance, which identified about 13,500 wood‑frame buildings for mandatory retrofit, is one of the largest such programs in the state. Code‑tracking and engineering summaries note that similar soft‑story ordinances have been adopted in cities like San Francisco, Berkeley, and Santa Monica, but each jurisdiction defines target building types, deadlines, and technical criteria somewhat differently. Los Angeles County’s Chapter 95 tilt‑up requirements and emerging high‑rise nonductile concrete ordinance parallel programs that other California cities have implemented for unreinforced masonry and nonductile concrete, particularly after major earthquakes highlighted vulnerabilities (for example, unreinforced masonry programs in the Bay Area and San Bernardino County). However, the specific coverage of concrete tilt‑ups and nonductile concrete high‑rises in unincorporated Los Angeles County reflects local risk assessments and policy decisions by the Board of Supervisors and Public Works. Compared with some jurisdictions that only address unreinforced masonry, the Los Angeles region’s combination of soft‑story, tilt‑up, and nonductile concrete mandates is relatively comprehensive. At the same time, other California cities may have stricter or faster timelines for certain building types or may require higher performance levels for essential facilities. State‑level guidance from agencies like the California Seismic Safety Commission encourages local governments to tailor ordinances to their building stock and risk, which helps explain the variation. For investors and owners with statewide portfolios, this patchwork means seismic compliance strategies must be city‑specific, with Los Angeles often representing one of the more demanding environments in terms of scope and scale of retrofit obligations.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "How Los Angeles retrofit rules compare to other California cities",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Los Angeles has some of the most extensive seismic retrofit requirements in California, but they are part of a broader statewide trend. The City of Los Angeles’ soft‑story ordinance, which identified about 13,500 wood‑frame buildings for mandatory retrofit, is one of the largest such programs in the state. Code‑tracking and engineering summaries note that similar soft‑story ordinances have been adopted in cities like San Francisco, Berkeley, and Santa Monica, but each jurisdiction defines target building types, deadlines, and technical criteria somewhat differently. Los Angeles County’s Chapter 95 tilt‑up requirements and emerging high‑rise nonductile concrete ordinance parallel programs that other California cities have implemented for unreinforced masonry and nonductile concrete, particularly after major earthquakes highlighted vulnerabilities (for example, unreinforced masonry programs in the Bay Area and San Bernardino County). However, the specific coverage of concrete tilt‑ups and nonductile concrete high‑rises in unincorporated Los Angeles County reflects local risk assessments and policy decisions by the Board of Supervisors and Public Works. Compared with some jurisdictions that only address unreinforced masonry, the Los Angeles region’s combination of soft‑story, tilt‑up, and nonductile concrete mandates is relatively comprehensive. At the same time, other California cities may have stricter or faster timelines for certain building types or may require higher performance levels for essential facilities. State‑level guidance from agencies like the California Seismic Safety Commission encourages local governments to tailor ordinances to their building stock and risk, which helps explain the variation. For investors and owners with statewide portfolios, this patchwork means seismic compliance strategies must be city‑specific, with Los Angeles often representing one of the more demanding environments in terms of scope and scale of retrofit obligations.",
+  "datePublished": "2026-08-27"
 }

@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Fire-resistant roofing and wildfire risk in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Large portions of Los Angeles County fall within **Very High Fire Hazard Severity Zones (VHFHSZ)**, where building and fire codes require enhanced fire performance from roofs and exterior materials. Under the California Building Code and California Residential Code, as locally adopted, roofs in these areas must generally have a **Class A fire-resistance rating**, the highest classification under test standards such as ASTM E108 or UL 790. Local building departments rely on these standardized tests, which evaluate flame spread, intermittent flame, and burning brand resistance, to ensure that roof assemblies can withstand embers and direct flame exposure typical of wildfires. State and local guidance for wildfire-resistant construction emphasize noncombustible or fire-resistive roof coverings—such as properly installed concrete or clay tile, metal, and many Class A asphalt shingles—along with noncombustible underlayments and details at roof edges, hips, and valleys to prevent ember intrusion. Fire authorities also highlight the importance of keeping roofs free of combustible debris, since accumulation of leaves and needles on the roof or in gutters can negate the benefits of a high fire rating. In hillside areas and within the wildland–urban interface, additional requirements often address defensible space and ignition-resistant materials at eaves, vents, and skylights, which interact closely with roofing performance during ember storms. Technical bulletins from wildfire research organizations working with California agencies advise that homeowners verify that both the covering and the complete assembly (including underlayment and sheathing) are listed as Class A, as some coverings alone are not sufficient without specific underlayments. For reroofing projects, inspectors typically require product listings or evaluation reports demonstrating the tested fire classification of the proposed system before approving permits in high hazard zones.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Fire-resistant roofing and wildfire risk in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Large portions of Los Angeles County fall within **Very High Fire Hazard Severity Zones (VHFHSZ)**, where building and fire codes require enhanced fire performance from roofs and exterior materials. Under the California Building Code and California Residential Code, as locally adopted, roofs in these areas must generally have a **Class A fire-resistance rating**, the highest classification under test standards such as ASTM E108 or UL 790. Local building departments rely on these standardized tests, which evaluate flame spread, intermittent flame, and burning brand resistance, to ensure that roof assemblies can withstand embers and direct flame exposure typical of wildfires. State and local guidance for wildfire-resistant construction emphasize noncombustible or fire-resistive roof coverings—such as properly installed concrete or clay tile, metal, and many Class A asphalt shingles—along with noncombustible underlayments and details at roof edges, hips, and valleys to prevent ember intrusion. Fire authorities also highlight the importance of keeping roofs free of combustible debris, since accumulation of leaves and needles on the roof or in gutters can negate the benefits of a high fire rating. In hillside areas and within the wildland–urban interface, additional requirements often address defensible space and ignition-resistant materials at eaves, vents, and skylights, which interact closely with roofing performance during ember storms. Technical bulletins from wildfire research organizations working with California agencies advise that homeowners verify that both the covering and the complete assembly (including underlayment and sheathing) are listed as Class A, as some coverings alone are not sufficient without specific underlayments. For reroofing projects, inspectors typically require product listings or evaluation reports demonstrating the tested fire classification of the proposed system before approving permits in high hazard zones.",
+  "datePublished": "2026-08-27"
 }

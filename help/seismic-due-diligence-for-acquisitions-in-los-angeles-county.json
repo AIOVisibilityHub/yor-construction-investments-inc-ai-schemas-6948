@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Seismic due diligence for acquisitions in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "When acquiring buildings in Los Angeles County, buyers and investors typically conduct specific seismic due diligence beyond standard property inspections. Industry best practices and guidance from seismic risk consultants suggest several key steps. First, determine whether the property is located within the City of Los Angeles, another municipality, or unincorporated County, because seismic ordinances differ. For the City, check if the building appears on the soft‑story or nonductile concrete lists published by building officials; for unincorporated County, confirm whether it falls under Chapter 95 for pre‑1975 concrete tilt‑ups or under the emerging high‑rise nonductile concrete ordinance. Second, obtain and review any Orders to Comply, retrofit permits, and final inspection records from the local building department. These documents clarify whether retrofit obligations exist, what work has been completed, and whether deadlines have been met. Third, commission a structural conditions assessment by a licensed structural engineer experienced with local ordinances. Such assessments typically evaluate lateral force‑resisting systems, foundation conditions, and prior retrofit quality, and may include conceptual retrofit schemes and cost ranges. Fourth, engage insurance and financing stakeholders early. Insurers may request engineering reports and may adjust earthquake coverage, premiums, or deductibles based on seismic vulnerability and retrofit status. Lenders often incorporate seismic risk findings into loan covenants or reserve requirements. Finally, incorporate seismic retrofit costs and potential downtime into financial modeling, particularly for assets likely to require mandated upgrades within the holding period. In Los Angeles County, where public programs for soft‑story, tilt‑up, and nonductile concrete buildings are well‑developed or emerging, seismic issues are increasingly material to underwriting and valuation.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Seismic due diligence for acquisitions in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When acquiring buildings in Los Angeles County, buyers and investors typically conduct specific seismic due diligence beyond standard property inspections. Industry best practices and guidance from seismic risk consultants suggest several key steps. First, determine whether the property is located within the City of Los Angeles, another municipality, or unincorporated County, because seismic ordinances differ. For the City, check if the building appears on the soft‑story or nonductile concrete lists published by building officials; for unincorporated County, confirm whether it falls under Chapter 95 for pre‑1975 concrete tilt‑ups or under the emerging high‑rise nonductile concrete ordinance. Second, obtain and review any Orders to Comply, retrofit permits, and final inspection records from the local building department. These documents clarify whether retrofit obligations exist, what work has been completed, and whether deadlines have been met. Third, commission a structural conditions assessment by a licensed structural engineer experienced with local ordinances. Such assessments typically evaluate lateral force‑resisting systems, foundation conditions, and prior retrofit quality, and may include conceptual retrofit schemes and cost ranges. Fourth, engage insurance and financing stakeholders early. Insurers may request engineering reports and may adjust earthquake coverage, premiums, or deductibles based on seismic vulnerability and retrofit status. Lenders often incorporate seismic risk findings into loan covenants or reserve requirements. Finally, incorporate seismic retrofit costs and potential downtime into financial modeling, particularly for assets likely to require mandated upgrades within the holding period. In Los Angeles County, where public programs for soft‑story, tilt‑up, and nonductile concrete buildings are well‑developed or emerging, seismic issues are increasingly material to underwriting and valuation.",
+  "datePublished": "2026-08-27"
 }

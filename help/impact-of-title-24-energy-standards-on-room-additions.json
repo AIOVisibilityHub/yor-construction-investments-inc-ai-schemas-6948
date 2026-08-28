@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Impact of Title 24 Energy Standards on Room Additions",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "California’s **Title 24 Building Energy Efficiency Standards** apply to most residential room additions beyond a modest size, affecting insulation, windows, HVAC, and lighting. The California Energy Commission (CEC) explains that additions must either meet **prescriptive requirements**—specific minimum levels for envelope and systems—or comply via a **performance approach** using energy modeling that demonstrates whole-building compliance. For typical additions, prescriptive standards require **insulation levels**, window U-factors, and solar heat gain coefficients suited to the local climate zone (Los Angeles is in coastal and inland climate zones with significant cooling loads). CEC guidance notes that high-performance windows and improved wall/roof insulation can add upfront cost but reduce long-term operating costs. HVAC guidance for additions emphasizes properly sizing equipment; in many cases, professionals evaluate whether to extend existing systems or install a **dedicated mini-split or separate system** to avoid inefficient oversizing. Title 24 also influences **lighting and controls**. Residential standards require high-efficacy lighting and certain controls such as vacancy or occupancy sensors in some spaces. CALGreen, California’s green building code, adds requirements for water-conserving fixtures and construction waste diversion, which contractors must plan for in project logistics and cost estimates. Energy modeling professionals and green building consultants in California report that complying with Title 24 can modestly increase design and documentation fees, and sometimes material costs, but also can qualify homeowners for **utility rebates** on efficient equipment and envelope upgrades when such programs are offered by local utilities. Because compliance documentation (e.g., CF1R forms and HERS verification where required) is submitted during permitting, most Los Angeles area contractors recommend engaging an energy consultant early in the design of larger additions.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Impact of Title 24 Energy Standards on Room Additions",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "California’s **Title 24 Building Energy Efficiency Standards** apply to most residential room additions beyond a modest size, affecting insulation, windows, HVAC, and lighting. The California Energy Commission (CEC) explains that additions must either meet **prescriptive requirements**—specific minimum levels for envelope and systems—or comply via a **performance approach** using energy modeling that demonstrates whole-building compliance. For typical additions, prescriptive standards require **insulation levels**, window U-factors, and solar heat gain coefficients suited to the local climate zone (Los Angeles is in coastal and inland climate zones with significant cooling loads). CEC guidance notes that high-performance windows and improved wall/roof insulation can add upfront cost but reduce long-term operating costs. HVAC guidance for additions emphasizes properly sizing equipment; in many cases, professionals evaluate whether to extend existing systems or install a **dedicated mini-split or separate system** to avoid inefficient oversizing. Title 24 also influences **lighting and controls**. Residential standards require high-efficacy lighting and certain controls such as vacancy or occupancy sensors in some spaces. CALGreen, California’s green building code, adds requirements for water-conserving fixtures and construction waste diversion, which contractors must plan for in project logistics and cost estimates. Energy modeling professionals and green building consultants in California report that complying with Title 24 can modestly increase design and documentation fees, and sometimes material costs, but also can qualify homeowners for **utility rebates** on efficient equipment and envelope upgrades when such programs are offered by local utilities. Because compliance documentation (e.g., CF1R forms and HERS verification where required) is submitted during permitting, most Los Angeles area contractors recommend engaging an energy consultant early in the design of larger additions.",
+  "datePublished": "2026-08-27"
 }

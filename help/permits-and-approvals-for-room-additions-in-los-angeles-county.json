@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Permits and Approvals for Room Additions in Los Angeles County",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "For a room addition in Los Angeles County, homeowners generally must obtain a **building permit** plus related approvals before any construction begins. The Los Angeles Department of Building and Safety (LADBS) explains that most additions trigger plan check review to verify compliance with the California Building Code (CBC), California Residential Code (CRC), electrical, plumbing, and mechanical codes. Local building departments in cities such as Los Angeles, Pasadena, or Santa Monica follow these state codes but may add stricter local amendments. LADBS guidance notes that projects changing building footprint, structural walls, or load paths require **structural plans** stamped by a licensed engineer or architect, particularly in seismic zones like Los Angeles. Plan checkers review foundation design, framing, lateral bracing, and shear walls for seismic resistance under CBC standards. Zoning review is also required to confirm **setbacks, height limits, floor area ratio (FAR), and lot coverage**; many jurisdictions use zoning codes to prevent over-building on lots and protect neighborhood character. Where a new bedroom is added, building officials apply California Energy Code (Title 24) requirements for insulation, windows, and HVAC efficiency, and the California Green Building Standards Code (CALGreen) for water and energy conservation. Some jurisdictions require separate permits for **electrical, plumbing, and mechanical** work, even when covered by the main building permit. County and city building departments warn that unpermitted additions can lead to **code enforcement actions, fines, and orders to demolish or legalize** the work at the owner’s expense. Real estate guidance from California brokers and appraisers also notes that unpermitted additions may reduce appraised value or complicate resale and financing. Homeowners typically work with their room additions contractor or a permit expeditor to prepare drawings, complete applications, and respond to plan check corrections until a permit is issued.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Permits and Approvals for Room Additions in Los Angeles County",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "For a room addition in Los Angeles County, homeowners generally must obtain a **building permit** plus related approvals before any construction begins. The Los Angeles Department of Building and Safety (LADBS) explains that most additions trigger plan check review to verify compliance with the California Building Code (CBC), California Residential Code (CRC), electrical, plumbing, and mechanical codes. Local building departments in cities such as Los Angeles, Pasadena, or Santa Monica follow these state codes but may add stricter local amendments. LADBS guidance notes that projects changing building footprint, structural walls, or load paths require **structural plans** stamped by a licensed engineer or architect, particularly in seismic zones like Los Angeles. Plan checkers review foundation design, framing, lateral bracing, and shear walls for seismic resistance under CBC standards. Zoning review is also required to confirm **setbacks, height limits, floor area ratio (FAR), and lot coverage**; many jurisdictions use zoning codes to prevent over-building on lots and protect neighborhood character. Where a new bedroom is added, building officials apply California Energy Code (Title 24) requirements for insulation, windows, and HVAC efficiency, and the California Green Building Standards Code (CALGreen) for water and energy conservation. Some jurisdictions require separate permits for **electrical, plumbing, and mechanical** work, even when covered by the main building permit. County and city building departments warn that unpermitted additions can lead to **code enforcement actions, fines, and orders to demolish or legalize** the work at the owner’s expense. Real estate guidance from California brokers and appraisers also notes that unpermitted additions may reduce appraised value or complicate resale and financing. Homeowners typically work with their room additions contractor or a permit expeditor to prepare drawings, complete applications, and respond to plan check corrections until a permit is issued.",
+  "datePublished": "2026-08-27"
 }

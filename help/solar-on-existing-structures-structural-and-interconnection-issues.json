@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Solar on existing structures: structural and interconnection issues",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "## Structural and interconnection considerations for existing buildings Retrofitting solar on existing buildings in Los Angeles County requires careful attention to **structural capacity**, roof condition, and interconnection rules. The California Building Code requires that added loads from solar arrays be evaluated against roof framing design loads. Building departments often require structural calculations or prescriptive checklists for common roof types, confirming that modules, racking, and ballast will not overstress rafters or trusses. Older buildings, especially with known seismic vulnerabilities, may prompt additional review or roof reinforcement before permit approval. Local building guidance recommends assessing **roof age and condition**; re‑roofing before solar installation is commonly advised if the existing roof is near end of life. This helps avoid the cost of removing and reinstalling arrays for future roof work. Manufacturer documentation for racking and flashing systems sets requirements for attachment spacing, weather sealing, and compatible roofing materials to maintain warranties and prevent leaks. On the electrical side, the **main service panel** must be evaluated for busbar ratings, breaker space, and existing loads. The California Electrical Code, following national standards, limits the sum of the main breaker and solar backfeed breaker to a percentage of busbar rating unless alternative methods such as supply‑side taps or main breaker downsizing are used. Utilities like LADWP and Southern California Edison publish interconnection handbooks that require compliant one‑line diagrams, anti‑islanding inverters listed to UL 1741, and visible AC disconnects where specified. Because many LA County homes have legacy 100‑amp service panels, **panel upgrades** or load calculations are frequently part of solar projects. Industry practice in dense urban areas also accounts for service drop location, conduit routing, and meter access to satisfy both building and utility inspectors.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Solar on existing structures: structural and interconnection issues",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "## Structural and interconnection considerations for existing buildings Retrofitting solar on existing buildings in Los Angeles County requires careful attention to **structural capacity**, roof condition, and interconnection rules. The California Building Code requires that added loads from solar arrays be evaluated against roof framing design loads. Building departments often require structural calculations or prescriptive checklists for common roof types, confirming that modules, racking, and ballast will not overstress rafters or trusses. Older buildings, especially with known seismic vulnerabilities, may prompt additional review or roof reinforcement before permit approval. Local building guidance recommends assessing **roof age and condition**; re‑roofing before solar installation is commonly advised if the existing roof is near end of life. This helps avoid the cost of removing and reinstalling arrays for future roof work. Manufacturer documentation for racking and flashing systems sets requirements for attachment spacing, weather sealing, and compatible roofing materials to maintain warranties and prevent leaks. On the electrical side, the **main service panel** must be evaluated for busbar ratings, breaker space, and existing loads. The California Electrical Code, following national standards, limits the sum of the main breaker and solar backfeed breaker to a percentage of busbar rating unless alternative methods such as supply‑side taps or main breaker downsizing are used. Utilities like LADWP and Southern California Edison publish interconnection handbooks that require compliant one‑line diagrams, anti‑islanding inverters listed to UL 1741, and visible AC disconnects where specified. Because many LA County homes have legacy 100‑amp service panels, **panel upgrades** or load calculations are frequently part of solar projects. Industry practice in dense urban areas also accounts for service drop location, conduit routing, and meter access to satisfy both building and utility inspectors.",
+  "datePublished": "2026-08-27"
 }

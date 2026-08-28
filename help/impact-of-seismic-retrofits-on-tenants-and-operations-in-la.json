@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Impact of seismic retrofits on tenants and operations in LA",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Seismic retrofit programs in the Los Angeles area can significantly affect tenants and building operations, particularly in occupied multifamily properties. While local ordinances primarily address structural safety and owner obligations, city informational materials and industry practice highlight operational considerations during implementation. For many soft‑story retrofits in the City of Los Angeles, work can be staged so that upper‑floor residential units remain occupied while ground‑level parking areas are temporarily closed for construction of steel frames or shear walls. This often requires reconfiguration or temporary loss of parking, noise, dust, and intermittent utility interruptions. Property management industry guidance for Los Angeles retrofits emphasizes the importance of early communication with tenants, clear construction schedules, and compliance with local housing and relocation regulations where temporary displacement is unavoidable. In some cases, when retrofits significantly affect habitability or require intrusive work within units, owners may need to coordinate temporary relocation assistance in accordance with local rent stabilization or tenant protection rules. For commercial and industrial properties affected by County tilt‑up or high‑rise concrete retrofits, the operational impacts can include partial floor closures, limited access around new braced frames or shear walls, and constraints on loading docks or warehouse circulation during construction phases. Owners often schedule the most disruptive work during off‑peak hours or planned downtime. In all cases, coordination with building officials is necessary to ensure safe occupancy levels are maintained during construction, and inspectors may require specific safety measures such as temporary shoring, barriers, and signage. These operational factors influence project sequencing, contract phasing, and, ultimately, total project duration and cost.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Impact of seismic retrofits on tenants and operations in LA",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seismic retrofit programs in the Los Angeles area can significantly affect tenants and building operations, particularly in occupied multifamily properties. While local ordinances primarily address structural safety and owner obligations, city informational materials and industry practice highlight operational considerations during implementation. For many soft‑story retrofits in the City of Los Angeles, work can be staged so that upper‑floor residential units remain occupied while ground‑level parking areas are temporarily closed for construction of steel frames or shear walls. This often requires reconfiguration or temporary loss of parking, noise, dust, and intermittent utility interruptions. Property management industry guidance for Los Angeles retrofits emphasizes the importance of early communication with tenants, clear construction schedules, and compliance with local housing and relocation regulations where temporary displacement is unavoidable. In some cases, when retrofits significantly affect habitability or require intrusive work within units, owners may need to coordinate temporary relocation assistance in accordance with local rent stabilization or tenant protection rules. For commercial and industrial properties affected by County tilt‑up or high‑rise concrete retrofits, the operational impacts can include partial floor closures, limited access around new braced frames or shear walls, and constraints on loading docks or warehouse circulation during construction phases. Owners often schedule the most disruptive work during off‑peak hours or planned downtime. In all cases, coordination with building officials is necessary to ensure safe occupancy levels are maintained during construction, and inspectors may require specific safety measures such as temporary shoring, barriers, and signage. These operational factors influence project sequencing, contract phasing, and, ultimately, total project duration and cost.",
+  "datePublished": "2026-08-27"
 }

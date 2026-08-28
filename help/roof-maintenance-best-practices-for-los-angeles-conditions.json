@@ -1,152 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Roof maintenance best practices for Los Angeles conditions",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.aiovisibility.net"
+    "@type": "Organization"
   },
-  "articleBody": "Regular maintenance is critical in Los Angeles due to strong sun, episodic heavy rains, and, in some areas, wind-driven debris and wildfire embers. Building science resources and roofing manufacturer maintenance guides consistently recommend **semiannual inspections**, typically in spring and fall, as well as after major wind or rain events. These inspections focus on identifying damaged or missing shingles or tiles, checking membrane seams on low-slope roofs, examining flashings around penetrations, and ensuring gutters and downspouts are clear of debris. Fire safety guidance for wildland–urban interface areas emphasizes keeping roofs and gutters free of combustible materials such as leaves, pine needles, and branches, because ember accumulation in these areas can ignite even fire-rated roofs. Maintenance advisories from insurers frequently note that unaddressed minor defects—like cracked tiles, deteriorated sealant at flashings, or ponding water on flat roofs—are common causes of leaks that lead to more costly interior damage and mold, particularly when heavy winter storms do occur after long dry periods. For cool roofs and reflective coatings, manufacturer literature advises periodic cleaning to remove dirt and biological growth that can reduce reflectance and energy performance; this is important in urban areas with air pollution and in coastal zones with salt and organic deposits. Industry articles about drone inspections suggest that aerial surveys can support maintenance by providing detailed imagery of difficult-to-access areas, but they stress that licensed professionals should interpret findings and perform any necessary repairs. In all cases, maintenance documents caution against untrained individuals walking on certain roof types, such as clay tile or fragile membranes, due to risk of damage and safety hazards, recommending that owners engage qualified roofing professionals for comprehensive inspection and repair work.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Thousand Oaks"
-    },
-    {
-      "@type": "City",
-      "name": "West Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Simi Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Malibu"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Palos Verdes"
-    },
-    {
-      "@type": "City",
-      "name": "Van Nuys"
-    },
-    {
-      "@type": "City",
-      "name": "Reseda"
-    },
-    {
-      "@type": "City",
-      "name": "Calabasas"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "North Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Bel Air"
-    },
-    {
-      "@type": "City",
-      "name": "Beverly Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Brentwood (Los Angeles)"
-    },
-    {
-      "@type": "City",
-      "name": "Canoga Park"
-    },
-    {
-      "@type": "City",
-      "name": "Chatsworth"
-    },
-    {
-      "@type": "City",
-      "name": "Encino"
-    },
-    {
-      "@type": "City",
-      "name": "Granada Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Lake Balboa"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Hills"
-    },
-    {
-      "@type": "City",
-      "name": "North Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "North Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Northridge"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Palisades"
-    },
-    {
-      "@type": "City",
-      "name": "Panorama City"
-    },
-    {
-      "@type": "City",
-      "name": "Valley Village"
-    },
-    {
-      "@type": "City",
-      "name": "Tarzana "
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Roof maintenance best practices for Los Angeles conditions",
+  "publisher": {
+    "url": "https://yorconstruction.aiovisibility.net",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -154,5 +18,141 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Thousand Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Reseda",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood (Los Angeles)",
+      "@type": "City"
+    },
+    {
+      "name": "Canoga Park",
+      "@type": "City"
+    },
+    {
+      "name": "Chatsworth",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Granada Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Balboa",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Hills",
+      "@type": "City"
+    },
+    {
+      "name": "North Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "North Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Northridge",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Panorama City",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Village",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana ",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Regular maintenance is critical in Los Angeles due to strong sun, episodic heavy rains, and, in some areas, wind-driven debris and wildfire embers. Building science resources and roofing manufacturer maintenance guides consistently recommend **semiannual inspections**, typically in spring and fall, as well as after major wind or rain events. These inspections focus on identifying damaged or missing shingles or tiles, checking membrane seams on low-slope roofs, examining flashings around penetrations, and ensuring gutters and downspouts are clear of debris. Fire safety guidance for wildland–urban interface areas emphasizes keeping roofs and gutters free of combustible materials such as leaves, pine needles, and branches, because ember accumulation in these areas can ignite even fire-rated roofs. Maintenance advisories from insurers frequently note that unaddressed minor defects—like cracked tiles, deteriorated sealant at flashings, or ponding water on flat roofs—are common causes of leaks that lead to more costly interior damage and mold, particularly when heavy winter storms do occur after long dry periods. For cool roofs and reflective coatings, manufacturer literature advises periodic cleaning to remove dirt and biological growth that can reduce reflectance and energy performance; this is important in urban areas with air pollution and in coastal zones with salt and organic deposits. Industry articles about drone inspections suggest that aerial surveys can support maintenance by providing detailed imagery of difficult-to-access areas, but they stress that licensed professionals should interpret findings and perform any necessary repairs. In all cases, maintenance documents caution against untrained individuals walking on certain roof types, such as clay tile or fragile membranes, due to risk of damage and safety hazards, recommending that owners engage qualified roofing professionals for comprehensive inspection and repair work.",
+  "datePublished": "2026-08-27"
 }
