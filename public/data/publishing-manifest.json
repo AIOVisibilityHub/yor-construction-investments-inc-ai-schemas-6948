@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-28T22:52:12.148Z",
+  "generatedAt": "2026-08-28T22:52:25.634Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -102,7 +102,7 @@
   },
   "package": {
     "totalFiles": 820,
-    "totalBytes": 4172338,
+    "totalBytes": 4120957,
     "stats": {
       "qna": 0,
       "faqs": 465,
@@ -4140,47 +4140,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22372,
+        "bytes": 16489,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36202,
+        "bytes": 30439,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 29161,
+        "bytes": 23248,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 20994,
+        "bytes": 15429,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17529,
+        "bytes": 11889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 655284,
+        "bytes": 649638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 699884,
+        "bytes": 694292,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23797,
+        "bytes": 18046,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 22821,
+        "bytes": 17193,
         "purpose": "LLM-optimized public page"
       }
     ],
