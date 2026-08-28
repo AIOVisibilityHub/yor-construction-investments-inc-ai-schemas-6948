@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect during inspections on a commercial project?",
-  "description": "Inspections usually verify that the work matches approved plans and code requirements at key stages of construction. If something is not ready or does not match",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-expect-during-inspections-on-a-commercial-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect during inspections on a commercial project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Inspections usually verify that the work matches approved plans and code requirements at key stages of construction. If something is not ready or does not match the approved scope, the project can be delayed until it is corrected and rechecked."
-      }
-    }
-  ],
+  "name": "What should I expect during inspections on a commercial project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during inspections on a commercial project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspections usually verify that the work matches approved plans and code requirements at key stages of construction. If something is not ready or does not match the approved scope, the project can be delayed until it is corrected and rechecked.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Inspections usually verify that the work matches approved plans and code requirements at key stages of construction. If something is not ready or does not match"
 }

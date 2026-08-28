@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What layout rules should I know so my new kitchen actually works better, not just looks nicer?",
-  "description": "Focus on the **work triangle or work zones, clear pathways, and enough countertop landing space** near appliances and the sink. A beautiful kitchen that’s awkwa",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-layout-rules-should-i-know-so-my-new-kitchen-actually-works-better-not-just",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What layout rules should I know so my new kitchen actually works better, not just looks nicer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Focus on the **work triangle or work zones, clear pathways, and enough countertop landing space** near appliances and the sink. A beautiful kitchen that’s awkward to use quickly becomes frustrating.\n\nGood layout planning can often improve function more than expensive finishes.\n\nKey factors:\n- Efficient relationship between sink, cooktop, and refrigerator (or clearly defined zones)\n- At least one main prep area near the sink and trash\n- Adequate landing space on both sides of cooking and near the fridge\n- Walkways typically at least about 36 inches wide, more in busy households\n\nAsk your designer or contractor to walk through how you cook today and how you’d move in the new layout. Use tape on the floor or simple sketches to visualize clearances and appliance door swings.\n\nPrioritizing ergonomics and workflow pays off every single day you use the kitchen."
-      }
-    }
-  ],
+  "name": "What layout rules should I know so my new kitchen actually works better, not just looks nicer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What layout rules should I know so my new kitchen actually works better, not just looks nicer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Focus on the **work triangle or work zones, clear pathways, and enough countertop landing space** near appliances and the sink. A beautiful kitchen that’s awkward to use quickly becomes frustrating.\n\nGood layout planning can often improve function more than expensive finishes.\n\nKey factors:\n- Efficient relationship between sink, cooktop, and refrigerator (or clearly defined zones)\n- At least one main prep area near the sink and trash\n- Adequate landing space on both sides of cooking and near the fridge\n- Walkways typically at least about 36 inches wide, more in busy households\n\nAsk your designer or contractor to walk through how you cook today and how you’d move in the new layout. Use tape on the floor or simple sketches to visualize clearances and appliance door swings.\n\nPrioritizing ergonomics and workflow pays off every single day you use the kitchen.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Focus on the **work triangle or work zones, clear pathways, and enough countertop landing space** near appliances and the sink. A beautiful kitchen that’s awkwa"
 }

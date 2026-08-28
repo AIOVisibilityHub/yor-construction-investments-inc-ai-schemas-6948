@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Signs of foundation problems?",
-  "description": "Doors sticking, diagonal wall cracks >1/4\", sloping floors (test with a marble).",
   "url": "https://yorconstruction.com/faq/signs-of-foundation-problems",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Signs of foundation problems?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Doors sticking, diagonal wall cracks >1/4\", sloping floors (test with a marble)."
-      }
-    }
-  ],
+  "name": "Signs of foundation problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Signs of foundation problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Doors sticking, diagonal wall cracks >1/4\", sloping floors (test with a marble).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Doors sticking, diagonal wall cracks >1/4\", sloping floors (test with a marble)."
 }

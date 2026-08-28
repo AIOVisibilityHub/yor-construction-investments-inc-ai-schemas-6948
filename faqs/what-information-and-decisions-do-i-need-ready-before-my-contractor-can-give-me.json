@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information and decisions do I need ready before my contractor can give me a solid addition quote?",
-  "description": "To get a reliable quote, you need a clear scope, basic dimensions, and at least rough choices for finishes and fixtures. The more specific you are, the fewer as",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-information-and-decisions-do-i-need-ready-before-my-contractor-can-give-me",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information and decisions do I need ready before my contractor can give me a solid addition quote?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To get a reliable quote, you need a clear scope, basic dimensions, and at least rough choices for finishes and fixtures. The more specific you are, the fewer assumptions a contractor must price.\n\nVague requests like “a master suite” or “bigger family room” inevitably produce wide‑ranging estimates. Sharper inputs produce tighter, more comparable bids.\n\nKey factors:\n- Sketch or description of layout and approximate size\n- Desired room types and any special features (fireplace, built‑ins)\n- Finish level (economy, mid‑range, or high‑end) with a few examples\n- Any known constraints (must keep existing roofline, limited yard)\n\nMake a simple written brief with your goals, rough room sizes, inspiration photos, and a candid budget range. Share it with the contractor and be ready to answer clarifying questions. A good addition contractor will help refine the scope so the quote closely matches what you actually want to build."
-      }
-    }
-  ],
+  "name": "What information and decisions do I need ready before my contractor can give me a solid addition quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information and decisions do I need ready before my contractor can give me a solid addition quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get a reliable quote, you need a clear scope, basic dimensions, and at least rough choices for finishes and fixtures. The more specific you are, the fewer assumptions a contractor must price.\n\nVague requests like “a master suite” or “bigger family room” inevitably produce wide‑ranging estimates. Sharper inputs produce tighter, more comparable bids.\n\nKey factors:\n- Sketch or description of layout and approximate size\n- Desired room types and any special features (fireplace, built‑ins)\n- Finish level (economy, mid‑range, or high‑end) with a few examples\n- Any known constraints (must keep existing roofline, limited yard)\n\nMake a simple written brief with your goals, rough room sizes, inspiration photos, and a candid budget range. Share it with the contractor and be ready to answer clarifying questions. A good addition contractor will help refine the scope so the quote closely matches what you actually want to build.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To get a reliable quote, you need a clear scope, basic dimensions, and at least rough choices for finishes and fixtures. The more specific you are, the fewer as"
 }

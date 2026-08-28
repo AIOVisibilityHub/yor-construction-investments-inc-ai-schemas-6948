@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does adding a bedroom or bathroom affect resale value specifically in places like Pasadena or Sherman Oaks?",
-  "description": "In established LA‑area neighborhoods like Pasadena and Sherman Oaks, adding a well‑designed bedroom or bathroom often improves resale because it makes your home",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-does-adding-a-bedroom-or-bathroom-affect-resale-value-specifically-in-places",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does adding a bedroom or bathroom affect resale value specifically in places like Pasadena or Sherman Oaks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In established LA‑area neighborhoods like Pasadena and Sherman Oaks, adding a well‑designed bedroom or bathroom often improves resale because it makes your home compete better with nearby listings. The exact value bump depends on the starting configuration and market trends when you sell.\n\nGoing from two to three bedrooms or from one to two full baths typically opens your home to a much wider buyer pool. However, poor layout or low‑quality finishes can limit that benefit.\n\nKey factors:\n- Typical bedroom and bathroom counts for nearby homes\n- Whether you’re eliminating awkward layouts (e.g., only hall bath)\n- Quality and style of fixtures relative to local expectations\n- How long until you plan to sell\n\nAsk a local agent to run recent comps showing price differences between homes with your current layout and the one you’re planning. Then design the new bedroom or bath to feel integrated, not squeezed in. A contractor who knows these neighborhoods can help align finish quality with local buyer expectations."
-      }
-    }
-  ],
+  "name": "How does adding a bedroom or bathroom affect resale value specifically in places like Pasadena or Sherman Oaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does adding a bedroom or bathroom affect resale value specifically in places like Pasadena or Sherman Oaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In established LA‑area neighborhoods like Pasadena and Sherman Oaks, adding a well‑designed bedroom or bathroom often improves resale because it makes your home compete better with nearby listings. The exact value bump depends on the starting configuration and market trends when you sell.\n\nGoing from two to three bedrooms or from one to two full baths typically opens your home to a much wider buyer pool. However, poor layout or low‑quality finishes can limit that benefit.\n\nKey factors:\n- Typical bedroom and bathroom counts for nearby homes\n- Whether you’re eliminating awkward layouts (e.g., only hall bath)\n- Quality and style of fixtures relative to local expectations\n- How long until you plan to sell\n\nAsk a local agent to run recent comps showing price differences between homes with your current layout and the one you’re planning. Then design the new bedroom or bath to feel integrated, not squeezed in. A contractor who knows these neighborhoods can help align finish quality with local buyer expectations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In established LA‑area neighborhoods like Pasadena and Sherman Oaks, adding a well‑designed bedroom or bathroom often improves resale because it makes your home"
 }

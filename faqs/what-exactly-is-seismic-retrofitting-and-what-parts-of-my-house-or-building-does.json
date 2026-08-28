@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What exactly is seismic retrofitting and what parts of my house or building does it usually involve?",
-  "description": "Seismic retrofitting is the process of strengthening an existing structure so it better resists earthquake shaking and reduces damage and collapse risk. It does",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-exactly-is-seismic-retrofitting-and-what-parts-of-my-house-or-building-does",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What exactly is seismic retrofitting and what parts of my house or building does it usually involve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Seismic retrofitting is the process of strengthening an existing structure so it better resists earthquake shaking and reduces damage and collapse risk. It doesn’t make a building “earthquake-proof,” but it can dramatically improve safety and performance.\n\nFor homes and low-rise buildings, the work focuses on the load path that carries earthquake forces from the roof down into the foundation. For mid- and high-rise buildings, it may also target structural frames, connections, and brittle elements.\n\nKey factors:\n- Foundations and cripple walls (bolting, bracing, shear walls, hold-downs)\n- Soft or weak first stories (adding steel moment frames or shear walls)\n- Connections between floors, walls, and roof\n- Hazardous elements like parapets, chimneys, and heavy cladding\n\nAsk your engineer or contractor to walk you through the “before and after” load path so you understand exactly what’s being strengthened and why. The best projects focus on critical weaknesses first, rather than cosmetic work that doesn’t meaningfully improve performance.\n\nA solid retrofit plan targets the real structural vulnerabilities, not just what’s easy to sell."
-      }
-    }
-  ],
+  "name": "What exactly is seismic retrofitting and what parts of my house or building does it usually involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What exactly is seismic retrofitting and what parts of my house or building does it usually involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seismic retrofitting is the process of strengthening an existing structure so it better resists earthquake shaking and reduces damage and collapse risk. It doesn’t make a building “earthquake-proof,” but it can dramatically improve safety and performance.\n\nFor homes and low-rise buildings, the work focuses on the load path that carries earthquake forces from the roof down into the foundation. For mid- and high-rise buildings, it may also target structural frames, connections, and brittle elements.\n\nKey factors:\n- Foundations and cripple walls (bolting, bracing, shear walls, hold-downs)\n- Soft or weak first stories (adding steel moment frames or shear walls)\n- Connections between floors, walls, and roof\n- Hazardous elements like parapets, chimneys, and heavy cladding\n\nAsk your engineer or contractor to walk you through the “before and after” load path so you understand exactly what’s being strengthened and why. The best projects focus on critical weaknesses first, rather than cosmetic work that doesn’t meaningfully improve performance.\n\nA solid retrofit plan targets the real structural vulnerabilities, not just what’s easy to sell.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Seismic retrofitting is the process of strengthening an existing structure so it better resists earthquake shaking and reduces damage and collapse risk. It does"
 }

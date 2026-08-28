@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Retaining Walls",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Retaining Walls\n\nQ: Permits needed for retaining walls?\nA: CA requires permits for walls >4' tall. We engineer walls to meet seismic Zone 4 requirements.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Retaining Walls",
+  "publisher": {
+    "url": "https://yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Retaining Walls\n\nQ: Permits needed for retaining walls?\nA: CA requires permits for walls >4' tall. We engineer walls to meet seismic Zone 4 requirements.",
+  "datePublished": "2026-08-27"
 }

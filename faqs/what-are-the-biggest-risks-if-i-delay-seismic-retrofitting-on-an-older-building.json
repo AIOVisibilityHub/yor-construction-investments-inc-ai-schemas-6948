@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
-  "description": "Delaying seismic retrofitting increases both life‑safety risk during an earthquake and your financial and legal exposure afterward. Older soft‑story, masonry, a",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-are-the-biggest-risks-if-i-delay-seismic-retrofitting-on-an-older-building",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delaying seismic retrofitting increases both life‑safety risk during an earthquake and your financial and legal exposure afterward. Older soft‑story, masonry, and brittle concrete buildings are disproportionately likely to suffer severe damage or collapse in strong shaking.\n\nBeyond life safety, unretrofitted buildings can be red‑tagged, forcing tenants out and cutting off your rental income. There can also be enforcement actions for ignoring mandatory retrofit orders, and future insurance coverage may tighten for non‑compliant properties.\n\nKey factors:\n- Higher risk of partial or full collapse and injury\n- Longer downtime for repairs or demolition after a major quake\n- Potential code enforcement penalties and reduced insurability\n- Reduced property value and buyer interest compared to retrofitted peers\n\nIf you truly can’t retrofit immediately, at least get a structural evaluation and a phased plan so you know your worst vulnerabilities. Use that to prioritize the highest‑impact fixes as budget allows.\n\nA proactive retrofit strategy usually costs less than rebuilding or losing the property after a major quake."
-      }
-    }
-  ],
+  "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks if I delay seismic retrofitting on an older building in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delaying seismic retrofitting increases both life‑safety risk during an earthquake and your financial and legal exposure afterward. Older soft‑story, masonry, and brittle concrete buildings are disproportionately likely to suffer severe damage or collapse in strong shaking.\n\nBeyond life safety, unretrofitted buildings can be red‑tagged, forcing tenants out and cutting off your rental income. There can also be enforcement actions for ignoring mandatory retrofit orders, and future insurance coverage may tighten for non‑compliant properties.\n\nKey factors:\n- Higher risk of partial or full collapse and injury\n- Longer downtime for repairs or demolition after a major quake\n- Potential code enforcement penalties and reduced insurability\n- Reduced property value and buyer interest compared to retrofitted peers\n\nIf you truly can’t retrofit immediately, at least get a structural evaluation and a phased plan so you know your worst vulnerabilities. Use that to prioritize the highest‑impact fixes as budget allows.\n\nA proactive retrofit strategy usually costs less than rebuilding or losing the property after a major quake.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Delaying seismic retrofitting increases both life‑safety risk during an earthquake and your financial and legal exposure afterward. Older soft‑story, masonry, a"
 }

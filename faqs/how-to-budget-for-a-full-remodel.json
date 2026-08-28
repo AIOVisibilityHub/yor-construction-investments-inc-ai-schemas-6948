@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to budget for a full remodel?",
-  "description": "Allocate: 25% kitchen, 20% baths, 15% flooring, 10% electrical, 10% contingency. CA permits add 8-12%.",
   "url": "https://yorconstruction.com/faq/how-to-budget-for-a-full-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to budget for a full remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Allocate: 25% kitchen, 20% baths, 15% flooring, 10% electrical, 10% contingency. CA permits add 8-12%."
-      }
-    }
-  ],
+  "name": "How to budget for a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to budget for a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Allocate: 25% kitchen, 20% baths, 15% flooring, 10% electrical, 10% contingency. CA permits add 8-12%.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Allocate: 25% kitchen, 20% baths, 15% flooring, 10% electrical, 10% contingency. CA permits add 8-12%."
 }

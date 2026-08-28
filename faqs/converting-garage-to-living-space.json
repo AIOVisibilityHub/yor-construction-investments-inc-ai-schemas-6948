@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Converting garage to living space?",
-  "description": "CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County.",
   "url": "https://yorconstruction.com/faq/converting-garage-to-living-space",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Converting garage to living space?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County."
-      }
-    }
-  ],
+  "name": "Converting garage to living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Converting garage to living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County."
 }

@@ -1,14 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "url": "https://yorconstruction.com",
   "name": "YOR Construction & Investments, Inc. - YOR Construction & Investments, Inc. Office",
+  "@type": "LocalBusiness",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "12135 Miranda Street, Suite 204",
-    "addressLocality": "Valley Village",
+    "postalCode": "91607",
     "addressRegion": "CA",
-    "postalCode": "91607"
+    "streetAddress": "12135 Miranda Street, Suite 204",
+    "addressLocality": "Valley Village"
   },
-  "telephone": "+1-888-457-7746",
-  "url": "https://yorconstruction.com"
+  "@context": "https://schema.org",
+  "telephone": "+1-888-457-7746"
 }

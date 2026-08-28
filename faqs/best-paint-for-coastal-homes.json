@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best paint for coastal homes?",
-  "description": "100% acrylic elastomeric (stretches with temperature swings) with mildewcide for CA marine layer areas.",
   "url": "https://yorconstruction.com/faq/best-paint-for-coastal-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best paint for coastal homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "100% acrylic elastomeric (stretches with temperature swings) with mildewcide for CA marine layer areas."
-      }
-    }
-  ],
+  "name": "Best paint for coastal homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best paint for coastal homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "100% acrylic elastomeric (stretches with temperature swings) with mildewcide for CA marine layer areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "100% acrylic elastomeric (stretches with temperature swings) with mildewcide for CA marine layer areas."
 }

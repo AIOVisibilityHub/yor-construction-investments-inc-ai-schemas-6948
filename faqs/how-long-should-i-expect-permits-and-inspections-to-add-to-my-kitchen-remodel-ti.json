@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long should I expect permits and inspections to add to my kitchen remodel timeline in Los Angeles City?",
-  "description": "In Los Angeles City, **permits and inspections for a kitchen remodel can add anywhere from a couple of weeks to a few months**, depending on scope and city work",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-should-i-expect-permits-and-inspections-to-add-to-my-kitchen-remodel-ti",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long should I expect permits and inspections to add to my kitchen remodel timeline in Los Angeles City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In Los Angeles City, **permits and inspections for a kitchen remodel can add anywhere from a couple of weeks to a few months**, depending on scope and city workload. Simple projects move faster; structural or major electrical changes take longer.\n\nThe permit phase is often the most underestimated part of the schedule.\n\nKey factors:\n- Complexity of plans (structural changes vs. like‑for‑like updates)\n- Whether plan check is required or you qualify for over‑the‑counter permits\n- City backlog and inspection availability\n- How quickly your team responds to corrections or comments\n\nAsk your contractor for a realistic permitting timeline based on recent projects in Los Angeles and build that into your expectations before setting any hard deadlines. Avoid booking big events around optimistic dates.\n\nAllowing extra time for bureaucracy helps the rest of the schedule feel smoother."
-      }
-    }
-  ],
+  "name": "How long should I expect permits and inspections to add to my kitchen remodel timeline in Los Angeles City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long should I expect permits and inspections to add to my kitchen remodel timeline in Los Angeles City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles City, **permits and inspections for a kitchen remodel can add anywhere from a couple of weeks to a few months**, depending on scope and city workload. Simple projects move faster; structural or major electrical changes take longer.\n\nThe permit phase is often the most underestimated part of the schedule.\n\nKey factors:\n- Complexity of plans (structural changes vs. like‑for‑like updates)\n- Whether plan check is required or you qualify for over‑the‑counter permits\n- City backlog and inspection availability\n- How quickly your team responds to corrections or comments\n\nAsk your contractor for a realistic permitting timeline based on recent projects in Los Angeles and build that into your expectations before setting any hard deadlines. Avoid booking big events around optimistic dates.\n\nAllowing extra time for bureaucracy helps the rest of the schedule feel smoother.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In Los Angeles City, **permits and inspections for a kitchen remodel can add anywhere from a couple of weeks to a few months**, depending on scope and city work"
 }

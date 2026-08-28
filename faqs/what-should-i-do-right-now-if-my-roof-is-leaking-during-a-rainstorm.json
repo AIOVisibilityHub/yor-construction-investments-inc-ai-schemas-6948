@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do right now if my roof is leaking during a rainstorm?",
-  "description": "First, **protect the inside**: move belongings, catch the water in containers, and relieve ceiling water bubbles if safe. Then contact a roofer for an **emergen",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-right-now-if-my-roof-is-leaking-during-a-rainstorm",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do right now if my roof is leaking during a rainstorm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "First, **protect the inside**: move belongings, catch the water in containers, and relieve ceiling water bubbles if safe. Then contact a roofer for an **emergency tarp or temporary repair** as soon as the weather allows.\n\nStopping interior damage quickly matters more than finding the perfect long-term solution in the moment. Once the storm passes, a proper inspection can identify the source and scope of permanent repairs or replacement.\n\nKey factors:\n- Safety: avoid standing water near electrical fixtures\n- Minimizing interior damage: buckets, towels, plastic sheeting\n- Documenting damage with photos for insurance\n- Arranging emergency tarping or patching\n\nTurn off electricity in affected areas if water is near lights or outlets, and punch a small hole in a bulging ceiling bubble to drain into a bucket before it collapses. After the storm, get a written repair plan and clarify with your roofer what’s temporary versus permanent."
-      }
-    }
-  ],
+  "name": "What should I do right now if my roof is leaking during a rainstorm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do right now if my roof is leaking during a rainstorm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, **protect the inside**: move belongings, catch the water in containers, and relieve ceiling water bubbles if safe. Then contact a roofer for an **emergency tarp or temporary repair** as soon as the weather allows.\n\nStopping interior damage quickly matters more than finding the perfect long-term solution in the moment. Once the storm passes, a proper inspection can identify the source and scope of permanent repairs or replacement.\n\nKey factors:\n- Safety: avoid standing water near electrical fixtures\n- Minimizing interior damage: buckets, towels, plastic sheeting\n- Documenting damage with photos for insurance\n- Arranging emergency tarping or patching\n\nTurn off electricity in affected areas if water is near lights or outlets, and punch a small hole in a bulging ceiling bubble to drain into a bucket before it collapses. After the storm, get a written repair plan and clarify with your roofer what’s temporary versus permanent.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "First, **protect the inside**: move belongings, catch the water in containers, and relieve ceiling water bubbles if safe. Then contact a roofer for an **emergen"
 }

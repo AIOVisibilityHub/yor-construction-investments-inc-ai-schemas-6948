@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should I budget for unexpected issues?",
-  "description": "A contingency reserve of about 10% to 20% of the project cost is a practical starting point. That buffer can help cover hidden repairs, code-related upgrades, o",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-much-should-i-budget-for-unexpected-issues",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should I budget for unexpected issues?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A contingency reserve of about 10% to 20% of the project cost is a practical starting point. That buffer can help cover hidden repairs, code-related upgrades, or material substitutions without stalling the project. If your home is older, the safer end of that range is usually more realistic."
-      }
-    }
-  ],
+  "name": "How much should I budget for unexpected issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for unexpected issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingency reserve of about 10% to 20% of the project cost is a practical starting point. That buffer can help cover hidden repairs, code-related upgrades, or material substitutions without stalling the project. If your home is older, the safer end of that range is usually more realistic.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A contingency reserve of about 10% to 20% of the project cost is a practical starting point. That buffer can help cover hidden repairs, code-related upgrades, o"
 }

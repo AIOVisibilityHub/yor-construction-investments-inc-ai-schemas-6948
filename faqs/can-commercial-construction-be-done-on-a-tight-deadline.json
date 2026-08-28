@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can commercial construction be done on a tight deadline?",
-  "description": "Yes, but only if the scope is controlled and the team plans around permits, inspections, material lead times, and trade sequencing. Fast-track work usually requ",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-commercial-construction-be-done-on-a-tight-deadline",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can commercial construction be done on a tight deadline?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but only if the scope is controlled and the team plans around permits, inspections, material lead times, and trade sequencing. Fast-track work usually requires earlier decisions, faster approvals, and close communication so delays do not stack up."
-      }
-    }
-  ],
+  "name": "Can commercial construction be done on a tight deadline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can commercial construction be done on a tight deadline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but only if the scope is controlled and the team plans around permits, inspections, material lead times, and trade sequencing. Fast-track work usually requires earlier decisions, faster approvals, and close communication so delays do not stack up.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but only if the scope is controlled and the team plans around permits, inspections, material lead times, and trade sequencing. Fast-track work usually requ"
 }

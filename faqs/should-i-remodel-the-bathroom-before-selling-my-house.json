@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I remodel the bathroom before selling my house?",
-  "description": "A bathroom remodel can help a home show better, but only if the improvements are aligned with local buyer expectations and your budget. Cosmetic updates often m",
   "url": "https://yorconstruction.aiovisibility.net/faq/should-i-remodel-the-bathroom-before-selling-my-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I remodel the bathroom before selling my house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A bathroom remodel can help a home show better, but only if the improvements are aligned with local buyer expectations and your budget. Cosmetic updates often make more sense than a full luxury overhaul if you are selling soon. In many cases, a clean, updated, well-lit bathroom delivers more market appeal than an expensive custom design."
-      }
-    }
-  ],
+  "name": "Should I remodel the bathroom before selling my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel the bathroom before selling my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodel can help a home show better, but only if the improvements are aligned with local buyer expectations and your budget. Cosmetic updates often make more sense than a full luxury overhaul if you are selling soon. In many cases, a clean, updated, well-lit bathroom delivers more market appeal than an expensive custom design.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A bathroom remodel can help a home show better, but only if the improvements are aligned with local buyer expectations and your budget. Cosmetic updates often m"
 }

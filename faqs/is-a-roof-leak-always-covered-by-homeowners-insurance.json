@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is a roof leak always covered by homeowners insurance?",
-  "description": "Homeowners insurance usually covers **sudden, accidental damage** (like wind or impact) but often excludes leaks caused by **wear, neglect, or lack of maintenan",
   "url": "https://yorconstruction.aiovisibility.net/faq/is-a-roof-leak-always-covered-by-homeowners-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is a roof leak always covered by homeowners insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Homeowners insurance usually covers **sudden, accidental damage** (like wind or impact) but often excludes leaks caused by **wear, neglect, or lack of maintenance**. Many roof claims are partially or fully denied for being “gradual damage.”\n\nInsurance is designed for unexpected events, not for handling normal aging or long-ignored issues. Documentation and prompt reporting help your chances.\n\nKey factors:\n- Policy language on roof and water damage\n- Cause of the leak: storm damage vs. long-term deterioration\n- Age and condition of the roof before the leak\n- How quickly you reported the issue and prevented further damage\n\nReview your policy and call your insurer’s claims line for specifics. Have a roofer document the damage with photos and a written description of likely cause so you can submit a detailed claim if appropriate."
-      }
-    }
-  ],
+  "name": "Is a roof leak always covered by homeowners insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is a roof leak always covered by homeowners insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners insurance usually covers **sudden, accidental damage** (like wind or impact) but often excludes leaks caused by **wear, neglect, or lack of maintenance**. Many roof claims are partially or fully denied for being “gradual damage.”\n\nInsurance is designed for unexpected events, not for handling normal aging or long-ignored issues. Documentation and prompt reporting help your chances.\n\nKey factors:\n- Policy language on roof and water damage\n- Cause of the leak: storm damage vs. long-term deterioration\n- Age and condition of the roof before the leak\n- How quickly you reported the issue and prevented further damage\n\nReview your policy and call your insurer’s claims line for specifics. Have a roofer document the damage with photos and a written description of likely cause so you can submit a detailed claim if appropriate.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Homeowners insurance usually covers **sudden, accidental damage** (like wind or impact) but often excludes leaks caused by **wear, neglect, or lack of maintenan"
 }

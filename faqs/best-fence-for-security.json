@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best fence for security?",
-  "description": "6' wrought iron with anti-climb spikes (CA compliant) or redwood privacy fence with reinforced posts.",
   "url": "https://yorconstruction.com/faq/best-fence-for-security",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best fence for security?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "6' wrought iron with anti-climb spikes (CA compliant) or redwood privacy fence with reinforced posts."
-      }
-    }
-  ],
+  "name": "Best fence for security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best fence for security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "6' wrought iron with anti-climb spikes (CA compliant) or redwood privacy fence with reinforced posts.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "6' wrought iron with anti-climb spikes (CA compliant) or redwood privacy fence with reinforced posts."
 }

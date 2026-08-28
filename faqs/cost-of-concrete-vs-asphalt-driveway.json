@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Cost of concrete vs. asphalt driveway?",
-  "description": "Concrete: $8-$12/sqft (lasts 30+ yrs), Asphalt: $3-$5/sqft (lasts 15 yrs). Concrete recommended for CA heat.",
   "url": "https://yorconstruction.com/faq/cost-of-concrete-vs-asphalt-driveway",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Cost of concrete vs. asphalt driveway?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Concrete: $8-$12/sqft (lasts 30+ yrs), Asphalt: $3-$5/sqft (lasts 15 yrs). Concrete recommended for CA heat."
-      }
-    }
-  ],
+  "name": "Cost of concrete vs. asphalt driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Cost of concrete vs. asphalt driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete: $8-$12/sqft (lasts 30+ yrs), Asphalt: $3-$5/sqft (lasts 15 yrs). Concrete recommended for CA heat.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Concrete: $8-$12/sqft (lasts 30+ yrs), Asphalt: $3-$5/sqft (lasts 15 yrs). Concrete recommended for CA heat."
 }

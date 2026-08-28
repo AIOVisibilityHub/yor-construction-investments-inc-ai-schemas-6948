@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
-  "description": "You may need upgrades if the existing system is old, undersized, unsafe, or not suited to the new design. Bathroom remodels often reveal outdated wiring, weak v",
   "url": "https://yorconstruction.aiovisibility.net/faq/do-i-need-to-upgrade-plumbing-or-electrical-during-a-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You may need upgrades if the existing system is old, undersized, unsafe, or not suited to the new design. Bathroom remodels often reveal outdated wiring, weak ventilation, or plumbing that should be corrected before new finishes go in. It is better to address those issues during construction than after the room is finished."
-      }
-    }
-  ],
+  "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to upgrade plumbing or electrical during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need upgrades if the existing system is old, undersized, unsafe, or not suited to the new design. Bathroom remodels often reveal outdated wiring, weak ventilation, or plumbing that should be corrected before new finishes go in. It is better to address those issues during construction than after the room is finished.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You may need upgrades if the existing system is old, undersized, unsafe, or not suited to the new design. Bathroom remodels often reveal outdated wiring, weak v"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I avoid change orders on a commercial job?",
-  "description": "You cannot eliminate all change orders, but you can reduce them by defining the scope early, choosing finishes before construction, and reviewing drawings caref",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-avoid-change-orders-on-a-commercial-job",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I avoid change orders on a commercial job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You cannot eliminate all change orders, but you can reduce them by defining the scope early, choosing finishes before construction, and reviewing drawings carefully. Good site review and early coordination with trades also help catch issues before they become costly surprises."
-      }
-    }
-  ],
+  "name": "How do I avoid change orders on a commercial job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I avoid change orders on a commercial job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You cannot eliminate all change orders, but you can reduce them by defining the scope early, choosing finishes before construction, and reviewing drawings carefully. Good site review and early coordination with trades also help catch issues before they become costly surprises.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You cannot eliminate all change orders, but you can reduce them by defining the scope early, choosing finishes before construction, and reviewing drawings caref"
 }

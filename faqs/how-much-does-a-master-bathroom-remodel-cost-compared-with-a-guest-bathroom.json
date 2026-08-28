@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a master bathroom remodel cost compared with a guest bathroom?",
-  "description": "A master bathroom usually costs more because it is larger and often includes more complex finishes, dual vanities, custom showers, or added storage. Guest bathr",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-much-does-a-master-bathroom-remodel-cost-compared-with-a-guest-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a master bathroom remodel cost compared with a guest bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A master bathroom usually costs more because it is larger and often includes more complex finishes, dual vanities, custom showers, or added storage. Guest bathrooms are often smaller and can be remodeled more affordably if the layout stays the same. The biggest cost driver in either space is usually the level of finish and whether plumbing changes are needed."
-      }
-    }
-  ],
+  "name": "How much does a master bathroom remodel cost compared with a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a master bathroom remodel cost compared with a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A master bathroom usually costs more because it is larger and often includes more complex finishes, dual vanities, custom showers, or added storage. Guest bathrooms are often smaller and can be remodeled more affordably if the layout stays the same. The biggest cost driver in either space is usually the level of finish and whether plumbing changes are needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A master bathroom usually costs more because it is larger and often includes more complex finishes, dual vanities, custom showers, or added storage. Guest bathr"
 }

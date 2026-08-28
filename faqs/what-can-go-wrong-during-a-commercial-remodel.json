@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What can go wrong during a commercial remodel?",
-  "description": "Common issues include permit delays, hidden structural or utility problems, material lead times, scope changes, and coordination conflicts between trades. The b",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-can-go-wrong-during-a-commercial-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What can go wrong during a commercial remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common issues include permit delays, hidden structural or utility problems, material lead times, scope changes, and coordination conflicts between trades. The best protection is a detailed scope, realistic contingency planning, and regular updates when field conditions differ from the original plan."
-      }
-    }
-  ],
+  "name": "What can go wrong during a commercial remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a commercial remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues include permit delays, hidden structural or utility problems, material lead times, scope changes, and coordination conflicts between trades. The best protection is a detailed scope, realistic contingency planning, and regular updates when field conditions differ from the original plan.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common issues include permit delays, hidden structural or utility problems, material lead times, scope changes, and coordination conflicts between trades. The b"
 }

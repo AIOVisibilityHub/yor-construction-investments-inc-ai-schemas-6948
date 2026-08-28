@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does seismic retrofitting usually take from the first inspection to final sign‑off?",
-  "description": "From initial evaluation to final inspection, seismic retrofitting often takes several months, but actual on‑site construction may last only a few weeks for smal",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-long-does-seismic-retrofitting-usually-take-from-the-first-inspection-to-fin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does seismic retrofitting usually take from the first inspection to final sign‑off?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "From initial evaluation to final inspection, seismic retrofitting often takes several months, but actual on‑site construction may last only a few weeks for smaller buildings. Larger or more complex structures can stretch into many months of staged work.\n\nTimelines depend heavily on engineering, permitting, contractor workload, and site conditions. In busy markets like Los Angeles, plan for permitting to take longer than you’d expect, especially when many owners are rushing to meet ordinance deadlines.\n\nKey factors:\n- 2–8 weeks for structural assessment and design\n- 1–3+ months for plan check and permits, depending on jurisdiction\n- 2–10+ weeks of construction, scaled to size and complexity\n- Additional time for inspections, corrections, and final sign‑off\n\nAsk your contractor for a realistic schedule with milestones for design, permits, mobilization, and each construction phase. Build in some cushion for city review delays and field changes.\n\nAn experienced retrofit team can usually sequence work to minimize disruption while still moving steadily toward final approval."
-      }
-    }
-  ],
+  "name": "How long does seismic retrofitting usually take from the first inspection to final sign‑off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does seismic retrofitting usually take from the first inspection to final sign‑off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "From initial evaluation to final inspection, seismic retrofitting often takes several months, but actual on‑site construction may last only a few weeks for smaller buildings. Larger or more complex structures can stretch into many months of staged work.\n\nTimelines depend heavily on engineering, permitting, contractor workload, and site conditions. In busy markets like Los Angeles, plan for permitting to take longer than you’d expect, especially when many owners are rushing to meet ordinance deadlines.\n\nKey factors:\n- 2–8 weeks for structural assessment and design\n- 1–3+ months for plan check and permits, depending on jurisdiction\n- 2–10+ weeks of construction, scaled to size and complexity\n- Additional time for inspections, corrections, and final sign‑off\n\nAsk your contractor for a realistic schedule with milestones for design, permits, mobilization, and each construction phase. Build in some cushion for city review delays and field changes.\n\nAn experienced retrofit team can usually sequence work to minimize disruption while still moving steadily toward final approval.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "From initial evaluation to final inspection, seismic retrofitting often takes several months, but actual on‑site construction may last only a few weeks for smal"
 }

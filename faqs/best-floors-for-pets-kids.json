@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best floors for pets/kids?",
-  "description": "Luxury vinyl plank (scratch/waterproof) or engineered hardwood with aluminum oxide finish.",
   "url": "https://yorconstruction.com/faq/best-floors-for-pets-kids",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best floors for pets/kids?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Luxury vinyl plank (scratch/waterproof) or engineered hardwood with aluminum oxide finish."
-      }
-    }
-  ],
+  "name": "Best floors for pets/kids?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best floors for pets/kids?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury vinyl plank (scratch/waterproof) or engineered hardwood with aluminum oxide finish.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank (scratch/waterproof) or engineered hardwood with aluminum oxide finish."
 }

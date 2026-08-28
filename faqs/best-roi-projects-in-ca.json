@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best ROI projects in CA?",
-  "description": "1) ADUs (+20% value), 2) Kitchen remodel (75-85% ROI), 3) Energy-efficient windows (30% tax credit).",
   "url": "https://yorconstruction.com/faq/best-roi-projects-in-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best ROI projects in CA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1) ADUs (+20% value), 2) Kitchen remodel (75-85% ROI), 3) Energy-efficient windows (30% tax credit)."
-      }
-    }
-  ],
+  "name": "Best ROI projects in CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best ROI projects in CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1) ADUs (+20% value), 2) Kitchen remodel (75-85% ROI), 3) Energy-efficient windows (30% tax credit).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1) ADUs (+20% value), 2) Kitchen remodel (75-85% ROI), 3) Energy-efficient windows (30% tax credit)."
 }

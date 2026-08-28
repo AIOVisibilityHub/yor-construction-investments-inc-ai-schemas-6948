@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Earthquake Retrofitting",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Earthquake Retrofitting\n\nQ: Do I need seismic retrofitting?\nA: Recommended for pre-1980 LA homes. We check: 1) Cripple wall bracing, 2) Foundation bolting, 3) Soft-story issues.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Earthquake Retrofitting",
+  "publisher": {
+    "url": "https://yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Earthquake Retrofitting\n\nQ: Do I need seismic retrofitting?\nA: Recommended for pre-1980 LA homes. We check: 1) Cripple wall bracing, 2) Foundation bolting, 3) Soft-story issues.",
+  "datePublished": "2026-08-27"
 }

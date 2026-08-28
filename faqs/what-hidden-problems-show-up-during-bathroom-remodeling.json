@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What hidden problems show up during bathroom remodeling?",
-  "description": "Common surprises include water damage, rotten subflooring, outdated plumbing, old wiring, and mold behind walls or under floors. These issues are harder to pred",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-hidden-problems-show-up-during-bathroom-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What hidden problems show up during bathroom remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common surprises include water damage, rotten subflooring, outdated plumbing, old wiring, and mold behind walls or under floors. These issues are harder to predict in older homes and can increase both cost and timeline. A contingency budget helps you avoid getting stuck if the contractor uncovers damage after demolition."
-      }
-    }
-  ],
+  "name": "What hidden problems show up during bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems show up during bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common surprises include water damage, rotten subflooring, outdated plumbing, old wiring, and mold behind walls or under floors. These issues are harder to predict in older homes and can increase both cost and timeline. A contingency budget helps you avoid getting stuck if the contractor uncovers damage after demolition.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common surprises include water damage, rotten subflooring, outdated plumbing, old wiring, and mold behind walls or under floors. These issues are harder to pred"
 }

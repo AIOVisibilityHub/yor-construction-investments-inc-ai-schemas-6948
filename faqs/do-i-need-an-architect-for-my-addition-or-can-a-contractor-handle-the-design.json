@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need an architect for my addition, or can a contractor handle the design?",
-  "description": "You don’t always need a separate architect, but you do need proper plans stamped by the appropriate design professionals. For many additions, a design‑build con",
   "url": "https://yorconstruction.aiovisibility.net/faq/do-i-need-an-architect-for-my-addition-or-can-a-contractor-handle-the-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need an architect for my addition, or can a contractor handle the design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You don’t always need a separate architect, but you do need proper plans stamped by the appropriate design professionals. For many additions, a design‑build contractor or a drafting/design firm paired with an engineer is sufficient.\n\nThe right approach depends on project complexity, your design expectations, and local requirements. More complex or highly customized designs benefit from an architect’s involvement.\n\nKey factors:\n- Structural complexity (second story, major wall removals)\n- Aesthetic goals vs. simple functional space\n- City requirements on who can prepare and stamp plans\n- Your comfort level reading drawings and making design choices\n\nAsk your contractor how they usually handle design: in‑house design‑build, outside architect, or a hybrid. Choose the path that gives you enough design support without overspending on professional fees for a simple layout. An experienced addition builder can advise what level of design help your project truly needs."
-      }
-    }
-  ],
+  "name": "Do I need an architect for my addition, or can a contractor handle the design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for my addition, or can a contractor handle the design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don’t always need a separate architect, but you do need proper plans stamped by the appropriate design professionals. For many additions, a design‑build contractor or a drafting/design firm paired with an engineer is sufficient.\n\nThe right approach depends on project complexity, your design expectations, and local requirements. More complex or highly customized designs benefit from an architect’s involvement.\n\nKey factors:\n- Structural complexity (second story, major wall removals)\n- Aesthetic goals vs. simple functional space\n- City requirements on who can prepare and stamp plans\n- Your comfort level reading drawings and making design choices\n\nAsk your contractor how they usually handle design: in‑house design‑build, outside architect, or a hybrid. Choose the path that gives you enough design support without overspending on professional fees for a simple layout. An experienced addition builder can advise what level of design help your project truly needs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You don’t always need a separate architect, but you do need proper plans stamped by the appropriate design professionals. For many additions, a design‑build con"
 }

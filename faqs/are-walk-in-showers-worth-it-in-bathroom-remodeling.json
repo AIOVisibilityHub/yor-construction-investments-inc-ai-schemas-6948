@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are walk-in showers worth it in bathroom remodeling?",
-  "description": "Walk-in showers are often worth it if you want easier access, a more open look, and less maintenance than a bulky tub-shower combo. They can also make a bathroo",
   "url": "https://yorconstruction.aiovisibility.net/faq/are-walk-in-showers-worth-it-in-bathroom-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are walk-in showers worth it in bathroom remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Walk-in showers are often worth it if you want easier access, a more open look, and less maintenance than a bulky tub-shower combo. They can also make a bathroom feel larger, especially in tighter layouts. If resale is a concern, consider whether your home benefits more from a shower-only space or keeping at least one tub elsewhere."
-      }
-    }
-  ],
+  "name": "Are walk-in showers worth it in bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are walk-in showers worth it in bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers are often worth it if you want easier access, a more open look, and less maintenance than a bulky tub-shower combo. They can also make a bathroom feel larger, especially in tighter layouts. If resale is a concern, consider whether your home benefits more from a shower-only space or keeping at least one tub elsewhere.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Walk-in showers are often worth it if you want easier access, a more open look, and less maintenance than a bulky tub-shower combo. They can also make a bathroo"
 }

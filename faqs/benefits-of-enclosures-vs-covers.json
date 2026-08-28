@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Benefits of enclosures vs. covers?",
-  "description": "Enclosures provide year-round use (insulated glass/screens), while covers offer shade only. Enclosures add ~15% to home value in CA.",
   "url": "https://yorconstruction.com/faq/benefits-of-enclosures-vs-covers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Benefits of enclosures vs. covers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Enclosures provide year-round use (insulated glass/screens), while covers offer shade only. Enclosures add ~15% to home value in CA."
-      }
-    }
-  ],
+  "name": "Benefits of enclosures vs. covers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Benefits of enclosures vs. covers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Enclosures provide year-round use (insulated glass/screens), while covers offer shade only. Enclosures add ~15% to home value in CA.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Enclosures provide year-round use (insulated glass/screens), while covers offer shade only. Enclosures add ~15% to home value in CA."
 }

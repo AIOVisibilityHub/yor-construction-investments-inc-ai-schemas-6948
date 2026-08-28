@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What questions to ask patio contractors?",
-  "description": "1) CA contractor license#, 2) Material warranties, 3) Drainage plan, 4) HOA compliance experience.",
   "url": "https://yorconstruction.com/faq/what-questions-to-ask-patio-contractors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What questions to ask patio contractors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1) CA contractor license#, 2) Material warranties, 3) Drainage plan, 4) HOA compliance experience."
-      }
-    }
-  ],
+  "name": "What questions to ask patio contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What questions to ask patio contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1) CA contractor license#, 2) Material warranties, 3) Drainage plan, 4) HOA compliance experience.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1) CA contractor license#, 2) Material warranties, 3) Drainage plan, 4) HOA compliance experience."
 }

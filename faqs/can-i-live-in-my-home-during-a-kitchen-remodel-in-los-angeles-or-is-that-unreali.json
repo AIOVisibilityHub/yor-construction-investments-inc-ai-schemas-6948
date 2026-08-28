@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I live in my home during a kitchen remodel in Los Angeles, or is that unrealistic?",
-  "description": "Most people **do stay in their homes during a kitchen remodel**, but it’s dusty, noisy, and requires a temporary kitchen setup and some flexibility. For very ex",
   "url": "https://yorconstruction.aiovisibility.net/faq/can-i-live-in-my-home-during-a-kitchen-remodel-in-los-angeles-or-is-that-unreali",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I live in my home during a kitchen remodel in Los Angeles, or is that unrealistic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most people **do stay in their homes during a kitchen remodel**, but it’s dusty, noisy, and requires a temporary kitchen setup and some flexibility. For very extensive projects, some choose to stay elsewhere during the messiest phases.\n\nYour tolerance for disruption and the scope of work are the main variables.\n\nKey factors:\n- Whether walls are being removed or major structural work is involved\n- Duration of time without a functional sink, stove, or laundry nearby\n- Dust control measures, daily cleanup, and work hours\n- Household needs (kids, pets, working from home)\n\nAsk your contractor how they protect adjacent rooms, where they’ll set up cutting or staging, and what hours they typically work. Set up a simple temporary kitchen with essentials before demo starts.\n\nWith realistic expectations and good communication, many LA homeowners live through the process successfully."
-      }
-    }
-  ],
+  "name": "Can I live in my home during a kitchen remodel in Los Angeles, or is that unrealistic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen remodel in Los Angeles, or is that unrealistic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most people **do stay in their homes during a kitchen remodel**, but it’s dusty, noisy, and requires a temporary kitchen setup and some flexibility. For very extensive projects, some choose to stay elsewhere during the messiest phases.\n\nYour tolerance for disruption and the scope of work are the main variables.\n\nKey factors:\n- Whether walls are being removed or major structural work is involved\n- Duration of time without a functional sink, stove, or laundry nearby\n- Dust control measures, daily cleanup, and work hours\n- Household needs (kids, pets, working from home)\n\nAsk your contractor how they protect adjacent rooms, where they’ll set up cutting or staging, and what hours they typically work. Set up a simple temporary kitchen with essentials before demo starts.\n\nWith realistic expectations and good communication, many LA homeowners live through the process successfully.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Most people **do stay in their homes during a kitchen remodel**, but it’s dusty, noisy, and requires a temporary kitchen setup and some flexibility. For very ex"
 }

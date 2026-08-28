@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do contractors handle unexpected problems inside older buildings?",
-  "description": "Older buildings often reveal hidden framing issues, outdated systems, or undocumented repairs once work opens up the walls or ceilings. A good contractor docume",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-contractors-handle-unexpected-problems-inside-older-buildings",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do contractors handle unexpected problems inside older buildings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Older buildings often reveal hidden framing issues, outdated systems, or undocumented repairs once work opens up the walls or ceilings. A good contractor documents the condition, explains options clearly, and adjusts the plan without losing control of cost or schedule."
-      }
-    }
-  ],
+  "name": "How do contractors handle unexpected problems inside older buildings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors handle unexpected problems inside older buildings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older buildings often reveal hidden framing issues, outdated systems, or undocumented repairs once work opens up the walls or ceilings. A good contractor documents the condition, explains options clearly, and adjusts the plan without losing control of cost or schedule.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Older buildings often reveal hidden framing issues, outdated systems, or undocumented repairs once work opens up the walls or ceilings. A good contractor docume"
 }

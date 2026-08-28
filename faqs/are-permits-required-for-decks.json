@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are permits required for decks?",
-  "description": "Yes in CA for decks >30\" high. We handle permits in LA/Ventura/Orange counties.",
   "url": "https://yorconstruction.com/faq/are-permits-required-for-decks",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are permits required for decks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes in CA for decks >30\" high. We handle permits in LA/Ventura/Orange counties."
-      }
-    }
-  ],
+  "name": "Are permits required for decks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for decks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes in CA for decks >30\" high. We handle permits in LA/Ventura/Orange counties.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes in CA for decks >30\" high. We handle permits in LA/Ventura/Orange counties."
 }

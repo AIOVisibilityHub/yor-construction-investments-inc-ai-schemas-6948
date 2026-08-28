@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do first if I think my Los Angeles soft-story apartment building needs seismic retrofitting?",
-  "description": "Start by confirming whether your building is on the city’s mandatory retrofit list and then get a professional structural evaluation. From there, you can priori",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-do-first-if-i-think-my-los-angeles-soft-story-apartment-building-n",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do first if I think my Los Angeles soft-story apartment building needs seismic retrofitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by confirming whether your building is on the city’s mandatory retrofit list and then get a professional structural evaluation. From there, you can prioritize scope, budget, and timing before committing to construction.\n\nLos Angeles has ordinances that specifically target older soft-story wood apartments, with deadlines for submitting plans, obtaining permits, and completing work. Acting early gives you more contractor options and keeps you ahead of enforcement and potential penalties.\n\nKey factors:\n- Check city databases or your compliance order to confirm requirements and deadlines\n- Hire a licensed structural engineer or design-build retrofit firm for an evaluation\n- Request a phased plan and preliminary cost range\n- Ask about tenant notification and possible temporary relocations\n\nDon’t wait for a major earthquake or final warning notice; early planning usually means lower stress and more cost control. Use the evaluation to decide whether to do a minimum code retrofit or a more robust upgrade for long-term resilience.\n\nAn experienced LA-area retrofit provider can help you navigate both the engineering and the city paperwork from day one."
-      }
-    }
-  ],
+  "name": "What should I do first if I think my Los Angeles soft-story apartment building needs seismic retrofitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I think my Los Angeles soft-story apartment building needs seismic retrofitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by confirming whether your building is on the city’s mandatory retrofit list and then get a professional structural evaluation. From there, you can prioritize scope, budget, and timing before committing to construction.\n\nLos Angeles has ordinances that specifically target older soft-story wood apartments, with deadlines for submitting plans, obtaining permits, and completing work. Acting early gives you more contractor options and keeps you ahead of enforcement and potential penalties.\n\nKey factors:\n- Check city databases or your compliance order to confirm requirements and deadlines\n- Hire a licensed structural engineer or design-build retrofit firm for an evaluation\n- Request a phased plan and preliminary cost range\n- Ask about tenant notification and possible temporary relocations\n\nDon’t wait for a major earthquake or final warning notice; early planning usually means lower stress and more cost control. Use the evaluation to decide whether to do a minimum code retrofit or a more robust upgrade for long-term resilience.\n\nAn experienced LA-area retrofit provider can help you navigate both the engineering and the city paperwork from day one.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start by confirming whether your building is on the city’s mandatory retrofit list and then get a professional structural evaluation. From there, you can priori"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I ask a contractor before signing a commercial construction contract?",
-  "description": "Ask about similar project experience, schedule, staffing, permit handling, insurance, change-order procedures, and warranty support. You should also confirm how",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-ask-a-contractor-before-signing-a-commercial-construction-contract",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I ask a contractor before signing a commercial construction contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ask about similar project experience, schedule, staffing, permit handling, insurance, change-order procedures, and warranty support. You should also confirm how they will manage disruptions to tenants, employees, or customers if the work happens in an occupied space."
-      }
-    }
-  ],
+  "name": "What should I ask a contractor before signing a commercial construction contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a contractor before signing a commercial construction contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask about similar project experience, schedule, staffing, permit handling, insurance, change-order procedures, and warranty support. You should also confirm how they will manage disruptions to tenants, employees, or customers if the work happens in an occupied space.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ask about similar project experience, schedule, staffing, permit handling, insurance, change-order procedures, and warranty support. You should also confirm how"
 }

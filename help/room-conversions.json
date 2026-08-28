@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Room Conversions",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Room Conversions\n\nQ: Converting garage to living space?\nA: CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Room Conversions",
+  "publisher": {
+    "url": "https://yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Room Conversions\n\nQ: Converting garage to living space?\nA: CA requires: 1) Insulation upgrade, 2) Egress window, 3) Separate HVAC. Permit costs ~$2k in LA County.",
+  "datePublished": "2026-08-27"
 }

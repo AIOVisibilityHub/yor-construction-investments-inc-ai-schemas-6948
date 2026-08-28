@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right commercial contractor for my project in Los Angeles County?",
-  "description": "Choose a contractor with proven experience on projects similar in size and complexity to yours, plus a strong local track record in Los Angeles County. Ask for",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-choose-the-right-commercial-contractor-for-my-project-in-los-angeles-co",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right commercial contractor for my project in Los Angeles County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choose a contractor with proven experience on projects similar in size and complexity to yours, plus a strong local track record in Los Angeles County. Ask for references from nearby jobs, confirm they understand local permitting and inspection requirements, and review how they communicate during active work."
-      }
-    }
-  ],
+  "name": "How do I choose the right commercial contractor for my project in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial contractor for my project in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a contractor with proven experience on projects similar in size and complexity to yours, plus a strong local track record in Los Angeles County. Ask for references from nearby jobs, confirm they understand local permitting and inspection requirements, and review how they communicate during active work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Choose a contractor with proven experience on projects similar in size and complexity to yours, plus a strong local track record in Los Angeles County. Ask for"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What insurance should a commercial contractor carry?",
-  "description": "A qualified contractor should be able to show active coverage for the types of risk involved in your project, along with proof that it is current. Insurance mat",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-insurance-should-a-commercial-contractor-carry",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What insurance should a commercial contractor carry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A qualified contractor should be able to show active coverage for the types of risk involved in your project, along with proof that it is current. Insurance matters because commercial work can involve property damage, worker injuries, and liability exposure during active construction."
-      }
-    }
-  ],
+  "name": "What insurance should a commercial contractor carry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What insurance should a commercial contractor carry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A qualified contractor should be able to show active coverage for the types of risk involved in your project, along with proof that it is current. Insurance matters because commercial work can involve property damage, worker injuries, and liability exposure during active construction.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A qualified contractor should be able to show active coverage for the types of risk involved in your project, along with proof that it is current. Insurance mat"
 }

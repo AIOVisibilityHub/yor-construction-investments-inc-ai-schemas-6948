@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "License verification?",
-  "description": "Always check CSLB # and verify C-10 classification. CA requires 4,000+ apprenticeship hours.",
   "url": "https://yorconstruction.com/faq/license-verification",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "License verification?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Always check CSLB # and verify C-10 classification. CA requires 4,000+ apprenticeship hours."
-      }
-    }
-  ],
+  "name": "License verification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "License verification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Always check CSLB # and verify C-10 classification. CA requires 4,000+ apprenticeship hours.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Always check CSLB # and verify C-10 classification. CA requires 4,000+ apprenticeship hours."
 }

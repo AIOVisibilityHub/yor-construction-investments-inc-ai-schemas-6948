@@ -1,24 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Commercial Buildouts",
   "author": {
-    "@type": "Organization",
-    "name": "YOR Construction & Investments, Inc."
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "url": "https://yorconstruction.com"
+    "@type": "Organization"
   },
-  "articleBody": "Commercial Buildouts\n\nQ: What permits are needed?\nA: Depends on scope: Always need 1) Building permit, 2) ADA compliance review, 3) Fire department approval in CA.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Commercial Buildouts",
+  "publisher": {
+    "url": "https://yorconstruction.com",
+    "name": "YOR Construction & Investments, Inc.",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -26,5 +18,13 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Commercial Buildouts\n\nQ: What permits are needed?\nA: Depends on scope: Always need 1) Building permit, 2) ADA compliance review, 3) Fire department approval in CA.",
+  "datePublished": "2026-08-27"
 }

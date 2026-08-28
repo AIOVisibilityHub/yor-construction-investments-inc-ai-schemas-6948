@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I expect during the roof replacement process at my home?",
-  "description": "Expect a **noisy, dusty, and busy** few days, with crews tearing off old materials, inspecting the decking, installing new underlayment and roofing, then cleani",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-should-i-expect-during-the-roof-replacement-process-at-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I expect during the roof replacement process at my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Expect a **noisy, dusty, and busy** few days, with crews tearing off old materials, inspecting the decking, installing new underlayment and roofing, then cleaning up thoroughly. A good roofer will protect your landscaping and keep you informed at each stage.\n\nRoof replacement is one of the more disruptive home projects because everything happens overhead. Knowing the steps in advance helps you plan for parking, pets, and noise-sensitive family members.\n\nKey factors:\n- Initial delivery of materials and placement of dumpsters\n- Tear-off of old roof, inspection, and any wood replacement\n- Installation of underlayment, flashings, vents, and new roofing\n- Daily cleanup, magnet sweep for nails, and final walkthrough\n\nMove cars away from the house, secure items in the attic, and plan for daytime noise. Ask your contractor who your daily point of contact is, how they’ll protect plants and windows, and how they handle cleanup so you’re not finding nails for weeks."
-      }
-    }
-  ],
+  "name": "What should I expect during the roof replacement process at my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during the roof replacement process at my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect a **noisy, dusty, and busy** few days, with crews tearing off old materials, inspecting the decking, installing new underlayment and roofing, then cleaning up thoroughly. A good roofer will protect your landscaping and keep you informed at each stage.\n\nRoof replacement is one of the more disruptive home projects because everything happens overhead. Knowing the steps in advance helps you plan for parking, pets, and noise-sensitive family members.\n\nKey factors:\n- Initial delivery of materials and placement of dumpsters\n- Tear-off of old roof, inspection, and any wood replacement\n- Installation of underlayment, flashings, vents, and new roofing\n- Daily cleanup, magnet sweep for nails, and final walkthrough\n\nMove cars away from the house, secure items in the attic, and plan for daytime noise. Ask your contractor who your daily point of contact is, how they’ll protect plants and windows, and how they handle cleanup so you’re not finding nails for weeks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Expect a **noisy, dusty, and busy** few days, with crews tearing off old materials, inspecting the decking, installing new underlayment and roofing, then cleani"
 }

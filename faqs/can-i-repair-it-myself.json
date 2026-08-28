@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I repair it myself?",
-  "description": "Not advised. Springs store 200+ lbs of tension - requires specialized tools.",
   "url": "https://yorconstruction.com/faq/can-i-repair-it-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I repair it myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not advised. Springs store 200+ lbs of tension - requires specialized tools."
-      }
-    }
-  ],
+  "name": "Can I repair it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not advised. Springs store 200+ lbs of tension - requires specialized tools.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Not advised. Springs store 200+ lbs of tension - requires specialized tools."
 }

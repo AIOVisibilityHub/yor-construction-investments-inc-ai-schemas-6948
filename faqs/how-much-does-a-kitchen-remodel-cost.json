@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a kitchen remodel cost?",
-  "description": "$25k-$75k in Southern CA depending on materials (quartz counters, custom cabinets, appliance tier).",
   "url": "https://yorconstruction.com/faq/how-much-does-a-kitchen-remodel-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a kitchen remodel cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$25k-$75k in Southern CA depending on materials (quartz counters, custom cabinets, appliance tier)."
-      }
-    }
-  ],
+  "name": "How much does a kitchen remodel cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen remodel cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$25k-$75k in Southern CA depending on materials (quartz counters, custom cabinets, appliance tier).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$25k-$75k in Southern CA depending on materials (quartz counters, custom cabinets, appliance tier)."
 }

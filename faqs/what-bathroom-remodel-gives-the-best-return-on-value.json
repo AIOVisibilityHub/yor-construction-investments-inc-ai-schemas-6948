@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What bathroom remodel gives the best return on value?",
-  "description": "The best value usually comes from practical upgrades that improve function and appearance without overbuilding for the neighborhood. New tile, better lighting,",
   "url": "https://yorconstruction.aiovisibility.net/faq/what-bathroom-remodel-gives-the-best-return-on-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What bathroom remodel gives the best return on value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best value usually comes from practical upgrades that improve function and appearance without overbuilding for the neighborhood. New tile, better lighting, modern fixtures, a quality vanity, and a clean shower upgrade often deliver strong resale appeal. If you plan to sell within a few years, avoid overly customized layouts that may not fit local buyer expectations."
-      }
-    }
-  ],
+  "name": "What bathroom remodel gives the best return on value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What bathroom remodel gives the best return on value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best value usually comes from practical upgrades that improve function and appearance without overbuilding for the neighborhood. New tile, better lighting, modern fixtures, a quality vanity, and a clean shower upgrade often deliver strong resale appeal. If you plan to sell within a few years, avoid overly customized layouts that may not fit local buyer expectations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best value usually comes from practical upgrades that improve function and appearance without overbuilding for the neighborhood. New tile, better lighting,"
 }

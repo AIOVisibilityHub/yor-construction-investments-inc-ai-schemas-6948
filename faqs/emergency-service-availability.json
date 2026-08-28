@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Emergency service availability?",
-  "description": "24/7 for leaks/floods. CA law requires licensed plumber for any pipe/water heater work.",
   "url": "https://yorconstruction.com/faq/emergency-service-availability",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Emergency service availability?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "24/7 for leaks/floods. CA law requires licensed plumber for any pipe/water heater work."
-      }
-    }
-  ],
+  "name": "Emergency service availability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Emergency service availability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "24/7 for leaks/floods. CA law requires licensed plumber for any pipe/water heater work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "24/7 for leaks/floods. CA law requires licensed plumber for any pipe/water heater work."
 }

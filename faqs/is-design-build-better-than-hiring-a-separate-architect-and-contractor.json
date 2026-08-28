@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is design-build better than hiring a separate architect and contractor?",
-  "description": "Design-build can speed up coordination because one team handles both design and construction, which may reduce handoff problems. A separate design-bid-build set",
   "url": "https://yorconstruction.aiovisibility.net/faq/is-design-build-better-than-hiring-a-separate-architect-and-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is design-build better than hiring a separate architect and contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Design-build can speed up coordination because one team handles both design and construction, which may reduce handoff problems. A separate design-bid-build setup can provide more independent bidding and design control, but it may take longer and require tighter coordination."
-      }
-    }
-  ],
+  "name": "Is design-build better than hiring a separate architect and contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is design-build better than hiring a separate architect and contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design-build can speed up coordination because one team handles both design and construction, which may reduce handoff problems. A separate design-bid-build setup can provide more independent bidding and design control, but it may take longer and require tighter coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Design-build can speed up coordination because one team handles both design and construction, which may reduce handoff problems. A separate design-bid-build set"
 }

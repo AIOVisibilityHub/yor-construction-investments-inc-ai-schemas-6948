@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my bathroom needs a full remodel or just an update?",
-  "description": "If the layout works and the core systems are in good shape, an update may be enough. If you have recurring leaks, damaged tile, failing plumbing, poor ventilati",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-know-if-my-bathroom-needs-a-full-remodel-or-just-an-update",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my bathroom needs a full remodel or just an update?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the layout works and the core systems are in good shape, an update may be enough. If you have recurring leaks, damaged tile, failing plumbing, poor ventilation, or a layout that no longer fits your needs, a full remodel may be the better long-term choice. A contractor can inspect the hidden conditions before you decide."
-      }
-    }
-  ],
+  "name": "How do I know if my bathroom needs a full remodel or just an update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my bathroom needs a full remodel or just an update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the layout works and the core systems are in good shape, an update may be enough. If you have recurring leaks, damaged tile, failing plumbing, poor ventilation, or a layout that no longer fits your needs, a full remodel may be the better long-term choice. A contractor can inspect the hidden conditions before you decide.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If the layout works and the core systems are in good shape, an update may be enough. If you have recurring leaks, damaged tile, failing plumbing, poor ventilati"
 }

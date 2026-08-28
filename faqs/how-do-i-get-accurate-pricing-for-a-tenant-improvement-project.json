@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I get accurate pricing for a tenant improvement project?",
-  "description": "Accurate pricing starts with a clear scope, measurements, finish selections, and a definition of what is included and excluded. Pricing becomes more reliable wh",
   "url": "https://yorconstruction.aiovisibility.net/faq/how-do-i-get-accurate-pricing-for-a-tenant-improvement-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I get accurate pricing for a tenant improvement project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accurate pricing starts with a clear scope, measurements, finish selections, and a definition of what is included and excluded. Pricing becomes more reliable when the contractor has enough detail to estimate labor, materials, permits, and coordination work instead of guessing."
-      }
-    }
-  ],
+  "name": "How do I get accurate pricing for a tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get accurate pricing for a tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate pricing starts with a clear scope, measurements, finish selections, and a definition of what is included and excluded. Pricing becomes more reliable when the contractor has enough detail to estimate labor, materials, permits, and coordination work instead of guessing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Accurate pricing starts with a clear scope, measurements, finish selections, and a definition of what is included and excluded. Pricing becomes more reliable wh"
 }

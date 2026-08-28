@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Risks of unlicensed framers?",
-  "description": "No workers' comp (you're liable), structural failures, and city inspection rejections costing 2-3x to fix.",
   "url": "https://yorconstruction.com/faq/risks-of-unlicensed-framers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Risks of unlicensed framers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No workers' comp (you're liable), structural failures, and city inspection rejections costing 2-3x to fix."
-      }
-    }
-  ],
+  "name": "Risks of unlicensed framers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Risks of unlicensed framers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No workers' comp (you're liable), structural failures, and city inspection rejections costing 2-3x to fix.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No workers' comp (you're liable), structural failures, and city inspection rejections costing 2-3x to fix."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Signs of foundation issues?",
-  "description": "Sticking doors, zigzag cracks >1/4\", uneven floors. CA clay soils worsen seasonal movement.",
   "url": "https://yorconstruction.com/faq/signs-of-foundation-issues",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Signs of foundation issues?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sticking doors, zigzag cracks >1/4\", uneven floors. CA clay soils worsen seasonal movement."
-      }
-    }
-  ],
+  "name": "Signs of foundation issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Signs of foundation issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sticking doors, zigzag cracks >1/4\", uneven floors. CA clay soils worsen seasonal movement.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sticking doors, zigzag cracks >1/4\", uneven floors. CA clay soils worsen seasonal movement."
 }

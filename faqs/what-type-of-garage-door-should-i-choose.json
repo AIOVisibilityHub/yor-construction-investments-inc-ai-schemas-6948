@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What type of garage door should I choose?",
-  "description": "Steel for durability, wood for aesthetics, or insulated composite for energy efficiency.",
   "url": "https://yorconstruction.com/faq/what-type-of-garage-door-should-i-choose",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What type of garage door should I choose?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Steel for durability, wood for aesthetics, or insulated composite for energy efficiency."
-      }
-    }
-  ],
+  "name": "What type of garage door should I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What type of garage door should I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Steel for durability, wood for aesthetics, or insulated composite for energy efficiency.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Steel for durability, wood for aesthetics, or insulated composite for energy efficiency."
 }
