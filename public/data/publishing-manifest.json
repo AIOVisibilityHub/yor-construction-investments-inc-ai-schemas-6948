@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:36:50.694Z",
+  "generatedAt": "2026-09-05T21:52:57.992Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -102,7 +102,7 @@
   },
   "package": {
     "totalFiles": 1123,
-    "totalBytes": 7788454,
+    "totalBytes": 9821953,
     "stats": {
       "qna": 0,
       "faqs": 465,
@@ -4140,1562 +4140,1562 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14756,
+        "bytes": 20639,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 30455,
+        "bytes": 36218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 23248,
+        "bytes": 29161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 15429,
+        "bytes": 20994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11889,
+        "bytes": 17529,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 649638,
+        "bytes": 655284,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 262838,
+        "bytes": 268430,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 18046,
+        "bytes": 23797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 17193,
+        "bytes": 22821,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/llm-structured-data.html",
-        "bytes": 8923,
+        "bytes": 15284,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/air-conditioning.html",
-        "bytes": 6186,
+        "bytes": 12073,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accessory-dwelling-units.html",
-        "bytes": 6161,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/bathroom-remodeling.html",
-        "bytes": 6119,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/concrete-services.html",
-        "bytes": 6171,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/commercial-buildouts.html",
-        "bytes": 6257,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/deck-building.html",
-        "bytes": 6064,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/deck-safety.html",
-        "bytes": 6258,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/driveway-installation.html",
-        "bytes": 6319,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/electrical-work.html",
-        "bytes": 6058,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/emergency-services.html",
-        "bytes": 6314,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/exterior-painting.html",
-        "bytes": 6163,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/fencing.html",
-        "bytes": 5992,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/flooring.html",
-        "bytes": 5939,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/foundation-work.html",
-        "bytes": 6088,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/foundation-repair.html",
-        "bytes": 6095,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/framing.html",
-        "bytes": 6079,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/whole-home-renovation.html",
-        "bytes": 6280,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/garage-door-repairs.html",
-        "bytes": 6850,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/garage-door-replacements.html",
-        "bytes": 6314,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/home-renovation.html",
-        "bytes": 6157,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/interior-painting.html",
-        "bytes": 6173,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/kitchen-remodeling.html",
-        "bytes": 6233,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/locksmith-services.html",
-        "bytes": 6160,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/patio-construction.html",
-        "bytes": 6263,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/patio-covers.html",
-        "bytes": 6223,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/patio-deck-construction.html",
-        "bytes": 6613,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/patio-enclosures.html",
-        "bytes": 6361,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/paving-services.html",
-        "bytes": 6179,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/plumbing-services.html",
-        "bytes": 6105,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/retaining-walls.html",
-        "bytes": 6158,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/roofing.html",
-        "bytes": 5872,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/room-conversions.html",
-        "bytes": 6220,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/earthquake-retrofitting.html",
-        "bytes": 6378,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/solar-panel-installation.html",
-        "bytes": 6429,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/stucco-application.html",
-        "bytes": 6536,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/swimming-pool-maintenance.html",
-        "bytes": 6436,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/window-replacement.html",
-        "bytes": 6335,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/coordinating-fence-and-driveway-improvements.html",
-        "bytes": 11986,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/retaining-wall-construction-in-los-angeles-county.html",
-        "bytes": 11763,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-to-know-before-building-an-adu-in-los-angeles.html",
-        "bytes": 12208,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/seismic-retrofitting-and-foundation-repair-in-earthquake-country.html",
-        "bytes": 12493,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/evaluating-solar-installation-during-a-remodel.html",
-        "bytes": 12246,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/air-conditioning-installation-for-additions-and-adus.html",
-        "bytes": 12316,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/kitchen-remodeling-options-that-affect-cost-and-performance.html",
-        "bytes": 12461,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/selecting-a-commercial-contractor-for-los-angeles-projects.html",
-        "bytes": 12408,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/window-installation-decisions-that-affect-comfort-and-compliance.html",
-        "bytes": 12213,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/roofing-contractor-questions-for-los-angeles-homes.html",
-        "bytes": 12199,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-to-look-for-in-post-remodel-interior-painting.html",
         "bytes": 12036,
         "purpose": "LLM-optimized public page"
       },
       {
+        "path": "help/bathroom-remodeling.html",
+        "bytes": 11968,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/concrete-services.html",
+        "bytes": 12054,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/commercial-buildouts.html",
+        "bytes": 12200,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/deck-building.html",
+        "bytes": 11905,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/deck-safety.html",
+        "bytes": 12211,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/driveway-installation.html",
+        "bytes": 12308,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/electrical-work.html",
+        "bytes": 11888,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/emergency-services.html",
+        "bytes": 12306,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/exterior-painting.html",
+        "bytes": 12070,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/fencing.html",
+        "bytes": 11778,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/flooring.html",
+        "bytes": 11708,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/foundation-work.html",
+        "bytes": 11973,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/foundation-repair.html",
+        "bytes": 11973,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/framing.html",
+        "bytes": 11892,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/whole-home-renovation.html",
+        "bytes": 12236,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/garage-door-repairs.html",
+        "bytes": 13134,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/garage-door-replacements.html",
+        "bytes": 12282,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/home-renovation.html",
+        "bytes": 12020,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/interior-painting.html",
+        "bytes": 12050,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/kitchen-remodeling.html",
+        "bytes": 12162,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/locksmith-services.html",
+        "bytes": 12032,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/patio-construction.html",
+        "bytes": 12198,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/patio-covers.html",
+        "bytes": 12128,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/patio-deck-construction.html",
+        "bytes": 12794,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/patio-enclosures.html",
+        "bytes": 12360,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/paving-services.html",
+        "bytes": 12083,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/plumbing-services.html",
+        "bytes": 11970,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/retaining-walls.html",
+        "bytes": 12053,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/roofing.html",
+        "bytes": 11562,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/room-conversions.html",
+        "bytes": 12132,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/earthquake-retrofitting.html",
+        "bytes": 12384,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/solar-panel-installation.html",
+        "bytes": 12454,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stucco-application.html",
+        "bytes": 12582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/swimming-pool-maintenance.html",
+        "bytes": 12402,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/window-replacement.html",
+        "bytes": 12198,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/coordinating-fence-and-driveway-improvements.html",
+        "bytes": 18505,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/retaining-wall-construction-in-los-angeles-county.html",
+        "bytes": 18311,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-know-before-building-an-adu-in-los-angeles.html",
+        "bytes": 18781,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/seismic-retrofitting-and-foundation-repair-in-earthquake-country.html",
+        "bytes": 19149,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/evaluating-solar-installation-during-a-remodel.html",
+        "bytes": 18779,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/air-conditioning-installation-for-additions-and-adus.html",
+        "bytes": 18897,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/kitchen-remodeling-options-that-affect-cost-and-performance.html",
+        "bytes": 19091,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/selecting-a-commercial-contractor-for-los-angeles-projects.html",
+        "bytes": 19019,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/window-installation-decisions-that-affect-comfort-and-compliance.html",
+        "bytes": 18875,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/roofing-contractor-questions-for-los-angeles-homes.html",
+        "bytes": 18763,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-look-for-in-post-remodel-interior-painting.html",
+        "bytes": 18603,
+        "purpose": "LLM-optimized public page"
+      },
+      {
         "path": "help/bathroom-remodeling-factors-buyers-should-compare.html",
-        "bytes": 12217,
+        "bytes": 18783,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hiring-a-room-addition-contractor-in-los-angeles-county.html",
-        "bytes": 12126,
+        "bytes": 18731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/property-tax-financing-and-rental-economics-of-adus.html",
-        "bytes": 13048,
+        "bytes": 19634,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-code-and-green-building-requirements-for-adus.html",
-        "bytes": 13097,
+        "bytes": 19669,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/using-los-angeles-county-s-pre-approved-adu-plans.html",
-        "bytes": 12882,
+        "bytes": 19436,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/project-timelines-for-adu-additions-in-los-angeles.html",
-        "bytes": 13089,
+        "bytes": 19653,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-inspections-for-adus-in-los-angeles-county.html",
-        "bytes": 13177,
+        "bytes": 19766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adus-in-hillside-fire-coastal-and-historic-zones.html",
-        "bytes": 13052,
+        "bytes": 19614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/selecting-and-contracting-with-an-adu-additions-contractor.html",
-        "bytes": 13096,
+        "bytes": 19725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pitfalls-and-risk-management-in-adu-addition-projects.html",
-        "bytes": 13387,
+        "bytes": 19969,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/zoning-and-size-rules-for-adus-in-los-angeles-county.html",
-        "bytes": 13184,
+        "bytes": 19771,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-ranges-and-budget-drivers-for-adu-additions-in-los-angeles.html",
-        "bytes": 13146,
+        "bytes": 19801,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utilities-services-and-site-infrastructure-for-adus.html",
-        "bytes": 13149,
+        "bytes": 19726,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-and-layout-strategies-for-successful-adus.html",
-        "bytes": 13239,
+        "bytes": 19804,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/structural-and-seismic-requirements-for-adu-additions-and-conversions.html",
-        "bytes": 13257,
+        "bytes": 19963,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.html",
-        "bytes": 13091,
+        "bytes": 19770,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adus-as-a-tool-for-housing-affordability-and-supply-in-los-angeles.html",
-        "bytes": 12969,
+        "bytes": 19627,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utility-connections-and-infrastructure-considerations-for-adus.html",
-        "bytes": 13102,
+        "bytes": 19756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/los-angeles-county-pre-approved-adu-plan-program.html",
-        "bytes": 12998,
+        "bytes": 19551,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/parking-requirements-and-exemptions-for-adus.html",
-        "bytes": 12706,
+        "bytes": 19243,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/definition-and-core-requirements-for-adus-and-jadus-in-los-angeles-county.html",
-        "bytes": 13090,
+        "bytes": 19803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/scale-and-growth-of-adu-development-in-los-angeles-county.html",
-        "bytes": 12869,
+        "bytes": 19479,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/financing-patterns-and-lender-perspectives-on-adu-projects.html",
-        "bytes": 13090,
+        "bytes": 19716,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/comparing-detached-attached-and-garage-conversion-adus.html",
-        "bytes": 13227,
+        "bytes": 19831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/zoning-and-permitting-framework-for-adus-in-los-angeles-county.html",
-        "bytes": 13051,
+        "bytes": 19699,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/building-code-and-safety-compliance-for-adus.html",
-        "bytes": 12861,
+        "bytes": 19383,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-adu-construction-costs-and-cost-drivers-in-los-angeles-county.html",
-        "bytes": 13167,
+        "bytes": 19867,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drivers-behind-the-adu-boom-in-los-angeles-county.html",
-        "bytes": 13264,
+        "bytes": 19845,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rental-income-benchmarks-and-market-positioning-for-los-angeles-county-adus.html",
-        "bytes": 13401,
+        "bytes": 20149,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fire-life-safety-and-access-requirements-for-adus.html",
-        "bytes": 13159,
+        "bytes": 19707,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/comparing-garage-conversions-and-new-detached-adus.html",
-        "bytes": 13370,
+        "bytes": 19937,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/building-code-calgreen-and-energy-code-considerations-for-adus.html",
-        "bytes": 13382,
+        "bytes": 20042,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-la-county-pre-approved-adu-plans-on-design-services.html",
-        "bytes": 13042,
+        "bytes": 19704,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-plan-check-and-construction-timelines-for-adus.html",
-        "bytes": 13379,
+        "bytes": 19961,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/designing-adus-for-long-term-value-and-rental-potential.html",
-        "bytes": 13297,
+        "bytes": 19902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contract-and-project-management-basics-for-adu-engagements.html",
-        "bytes": 13243,
+        "bytes": 19866,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-components-and-budget-planning-for-adu-design-and-build.html",
-        "bytes": 13470,
+        "bytes": 20104,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/due-diligence-on-adu-contractors-local-experience.html",
-        "bytes": 13272,
+        "bytes": 19841,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.html",
-        "bytes": 13597,
+        "bytes": 20230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-and-professional-credentials-for-adu-design-contractors.html",
-        "bytes": 13599,
+        "bytes": 20280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/incorporating-accessibility-and-aging-in-place-features-in-adus.html",
-        "bytes": 13150,
+        "bytes": 19787,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utility-capacity-connections-and-adu-design-in-la-county.html",
-        "bytes": 13489,
+        "bytes": 20098,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/consumer-protections-payments-and-disputes-in-california-bathroom-remodeling.html",
-        "bytes": 13597,
+        "bytes": 20361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/water-and-energy-efficiency-standards-impacting-bathroom-remodels.html",
-        "bytes": 13733,
+        "bytes": 20417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hazardous-materials-lead-and-asbestos-considerations-in-bathroom-demolition.html",
-        "bytes": 13636,
+        "bytes": 20405,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-timelines-and-scheduling-factors-for-bathroom-overhauls.html",
-        "bytes": 13463,
+        "bytes": 20127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/evaluating-bathroom-contractors-via-reviews-and-references.html",
-        "bytes": 13617,
+        "bytes": 20246,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accessibility-and-universal-design-in-bathroom-overhauls.html",
-        "bytes": 13443,
+        "bytes": 20049,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/waterproofing-standards-and-practices-for-showers-and-wet-zones.html",
-        "bytes": 13678,
+        "bytes": 20348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-ranges-and-drivers-for-los-angeles-bathroom-overhauls.html",
-        "bytes": 13329,
+        "bytes": 19949,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/building-codes-and-safety-standards-for-bathroom-renovations.html",
-        "bytes": 13375,
+        "bytes": 20006,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/key-contract-and-documentation-requirements-in-california-bathroom-projects.html",
-        "bytes": 13548,
+        "bytes": 20299,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-and-bonding-expectations-for-bathroom-contractors.html",
-        "bytes": 13453,
+        "bytes": 20095,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/required-licensing-for-bathroom-overhaul-contractors-in-los-angeles-county.html",
-        "bytes": 13262,
+        "bytes": 19982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permit-requirements-and-responsibilities-for-bathroom-overhauls.html",
-        "bytes": 13232,
+        "bytes": 19866,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/noise-dust-and-occupant-comfort-during-bathroom-remodeling.html",
-        "bytes": 13129,
+        "bytes": 19767,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accessibility-and-aging-in-place-considerations-in-bathroom-design.html",
-        "bytes": 13576,
+        "bytes": 20273,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-and-water-efficiency-requirements-shaping-bathroom-remodels.html",
-        "bytes": 13695,
+        "bytes": 20389,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/manufacturer-warranties-and-workmanship-guarantees-in-bathroom-projects.html",
-        "bytes": 13685,
+        "bytes": 20402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/assessing-contractor-experience-portfolios-and-references.html",
-        "bytes": 13603,
+        "bytes": 20225,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-insurance-and-permits-for-bathroom-remodeling-in-los-angeles-county.html",
-        "bytes": 14191,
+        "bytes": 20971,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/project-timelines-and-construction-sequencing-for-bathroom-renovels.html",
-        "bytes": 13574,
+        "bytes": 20266,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-structures-and-budget-drivers-for-la-county-bathroom-remodels.html",
-        "bytes": 13891,
+        "bytes": 20606,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-and-inspection-considerations-for-los-angeles-bathroom-renovations.html",
-        "bytes": 13807,
+        "bytes": 20518,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-improvement-contract-and-payment-practices-under-california-rules.html",
-        "bytes": 13290,
+        "bytes": 19994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/local-permitting-and-jurisdictional-nuances-within-los-angeles-county.html",
-        "bytes": 13530,
+        "bytes": 20212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/risks-of-unlicensed-work-and-consumer-protection-guidance.html",
-        "bytes": 13403,
+        "bytes": 20022,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/waste-management-recycling-and-environmental-compliance-in-bathroom-projects.html",
-        "bytes": 13973,
+        "bytes": 20748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/waterproofing-and-moisture-control-standards-in-bathroom-remodeling.html",
-        "bytes": 13600,
+        "bytes": 20274,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/economic-outlook-and-forecast-for-los-angeles-commercial-construction.html",
-        "bytes": 13467,
+        "bytes": 20167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/environmental-and-seismic-design-drivers-in-los-angeles-commercial-construction.html",
-        "bytes": 13415,
+        "bytes": 20194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/office-vs-retail-vs-industrial-segment-specific-dynamics-in-la-commercial-constr.html",
-        "bytes": 13675,
+        "bytes": 20479,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/regional-workforce-development-and-skilled-labor-supply-for-la-commercial-constr.html",
-        "bytes": 13471,
+        "bytes": 20272,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainability-and-green-building-requirements-in-los-angeles-commercial-constru.html",
-        "bytes": 13868,
+        "bytes": 20645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adaptive-reuse-as-a-strategic-option-in-los-angeles-commercial-development.html",
-        "bytes": 13571,
+        "bytes": 20303,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stakeholder-and-community-engagement-in-southern-california-commercial-projects.html",
-        "bytes": 13333,
+        "bytes": 20106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/regulatory-and-permitting-complexity-in-los-angeles-county-commercial-projects.html",
-        "bytes": 13598,
+        "bytes": 20361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/key-risks-and-challenges-in-southern-california-commercial-construction.html",
-        "bytes": 13404,
+        "bytes": 20100,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/soft-costs-and-non-construction-expenses-in-la-commercial-development.html",
-        "bytes": 13470,
+        "bytes": 20167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-cost-per-square-foot-benchmarks-in-los-angeles-county.html",
-        "bytes": 13386,
+        "bytes": 20039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/labor-market-and-workforce-dynamics-in-los-angeles-commercial-construction.html",
-        "bytes": 13484,
+        "bytes": 20225,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/market-size-and-demand-drivers-for-commercial-construction-in-california-and-los.html",
-        "bytes": 13584,
+        "bytes": 20376,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/transit-oriented-development-and-infrastructure-impacts-on-commercial-projects.html",
-        "bytes": 13550,
+        "bytes": 20304,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hoa-and-neighborhood-overlay-impacts-on-custom-residential-design.html",
-        "bytes": 13717,
+        "bytes": 20401,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-and-energy-compliance-for-custom-home-builds-in-los-angeles.html",
-        "bytes": 13527,
+        "bytes": 20159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/regulatory-considerations-for-custom-outdoor-patios-and-hardscapes.html",
-        "bytes": 13531,
+        "bytes": 20198,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-and-geotechnical-drivers-of-custom-home-and-pool-design.html",
-        "bytes": 13689,
+        "bytes": 20344,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/structural-and-zoning-constraints-for-custom-home-additions.html",
-        "bytes": 13615,
+        "bytes": 20215,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accessibility-and-aging-in-place-factors-in-custom-renovations.html",
-        "bytes": 13632,
+        "bytes": 20277,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/regulatory-framework-for-custom-adu-builds-in-los-angeles.html",
-        "bytes": 13493,
+        "bytes": 20112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/consumer-protection-and-contracting-practices-in-custom-residential-construction.html",
-        "bytes": 13963,
+        "bytes": 20746,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/energy-and-sustainability-standards-for-custom-renovations-and-additions.html",
-        "bytes": 13954,
+        "bytes": 20681,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-and-safety-requirements-for-custom-outdoor-kitchens.html",
-        "bytes": 13669,
+        "bytes": 20286,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-insurance-and-bonding-for-custom-build-contractors-in-los-angeles-coun.html",
-        "bytes": 13475,
+        "bytes": 20240,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-and-zoning-for-custom-home-renovations-in-los-angeles.html",
-        "bytes": 13627,
+        "bytes": 20289,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-safety-and-permitting-for-custom-pool-installations.html",
-        "bytes": 13610,
+        "bytes": 20201,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-and-accessibility-constraints-on-driveway-design.html",
-        "bytes": 13209,
+        "bytes": 19797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-driveways-on-property-value-and-curb-appeal.html",
-        "bytes": 13206,
+        "bytes": 19779,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utilities-trees-and-site-constraints-in-driveway-planning.html",
-        "bytes": 13299,
+        "bytes": 19915,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/driveway-installation-cost-ranges-in-los-angeles-county.html",
-        "bytes": 13023,
+        "bytes": 19631,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-driveway-drainage-and-runoff-management.html",
-        "bytes": 13030,
+        "bytes": 19580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/evaluating-and-choosing-a-qualified-driveway-contractor.html",
-        "bytes": 13095,
+        "bytes": 19694,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/driveway-maintenance-and-lifecycle-expectations-by-material.html",
-        "bytes": 13400,
+        "bytes": 20030,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/best-driveway-materials-for-los-angeles-county-conditions.html",
-        "bytes": 13490,
+        "bytes": 20094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/key-structural-and-drainage-design-considerations-for-driveways.html",
-        "bytes": 13352,
+        "bytes": 20016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/environmental-and-stormwater-issues-for-driveways-in-los-angeles.html",
-        "bytes": 13665,
+        "bytes": 20324,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/decorative-and-architectural-driveway-finish-options.html",
-        "bytes": 13184,
+        "bytes": 19744,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-and-inspection-requirements-for-driveways-in-los-angeles-county.html",
-        "bytes": 13366,
+        "bytes": 20098,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/risks-of-unlicensed-or-uninsured-driveway-contractors-in-california.html",
-        "bytes": 13209,
+        "bytes": 19892,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-driveway-warranties-and-contracts-in-california.html",
-        "bytes": 13526,
+        "bytes": 20146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/property-lines-shared-fences-and-legal-boundaries-in-california.html",
-        "bytes": 13251,
+        "bytes": 19915,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-los-angeles-climate-and-soil-on-fence-performance.html",
-        "bytes": 13487,
+        "bytes": 20114,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-structure-and-pricing-factors-for-fences-in-los-angeles-county.html",
-        "bytes": 13835,
+        "bytes": 20515,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/neighborhood-hoa-and-design-controls-on-fencing-in-los-angeles.html",
-        "bytes": 13587,
+        "bytes": 20267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/security-and-privacy-driven-fence-design-in-los-angeles.html",
-        "bytes": 13831,
+        "bytes": 20451,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-fence-materials-and-applications-in-los-angeles-county.html",
-        "bytes": 13591,
+        "bytes": 20238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-workflow-and-timeline-for-residential-fencing-projects.html",
-        "bytes": 13516,
+        "bytes": 20164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-and-insurance-rules-for-fencing-contractors-in-los-angeles-county.html",
-        "bytes": 13654,
+        "bytes": 20372,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-and-liability-issues-in-fencing-projects.html",
-        "bytes": 13577,
+        "bytes": 20147,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pool-and-spa-fence-safety-codes-in-los-angeles-county.html",
-        "bytes": 13457,
+        "bytes": 20054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/criteria-for-choosing-a-fencing-contractor-in-los-angeles-county.html",
-        "bytes": 13656,
+        "bytes": 20315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permit-and-zoning-requirements-for-fences-in-los-angeles-county.html",
-        "bytes": 13376,
+        "bytes": 20040,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/environmental-and-sustainability-factors-in-fencing.html",
-        "bytes": 13627,
+        "bytes": 20216,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/foundation-issues-and-real-estate-in-los-angeles.html",
-        "bytes": 13258,
+        "bytes": 19805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/local-codes-and-seismic-standards-for-foundation-repair.html",
-        "bytes": 13441,
+        "bytes": 20043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/soil-and-expansive-clay-impacts-on-foundations.html",
-        "bytes": 13566,
+        "bytes": 20096,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-considerations-in-foundation-repair.html",
-        "bytes": 13291,
+        "bytes": 19794,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/assessing-bids-and-pricing-for-foundation-repair.html",
-        "bytes": 13261,
+        "bytes": 19817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-foundation-issues-in-los-angeles-county.html",
-        "bytes": 13355,
+        "bytes": 19894,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-foundation-repair-techniques-in-los-angeles.html",
-        "bytes": 13740,
+        "bytes": 20311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-inspections-for-foundation-work.html",
-        "bytes": 13405,
+        "bytes": 19926,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-and-professional-credentials-to-verify.html",
-        "bytes": 13433,
+        "bytes": 19992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drainage-and-moisture-control-around-foundations.html",
-        "bytes": 13308,
+        "bytes": 19846,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/warranties-and-longevity-of-foundation-repairs.html",
-        "bytes": 13293,
+        "bytes": 19826,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hillside-foundation-repair-considerations.html",
-        "bytes": 13245,
+        "bytes": 19743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-involve-a-structural-engineer.html",
-        "bytes": 13141,
+        "bytes": 19608,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/lead-based-paint-obligations-in-interior-repainting.html",
-        "bytes": 13431,
+        "bytes": 20014,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/color-and-lighting-considerations-in-interior-painting.html",
-        "bytes": 13159,
+        "bytes": 19760,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/role-of-online-reviews-in-los-angeles-interior-painting-market.html",
-        "bytes": 13215,
+        "bytes": 19863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/industry-quality-standards-for-interior-paint-finishes.html",
-        "bytes": 13306,
+        "bytes": 19904,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/voc-regulations-and-paint-choices-under-scaqmd-rule-1113.html",
-        "bytes": 13083,
+        "bytes": 19698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/indoor-air-quality-considerations-for-interior-paint.html",
-        "bytes": 13642,
+        "bytes": 20214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/standards-based-surface-preparation-for-interior-painting.html",
-        "bytes": 13617,
+        "bytes": 20227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/building-code-and-regulatory-requirements-for-interior-painting.html",
-        "bytes": 13209,
+        "bytes": 19822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/residential-vs-commercial-interior-painting-considerations.html",
-        "bytes": 13338,
+        "bytes": 19955,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contracts-warranties-and-change-management-in-painting-projects.html",
-        "bytes": 13394,
+        "bytes": 20067,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-drivers-for-interior-painting-in-the-los-angeles-market.html",
-        "bytes": 13429,
+        "bytes": 20069,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/osha-driven-safety-practices-for-interior-painting-crews.html",
-        "bytes": 13406,
+        "bytes": 20018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/scheduling-and-phasing-interior-painting-in-occupied-spaces.html",
-        "bytes": 13362,
+        "bytes": 19980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/custom-cabinet-trends-shaping-la-kitchen-remodels.html",
-        "bytes": 13326,
+        "bytes": 19898,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-appliances-and-connected-tech-in-la-kitchens.html",
-        "bytes": 13392,
+        "bytes": 19959,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-title-24-and-calgreen-on-la-kitchen-lighting-and-appliances.html",
-        "bytes": 13528,
+        "bytes": 20207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-and-inspection-timelines-for-la-kitchen-remodels.html",
-        "bytes": 13702,
+        "bytes": 20335,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/space-planning-in-la-kitchens-layouts-and-flow.html",
-        "bytes": 13471,
+        "bytes": 19986,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-mid-range-and-upscale-kitchen-remodel-costs-in-la-county.html",
-        "bytes": 13457,
+        "bytes": 20125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/countertop-material-trade-offs-for-la-kitchen-remodels.html",
-        "bytes": 13214,
+        "bytes": 19791,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/current-kitchen-design-trends-in-los-angeles.html",
-        "bytes": 13032,
+        "bytes": 19566,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/key-la-county-codes-and-permits-for-kitchen-remodeling.html",
-        "bytes": 13783,
+        "bytes": 20378,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/plumbing-gas-and-ventilation-challenges-in-la-kitchen-reconfigs.html",
-        "bytes": 13650,
+        "bytes": 20311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/risk-and-contingency-planning-for-la-kitchen-remodels.html",
-        "bytes": 13371,
+        "bytes": 19965,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/structural-and-seismic-factors-in-opening-la-kitchens.html",
-        "bytes": 13657,
+        "bytes": 20233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainability-and-indoor-air-quality-in-la-kitchen-remodels.html",
-        "bytes": 13301,
+        "bytes": 19917,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checking-a-contractor-s-license-in-california.html",
-        "bytes": 11607,
+        "bytes": 18163,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-durable-kitchen-materials.html",
-        "bytes": 11399,
+        "bytes": 17833,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kitchen-remodel-timelines-and-scheduling.html",
-        "bytes": 11514,
+        "bytes": 18017,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/comparing-kitchen-remodel-bids-fairly.html",
-        "bytes": 11585,
+        "bytes": 18055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/reviewing-portfolios-and-references.html",
-        "bytes": 11472,
+        "bytes": 17919,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-look-for-in-a-kitchen-remodel-contract.html",
-        "bytes": 11891,
+        "bytes": 18439,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/efficiency-upgrades-during-a-kitchen-remodel.html",
-        "bytes": 11625,
+        "bytes": 18141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hidden-conditions-in-older-kitchens.html",
-        "bytes": 11669,
+        "bytes": 18125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-and-jobsite-risk-controls.html",
-        "bytes": 11466,
+        "bytes": 17931,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permit-rules-for-kitchen-remodeling-projects.html",
-        "bytes": 11794,
+        "bytes": 18313,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-layout-changes-affect-contractor-choice.html",
-        "bytes": 11701,
+        "bytes": 18207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-kitchen-remodel-costs-in-los-angeles-county.html",
-        "bytes": 11965,
+        "bytes": 18533,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/remodeling-older-and-historic-kitchens.html",
-        "bytes": 11950,
+        "bytes": 18421,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ada-and-california-accessibility-standards-for-parking-lot-paving-and-striping.html",
-        "bytes": 13636,
+        "bytes": 20393,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stormwater-and-environmental-compliance-for-asphalt-paving-in-los-angeles-county.html",
-        "bytes": 13400,
+        "bytes": 20171,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/comparing-asphalt-and-concrete-paving-materials-for-los-angeles-projects.html",
-        "bytes": 13602,
+        "bytes": 20323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/air-quality-and-emissions-constraints-on-asphalt-paving-in-los-angeles.html",
-        "bytes": 13475,
+        "bytes": 20188,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/use-of-recycled-materials-and-sustainable-methods-in-local-paving.html",
-        "bytes": 13561,
+        "bytes": 20230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/budgeting-and-capital-planning-for-pavement-rehabilitation-and-replacement.html",
-        "bytes": 13914,
+        "bytes": 20661,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-maintenance-strategy-and-life-cycle-planning-in-los-angeles-s-climate.html",
-        "bytes": 13782,
+        "bytes": 20535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pavement-design-and-typical-thickness-for-los-angeles-parking-lots.html",
-        "bytes": 13341,
+        "bytes": 20026,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/different-paving-priorities-for-commercial-hoa-and-municipal-owners.html",
-        "bytes": 13882,
+        "bytes": 20583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-bonding-and-insurance-requirements-for-paving-contractors-in-los-angel.html",
-        "bytes": 13852,
+        "bytes": 20677,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/quality-control-and-testing-standards-for-paving-projects.html",
-        "bytes": 13380,
+        "bytes": 19993,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/safety-and-traffic-control-requirements-for-paving-work-zones.html",
-        "bytes": 13405,
+        "bytes": 20043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-and-inspection-considerations-for-paving-and-driveway-projects.html",
-        "bytes": 13689,
+        "bytes": 20435,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-code-requirements-for-retaining-walls-in-los-angeles-county.html",
-        "bytes": 13041,
+        "bytes": 19743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/evaluation-and-repair-approaches-for-failing-retaining-walls.html",
-        "bytes": 13282,
+        "bytes": 19934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/climate-and-soil-impacts-on-retaining-wall-materials-and-longevity.html",
-        "bytes": 13298,
+        "bytes": 19974,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/property-line-and-urban-context-issues-for-retaining-walls.html",
-        "bytes": 13138,
+        "bytes": 19755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drainage-requirements-and-practices-for-retaining-walls.html",
-        "bytes": 12745,
+        "bytes": 19353,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-retaining-wall-types-and-when-each-is-used.html",
-        "bytes": 13045,
+        "bytes": 19602,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cost-ranges-and-key-cost-drivers-for-retaining-walls.html",
-        "bytes": 12933,
+        "bytes": 19526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/construction-best-practices-and-quality-control-for-retaining-walls.html",
-        "bytes": 13454,
+        "bytes": 20140,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/landscape-grade-vs-structural-retaining-walls.html",
-        "bytes": 12937,
+        "bytes": 19469,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/licensing-and-qualifications-for-retaining-wall-contractors.html",
-        "bytes": 13324,
+        "bytes": 19951,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/geotechnical-studies-for-hillside-retaining-walls.html",
-        "bytes": 13015,
+        "bytes": 19578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-and-hillside-design-factors-for-retaining-walls.html",
-        "bytes": 13259,
+        "bytes": 19861,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/digital-tools-and-project-management-in-modern-roofing.html",
-        "bytes": 13333,
+        "bytes": 19934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cool-roofing-energy-savings-and-compliance-in-la-county.html",
-        "bytes": 13244,
+        "bytes": 19867,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/insurance-weather-risk-and-resilient-roofing-choices.html",
-        "bytes": 13361,
+        "bytes": 19945,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/reroofing-with-rooftop-solar-in-los-angeles-county.html",
-        "bytes": 13245,
+        "bytes": 19824,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sustainable-and-energy-efficient-roofing-drivers-in-la-county.html",
-        "bytes": 13684,
+        "bytes": 20316,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/smart-roofing-technologies-and-their-role-in-los-angeles.html",
-        "bytes": 13390,
+        "bytes": 19996,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/coastal-vs-inland-roofing-choices-in-los-angeles-county.html",
-        "bytes": 13586,
+        "bytes": 20185,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-maintenance-best-practices-for-los-angeles-conditions.html",
-        "bytes": 13143,
+        "bytes": 19769,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/los-angeles-county-reroofing-codes-and-permits.html",
-        "bytes": 13172,
+        "bytes": 19720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/aesthetics-curb-appeal-and-roofing-design-in-los-angeles.html",
-        "bytes": 13562,
+        "bytes": 20153,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-and-emerging-roofing-materials-in-los-angeles.html",
-        "bytes": 13611,
+        "bytes": 20180,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/green-roofs-and-vegetative-systems-on-los-angeles-buildings.html",
-        "bytes": 13366,
+        "bytes": 19999,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fire-resistant-roofing-and-wildfire-risk-in-los-angeles-county.html",
-        "bytes": 13245,
+        "bytes": 19896,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-title-24-energy-standards-on-room-additions.html",
-        "bytes": 13354,
+        "bytes": 19948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/room-additions-vs-adus-and-garage-conversions-in-los-angeles.html",
-        "bytes": 13380,
+        "bytes": 20026,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/zoning-constraints-on-home-additions-in-los-angeles-county.html",
-        "bytes": 13372,
+        "bytes": 19989,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/room-addition-cost-ranges-and-cost-drivers-in-los-angeles.html",
-        "bytes": 13436,
+        "bytes": 20064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/evaluating-and-choosing-a-room-additions-contractor.html",
-        "bytes": 13131,
+        "bytes": 19693,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/typical-timeline-and-workflow-for-a-room-addition.html",
-        "bytes": 13358,
+        "bytes": 19894,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/code-and-seismic-standards-governing-room-additions.html",
-        "bytes": 13476,
+        "bytes": 20062,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/contract-and-payment-best-practices-for-room-additions.html",
-        "bytes": 13151,
+        "bytes": 19743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/design-strategies-for-seamless-room-additions.html",
-        "bytes": 13279,
+        "bytes": 19793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/financing-strategies-for-room-additions.html",
-        "bytes": 13202,
+        "bytes": 19683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/inspections-and-quality-control-in-room-addition-projects.html",
-        "bytes": 13125,
+        "bytes": 19732,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-approvals-for-room-additions-in-los-angeles-county.html",
-        "bytes": 13392,
+        "bytes": 20025,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/risks-of-unpermitted-room-additions-in-los-angeles-county.html",
-        "bytes": 13479,
+        "bytes": 20092,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impact-of-seismic-retrofits-on-tenants-and-operations-in-la.html",
-        "bytes": 13244,
+        "bytes": 19880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-los-angeles-retrofit-rules-compare-to-other-california-cities.html",
-        "bytes": 13382,
+        "bytes": 20069,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permitting-and-enforcement-for-seismic-retrofits-in-los-angeles.html",
-        "bytes": 13267,
+        "bytes": 19916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/los-angeles-county-requirements-for-older-concrete-tilt-up-buildings.html",
-        "bytes": 13058,
+        "bytes": 19766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/residential-seismic-retrofit-costs-in-los-angeles.html",
-        "bytes": 13312,
+        "bytes": 19857,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/deadlines-and-process-under-los-angeles-soft-story-retrofit-rules.html",
-        "bytes": 12813,
+        "bytes": 19509,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-los-angeles-owners-retrofit-even-when-not-yet-required.html",
-        "bytes": 13250,
+        "bytes": 19882,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-retrofit-strategies-for-los-angeles-wood-frame-soft-story-buildings.html",
-        "bytes": 13121,
+        "bytes": 19871,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-due-diligence-for-acquisitions-in-los-angeles-county.html",
-        "bytes": 13281,
+        "bytes": 19921,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/emerging-trends-in-los-angeles-county-seismic-retrofitting.html",
-        "bytes": 13476,
+        "bytes": 20078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-seismic-retrofitting-means-in-the-los-angeles-county-context.html",
-        "bytes": 13312,
+        "bytes": 19966,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/emerging-la-county-rules-for-high-rise-nonductile-concrete-retrofits.html",
-        "bytes": 13155,
+        "bytes": 19854,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-performance-objectives-guiding-la-retrofit-projects.html",
-        "bytes": 13385,
+        "bytes": 20024,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/which-los-angeles-area-buildings-must-be-retrofitted-by-law.html",
-        "bytes": 13020,
+        "bytes": 19650,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/nem-3-0-and-optimal-solar-system-design-in-los-angeles-county.html",
-        "bytes": 13214,
+        "bytes": 19876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/title-24-requirements-and-solar-on-new-construction-in-los-angeles.html",
-        "bytes": 13454,
+        "bytes": 20142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/utility-incentives-and-rules-affecting-solar-roi-in-los-angeles-county.html",
-        "bytes": 13807,
+        "bytes": 20508,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/property-value-and-transaction-effects-of-solar-in-los-angeles.html",
-        "bytes": 13497,
+        "bytes": 20145,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/impacts-of-home-battery-storage-on-los-angeles-solar-projects.html",
-        "bytes": 13592,
+        "bytes": 20233,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/solar-resource-climate-and-urban-design-realities-in-los-angeles.html",
-        "bytes": 13389,
+        "bytes": 20057,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/economics-and-financing-of-residential-solar-in-los-angeles-county.html",
-        "bytes": 13607,
+        "bytes": 20280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/key-solar-contract-and-consumer-protection-issues-in-los-angeles.html",
-        "bytes": 13552,
+        "bytes": 20205,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-and-multifamily-solar-considerations-in-los-angeles-county.html",
-        "bytes": 13727,
+        "bytes": 20412,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/interconnection-requirements-and-constraints-for-la-county-solar.html",
-        "bytes": 13446,
+        "bytes": 20111,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.html",
-        "bytes": 13609,
+        "bytes": 20295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/permits-and-codes-governing-residential-solar-in-los-angeles-county.html",
-        "bytes": 13459,
+        "bytes": 20130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/solar-on-existing-structures-structural-and-interconnection-issues.html",
-        "bytes": 13080,
+        "bytes": 19765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/incentives-and-tax-policy-impacts-on-la-solar-projects.html",
-        "bytes": 12935,
+        "bytes": 19515,
         "purpose": "LLM-optimized public page"
       }
     ],
