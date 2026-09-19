@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-19T20:24:26.291Z",
+  "generatedAt": "2026-09-19T20:28:36.052Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -102,7 +102,7 @@
   },
   "package": {
     "totalFiles": 1123,
-    "totalBytes": 7788678,
+    "totalBytes": 7800549,
     "stats": {
       "qna": 0,
       "faqs": 465,
@@ -5707,7 +5707,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2509,
+        "bytes": 3710,
         "purpose": "LLM hint"
       },
       {
@@ -5727,32 +5727,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1730,
+        "bytes": 4958,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 526562,
+        "bytes": 529200,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 148862,
+        "bytes": 150063,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 148862,
+        "bytes": 150063,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2533,
+        "bytes": 3734,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 187374,
+        "bytes": 188575,
         "purpose": "Repository README"
       },
       {
@@ -5772,6 +5772,30 @@
       "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948",
       "pagesUrl": "http://yorconstruction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/yor-construction-investments-inc-ai-schemas-52pm",
+      "pagesUrl": "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/",
+      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/yor-construction-investments-inc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas/",
+      "repo": "aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22849750"
     }
   }
 }
