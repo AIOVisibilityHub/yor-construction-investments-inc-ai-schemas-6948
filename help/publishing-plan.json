@@ -1,0 +1,2541 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "LLM Structured Data",
+      "anchorSlug": "llm-structured-data",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/llm-structured-data.html"
+    },
+    {
+      "title": "Air Conditioning",
+      "anchorSlug": "air-conditioning",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/air-conditioning.html"
+    },
+    {
+      "title": "Accessory Dwelling Units",
+      "anchorSlug": "accessory-dwelling-units",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/accessory-dwelling-units.html"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "anchorSlug": "bathroom-remodeling",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling.html"
+    },
+    {
+      "title": "Concrete Services",
+      "anchorSlug": "concrete-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/concrete-services.html"
+    },
+    {
+      "title": "Commercial Buildouts",
+      "anchorSlug": "commercial-buildouts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-buildouts.html"
+    },
+    {
+      "title": "Deck Building",
+      "anchorSlug": "deck-building",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deck-building.html"
+    },
+    {
+      "title": "Deck Safety",
+      "anchorSlug": "deck-safety",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deck-safety.html"
+    },
+    {
+      "title": "Driveway Installation",
+      "anchorSlug": "driveway-installation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/driveway-installation.html"
+    },
+    {
+      "title": "Electrical Work",
+      "anchorSlug": "electrical-work",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/electrical-work.html"
+    },
+    {
+      "title": "Emergency Services",
+      "anchorSlug": "emergency-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/emergency-services.html"
+    },
+    {
+      "title": "Exterior Painting",
+      "anchorSlug": "exterior-painting",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/exterior-painting.html"
+    },
+    {
+      "title": "Fencing",
+      "anchorSlug": "fencing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fencing.html"
+    },
+    {
+      "title": "Flooring",
+      "anchorSlug": "flooring",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flooring.html"
+    },
+    {
+      "title": "Foundation Work",
+      "anchorSlug": "foundation-work",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-work.html"
+    },
+    {
+      "title": "Foundation Repair",
+      "anchorSlug": "foundation-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-repair.html"
+    },
+    {
+      "title": "Framing",
+      "anchorSlug": "framing",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/framing.html"
+    },
+    {
+      "title": "Whole-Home Renovation",
+      "anchorSlug": "whole-home-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-home-renovation.html"
+    },
+    {
+      "title": "Garage Door Repairs",
+      "anchorSlug": "garage-door-repairs",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/garage-door-repairs.html"
+    },
+    {
+      "title": "Garage Door Replacements",
+      "anchorSlug": "garage-door-replacements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/garage-door-replacements.html"
+    },
+    {
+      "title": "Home Renovation",
+      "anchorSlug": "home-renovation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-renovation.html"
+    },
+    {
+      "title": "Interior Painting",
+      "anchorSlug": "interior-painting",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interior-painting.html"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "anchorSlug": "kitchen-remodeling",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodeling.html"
+    },
+    {
+      "title": "Locksmith Services",
+      "anchorSlug": "locksmith-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/locksmith-services.html"
+    },
+    {
+      "title": "Patio Construction",
+      "anchorSlug": "patio-construction",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/patio-construction.html"
+    },
+    {
+      "title": "Patio Covers",
+      "anchorSlug": "patio-covers",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/patio-covers.html"
+    },
+    {
+      "title": "Patio & Deck Construction",
+      "anchorSlug": "patio-deck-construction",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/patio-deck-construction.html"
+    },
+    {
+      "title": "Patio Enclosures",
+      "anchorSlug": "patio-enclosures",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/patio-enclosures.html"
+    },
+    {
+      "title": "Paving Services",
+      "anchorSlug": "paving-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/paving-services.html"
+    },
+    {
+      "title": "Plumbing Services",
+      "anchorSlug": "plumbing-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plumbing-services.html"
+    },
+    {
+      "title": "Retaining Walls",
+      "anchorSlug": "retaining-walls",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/retaining-walls.html"
+    },
+    {
+      "title": "Roofing",
+      "anchorSlug": "roofing",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/roofing.html"
+    },
+    {
+      "title": "Room Conversions",
+      "anchorSlug": "room-conversions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-conversions.html"
+    },
+    {
+      "title": "Earthquake Retrofitting",
+      "anchorSlug": "earthquake-retrofitting",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/earthquake-retrofitting.html"
+    },
+    {
+      "title": "Solar Panel Installation",
+      "anchorSlug": "solar-panel-installation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-panel-installation.html"
+    },
+    {
+      "title": "Stucco Application",
+      "anchorSlug": "stucco-application",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stucco-application.html"
+    },
+    {
+      "title": "Swimming Pool Maintenance",
+      "anchorSlug": "swimming-pool-maintenance",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/swimming-pool-maintenance.html"
+    },
+    {
+      "title": "Window Replacement",
+      "anchorSlug": "window-replacement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/window-replacement.html"
+    },
+    {
+      "title": "Coordinating Fence and Driveway Improvements",
+      "anchorSlug": "coordinating-fence-and-driveway-improvements",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/coordinating-fence-and-driveway-improvements.html"
+    },
+    {
+      "title": "Retaining Wall Construction in Los Angeles County",
+      "anchorSlug": "retaining-wall-construction-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/retaining-wall-construction-in-los-angeles-county.html"
+    },
+    {
+      "title": "What to Know Before Building an ADU in Los Angeles",
+      "anchorSlug": "what-to-know-before-building-an-adu-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-building-an-adu-in-los-angeles.html"
+    },
+    {
+      "title": "Seismic Retrofitting and Foundation Repair in Earthquake Country",
+      "anchorSlug": "seismic-retrofitting-and-foundation-repair-in-earthquake-country",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-retrofitting-and-foundation-repair-in-earthquake-country.html"
+    },
+    {
+      "title": "Evaluating Solar Installation During a Remodel",
+      "anchorSlug": "evaluating-solar-installation-during-a-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-solar-installation-during-a-remodel.html"
+    },
+    {
+      "title": "Air Conditioning Installation for Additions and ADUs",
+      "anchorSlug": "air-conditioning-installation-for-additions-and-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/air-conditioning-installation-for-additions-and-adus.html"
+    },
+    {
+      "title": "Kitchen Remodeling Options That Affect Cost and Performance",
+      "anchorSlug": "kitchen-remodeling-options-that-affect-cost-and-performance",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodeling-options-that-affect-cost-and-performance.html"
+    },
+    {
+      "title": "Selecting a Commercial Contractor for Los Angeles Projects",
+      "anchorSlug": "selecting-a-commercial-contractor-for-los-angeles-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-a-commercial-contractor-for-los-angeles-projects.html"
+    },
+    {
+      "title": "Window Installation Decisions That Affect Comfort and Compliance",
+      "anchorSlug": "window-installation-decisions-that-affect-comfort-and-compliance",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/window-installation-decisions-that-affect-comfort-and-compliance.html"
+    },
+    {
+      "title": "Roofing Contractor Questions for Los Angeles Homes",
+      "anchorSlug": "roofing-contractor-questions-for-los-angeles-homes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/roofing-contractor-questions-for-los-angeles-homes.html"
+    },
+    {
+      "title": "What to Look for in Post-Remodel Interior Painting",
+      "anchorSlug": "what-to-look-for-in-post-remodel-interior-painting",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-look-for-in-post-remodel-interior-painting.html"
+    },
+    {
+      "title": "Bathroom Remodeling Factors Buyers Should Compare",
+      "anchorSlug": "bathroom-remodeling-factors-buyers-should-compare",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-factors-buyers-should-compare.html"
+    },
+    {
+      "title": "Hiring a Room Addition Contractor in Los Angeles County",
+      "anchorSlug": "hiring-a-room-addition-contractor-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hiring-a-room-addition-contractor-in-los-angeles-county.html"
+    },
+    {
+      "title": "Property Tax, Financing, and Rental Economics of ADUs",
+      "anchorSlug": "property-tax-financing-and-rental-economics-of-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-tax-financing-and-rental-economics-of-adus.html"
+    },
+    {
+      "title": "Energy Code and Green Building Requirements for ADUs",
+      "anchorSlug": "energy-code-and-green-building-requirements-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-code-and-green-building-requirements-for-adus.html"
+    },
+    {
+      "title": "Using Los Angeles County’s Pre-Approved ADU Plans",
+      "anchorSlug": "using-los-angeles-county-s-pre-approved-adu-plans",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/using-los-angeles-county-s-pre-approved-adu-plans.html"
+    },
+    {
+      "title": "Project Timelines for ADU Additions in Los Angeles",
+      "anchorSlug": "project-timelines-for-adu-additions-in-los-angeles",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-timelines-for-adu-additions-in-los-angeles.html"
+    },
+    {
+      "title": "Permits and Inspections for ADUs in Los Angeles County",
+      "anchorSlug": "permits-and-inspections-for-adus-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-inspections-for-adus-in-los-angeles-county.html"
+    },
+    {
+      "title": "ADUs in Hillside, Fire, Coastal, and Historic Zones",
+      "anchorSlug": "adus-in-hillside-fire-coastal-and-historic-zones",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adus-in-hillside-fire-coastal-and-historic-zones.html"
+    },
+    {
+      "title": "Selecting and Contracting with an ADU Additions Contractor",
+      "anchorSlug": "selecting-and-contracting-with-an-adu-additions-contractor",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/selecting-and-contracting-with-an-adu-additions-contractor.html"
+    },
+    {
+      "title": "Pitfalls and Risk Management in ADU Addition Projects",
+      "anchorSlug": "pitfalls-and-risk-management-in-adu-addition-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pitfalls-and-risk-management-in-adu-addition-projects.html"
+    },
+    {
+      "title": "Zoning and Size Rules for ADUs in Los Angeles County",
+      "anchorSlug": "zoning-and-size-rules-for-adus-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/zoning-and-size-rules-for-adus-in-los-angeles-county.html"
+    },
+    {
+      "title": "Cost Ranges and Budget Drivers for ADU Additions in Los Angeles",
+      "anchorSlug": "cost-ranges-and-budget-drivers-for-adu-additions-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-ranges-and-budget-drivers-for-adu-additions-in-los-angeles.html"
+    },
+    {
+      "title": "Utilities, Services, and Site Infrastructure for ADUs",
+      "anchorSlug": "utilities-services-and-site-infrastructure-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utilities-services-and-site-infrastructure-for-adus.html"
+    },
+    {
+      "title": "Design and Layout Strategies for Successful ADUs",
+      "anchorSlug": "design-and-layout-strategies-for-successful-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-and-layout-strategies-for-successful-adus.html"
+    },
+    {
+      "title": "Structural and Seismic Requirements for ADU Additions and Conversions",
+      "anchorSlug": "structural-and-seismic-requirements-for-adu-additions-and-conversions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structural-and-seismic-requirements-for-adu-additions-and-conversions.html"
+    },
+    {
+      "title": "Property Value and Appraisal Impacts of ADUs in Los Angeles County",
+      "anchorSlug": "property-value-and-appraisal-impacts-of-adus-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.html"
+    },
+    {
+      "title": "ADUs as a Tool for Housing Affordability and Supply in Los Angeles",
+      "anchorSlug": "adus-as-a-tool-for-housing-affordability-and-supply-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adus-as-a-tool-for-housing-affordability-and-supply-in-los-angeles.html"
+    },
+    {
+      "title": "Utility Connections and Infrastructure Considerations for ADUs",
+      "anchorSlug": "utility-connections-and-infrastructure-considerations-for-adus",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utility-connections-and-infrastructure-considerations-for-adus.html"
+    },
+    {
+      "title": "Los Angeles County Pre-Approved ADU Plan Program",
+      "anchorSlug": "los-angeles-county-pre-approved-adu-plan-program",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/los-angeles-county-pre-approved-adu-plan-program.html"
+    },
+    {
+      "title": "Parking Requirements and Exemptions for ADUs",
+      "anchorSlug": "parking-requirements-and-exemptions-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/parking-requirements-and-exemptions-for-adus.html"
+    },
+    {
+      "title": "Definition and Core Requirements for ADUs and JADUs in Los Angeles County",
+      "anchorSlug": "definition-and-core-requirements-for-adus-and-jadus-in-los-angeles-count",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/definition-and-core-requirements-for-adus-and-jadus-in-los-angeles-count.html"
+    },
+    {
+      "title": "Scale and Growth of ADU Development in Los Angeles County",
+      "anchorSlug": "scale-and-growth-of-adu-development-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/scale-and-growth-of-adu-development-in-los-angeles-county.html"
+    },
+    {
+      "title": "Financing Patterns and Lender Perspectives on ADU Projects",
+      "anchorSlug": "financing-patterns-and-lender-perspectives-on-adu-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-patterns-and-lender-perspectives-on-adu-projects.html"
+    },
+    {
+      "title": "Comparing Detached, Attached, and Garage Conversion ADUs",
+      "anchorSlug": "comparing-detached-attached-and-garage-conversion-adus",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-detached-attached-and-garage-conversion-adus.html"
+    },
+    {
+      "title": "Zoning and Permitting Framework for ADUs in Los Angeles County",
+      "anchorSlug": "zoning-and-permitting-framework-for-adus-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/zoning-and-permitting-framework-for-adus-in-los-angeles-county.html"
+    },
+    {
+      "title": "Building Code and Safety Compliance for ADUs",
+      "anchorSlug": "building-code-and-safety-compliance-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-code-and-safety-compliance-for-adus.html"
+    },
+    {
+      "title": "Typical ADU Construction Costs and Cost Drivers in Los Angeles County",
+      "anchorSlug": "typical-adu-construction-costs-and-cost-drivers-in-los-angeles-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-adu-construction-costs-and-cost-drivers-in-los-angeles-county.html"
+    },
+    {
+      "title": "Drivers Behind the ADU Boom in Los Angeles County",
+      "anchorSlug": "drivers-behind-the-adu-boom-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drivers-behind-the-adu-boom-in-los-angeles-county.html"
+    },
+    {
+      "title": "Rental Income Benchmarks and Market Positioning for Los Angeles County ADUs",
+      "anchorSlug": "rental-income-benchmarks-and-market-positioning-for-los-angeles-county-a",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-income-benchmarks-and-market-positioning-for-los-angeles-county-a.html"
+    },
+    {
+      "title": "Fire, Life Safety, and Access Requirements for ADUs",
+      "anchorSlug": "fire-life-safety-and-access-requirements-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fire-life-safety-and-access-requirements-for-adus.html"
+    },
+    {
+      "title": "Comparing Garage Conversions and New Detached ADUs",
+      "anchorSlug": "comparing-garage-conversions-and-new-detached-adus",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-garage-conversions-and-new-detached-adus.html"
+    },
+    {
+      "title": "Building Code, CALGreen, and Energy Code Considerations for ADUs",
+      "anchorSlug": "building-code-calgreen-and-energy-code-considerations-for-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-code-calgreen-and-energy-code-considerations-for-adus.html"
+    },
+    {
+      "title": "Impact of LA County Pre-Approved ADU Plans on Design Services",
+      "anchorSlug": "impact-of-la-county-pre-approved-adu-plans-on-design-services",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-la-county-pre-approved-adu-plans-on-design-services.html"
+    },
+    {
+      "title": "Design, Plan-Check, and Construction Timelines for ADUs",
+      "anchorSlug": "design-plan-check-and-construction-timelines-for-adus",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-plan-check-and-construction-timelines-for-adus.html"
+    },
+    {
+      "title": "Designing ADUs for Long-Term Value and Rental Potential",
+      "anchorSlug": "designing-adus-for-long-term-value-and-rental-potential",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/designing-adus-for-long-term-value-and-rental-potential.html"
+    },
+    {
+      "title": "Contract and Project Management Basics for ADU Engagements",
+      "anchorSlug": "contract-and-project-management-basics-for-adu-engagements",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contract-and-project-management-basics-for-adu-engagements.html"
+    },
+    {
+      "title": "Cost Components and Budget Planning for ADU Design and Build",
+      "anchorSlug": "cost-components-and-budget-planning-for-adu-design-and-build",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-components-and-budget-planning-for-adu-design-and-build.html"
+    },
+    {
+      "title": "Due Diligence on ADU Contractors’ Local Experience",
+      "anchorSlug": "due-diligence-on-adu-contractors-local-experience",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/due-diligence-on-adu-contractors-local-experience.html"
+    },
+    {
+      "title": "Zoning and State Law Compliance for ADUs in Los Angeles County",
+      "anchorSlug": "zoning-and-state-law-compliance-for-adus-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.html"
+    },
+    {
+      "title": "Licensing and Professional Credentials for ADU Design Contractors",
+      "anchorSlug": "licensing-and-professional-credentials-for-adu-design-contractors",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-and-professional-credentials-for-adu-design-contractors.html"
+    },
+    {
+      "title": "Incorporating Accessibility and Aging-in-Place Features in ADUs",
+      "anchorSlug": "incorporating-accessibility-and-aging-in-place-features-in-adus",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/incorporating-accessibility-and-aging-in-place-features-in-adus.html"
+    },
+    {
+      "title": "Utility Capacity, Connections, and ADU Design in LA County",
+      "anchorSlug": "utility-capacity-connections-and-adu-design-in-la-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utility-capacity-connections-and-adu-design-in-la-county.html"
+    },
+    {
+      "title": "Consumer Protections, Payments, and Disputes in California Bathroom Remodeling",
+      "anchorSlug": "consumer-protections-payments-and-disputes-in-california-bathroom-remode",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/consumer-protections-payments-and-disputes-in-california-bathroom-remode.html"
+    },
+    {
+      "title": "Water and Energy Efficiency Standards Impacting Bathroom Remodels",
+      "anchorSlug": "water-and-energy-efficiency-standards-impacting-bathroom-remodels",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/water-and-energy-efficiency-standards-impacting-bathroom-remodels.html"
+    },
+    {
+      "title": "Hazardous Materials (Lead and Asbestos) Considerations in Bathroom Demolition",
+      "anchorSlug": "hazardous-materials-lead-and-asbestos-considerations-in-bathroom-demolit",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hazardous-materials-lead-and-asbestos-considerations-in-bathroom-demolit.html"
+    },
+    {
+      "title": "Typical Timelines and Scheduling Factors for Bathroom Overhauls",
+      "anchorSlug": "typical-timelines-and-scheduling-factors-for-bathroom-overhauls",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-timelines-and-scheduling-factors-for-bathroom-overhauls.html"
+    },
+    {
+      "title": "Evaluating Bathroom Contractors via Reviews and References",
+      "anchorSlug": "evaluating-bathroom-contractors-via-reviews-and-references",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-bathroom-contractors-via-reviews-and-references.html"
+    },
+    {
+      "title": "Accessibility and Universal Design in Bathroom Overhauls",
+      "anchorSlug": "accessibility-and-universal-design-in-bathroom-overhauls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/accessibility-and-universal-design-in-bathroom-overhauls.html"
+    },
+    {
+      "title": "Waterproofing Standards and Practices for Showers and Wet Zones",
+      "anchorSlug": "waterproofing-standards-and-practices-for-showers-and-wet-zones",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waterproofing-standards-and-practices-for-showers-and-wet-zones.html"
+    },
+    {
+      "title": "Cost Ranges and Drivers for Los Angeles Bathroom Overhauls",
+      "anchorSlug": "cost-ranges-and-drivers-for-los-angeles-bathroom-overhauls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-ranges-and-drivers-for-los-angeles-bathroom-overhauls.html"
+    },
+    {
+      "title": "Building Codes and Safety Standards for Bathroom Renovations",
+      "anchorSlug": "building-codes-and-safety-standards-for-bathroom-renovations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-codes-and-safety-standards-for-bathroom-renovations.html"
+    },
+    {
+      "title": "Key Contract and Documentation Requirements in California Bathroom Projects",
+      "anchorSlug": "key-contract-and-documentation-requirements-in-california-bathroom-proje",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-contract-and-documentation-requirements-in-california-bathroom-proje.html"
+    },
+    {
+      "title": "Insurance and Bonding Expectations for Bathroom Contractors",
+      "anchorSlug": "insurance-and-bonding-expectations-for-bathroom-contractors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-and-bonding-expectations-for-bathroom-contractors.html"
+    },
+    {
+      "title": "Required Licensing for Bathroom Overhaul Contractors in Los Angeles County",
+      "anchorSlug": "required-licensing-for-bathroom-overhaul-contractors-in-los-angeles-coun",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/required-licensing-for-bathroom-overhaul-contractors-in-los-angeles-coun.html"
+    },
+    {
+      "title": "Permit Requirements and Responsibilities for Bathroom Overhauls",
+      "anchorSlug": "permit-requirements-and-responsibilities-for-bathroom-overhauls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permit-requirements-and-responsibilities-for-bathroom-overhauls.html"
+    },
+    {
+      "title": "Noise, Dust, and Occupant Comfort During Bathroom Remodeling",
+      "anchorSlug": "noise-dust-and-occupant-comfort-during-bathroom-remodeling",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/noise-dust-and-occupant-comfort-during-bathroom-remodeling.html"
+    },
+    {
+      "title": "Accessibility and Aging‑in‑Place Considerations in Bathroom Design",
+      "anchorSlug": "accessibility-and-aging-in-place-considerations-in-bathroom-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/accessibility-and-aging-in-place-considerations-in-bathroom-design.html"
+    },
+    {
+      "title": "Energy and Water Efficiency Requirements Shaping Bathroom Remodels",
+      "anchorSlug": "energy-and-water-efficiency-requirements-shaping-bathroom-remodels",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-and-water-efficiency-requirements-shaping-bathroom-remodels.html"
+    },
+    {
+      "title": "Manufacturer Warranties and Workmanship Guarantees in Bathroom Projects",
+      "anchorSlug": "manufacturer-warranties-and-workmanship-guarantees-in-bathroom-projects",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/manufacturer-warranties-and-workmanship-guarantees-in-bathroom-projects.html"
+    },
+    {
+      "title": "Assessing Contractor Experience, Portfolios, and References",
+      "anchorSlug": "assessing-contractor-experience-portfolios-and-references",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/assessing-contractor-experience-portfolios-and-references.html"
+    },
+    {
+      "title": "Licensing, Insurance, and Permits for Bathroom Remodeling in Los Angeles County",
+      "anchorSlug": "licensing-insurance-and-permits-for-bathroom-remodeling-in-los-angeles-c",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-insurance-and-permits-for-bathroom-remodeling-in-los-angeles-c.html"
+    },
+    {
+      "title": "Project Timelines and Construction Sequencing for Bathroom Renovels",
+      "anchorSlug": "project-timelines-and-construction-sequencing-for-bathroom-renovels",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-timelines-and-construction-sequencing-for-bathroom-renovels.html"
+    },
+    {
+      "title": "Cost Structures and Budget Drivers for LA County Bathroom Remodels",
+      "anchorSlug": "cost-structures-and-budget-drivers-for-la-county-bathroom-remodels",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-structures-and-budget-drivers-for-la-county-bathroom-remodels.html"
+    },
+    {
+      "title": "Code and Inspection Considerations for Los Angeles Bathroom Renovations",
+      "anchorSlug": "code-and-inspection-considerations-for-los-angeles-bathroom-renovations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-and-inspection-considerations-for-los-angeles-bathroom-renovations.html"
+    },
+    {
+      "title": "Home Improvement Contract and Payment Practices Under California Rules",
+      "anchorSlug": "home-improvement-contract-and-payment-practices-under-california-rules",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-improvement-contract-and-payment-practices-under-california-rules.html"
+    },
+    {
+      "title": "Local Permitting and Jurisdictional Nuances Within Los Angeles County",
+      "anchorSlug": "local-permitting-and-jurisdictional-nuances-within-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/local-permitting-and-jurisdictional-nuances-within-los-angeles-county.html"
+    },
+    {
+      "title": "Risks of Unlicensed Work and Consumer Protection Guidance",
+      "anchorSlug": "risks-of-unlicensed-work-and-consumer-protection-guidance",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/risks-of-unlicensed-work-and-consumer-protection-guidance.html"
+    },
+    {
+      "title": "Waste Management, Recycling, and Environmental Compliance in Bathroom Projects",
+      "anchorSlug": "waste-management-recycling-and-environmental-compliance-in-bathroom-proj",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waste-management-recycling-and-environmental-compliance-in-bathroom-proj.html"
+    },
+    {
+      "title": "Waterproofing and Moisture Control Standards in Bathroom Remodeling",
+      "anchorSlug": "waterproofing-and-moisture-control-standards-in-bathroom-remodeling",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/waterproofing-and-moisture-control-standards-in-bathroom-remodeling.html"
+    },
+    {
+      "title": "Economic Outlook and Forecast for Los Angeles Commercial Construction",
+      "anchorSlug": "economic-outlook-and-forecast-for-los-angeles-commercial-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/economic-outlook-and-forecast-for-los-angeles-commercial-construction.html"
+    },
+    {
+      "title": "Environmental and Seismic Design Drivers in Los Angeles Commercial Construction",
+      "anchorSlug": "environmental-and-seismic-design-drivers-in-los-angeles-commercial-const",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/environmental-and-seismic-design-drivers-in-los-angeles-commercial-const.html"
+    },
+    {
+      "title": "Office vs. Retail vs. Industrial: Segment-Specific Dynamics in LA Commercial Construction",
+      "anchorSlug": "office-vs-retail-vs-industrial-segment-specific-dynamics-in-la-commercia",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/office-vs-retail-vs-industrial-segment-specific-dynamics-in-la-commercia.html"
+    },
+    {
+      "title": "Regional Workforce Development and Skilled Labor Supply for LA Commercial Construction",
+      "anchorSlug": "regional-workforce-development-and-skilled-labor-supply-for-la-commercia",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/regional-workforce-development-and-skilled-labor-supply-for-la-commercia.html"
+    },
+    {
+      "title": "Sustainability and Green Building Requirements in Los Angeles Commercial Construction",
+      "anchorSlug": "sustainability-and-green-building-requirements-in-los-angeles-commercial",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainability-and-green-building-requirements-in-los-angeles-commercial.html"
+    },
+    {
+      "title": "Adaptive Reuse as a Strategic Option in Los Angeles Commercial Development",
+      "anchorSlug": "adaptive-reuse-as-a-strategic-option-in-los-angeles-commercial-developme",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adaptive-reuse-as-a-strategic-option-in-los-angeles-commercial-developme.html"
+    },
+    {
+      "title": "Stakeholder and Community Engagement in Southern California Commercial Projects",
+      "anchorSlug": "stakeholder-and-community-engagement-in-southern-california-commercial-p",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stakeholder-and-community-engagement-in-southern-california-commercial-p.html"
+    },
+    {
+      "title": "Regulatory and Permitting Complexity in Los Angeles County Commercial Projects",
+      "anchorSlug": "regulatory-and-permitting-complexity-in-los-angeles-county-commercial-pr",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/regulatory-and-permitting-complexity-in-los-angeles-county-commercial-pr.html"
+    },
+    {
+      "title": "Key Risks and Challenges in Southern California Commercial Construction",
+      "anchorSlug": "key-risks-and-challenges-in-southern-california-commercial-construction",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-risks-and-challenges-in-southern-california-commercial-construction.html"
+    },
+    {
+      "title": "Soft Costs and Non-Construction Expenses in LA Commercial Development",
+      "anchorSlug": "soft-costs-and-non-construction-expenses-in-la-commercial-development",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/soft-costs-and-non-construction-expenses-in-la-commercial-development.html"
+    },
+    {
+      "title": "Commercial Cost Per Square Foot Benchmarks in Los Angeles County",
+      "anchorSlug": "commercial-cost-per-square-foot-benchmarks-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-cost-per-square-foot-benchmarks-in-los-angeles-county.html"
+    },
+    {
+      "title": "Labor Market and Workforce Dynamics in Los Angeles Commercial Construction",
+      "anchorSlug": "labor-market-and-workforce-dynamics-in-los-angeles-commercial-constructi",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/labor-market-and-workforce-dynamics-in-los-angeles-commercial-constructi.html"
+    },
+    {
+      "title": "Market Size and Demand Drivers for Commercial Construction in California and Los Angeles",
+      "anchorSlug": "market-size-and-demand-drivers-for-commercial-construction-in-california",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/market-size-and-demand-drivers-for-commercial-construction-in-california.html"
+    },
+    {
+      "title": "Transit-Oriented Development and Infrastructure Impacts on Commercial Projects",
+      "anchorSlug": "transit-oriented-development-and-infrastructure-impacts-on-commercial-pr",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/transit-oriented-development-and-infrastructure-impacts-on-commercial-pr.html"
+    },
+    {
+      "title": "HOA and Neighborhood Overlay Impacts on Custom Residential Design",
+      "anchorSlug": "hoa-and-neighborhood-overlay-impacts-on-custom-residential-design",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hoa-and-neighborhood-overlay-impacts-on-custom-residential-design.html"
+    },
+    {
+      "title": "Code and Energy Compliance for Custom Home Builds in Los Angeles",
+      "anchorSlug": "code-and-energy-compliance-for-custom-home-builds-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-and-energy-compliance-for-custom-home-builds-in-los-angeles.html"
+    },
+    {
+      "title": "Regulatory Considerations for Custom Outdoor Patios and Hardscapes",
+      "anchorSlug": "regulatory-considerations-for-custom-outdoor-patios-and-hardscapes",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/regulatory-considerations-for-custom-outdoor-patios-and-hardscapes.html"
+    },
+    {
+      "title": "Seismic and Geotechnical Drivers of Custom Home and Pool Design",
+      "anchorSlug": "seismic-and-geotechnical-drivers-of-custom-home-and-pool-design",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-and-geotechnical-drivers-of-custom-home-and-pool-design.html"
+    },
+    {
+      "title": "Structural and Zoning Constraints for Custom Home Additions",
+      "anchorSlug": "structural-and-zoning-constraints-for-custom-home-additions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structural-and-zoning-constraints-for-custom-home-additions.html"
+    },
+    {
+      "title": "Accessibility and Aging-in-Place Factors in Custom Renovations",
+      "anchorSlug": "accessibility-and-aging-in-place-factors-in-custom-renovations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/accessibility-and-aging-in-place-factors-in-custom-renovations.html"
+    },
+    {
+      "title": "Regulatory Framework for Custom ADU Builds in Los Angeles",
+      "anchorSlug": "regulatory-framework-for-custom-adu-builds-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/regulatory-framework-for-custom-adu-builds-in-los-angeles.html"
+    },
+    {
+      "title": "Consumer Protection and Contracting Practices in Custom Residential Construction",
+      "anchorSlug": "consumer-protection-and-contracting-practices-in-custom-residential-cons",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/consumer-protection-and-contracting-practices-in-custom-residential-cons.html"
+    },
+    {
+      "title": "Energy and Sustainability Standards for Custom Renovations and Additions",
+      "anchorSlug": "energy-and-sustainability-standards-for-custom-renovations-and-additions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/energy-and-sustainability-standards-for-custom-renovations-and-additions.html"
+    },
+    {
+      "title": "Design and Safety Requirements for Custom Outdoor Kitchens",
+      "anchorSlug": "design-and-safety-requirements-for-custom-outdoor-kitchens",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-and-safety-requirements-for-custom-outdoor-kitchens.html"
+    },
+    {
+      "title": "Licensing, Insurance, and Bonding for Custom Build Contractors in Los Angeles County",
+      "anchorSlug": "licensing-insurance-and-bonding-for-custom-build-contractors-in-los-ange",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-insurance-and-bonding-for-custom-build-contractors-in-los-ange.html"
+    },
+    {
+      "title": "Permitting and Zoning for Custom Home Renovations in Los Angeles",
+      "anchorSlug": "permitting-and-zoning-for-custom-home-renovations-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-and-zoning-for-custom-home-renovations-in-los-angeles.html"
+    },
+    {
+      "title": "Code, Safety, and Permitting for Custom Pool Installations",
+      "anchorSlug": "code-safety-and-permitting-for-custom-pool-installations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-safety-and-permitting-for-custom-pool-installations.html"
+    },
+    {
+      "title": "Code and Accessibility Constraints on Driveway Design",
+      "anchorSlug": "code-and-accessibility-constraints-on-driveway-design",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-and-accessibility-constraints-on-driveway-design.html"
+    },
+    {
+      "title": "Impact of Driveways on Property Value and Curb Appeal",
+      "anchorSlug": "impact-of-driveways-on-property-value-and-curb-appeal",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-driveways-on-property-value-and-curb-appeal.html"
+    },
+    {
+      "title": "Utilities, Trees, and Site Constraints in Driveway Planning",
+      "anchorSlug": "utilities-trees-and-site-constraints-in-driveway-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utilities-trees-and-site-constraints-in-driveway-planning.html"
+    },
+    {
+      "title": "Driveway Installation Cost Ranges in Los Angeles County",
+      "anchorSlug": "driveway-installation-cost-ranges-in-los-angeles-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/driveway-installation-cost-ranges-in-los-angeles-county.html"
+    },
+    {
+      "title": "Planning Driveway Drainage and Runoff Management",
+      "anchorSlug": "planning-driveway-drainage-and-runoff-management",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-driveway-drainage-and-runoff-management.html"
+    },
+    {
+      "title": "Evaluating and Choosing a Qualified Driveway Contractor",
+      "anchorSlug": "evaluating-and-choosing-a-qualified-driveway-contractor",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-and-choosing-a-qualified-driveway-contractor.html"
+    },
+    {
+      "title": "Driveway Maintenance and Lifecycle Expectations by Material",
+      "anchorSlug": "driveway-maintenance-and-lifecycle-expectations-by-material",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/driveway-maintenance-and-lifecycle-expectations-by-material.html"
+    },
+    {
+      "title": "Best Driveway Materials for Los Angeles County Conditions",
+      "anchorSlug": "best-driveway-materials-for-los-angeles-county-conditions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/best-driveway-materials-for-los-angeles-county-conditions.html"
+    },
+    {
+      "title": "Key Structural and Drainage Design Considerations for Driveways",
+      "anchorSlug": "key-structural-and-drainage-design-considerations-for-driveways",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-structural-and-drainage-design-considerations-for-driveways.html"
+    },
+    {
+      "title": "Environmental and Stormwater Issues for Driveways in Los Angeles",
+      "anchorSlug": "environmental-and-stormwater-issues-for-driveways-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/environmental-and-stormwater-issues-for-driveways-in-los-angeles.html"
+    },
+    {
+      "title": "Decorative and Architectural Driveway Finish Options",
+      "anchorSlug": "decorative-and-architectural-driveway-finish-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/decorative-and-architectural-driveway-finish-options.html"
+    },
+    {
+      "title": "Permitting and Inspection Requirements for Driveways in Los Angeles County",
+      "anchorSlug": "permitting-and-inspection-requirements-for-driveways-in-los-angeles-coun",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-and-inspection-requirements-for-driveways-in-los-angeles-coun.html"
+    },
+    {
+      "title": "Risks of Unlicensed or Uninsured Driveway Contractors in California",
+      "anchorSlug": "risks-of-unlicensed-or-uninsured-driveway-contractors-in-california",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/risks-of-unlicensed-or-uninsured-driveway-contractors-in-california.html"
+    },
+    {
+      "title": "Understanding Driveway Warranties and Contracts in California",
+      "anchorSlug": "understanding-driveway-warranties-and-contracts-in-california",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-driveway-warranties-and-contracts-in-california.html"
+    },
+    {
+      "title": "Property lines, shared fences, and legal boundaries in California",
+      "anchorSlug": "property-lines-shared-fences-and-legal-boundaries-in-california",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-lines-shared-fences-and-legal-boundaries-in-california.html"
+    },
+    {
+      "title": "Impact of Los Angeles climate and soil on fence performance",
+      "anchorSlug": "impact-of-los-angeles-climate-and-soil-on-fence-performance",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-los-angeles-climate-and-soil-on-fence-performance.html"
+    },
+    {
+      "title": "Cost structure and pricing factors for fences in Los Angeles County",
+      "anchorSlug": "cost-structure-and-pricing-factors-for-fences-in-los-angeles-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-structure-and-pricing-factors-for-fences-in-los-angeles-county.html"
+    },
+    {
+      "title": "Neighborhood, HOA, and design controls on fencing in Los Angeles",
+      "anchorSlug": "neighborhood-hoa-and-design-controls-on-fencing-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/neighborhood-hoa-and-design-controls-on-fencing-in-los-angeles.html"
+    },
+    {
+      "title": "Security and privacy-driven fence design in Los Angeles",
+      "anchorSlug": "security-and-privacy-driven-fence-design-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/security-and-privacy-driven-fence-design-in-los-angeles.html"
+    },
+    {
+      "title": "Common fence materials and applications in Los Angeles County",
+      "anchorSlug": "common-fence-materials-and-applications-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-fence-materials-and-applications-in-los-angeles-county.html"
+    },
+    {
+      "title": "Typical workflow and timeline for residential fencing projects",
+      "anchorSlug": "typical-workflow-and-timeline-for-residential-fencing-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-workflow-and-timeline-for-residential-fencing-projects.html"
+    },
+    {
+      "title": "Licensing and insurance rules for fencing contractors in Los Angeles County",
+      "anchorSlug": "licensing-and-insurance-rules-for-fencing-contractors-in-los-angeles-cou",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-and-insurance-rules-for-fencing-contractors-in-los-angeles-cou.html"
+    },
+    {
+      "title": "Insurance and liability issues in fencing projects",
+      "anchorSlug": "insurance-and-liability-issues-in-fencing-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-and-liability-issues-in-fencing-projects.html"
+    },
+    {
+      "title": "Pool and spa fence safety codes in Los Angeles County",
+      "anchorSlug": "pool-and-spa-fence-safety-codes-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pool-and-spa-fence-safety-codes-in-los-angeles-county.html"
+    },
+    {
+      "title": "Criteria for choosing a fencing contractor in Los Angeles County",
+      "anchorSlug": "criteria-for-choosing-a-fencing-contractor-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/criteria-for-choosing-a-fencing-contractor-in-los-angeles-county.html"
+    },
+    {
+      "title": "Permit and zoning requirements for fences in Los Angeles County",
+      "anchorSlug": "permit-and-zoning-requirements-for-fences-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permit-and-zoning-requirements-for-fences-in-los-angeles-county.html"
+    },
+    {
+      "title": "Environmental and sustainability factors in fencing",
+      "anchorSlug": "environmental-and-sustainability-factors-in-fencing",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/environmental-and-sustainability-factors-in-fencing.html"
+    },
+    {
+      "title": "Foundation Issues and Real Estate in Los Angeles",
+      "anchorSlug": "foundation-issues-and-real-estate-in-los-angeles",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/foundation-issues-and-real-estate-in-los-angeles.html"
+    },
+    {
+      "title": "Local Codes and Seismic Standards for Foundation Repair",
+      "anchorSlug": "local-codes-and-seismic-standards-for-foundation-repair",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/local-codes-and-seismic-standards-for-foundation-repair.html"
+    },
+    {
+      "title": "Soil and Expansive Clay Impacts on Foundations",
+      "anchorSlug": "soil-and-expansive-clay-impacts-on-foundations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/soil-and-expansive-clay-impacts-on-foundations.html"
+    },
+    {
+      "title": "Seismic Considerations in Foundation Repair",
+      "anchorSlug": "seismic-considerations-in-foundation-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-considerations-in-foundation-repair.html"
+    },
+    {
+      "title": "Assessing Bids and Pricing for Foundation Repair",
+      "anchorSlug": "assessing-bids-and-pricing-for-foundation-repair",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/assessing-bids-and-pricing-for-foundation-repair.html"
+    },
+    {
+      "title": "Common Foundation Issues in Los Angeles County",
+      "anchorSlug": "common-foundation-issues-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-foundation-issues-in-los-angeles-county.html"
+    },
+    {
+      "title": "Typical Foundation Repair Techniques in Los Angeles",
+      "anchorSlug": "typical-foundation-repair-techniques-in-los-angeles",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-foundation-repair-techniques-in-los-angeles.html"
+    },
+    {
+      "title": "Permits and Inspections for Foundation Work",
+      "anchorSlug": "permits-and-inspections-for-foundation-work",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-inspections-for-foundation-work.html"
+    },
+    {
+      "title": "Licensing and Professional Credentials to Verify",
+      "anchorSlug": "licensing-and-professional-credentials-to-verify",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-and-professional-credentials-to-verify.html"
+    },
+    {
+      "title": "Drainage and Moisture Control Around Foundations",
+      "anchorSlug": "drainage-and-moisture-control-around-foundations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drainage-and-moisture-control-around-foundations.html"
+    },
+    {
+      "title": "Warranties and Longevity of Foundation Repairs",
+      "anchorSlug": "warranties-and-longevity-of-foundation-repairs",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/warranties-and-longevity-of-foundation-repairs.html"
+    },
+    {
+      "title": "Hillside Foundation Repair Considerations",
+      "anchorSlug": "hillside-foundation-repair-considerations",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hillside-foundation-repair-considerations.html"
+    },
+    {
+      "title": "When to Involve a Structural Engineer",
+      "anchorSlug": "when-to-involve-a-structural-engineer",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-involve-a-structural-engineer.html"
+    },
+    {
+      "title": "Lead-based paint obligations in interior repainting",
+      "anchorSlug": "lead-based-paint-obligations-in-interior-repainting",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lead-based-paint-obligations-in-interior-repainting.html"
+    },
+    {
+      "title": "Color and lighting considerations in interior painting",
+      "anchorSlug": "color-and-lighting-considerations-in-interior-painting",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/color-and-lighting-considerations-in-interior-painting.html"
+    },
+    {
+      "title": "Role of online reviews in Los Angeles interior painting market",
+      "anchorSlug": "role-of-online-reviews-in-los-angeles-interior-painting-market",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/role-of-online-reviews-in-los-angeles-interior-painting-market.html"
+    },
+    {
+      "title": "Industry quality standards for interior paint finishes",
+      "anchorSlug": "industry-quality-standards-for-interior-paint-finishes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/industry-quality-standards-for-interior-paint-finishes.html"
+    },
+    {
+      "title": "VOC regulations and paint choices under SCAQMD Rule 1113",
+      "anchorSlug": "voc-regulations-and-paint-choices-under-scaqmd-rule-1113",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/voc-regulations-and-paint-choices-under-scaqmd-rule-1113.html"
+    },
+    {
+      "title": "Indoor air quality considerations for interior paint",
+      "anchorSlug": "indoor-air-quality-considerations-for-interior-paint",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/indoor-air-quality-considerations-for-interior-paint.html"
+    },
+    {
+      "title": "Standards-based surface preparation for interior painting",
+      "anchorSlug": "standards-based-surface-preparation-for-interior-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/standards-based-surface-preparation-for-interior-painting.html"
+    },
+    {
+      "title": "Building code and regulatory requirements for interior painting",
+      "anchorSlug": "building-code-and-regulatory-requirements-for-interior-painting",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-code-and-regulatory-requirements-for-interior-painting.html"
+    },
+    {
+      "title": "Residential vs. commercial interior painting considerations",
+      "anchorSlug": "residential-vs-commercial-interior-painting-considerations",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/residential-vs-commercial-interior-painting-considerations.html"
+    },
+    {
+      "title": "Contracts, warranties, and change management in painting projects",
+      "anchorSlug": "contracts-warranties-and-change-management-in-painting-projects",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contracts-warranties-and-change-management-in-painting-projects.html"
+    },
+    {
+      "title": "Cost drivers for interior painting in the Los Angeles market",
+      "anchorSlug": "cost-drivers-for-interior-painting-in-the-los-angeles-market",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-drivers-for-interior-painting-in-the-los-angeles-market.html"
+    },
+    {
+      "title": "OSHA-driven safety practices for interior painting crews",
+      "anchorSlug": "osha-driven-safety-practices-for-interior-painting-crews",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/osha-driven-safety-practices-for-interior-painting-crews.html"
+    },
+    {
+      "title": "Scheduling and phasing interior painting in occupied spaces",
+      "anchorSlug": "scheduling-and-phasing-interior-painting-in-occupied-spaces",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/scheduling-and-phasing-interior-painting-in-occupied-spaces.html"
+    },
+    {
+      "title": "Custom Cabinet Trends Shaping LA Kitchen Remodels",
+      "anchorSlug": "custom-cabinet-trends-shaping-la-kitchen-remodels",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinet-trends-shaping-la-kitchen-remodels.html"
+    },
+    {
+      "title": "Smart Appliances and Connected Tech in LA Kitchens",
+      "anchorSlug": "smart-appliances-and-connected-tech-in-la-kitchens",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-appliances-and-connected-tech-in-la-kitchens.html"
+    },
+    {
+      "title": "Impact of Title 24 and CALGreen on LA Kitchen Lighting and Appliances",
+      "anchorSlug": "impact-of-title-24-and-calgreen-on-la-kitchen-lighting-and-appliances",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-title-24-and-calgreen-on-la-kitchen-lighting-and-appliances.html"
+    },
+    {
+      "title": "Permitting and Inspection Timelines for LA Kitchen Remodels",
+      "anchorSlug": "permitting-and-inspection-timelines-for-la-kitchen-remodels",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-and-inspection-timelines-for-la-kitchen-remodels.html"
+    },
+    {
+      "title": "Space Planning in LA Kitchens: Layouts and Flow",
+      "anchorSlug": "space-planning-in-la-kitchens-layouts-and-flow",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/space-planning-in-la-kitchens-layouts-and-flow.html"
+    },
+    {
+      "title": "Typical Mid-Range and Upscale Kitchen Remodel Costs in LA County",
+      "anchorSlug": "typical-mid-range-and-upscale-kitchen-remodel-costs-in-la-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-mid-range-and-upscale-kitchen-remodel-costs-in-la-county.html"
+    },
+    {
+      "title": "Countertop Material Trade-Offs for LA Kitchen Remodels",
+      "anchorSlug": "countertop-material-trade-offs-for-la-kitchen-remodels",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/countertop-material-trade-offs-for-la-kitchen-remodels.html"
+    },
+    {
+      "title": "Current Kitchen Design Trends in Los Angeles",
+      "anchorSlug": "current-kitchen-design-trends-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/current-kitchen-design-trends-in-los-angeles.html"
+    },
+    {
+      "title": "Key LA County Codes and Permits for Kitchen Remodeling",
+      "anchorSlug": "key-la-county-codes-and-permits-for-kitchen-remodeling",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-la-county-codes-and-permits-for-kitchen-remodeling.html"
+    },
+    {
+      "title": "Plumbing, Gas, and Ventilation Challenges in LA Kitchen Reconfigs",
+      "anchorSlug": "plumbing-gas-and-ventilation-challenges-in-la-kitchen-reconfigs",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plumbing-gas-and-ventilation-challenges-in-la-kitchen-reconfigs.html"
+    },
+    {
+      "title": "Risk and Contingency Planning for LA Kitchen Remodels",
+      "anchorSlug": "risk-and-contingency-planning-for-la-kitchen-remodels",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/risk-and-contingency-planning-for-la-kitchen-remodels.html"
+    },
+    {
+      "title": "Structural and Seismic Factors in Opening LA Kitchens",
+      "anchorSlug": "structural-and-seismic-factors-in-opening-la-kitchens",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structural-and-seismic-factors-in-opening-la-kitchens.html"
+    },
+    {
+      "title": "Sustainability and Indoor Air Quality in LA Kitchen Remodels",
+      "anchorSlug": "sustainability-and-indoor-air-quality-in-la-kitchen-remodels",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainability-and-indoor-air-quality-in-la-kitchen-remodels.html"
+    },
+    {
+      "title": "Checking a Contractor’s License in California",
+      "anchorSlug": "checking-a-contractor-s-license-in-california",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checking-a-contractor-s-license-in-california.html"
+    },
+    {
+      "title": "Choosing Durable Kitchen Materials",
+      "anchorSlug": "choosing-durable-kitchen-materials",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-durable-kitchen-materials.html"
+    },
+    {
+      "title": "Kitchen Remodel Timelines and Scheduling",
+      "anchorSlug": "kitchen-remodel-timelines-and-scheduling",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/kitchen-remodel-timelines-and-scheduling.html"
+    },
+    {
+      "title": "Comparing Kitchen Remodel Bids Fairly",
+      "anchorSlug": "comparing-kitchen-remodel-bids-fairly",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-kitchen-remodel-bids-fairly.html"
+    },
+    {
+      "title": "Reviewing Portfolios and References",
+      "anchorSlug": "reviewing-portfolios-and-references",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reviewing-portfolios-and-references.html"
+    },
+    {
+      "title": "What to Look for in a Kitchen Remodel Contract",
+      "anchorSlug": "what-to-look-for-in-a-kitchen-remodel-contract",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-look-for-in-a-kitchen-remodel-contract.html"
+    },
+    {
+      "title": "Efficiency Upgrades During a Kitchen Remodel",
+      "anchorSlug": "efficiency-upgrades-during-a-kitchen-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/efficiency-upgrades-during-a-kitchen-remodel.html"
+    },
+    {
+      "title": "Hidden Conditions in Older Kitchens",
+      "anchorSlug": "hidden-conditions-in-older-kitchens",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hidden-conditions-in-older-kitchens.html"
+    },
+    {
+      "title": "Insurance and Jobsite Risk Controls",
+      "anchorSlug": "insurance-and-jobsite-risk-controls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-and-jobsite-risk-controls.html"
+    },
+    {
+      "title": "Permit Rules for Kitchen Remodeling Projects",
+      "anchorSlug": "permit-rules-for-kitchen-remodeling-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permit-rules-for-kitchen-remodeling-projects.html"
+    },
+    {
+      "title": "Why Layout Changes Affect Contractor Choice",
+      "anchorSlug": "why-layout-changes-affect-contractor-choice",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-layout-changes-affect-contractor-choice.html"
+    },
+    {
+      "title": "Typical Kitchen Remodel Costs in Los Angeles County",
+      "anchorSlug": "typical-kitchen-remodel-costs-in-los-angeles-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-kitchen-remodel-costs-in-los-angeles-county.html"
+    },
+    {
+      "title": "Remodeling Older and Historic Kitchens",
+      "anchorSlug": "remodeling-older-and-historic-kitchens",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/remodeling-older-and-historic-kitchens.html"
+    },
+    {
+      "title": "ADA and California Accessibility Standards for Parking Lot Paving and Striping",
+      "anchorSlug": "ada-and-california-accessibility-standards-for-parking-lot-paving-and-st",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ada-and-california-accessibility-standards-for-parking-lot-paving-and-st.html"
+    },
+    {
+      "title": "Stormwater and Environmental Compliance for Asphalt Paving in Los Angeles County",
+      "anchorSlug": "stormwater-and-environmental-compliance-for-asphalt-paving-in-los-angele",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stormwater-and-environmental-compliance-for-asphalt-paving-in-los-angele.html"
+    },
+    {
+      "title": "Comparing Asphalt and Concrete Paving Materials for Los Angeles Projects",
+      "anchorSlug": "comparing-asphalt-and-concrete-paving-materials-for-los-angeles-projects",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparing-asphalt-and-concrete-paving-materials-for-los-angeles-projects.html"
+    },
+    {
+      "title": "Air Quality and Emissions Constraints on Asphalt Paving in Los Angeles",
+      "anchorSlug": "air-quality-and-emissions-constraints-on-asphalt-paving-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/air-quality-and-emissions-constraints-on-asphalt-paving-in-los-angeles.html"
+    },
+    {
+      "title": "Use of Recycled Materials and Sustainable Methods in Local Paving",
+      "anchorSlug": "use-of-recycled-materials-and-sustainable-methods-in-local-paving",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/use-of-recycled-materials-and-sustainable-methods-in-local-paving.html"
+    },
+    {
+      "title": "Budgeting and Capital Planning for Pavement Rehabilitation and Replacement",
+      "anchorSlug": "budgeting-and-capital-planning-for-pavement-rehabilitation-and-replaceme",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budgeting-and-capital-planning-for-pavement-rehabilitation-and-replaceme.html"
+    },
+    {
+      "title": "Asphalt Maintenance Strategy and Life-Cycle Planning in Los Angeles’s Climate",
+      "anchorSlug": "asphalt-maintenance-strategy-and-life-cycle-planning-in-los-angeles-s-cl",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/asphalt-maintenance-strategy-and-life-cycle-planning-in-los-angeles-s-cl.html"
+    },
+    {
+      "title": "Pavement Design and Typical Thickness for Los Angeles Parking Lots",
+      "anchorSlug": "pavement-design-and-typical-thickness-for-los-angeles-parking-lots",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pavement-design-and-typical-thickness-for-los-angeles-parking-lots.html"
+    },
+    {
+      "title": "Different Paving Priorities for Commercial, HOA, and Municipal Owners",
+      "anchorSlug": "different-paving-priorities-for-commercial-hoa-and-municipal-owners",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/different-paving-priorities-for-commercial-hoa-and-municipal-owners.html"
+    },
+    {
+      "title": "Licensing, Bonding, and Insurance Requirements for Paving Contractors in Los Angeles County",
+      "anchorSlug": "licensing-bonding-and-insurance-requirements-for-paving-contractors-in-l",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-bonding-and-insurance-requirements-for-paving-contractors-in-l.html"
+    },
+    {
+      "title": "Quality Control and Testing Standards for Paving Projects",
+      "anchorSlug": "quality-control-and-testing-standards-for-paving-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/quality-control-and-testing-standards-for-paving-projects.html"
+    },
+    {
+      "title": "Safety and Traffic Control Requirements for Paving Work Zones",
+      "anchorSlug": "safety-and-traffic-control-requirements-for-paving-work-zones",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/safety-and-traffic-control-requirements-for-paving-work-zones.html"
+    },
+    {
+      "title": "Permitting and Inspection Considerations for Paving and Driveway Projects",
+      "anchorSlug": "permitting-and-inspection-considerations-for-paving-and-driveway-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-and-inspection-considerations-for-paving-and-driveway-project.html"
+    },
+    {
+      "title": "Permits and code requirements for retaining walls in Los Angeles County",
+      "anchorSlug": "permits-and-code-requirements-for-retaining-walls-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-code-requirements-for-retaining-walls-in-los-angeles-county.html"
+    },
+    {
+      "title": "Evaluation and repair approaches for failing retaining walls",
+      "anchorSlug": "evaluation-and-repair-approaches-for-failing-retaining-walls",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluation-and-repair-approaches-for-failing-retaining-walls.html"
+    },
+    {
+      "title": "Climate and soil impacts on retaining wall materials and longevity",
+      "anchorSlug": "climate-and-soil-impacts-on-retaining-wall-materials-and-longevity",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/climate-and-soil-impacts-on-retaining-wall-materials-and-longevity.html"
+    },
+    {
+      "title": "Property line and urban context issues for retaining walls",
+      "anchorSlug": "property-line-and-urban-context-issues-for-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-line-and-urban-context-issues-for-retaining-walls.html"
+    },
+    {
+      "title": "Drainage requirements and practices for retaining walls",
+      "anchorSlug": "drainage-requirements-and-practices-for-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drainage-requirements-and-practices-for-retaining-walls.html"
+    },
+    {
+      "title": "Common retaining wall types and when each is used",
+      "anchorSlug": "common-retaining-wall-types-and-when-each-is-used",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-retaining-wall-types-and-when-each-is-used.html"
+    },
+    {
+      "title": "Cost ranges and key cost drivers for retaining walls",
+      "anchorSlug": "cost-ranges-and-key-cost-drivers-for-retaining-walls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cost-ranges-and-key-cost-drivers-for-retaining-walls.html"
+    },
+    {
+      "title": "Construction best practices and quality control for retaining walls",
+      "anchorSlug": "construction-best-practices-and-quality-control-for-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/construction-best-practices-and-quality-control-for-retaining-walls.html"
+    },
+    {
+      "title": "Landscape-grade vs structural retaining walls",
+      "anchorSlug": "landscape-grade-vs-structural-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/landscape-grade-vs-structural-retaining-walls.html"
+    },
+    {
+      "title": "Licensing and qualifications for retaining wall contractors",
+      "anchorSlug": "licensing-and-qualifications-for-retaining-wall-contractors",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/licensing-and-qualifications-for-retaining-wall-contractors.html"
+    },
+    {
+      "title": "Geotechnical studies for hillside retaining walls",
+      "anchorSlug": "geotechnical-studies-for-hillside-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/geotechnical-studies-for-hillside-retaining-walls.html"
+    },
+    {
+      "title": "Seismic and hillside design factors for retaining walls",
+      "anchorSlug": "seismic-and-hillside-design-factors-for-retaining-walls",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-and-hillside-design-factors-for-retaining-walls.html"
+    },
+    {
+      "title": "Digital tools and project management in modern roofing",
+      "anchorSlug": "digital-tools-and-project-management-in-modern-roofing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/digital-tools-and-project-management-in-modern-roofing.html"
+    },
+    {
+      "title": "Cool roofing, energy savings, and compliance in LA County",
+      "anchorSlug": "cool-roofing-energy-savings-and-compliance-in-la-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cool-roofing-energy-savings-and-compliance-in-la-county.html"
+    },
+    {
+      "title": "Insurance, weather risk, and resilient roofing choices",
+      "anchorSlug": "insurance-weather-risk-and-resilient-roofing-choices",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/insurance-weather-risk-and-resilient-roofing-choices.html"
+    },
+    {
+      "title": "Reroofing with rooftop solar in Los Angeles County",
+      "anchorSlug": "reroofing-with-rooftop-solar-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/reroofing-with-rooftop-solar-in-los-angeles-county.html"
+    },
+    {
+      "title": "Sustainable and energy-efficient roofing drivers in LA County",
+      "anchorSlug": "sustainable-and-energy-efficient-roofing-drivers-in-la-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/sustainable-and-energy-efficient-roofing-drivers-in-la-county.html"
+    },
+    {
+      "title": "Smart roofing technologies and their role in Los Angeles",
+      "anchorSlug": "smart-roofing-technologies-and-their-role-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/smart-roofing-technologies-and-their-role-in-los-angeles.html"
+    },
+    {
+      "title": "Coastal vs. inland roofing choices in Los Angeles County",
+      "anchorSlug": "coastal-vs-inland-roofing-choices-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/coastal-vs-inland-roofing-choices-in-los-angeles-county.html"
+    },
+    {
+      "title": "Roof maintenance best practices for Los Angeles conditions",
+      "anchorSlug": "roof-maintenance-best-practices-for-los-angeles-conditions",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/roof-maintenance-best-practices-for-los-angeles-conditions.html"
+    },
+    {
+      "title": "Los Angeles County reroofing codes and permits",
+      "anchorSlug": "los-angeles-county-reroofing-codes-and-permits",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/los-angeles-county-reroofing-codes-and-permits.html"
+    },
+    {
+      "title": "Aesthetics, curb appeal, and roofing design in Los Angeles",
+      "anchorSlug": "aesthetics-curb-appeal-and-roofing-design-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/aesthetics-curb-appeal-and-roofing-design-in-los-angeles.html"
+    },
+    {
+      "title": "Common and emerging roofing materials in Los Angeles",
+      "anchorSlug": "common-and-emerging-roofing-materials-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-and-emerging-roofing-materials-in-los-angeles.html"
+    },
+    {
+      "title": "Green roofs and vegetative systems on Los Angeles buildings",
+      "anchorSlug": "green-roofs-and-vegetative-systems-on-los-angeles-buildings",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/green-roofs-and-vegetative-systems-on-los-angeles-buildings.html"
+    },
+    {
+      "title": "Fire-resistant roofing and wildfire risk in Los Angeles County",
+      "anchorSlug": "fire-resistant-roofing-and-wildfire-risk-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fire-resistant-roofing-and-wildfire-risk-in-los-angeles-county.html"
+    },
+    {
+      "title": "Impact of Title 24 Energy Standards on Room Additions",
+      "anchorSlug": "impact-of-title-24-energy-standards-on-room-additions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-title-24-energy-standards-on-room-additions.html"
+    },
+    {
+      "title": "Room Additions vs. ADUs and Garage Conversions in Los Angeles",
+      "anchorSlug": "room-additions-vs-adus-and-garage-conversions-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-additions-vs-adus-and-garage-conversions-in-los-angeles.html"
+    },
+    {
+      "title": "Zoning Constraints on Home Additions in Los Angeles County",
+      "anchorSlug": "zoning-constraints-on-home-additions-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/zoning-constraints-on-home-additions-in-los-angeles-county.html"
+    },
+    {
+      "title": "Room Addition Cost Ranges and Cost Drivers in Los Angeles",
+      "anchorSlug": "room-addition-cost-ranges-and-cost-drivers-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-addition-cost-ranges-and-cost-drivers-in-los-angeles.html"
+    },
+    {
+      "title": "Evaluating and Choosing a Room Additions Contractor",
+      "anchorSlug": "evaluating-and-choosing-a-room-additions-contractor",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/evaluating-and-choosing-a-room-additions-contractor.html"
+    },
+    {
+      "title": "Typical Timeline and Workflow for a Room Addition",
+      "anchorSlug": "typical-timeline-and-workflow-for-a-room-addition",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/typical-timeline-and-workflow-for-a-room-addition.html"
+    },
+    {
+      "title": "Code and Seismic Standards Governing Room Additions",
+      "anchorSlug": "code-and-seismic-standards-governing-room-additions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/code-and-seismic-standards-governing-room-additions.html"
+    },
+    {
+      "title": "Contract and Payment Best Practices for Room Additions",
+      "anchorSlug": "contract-and-payment-best-practices-for-room-additions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/contract-and-payment-best-practices-for-room-additions.html"
+    },
+    {
+      "title": "Design Strategies for Seamless Room Additions",
+      "anchorSlug": "design-strategies-for-seamless-room-additions",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-strategies-for-seamless-room-additions.html"
+    },
+    {
+      "title": "Financing Strategies for Room Additions",
+      "anchorSlug": "financing-strategies-for-room-additions",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/financing-strategies-for-room-additions.html"
+    },
+    {
+      "title": "Inspections and Quality Control in Room Addition Projects",
+      "anchorSlug": "inspections-and-quality-control-in-room-addition-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/inspections-and-quality-control-in-room-addition-projects.html"
+    },
+    {
+      "title": "Permits and Approvals for Room Additions in Los Angeles County",
+      "anchorSlug": "permits-and-approvals-for-room-additions-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-approvals-for-room-additions-in-los-angeles-county.html"
+    },
+    {
+      "title": "Risks of Unpermitted Room Additions in Los Angeles County",
+      "anchorSlug": "risks-of-unpermitted-room-additions-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/risks-of-unpermitted-room-additions-in-los-angeles-county.html"
+    },
+    {
+      "title": "Impact of seismic retrofits on tenants and operations in LA",
+      "anchorSlug": "impact-of-seismic-retrofits-on-tenants-and-operations-in-la",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impact-of-seismic-retrofits-on-tenants-and-operations-in-la.html"
+    },
+    {
+      "title": "How Los Angeles retrofit rules compare to other California cities",
+      "anchorSlug": "how-los-angeles-retrofit-rules-compare-to-other-california-cities",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-los-angeles-retrofit-rules-compare-to-other-california-cities.html"
+    },
+    {
+      "title": "Permitting and enforcement for seismic retrofits in Los Angeles",
+      "anchorSlug": "permitting-and-enforcement-for-seismic-retrofits-in-los-angeles",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permitting-and-enforcement-for-seismic-retrofits-in-los-angeles.html"
+    },
+    {
+      "title": "Los Angeles County requirements for older concrete tilt-up buildings",
+      "anchorSlug": "los-angeles-county-requirements-for-older-concrete-tilt-up-buildings",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/los-angeles-county-requirements-for-older-concrete-tilt-up-buildings.html"
+    },
+    {
+      "title": "Residential seismic retrofit costs in Los Angeles",
+      "anchorSlug": "residential-seismic-retrofit-costs-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/residential-seismic-retrofit-costs-in-los-angeles.html"
+    },
+    {
+      "title": "Deadlines and process under Los Angeles soft-story retrofit rules",
+      "anchorSlug": "deadlines-and-process-under-los-angeles-soft-story-retrofit-rules",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deadlines-and-process-under-los-angeles-soft-story-retrofit-rules.html"
+    },
+    {
+      "title": "Why Los Angeles owners retrofit even when not (yet) required",
+      "anchorSlug": "why-los-angeles-owners-retrofit-even-when-not-yet-required",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-los-angeles-owners-retrofit-even-when-not-yet-required.html"
+    },
+    {
+      "title": "Common retrofit strategies for Los Angeles wood-frame soft-story buildings",
+      "anchorSlug": "common-retrofit-strategies-for-los-angeles-wood-frame-soft-story-buildin",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-retrofit-strategies-for-los-angeles-wood-frame-soft-story-buildin.html"
+    },
+    {
+      "title": "Seismic due diligence for acquisitions in Los Angeles County",
+      "anchorSlug": "seismic-due-diligence-for-acquisitions-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-due-diligence-for-acquisitions-in-los-angeles-county.html"
+    },
+    {
+      "title": "Emerging trends in Los Angeles County seismic retrofitting",
+      "anchorSlug": "emerging-trends-in-los-angeles-county-seismic-retrofitting",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/emerging-trends-in-los-angeles-county-seismic-retrofitting.html"
+    },
+    {
+      "title": "What seismic retrofitting means in the Los Angeles County context",
+      "anchorSlug": "what-seismic-retrofitting-means-in-the-los-angeles-county-context",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-seismic-retrofitting-means-in-the-los-angeles-county-context.html"
+    },
+    {
+      "title": "Emerging LA County rules for high-rise nonductile concrete retrofits",
+      "anchorSlug": "emerging-la-county-rules-for-high-rise-nonductile-concrete-retrofits",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/emerging-la-county-rules-for-high-rise-nonductile-concrete-retrofits.html"
+    },
+    {
+      "title": "Seismic performance objectives guiding LA retrofit projects",
+      "anchorSlug": "seismic-performance-objectives-guiding-la-retrofit-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seismic-performance-objectives-guiding-la-retrofit-projects.html"
+    },
+    {
+      "title": "Which Los Angeles-area buildings must be retrofitted by law?",
+      "anchorSlug": "which-los-angeles-area-buildings-must-be-retrofitted-by-law",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/which-los-angeles-area-buildings-must-be-retrofitted-by-law.html"
+    },
+    {
+      "title": "NEM 3.0 and optimal solar system design in Los Angeles County",
+      "anchorSlug": "nem-3-0-and-optimal-solar-system-design-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nem-3-0-and-optimal-solar-system-design-in-los-angeles-county.html"
+    },
+    {
+      "title": "Title 24 requirements and solar on new construction in Los Angeles",
+      "anchorSlug": "title-24-requirements-and-solar-on-new-construction-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/title-24-requirements-and-solar-on-new-construction-in-los-angeles.html"
+    },
+    {
+      "title": "Utility incentives and rules affecting solar ROI in Los Angeles County",
+      "anchorSlug": "utility-incentives-and-rules-affecting-solar-roi-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/utility-incentives-and-rules-affecting-solar-roi-in-los-angeles-county.html"
+    },
+    {
+      "title": "Property value and transaction effects of solar in Los Angeles",
+      "anchorSlug": "property-value-and-transaction-effects-of-solar-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-value-and-transaction-effects-of-solar-in-los-angeles.html"
+    },
+    {
+      "title": "Impacts of home battery storage on Los Angeles solar projects",
+      "anchorSlug": "impacts-of-home-battery-storage-on-los-angeles-solar-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/impacts-of-home-battery-storage-on-los-angeles-solar-projects.html"
+    },
+    {
+      "title": "Solar resource, climate, and urban design realities in Los Angeles",
+      "anchorSlug": "solar-resource-climate-and-urban-design-realities-in-los-angeles",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-resource-climate-and-urban-design-realities-in-los-angeles.html"
+    },
+    {
+      "title": "Economics and financing of residential solar in Los Angeles County",
+      "anchorSlug": "economics-and-financing-of-residential-solar-in-los-angeles-county",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/economics-and-financing-of-residential-solar-in-los-angeles-county.html"
+    },
+    {
+      "title": "Key solar contract and consumer protection issues in Los Angeles",
+      "anchorSlug": "key-solar-contract-and-consumer-protection-issues-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/key-solar-contract-and-consumer-protection-issues-in-los-angeles.html"
+    },
+    {
+      "title": "Commercial and multifamily solar considerations in Los Angeles County",
+      "anchorSlug": "commercial-and-multifamily-solar-considerations-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/commercial-and-multifamily-solar-considerations-in-los-angeles-county.html"
+    },
+    {
+      "title": "Interconnection requirements and constraints for LA County solar",
+      "anchorSlug": "interconnection-requirements-and-constraints-for-la-county-solar",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interconnection-requirements-and-constraints-for-la-county-solar.html"
+    },
+    {
+      "title": "Recommended O&M and monitoring for Los Angeles solar systems",
+      "anchorSlug": "recommended-o-m-and-monitoring-for-los-angeles-solar-systems",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.html"
+    },
+    {
+      "title": "Permits and codes governing residential solar in Los Angeles County",
+      "anchorSlug": "permits-and-codes-governing-residential-solar-in-los-angeles-county",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/permits-and-codes-governing-residential-solar-in-los-angeles-county.html"
+    },
+    {
+      "title": "Solar on existing structures: structural and interconnection issues",
+      "anchorSlug": "solar-on-existing-structures-structural-and-interconnection-issues",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/solar-on-existing-structures-structural-and-interconnection-issues.html"
+    },
+    {
+      "title": "Incentives and tax policy impacts on LA solar projects",
+      "anchorSlug": "incentives-and-tax-policy-impacts-on-la-solar-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/incentives-and-tax-policy-impacts-on-la-solar-projects.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://yorconstruction.aiovisibility.net/articles.html",
+    "https://yorconstruction.aiovisibility.net/articles/getting-started.html",
+    "https://yorconstruction.aiovisibility.net/articles/services-and-process.html",
+    "https://yorconstruction.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://yorconstruction.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://yorconstruction.aiovisibility.net/articles/local-service-guidance.html",
+    "https://yorconstruction.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
