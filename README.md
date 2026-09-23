@@ -524,7 +524,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-county-or-is.json`](./faqs/will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-county-or-is.json) — schema
 - [`faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json`](./faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json) — schema
 
-### Help Articles (303)
+### Help Articles (304)
 - [`help/accessibility-and-aging-in-place-considerations-in-bathroom-design.json`](./help/accessibility-and-aging-in-place-considerations-in-bathroom-design.json) — schema
 - [`help/accessibility-and-aging-in-place-factors-in-custom-renovations.json`](./help/accessibility-and-aging-in-place-factors-in-custom-renovations.json) — schema
 - [`help/accessibility-and-universal-design-in-bathroom-overhauls.json`](./help/accessibility-and-universal-design-in-bathroom-overhauls.json) — schema
@@ -733,6 +733,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/property-tax-financing-and-rental-economics-of-adus.json`](./help/property-tax-financing-and-rental-economics-of-adus.json) — schema
 - [`help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.json`](./help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.json) — schema
 - [`help/property-value-and-transaction-effects-of-solar-in-los-angeles.json`](./help/property-value-and-transaction-effects-of-solar-in-los-angeles.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/quality-control-and-testing-standards-for-paving-projects.json`](./help/quality-control-and-testing-standards-for-paving-projects.json) — schema
 - [`help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.json`](./help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.json) — schema
 - [`help/regional-workforce-development-and-skilled-labor-supply-for-la-commercial-constr.json`](./help/regional-workforce-development-and-skilled-labor-supply-for-la-commercial-constr.json) — schema
@@ -829,7 +830,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.json`](./help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.json) — schema
 - [`help/zoning-constraints-on-home-additions-in-los-angeles-county.json`](./help/zoning-constraints-on-home-additions-in-los-angeles-county.json) — schema
 
-### Public Pages (16)
+### Public Pages (15)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -838,7 +839,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
 - [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
-- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
