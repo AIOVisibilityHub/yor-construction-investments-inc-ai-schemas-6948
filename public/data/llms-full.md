@@ -22,6 +22,16 @@ Package contents:
 - [ai-data-hub] YOR Construction & Investments, Inc. — AI Data Hub — https://yorconstruction.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948
 - [mirror-pages] GitHub — AI Data Hub mirror — http://yorconstruction.aiovisibility.net/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/yor-construction-investments-inc-ai-schemas-52pm
+- [mirror-pages] GitLab — AI Data Hub mirror — https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io/ai-data.html
+- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas
+- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/ai-data.html
+- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/yor-construction-investments-inc-ai-schemas
+- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/22927257
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
