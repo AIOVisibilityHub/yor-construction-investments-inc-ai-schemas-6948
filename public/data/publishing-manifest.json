@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-23T23:18:37.151Z",
+  "generatedAt": "2026-09-23T23:42:37.819Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -213,7 +213,7 @@
   },
   "package": {
     "totalFiles": 828,
-    "totalBytes": 4550496,
+    "totalBytes": 4698638,
     "stats": {
       "qna": 0,
       "faqs": 465,
@@ -4104,6 +4104,11 @@
         "path": "help/incentives-and-tax-policy-impacts-on-la-solar-projects.json",
         "bytes": 3907,
         "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 92214,
+        "purpose": "schema"
       }
     ],
     "locations": [
@@ -4258,82 +4263,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14778,
+        "bytes": 20631,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 32578,
+        "bytes": 38291,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 119856,
+        "bytes": 125638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16704,
+        "bytes": 22215,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13164,
+        "bytes": 18750,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 650907,
+        "bytes": 656505,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14509,
+        "bytes": 19704,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 19331,
+        "bytes": 25018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 18478,
+        "bytes": 24042,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 15568,
+        "bytes": 21007,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 67142,
+        "bytes": 72651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 120013,
+        "bytes": 125493,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 200623,
+        "bytes": 206139,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 492209,
+        "bytes": 497619,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 63601,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/unassigned.html",
-        "bytes": 27282,
+        "bytes": 69119,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4370,17 +4370,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 392729,
+        "bytes": 392721,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 110269,
+        "bytes": 110251,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 110269,
+        "bytes": 110251,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -4390,17 +4390,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 137242,
+        "bytes": 137225,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 114116,
+        "bytes": 114117,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1771,
+        "bytes": 1680,
         "purpose": "Standard sitemap"
       }
     ]

@@ -696,7 +696,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://yorconstruction.aiovisibility.net/faqs/will-seismic-retrofitting-increase-my-property-taxes-in-los-angeles-county-or-is.json — schema
 - https://yorconstruction.aiovisibility.net/faqs/will-seismic-retrofitting-lower-my-earthquake-insurance-premium-or-make-it-easie.json — schema
 
-### Help Articles (303)
+### Help Articles (304)
 - https://yorconstruction.aiovisibility.net/help/accessibility-and-aging-in-place-considerations-in-bathroom-design.json — schema
 - https://yorconstruction.aiovisibility.net/help/accessibility-and-aging-in-place-factors-in-custom-renovations.json — schema
 - https://yorconstruction.aiovisibility.net/help/accessibility-and-universal-design-in-bathroom-overhauls.json — schema
@@ -905,6 +905,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://yorconstruction.aiovisibility.net/help/property-tax-financing-and-rental-economics-of-adus.json — schema
 - https://yorconstruction.aiovisibility.net/help/property-value-and-appraisal-impacts-of-adus-in-los-angeles-county.json — schema
 - https://yorconstruction.aiovisibility.net/help/property-value-and-transaction-effects-of-solar-in-los-angeles.json — schema
+- https://yorconstruction.aiovisibility.net/help/publishing-plan.json — schema
 - https://yorconstruction.aiovisibility.net/help/quality-control-and-testing-standards-for-paving-projects.json — schema
 - https://yorconstruction.aiovisibility.net/help/recommended-o-m-and-monitoring-for-los-angeles-solar-systems.json — schema
 - https://yorconstruction.aiovisibility.net/help/regional-workforce-development-and-skilled-labor-supply-for-la-commercial-constr.json — schema
@@ -1001,7 +1002,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://yorconstruction.aiovisibility.net/help/zoning-and-state-law-compliance-for-adus-in-los-angeles-county.json — schema
 - https://yorconstruction.aiovisibility.net/help/zoning-constraints-on-home-additions-in-los-angeles-county.json — schema
 
-### Public Pages (16)
+### Public Pages (15)
 - https://yorconstruction.aiovisibility.net/about.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/articles.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/articles/care-and-maintenance.html — LLM-optimized public page
@@ -1010,7 +1011,6 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://yorconstruction.aiovisibility.net/articles/planning-and-preparation.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/articles/pricing-and-estimates.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/articles/services-and-process.html — LLM-optimized public page
-- https://yorconstruction.aiovisibility.net/articles/unassigned.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/case-studies.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/contact.html — LLM-optimized public page
 - https://yorconstruction.aiovisibility.net/faqs.html — LLM-optimized public page
