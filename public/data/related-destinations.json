@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-19T20:28:36.038Z",
+  "generatedAt": "2026-09-23T22:41:27.732Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,66 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://yorconstruction.aiovisibility.net/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/yor-construction-investments-inc-ai-schemas-52pm"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/22849750"
     }
   ],
   "destinations": {
@@ -104,30 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948",
       "pagesUrl": "http://yorconstruction.aiovisibility.net/",
       "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas-6948"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/yor-construction-investments-inc-ai-schemas-52pm",
-      "pagesUrl": "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/yor-construction-investments-inc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/",
-      "repo": "AIOVisibilityHub/yor-construction-investments-inc-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/yor-construction-investments-inc-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas/",
-      "repo": "aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22849750"
     }
   }
 }
