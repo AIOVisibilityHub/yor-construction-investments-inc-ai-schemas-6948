@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-23T23:04:43.695Z",
+  "generatedAt": "2026-09-23T23:05:00.574Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -213,7 +213,7 @@
   },
   "package": {
     "totalFiles": 828,
-    "totalBytes": 4616626,
+    "totalBytes": 4526311,
     "stats": {
       "qna": 0,
       "faqs": 465,
@@ -4258,82 +4258,82 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20631,
+        "bytes": 14778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 37014,
+        "bytes": 31301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 119331,
+        "bytes": 113549,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 20938,
+        "bytes": 15427,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17473,
+        "bytes": 11887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 655228,
+        "bytes": 649630,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 18843,
+        "bytes": 13232,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23741,
+        "bytes": 18054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 22765,
+        "bytes": 17201,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 19895,
+        "bytes": 14291,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 71539,
+        "bytes": 65865,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 124381,
+        "bytes": 118736,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 205027,
+        "bytes": 199346,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 496507,
+        "bytes": 490932,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 68007,
+        "bytes": 62324,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 31553,
+        "bytes": 26005,
         "purpose": "LLM-optimized public page"
       }
     ],
