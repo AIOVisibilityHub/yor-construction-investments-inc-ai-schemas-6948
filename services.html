@@ -19,6 +19,21 @@ summary{cursor:pointer;font-weight:600}
 address{font-style:normal;margin:1rem 0;padding:1rem;background:#f8f8f8;border-left:3px solid #333}
 ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
+.svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
+.svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
+.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
+.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
+.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .n{font-weight:400;color:#666}
+.cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
+.cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
+.cat .count{font-size:.68rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#555;background:#eceff1;border-radius:999px;padding:.15rem .55rem}
+.svc-list{list-style:none;margin:0;padding:0}
+.svc-list li{padding:.38rem 0;border-bottom:1px dotted #e4e4e4;font-size:.9rem;line-height:1.55}
+.svc-list li:last-child{border-bottom:0}
+.svc-list .scope{color:#555}
+.svc-list .more{font-size:.8rem;white-space:nowrap}
+.cat .top{font-size:.78rem;margin:.6rem 0 0}
 footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85rem;color:#666}
 </style>
 <script type="application/ld+json">
@@ -2602,732 +2617,213 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="articles.html">Articles</a>
 <a href="case-studies.html">Case Studies</a>
 <a href="team-members.html">Team Members</a></nav>
-<section>
-<h2>Remodeling</h2>
-<div class="card">
-<h3>Accessory Dwelling Units (ADUs)</h3>
-<p>Planning and construction support for accessory dwelling units (adus) projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Basement Remodeling</h3>
-<p>Planning and construction support for basement remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Bathroom Remodeling</h3>
-<p>Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Cabinet Installation</h3>
-<p>Planning and project support for cabinet installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Countertop Installation</h3>
-<p>Planning and project support for countertop installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Drywall Installation and Repair</h3>
-<p>Assessment and project support for drywall installation and repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Exterior Painting</h3>
-<p>Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Flooring Installation</h3>
-<p>Planning and project support for flooring installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Full House Remodeling</h3>
-<p>Planning and construction support for full house remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Garage Conversions</h3>
-<p>Planning and construction support for garage conversions projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Home Additions</h3>
-<p>Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Interior Paint Repair</h3>
-<p>Assessment and project support for interior paint repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Interior Renovations</h3>
-<p>Planning and construction support for interior renovations projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Kitchen Remodeling</h3>
-<p>Planning and construction support for kitchen remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Room Additions</h3>
-<p>Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Tile Installation</h3>
-<p>Planning and project support for tile installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
+<nav class="svc-index" id="top" aria-label="Service categories">
+<h2>Browse by category</h2>
+<ul>
+<li><a href="#cat-remodeling">Remodeling <span class="n">16</span></a></li>
+<li><a href="#cat-outdoor-living">Outdoor Living <span class="n">17</span></a></li>
+<li><a href="#cat-roofing-and-exterior">Roofing and Exterior <span class="n">15</span></a></li>
+<li><a href="#cat-concrete-and-paving">Concrete and Paving <span class="n">12</span></a></li>
+<li><a href="#cat-foundation-and-structural">Foundation and Structural <span class="n">12</span></a></li>
+<li><a href="#cat-hvac-and-solar">HVAC and Solar <span class="n">12</span></a></li>
+<li><a href="#cat-construction">Construction <span class="n">28</span></a></li>
+<li><a href="#cat-electrical-and-plumbing">Electrical and Plumbing <span class="n">14</span></a></li>
+<li><a href="#cat-doors-windows-and-finishes">Doors, Windows, and Finishes <span class="n">14</span></a></li>
+</ul>
+</nav>
+<section class="cat" id="cat-remodeling">
+<h2>Remodeling<span class="count">16 services</span></h2>
+<ul class="svc-list">
+<li><strong>Accessory Dwelling Units (ADUs)</strong> <span class="scope">&mdash; Planning and construction support for accessory dwelling units (adus) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Basement Remodeling</strong> <span class="scope">&mdash; Planning and construction support for basement remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Bathroom Remodeling</strong> <span class="scope">&mdash; Planning and construction support for bathroom remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Cabinet Installation</strong> <span class="scope">&mdash; Planning and project support for cabinet installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Countertop Installation</strong> <span class="scope">&mdash; Planning and project support for countertop installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Drywall Installation and Repair</strong> <span class="scope">&mdash; Assessment and project support for drywall installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Exterior Painting</strong> <span class="scope">&mdash; Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Flooring Installation</strong> <span class="scope">&mdash; Planning and project support for flooring installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Full House Remodeling</strong> <span class="scope">&mdash; Planning and construction support for full house remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Garage Conversions</strong> <span class="scope">&mdash; Planning and construction support for garage conversions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Home Additions</strong> <span class="scope">&mdash; Planning and construction support for home additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Interior Paint Repair</strong> <span class="scope">&mdash; Assessment and project support for interior paint repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Interior Renovations</strong> <span class="scope">&mdash; Planning and construction support for interior renovations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Kitchen Remodeling</strong> <span class="scope">&mdash; Planning and construction support for kitchen remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Room Additions</strong> <span class="scope">&mdash; Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Tile Installation</strong> <span class="scope">&mdash; Planning and project support for tile installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Outdoor Living</h2>
-<div class="card">
-<h3>Deck Construction</h3>
-<p>Planning and construction support for deck construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Deck Repair</h3>
-<p>Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Fence Repair</h3>
-<p>Assessment and project support for fence repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Fences</h3>
-<p>Planning and construction support for fences projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Gates</h3>
-<p>Planning and construction support for gates projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Hardscaping</h3>
-<p>Planning and construction support for hardscaping projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Landscape Lighting</h3>
-<p>Planning and construction support for landscape lighting projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Outdoor Fire Pits and Fireplaces</h3>
-<p>Planning and construction support for outdoor fire pits and fireplaces projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Outdoor Kitchens</h3>
-<p>Planning and construction support for outdoor kitchens projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Patio Covers</h3>
-<p>Planning and construction support for patio covers projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Patio Enclosures and Covers</h3>
-<p>Planning and construction support for patio enclosures and covers projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Patio Planning and Installation</h3>
-<p>Planning and project support for patio planning and installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Patios and Decks</h3>
-<p>Planning and construction support for patios and decks projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Pergolas</h3>
-<p>Planning and construction support for pergolas projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Pool Remodeling</h3>
-<p>Planning and construction support for pool remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Pools</h3>
-<p>Planning and construction support for pools projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Retaining Walls</h3>
-<p>Planning and construction support for retaining walls projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
+<section class="cat" id="cat-outdoor-living">
+<h2>Outdoor Living<span class="count">17 services</span></h2>
+<ul class="svc-list">
+<li><strong>Deck Construction</strong> <span class="scope">&mdash; Planning and construction support for deck construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Deck Repair</strong> <span class="scope">&mdash; Assessment and project support for deck repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Fence Repair</strong> <span class="scope">&mdash; Assessment and project support for fence repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Fences</strong> <span class="scope">&mdash; Planning and construction support for fences projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Gates</strong> <span class="scope">&mdash; Planning and construction support for gates projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Hardscaping</strong> <span class="scope">&mdash; Planning and construction support for hardscaping projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Landscape Lighting</strong> <span class="scope">&mdash; Planning and construction support for landscape lighting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Outdoor Fire Pits and Fireplaces</strong> <span class="scope">&mdash; Planning and construction support for outdoor fire pits and fireplaces projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Outdoor Kitchens</strong> <span class="scope">&mdash; Planning and construction support for outdoor kitchens projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Patio Covers</strong> <span class="scope">&mdash; Planning and construction support for patio covers projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Patio Enclosures and Covers</strong> <span class="scope">&mdash; Planning and construction support for patio enclosures and covers projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Patio Planning and Installation</strong> <span class="scope">&mdash; Planning and project support for patio planning and installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Patios and Decks</strong> <span class="scope">&mdash; Planning and construction support for patios and decks projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Pergolas</strong> <span class="scope">&mdash; Planning and construction support for pergolas projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Pool Remodeling</strong> <span class="scope">&mdash; Planning and construction support for pool remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Pools</strong> <span class="scope">&mdash; Planning and construction support for pools projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Retaining Walls</strong> <span class="scope">&mdash; Planning and construction support for retaining walls projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Roofing and Exterior</h2>
-<div class="card">
-<h3>Exterior Door Installation</h3>
-<p>Planning and project support for exterior door installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Gutter Installation</h3>
-<p>Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Gutter Repair</h3>
-<p>Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Pressure Washing</h3>
-<p>Planning and project support for pressure washing, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Roof Inspections</h3>
-<p>Inspection support for roof inspections, subject to the property, requested scope, availability, and approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Roof Repair</h3>
-<p>Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Roof Replacement</h3>
-<p>Assessment and project support for roof replacement, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Roofing</h3>
-<p>YOR Construction &amp; Investments, Inc.</p>
-
-</div>
-<div class="card">
-<h3>Siding Installation</h3>
-<p>Planning and project support for siding installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Siding Repair</h3>
-<p>Assessment and project support for siding repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Skylight Installation</h3>
-<p>Planning and project support for skylight installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Stucco</h3>
-<p>Planning and construction support for stucco projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Stucco Repair</h3>
-<p>Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Window Installation and Glass Replacement</h3>
-<p>Assessment and project support for window installation and glass replacement, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Window Replacement</h3>
-<p>Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-roofing-and-exterior">
+<h2>Roofing and Exterior<span class="count">15 services</span></h2>
+<ul class="svc-list">
+<li><strong>Exterior Door Installation</strong> <span class="scope">&mdash; Planning and project support for exterior door installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Gutter Installation</strong> <span class="scope">&mdash; Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Gutter Repair</strong> <span class="scope">&mdash; Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Pressure Washing</strong> <span class="scope">&mdash; Planning and project support for pressure washing, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Roof Inspections</strong> <span class="scope">&mdash; Inspection support for roof inspections, subject to the property, requested scope, availability, and approved service area.</span></li>
+<li><strong>Roof Repair</strong> <span class="scope">&mdash; Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Roof Replacement</strong> <span class="scope">&mdash; Assessment and project support for roof replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Roofing</strong> <span class="scope">&mdash; YOR Construction &amp; Investments, Inc.</span></li>
+<li><strong>Siding Installation</strong> <span class="scope">&mdash; Planning and project support for siding installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Siding Repair</strong> <span class="scope">&mdash; Assessment and project support for siding repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Skylight Installation</strong> <span class="scope">&mdash; Planning and project support for skylight installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Stucco</strong> <span class="scope">&mdash; Planning and construction support for stucco projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Stucco Repair</strong> <span class="scope">&mdash; Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Window Installation and Glass Replacement</strong> <span class="scope">&mdash; Assessment and project support for window installation and glass replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Window Replacement</strong> <span class="scope">&mdash; Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Concrete and Paving</h2>
-<div class="card">
-<h3>Asphalt Paving</h3>
-<p>Planning and construction support for asphalt paving projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Cement and Concrete Work</h3>
-<p>Planning and construction support for cement and concrete work projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Driveways</h3>
-<p>Planning and construction support for concrete driveways projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Patios</h3>
-<p>Planning and construction support for concrete patios projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Repair</h3>
-<p>Assessment and project support for concrete repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Slabs</h3>
-<p>Planning and construction support for concrete slabs projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Walkways</h3>
-<p>Planning and construction support for concrete walkways projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Driveway Construction</h3>
-<p>Planning and construction support for driveway construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Paver Installation</h3>
-<p>Planning and project support for paver installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Paving</h3>
-<p>Planning and construction support for paving projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Stamped Concrete</h3>
-<p>Planning and construction support for stamped concrete projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Walkway Construction</h3>
-<p>Planning and construction support for walkway construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
+<section class="cat" id="cat-concrete-and-paving">
+<h2>Concrete and Paving<span class="count">12 services</span></h2>
+<ul class="svc-list">
+<li><strong>Asphalt Paving</strong> <span class="scope">&mdash; Planning and construction support for asphalt paving projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Cement and Concrete Work</strong> <span class="scope">&mdash; Planning and construction support for cement and concrete work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Concrete Driveways</strong> <span class="scope">&mdash; Planning and construction support for concrete driveways projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Concrete Patios</strong> <span class="scope">&mdash; Planning and construction support for concrete patios projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Concrete Repair</strong> <span class="scope">&mdash; Assessment and project support for concrete repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Concrete Slabs</strong> <span class="scope">&mdash; Planning and construction support for concrete slabs projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Concrete Walkways</strong> <span class="scope">&mdash; Planning and construction support for concrete walkways projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Driveway Construction</strong> <span class="scope">&mdash; Planning and construction support for driveway construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Paver Installation</strong> <span class="scope">&mdash; Planning and project support for paver installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Paving</strong> <span class="scope">&mdash; Planning and construction support for paving projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Stamped Concrete</strong> <span class="scope">&mdash; Planning and construction support for stamped concrete projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Walkway Construction</strong> <span class="scope">&mdash; Planning and construction support for walkway construction projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Foundation and Structural</h2>
-<div class="card">
-<h3>Beam Installation</h3>
-<p>Planning and project support for beam installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Concrete Foundations</h3>
-<p>Planning and construction support for concrete foundations projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Crawl Space Repair</h3>
-<p>Assessment and project support for crawl space repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Drainage and Grading</h3>
-<p>Planning and project support for drainage and grading, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Foundation and Framing</h3>
-<p>Planning and construction support for foundation and framing projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Foundation Crack Repair</h3>
-<p>Assessment and project support for foundation crack repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Foundation Leveling</h3>
-<p>Planning and construction support for foundation leveling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Foundation Repair</h3>
-<p>Assessment and project support for foundation repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Load-Bearing Wall Removal</h3>
-<p>Planning and construction support for load-bearing wall removal projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Seismic Retrofitting and House Bolting</h3>
-<p>Planning and construction support for seismic retrofitting and house bolting projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Structural Framing</h3>
-<p>Planning and construction support for structural framing projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Structural Repairs</h3>
-<p>Assessment and project support for structural repairs, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-foundation-and-structural">
+<h2>Foundation and Structural<span class="count">12 services</span></h2>
+<ul class="svc-list">
+<li><strong>Beam Installation</strong> <span class="scope">&mdash; Planning and project support for beam installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Concrete Foundations</strong> <span class="scope">&mdash; Planning and construction support for concrete foundations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Crawl Space Repair</strong> <span class="scope">&mdash; Assessment and project support for crawl space repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Drainage and Grading</strong> <span class="scope">&mdash; Planning and project support for drainage and grading, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Foundation and Framing</strong> <span class="scope">&mdash; Planning and construction support for foundation and framing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Foundation Crack Repair</strong> <span class="scope">&mdash; Assessment and project support for foundation crack repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Foundation Leveling</strong> <span class="scope">&mdash; Planning and construction support for foundation leveling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Foundation Repair</strong> <span class="scope">&mdash; Assessment and project support for foundation repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Load-Bearing Wall Removal</strong> <span class="scope">&mdash; Planning and construction support for load-bearing wall removal projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Seismic Retrofitting and House Bolting</strong> <span class="scope">&mdash; Planning and construction support for seismic retrofitting and house bolting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Structural Framing</strong> <span class="scope">&mdash; Planning and construction support for structural framing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Structural Repairs</strong> <span class="scope">&mdash; Assessment and project support for structural repairs, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>HVAC and Solar</h2>
-<div class="card">
-<h3>Air Conditioning/HVAC Services</h3>
-<p>Planning and construction support for air conditioning/hvac services projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Air Duct Installation and Repair</h3>
-<p>Assessment and project support for air duct installation and repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Ductless Mini-Split Installation</h3>
-<p>Planning and project support for ductless mini-split installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Furnace Installation and Repair</h3>
-<p>Assessment and project support for furnace installation and repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Heat Pump Installation</h3>
-<p>Planning and project support for heat pump installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>HVAC Installation</h3>
-<p>Planning and project support for hvac installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>HVAC Maintenance</h3>
-<p>Maintenance support for hvac maintenance, subject to system condition, requested scope, availability, and approved service area.</p>
-
-</div>
-<div class="card">
-<h3>HVAC Repair</h3>
-<p>Assessment and project support for hvac repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Solar Battery Installation</h3>
-<p>Planning and project support for solar battery installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Solar Panel Installation</h3>
-<p>Planning and project support for solar panel installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Solar Panel Repair and Maintenance</h3>
-<p>Maintenance support for solar panel repair and maintenance, subject to system condition, requested scope, availability, and approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Solar System Installation</h3>
-<p>Planning and project support for solar system installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-hvac-and-solar">
+<h2>HVAC and Solar<span class="count">12 services</span></h2>
+<ul class="svc-list">
+<li><strong>Air Conditioning/HVAC Services</strong> <span class="scope">&mdash; Planning and construction support for air conditioning/hvac services projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Air Duct Installation and Repair</strong> <span class="scope">&mdash; Assessment and project support for air duct installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Ductless Mini-Split Installation</strong> <span class="scope">&mdash; Planning and project support for ductless mini-split installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Furnace Installation and Repair</strong> <span class="scope">&mdash; Assessment and project support for furnace installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Heat Pump Installation</strong> <span class="scope">&mdash; Planning and project support for heat pump installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>HVAC Installation</strong> <span class="scope">&mdash; Planning and project support for hvac installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>HVAC Maintenance</strong> <span class="scope">&mdash; Maintenance support for hvac maintenance, subject to system condition, requested scope, availability, and approved service area.</span></li>
+<li><strong>HVAC Repair</strong> <span class="scope">&mdash; Assessment and project support for hvac repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Solar Battery Installation</strong> <span class="scope">&mdash; Planning and project support for solar battery installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Solar Panel Installation</strong> <span class="scope">&mdash; Planning and project support for solar panel installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Solar Panel Repair and Maintenance</strong> <span class="scope">&mdash; Maintenance support for solar panel repair and maintenance, subject to system condition, requested scope, availability, and approved service area.</span></li>
+<li><strong>Solar System Installation</strong> <span class="scope">&mdash; Planning and project support for solar system installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Construction</h2>
-<div class="card">
-<h3>Apartment Construction</h3>
-<p>Planning and construction support for apartment construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Architectural Planning</h3>
-<p>Planning and construction support for architectural planning projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Commercial Construction</h3>
-<p>Planning and construction support for commercial construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Commercial Remodeling</h3>
-<p>Planning and construction support for commercial remodeling projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Commercial Renovations</h3>
-<p>Planning and construction support for commercial renovations projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Commercial Tenant Improvements</h3>
-<p>Planning and construction support for commercial tenant improvements projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Construction Management</h3>
-<p>Planning and construction support for construction management projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Custom Home Construction</h3>
-<p>Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Demolition</h3>
-<p>Planning and project support for demolition, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Design-Build Construction</h3>
-<p>Planning and construction support for design-build construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Excavation</h3>
-<p>Planning and project support for excavation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Fire Damage Reconstruction</h3>
-<p>Assessment and project support for fire damage reconstruction, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Gas Station Construction and Conversions</h3>
-<p>Planning and construction support for gas station construction and conversions projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>General Contracting</h3>
-<p>Planning and construction support for general contracting projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Grading</h3>
-<p>Planning and project support for grading, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Industrial Construction</h3>
-<p>Planning and construction support for industrial construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Medical Office Construction</h3>
-<p>Planning and construction support for medical office construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Mixed-Use Construction</h3>
-<p>Planning and construction support for mixed-use construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Multi-Family Construction</h3>
-<p>Planning and construction support for multi-family construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>New Building Construction</h3>
-<p>Planning and construction support for new building construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Office Build-Outs</h3>
-<p>Planning and construction support for office build-outs projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Permit and Plan Coordination</h3>
-<p>Planning and construction support for permit and plan coordination projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Residential Construction</h3>
-<p>Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Restaurant Construction</h3>
-<p>Planning and construction support for restaurant construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Retail Build-Outs</h3>
-<p>Planning and construction support for retail build-outs projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Site Preparation</h3>
-<p>Planning and construction support for site preparation projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Warehouse Construction</h3>
-<p>Planning and construction support for warehouse construction projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Water Damage Reconstruction</h3>
-<p>Assessment and project support for water damage reconstruction, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-construction">
+<h2>Construction<span class="count">28 services</span></h2>
+<ul class="svc-list">
+<li><strong>Apartment Construction</strong> <span class="scope">&mdash; Planning and construction support for apartment construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Architectural Planning</strong> <span class="scope">&mdash; Planning and construction support for architectural planning projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Commercial Construction</strong> <span class="scope">&mdash; Planning and construction support for commercial construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Commercial Remodeling</strong> <span class="scope">&mdash; Planning and construction support for commercial remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Commercial Renovations</strong> <span class="scope">&mdash; Planning and construction support for commercial renovations projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Commercial Tenant Improvements</strong> <span class="scope">&mdash; Planning and construction support for commercial tenant improvements projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Construction Management</strong> <span class="scope">&mdash; Planning and construction support for construction management projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Custom Home Construction</strong> <span class="scope">&mdash; Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Demolition</strong> <span class="scope">&mdash; Planning and project support for demolition, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Design-Build Construction</strong> <span class="scope">&mdash; Planning and construction support for design-build construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Excavation</strong> <span class="scope">&mdash; Planning and project support for excavation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Fire Damage Reconstruction</strong> <span class="scope">&mdash; Assessment and project support for fire damage reconstruction, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Gas Station Construction and Conversions</strong> <span class="scope">&mdash; Planning and construction support for gas station construction and conversions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>General Contracting</strong> <span class="scope">&mdash; Planning and construction support for general contracting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Grading</strong> <span class="scope">&mdash; Planning and project support for grading, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Industrial Construction</strong> <span class="scope">&mdash; Planning and construction support for industrial construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Medical Office Construction</strong> <span class="scope">&mdash; Planning and construction support for medical office construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Mixed-Use Construction</strong> <span class="scope">&mdash; Planning and construction support for mixed-use construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Multi-Family Construction</strong> <span class="scope">&mdash; Planning and construction support for multi-family construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>New Building Construction</strong> <span class="scope">&mdash; Planning and construction support for new building construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Office Build-Outs</strong> <span class="scope">&mdash; Planning and construction support for office build-outs projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Permit and Plan Coordination</strong> <span class="scope">&mdash; Planning and construction support for permit and plan coordination projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Residential Construction</strong> <span class="scope">&mdash; Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Restaurant Construction</strong> <span class="scope">&mdash; Planning and construction support for restaurant construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Retail Build-Outs</strong> <span class="scope">&mdash; Planning and construction support for retail build-outs projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Site Preparation</strong> <span class="scope">&mdash; Planning and construction support for site preparation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Warehouse Construction</strong> <span class="scope">&mdash; Planning and construction support for warehouse construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Water Damage Reconstruction</strong> <span class="scope">&mdash; Assessment and project support for water damage reconstruction, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Electrical and Plumbing</h2>
-<div class="card">
-<h3>Drain Cleaning</h3>
-<p>Planning and project support for drain cleaning, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Electrical Installation</h3>
-<p>Planning and project support for electrical installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Electrical Panel Upgrades</h3>
-<p>Planning and construction support for electrical panel upgrades projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Electrical Repairs</h3>
-<p>Assessment and project support for electrical repairs, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>EV Charger Installation</h3>
-<p>Planning and project support for ev charger installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Gas Line Installation</h3>
-<p>Planning and project support for gas line installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Generator Installation</h3>
-<p>Planning and project support for generator installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Lighting Installation</h3>
-<p>Planning and project support for lighting installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Plumbing Installation</h3>
-<p>Planning and project support for plumbing installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Plumbing Repairs</h3>
-<p>Assessment and project support for plumbing repairs, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Rewiring</h3>
-<p>Planning and project support for rewiring, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Sewer Line Repair</h3>
-<p>Assessment and project support for sewer line repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Tankless Water Heater Installation</h3>
-<p>Planning and project support for tankless water heater installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Water Heater Installation</h3>
-<p>Planning and project support for water heater installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-electrical-and-plumbing">
+<h2>Electrical and Plumbing<span class="count">14 services</span></h2>
+<ul class="svc-list">
+<li><strong>Drain Cleaning</strong> <span class="scope">&mdash; Planning and project support for drain cleaning, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Electrical Installation</strong> <span class="scope">&mdash; Planning and project support for electrical installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Electrical Panel Upgrades</strong> <span class="scope">&mdash; Planning and construction support for electrical panel upgrades projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Electrical Repairs</strong> <span class="scope">&mdash; Assessment and project support for electrical repairs, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>EV Charger Installation</strong> <span class="scope">&mdash; Planning and project support for ev charger installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Gas Line Installation</strong> <span class="scope">&mdash; Planning and project support for gas line installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Generator Installation</strong> <span class="scope">&mdash; Planning and project support for generator installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Lighting Installation</strong> <span class="scope">&mdash; Planning and project support for lighting installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Plumbing Installation</strong> <span class="scope">&mdash; Planning and project support for plumbing installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Plumbing Repairs</strong> <span class="scope">&mdash; Assessment and project support for plumbing repairs, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Rewiring</strong> <span class="scope">&mdash; Planning and project support for rewiring, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Sewer Line Repair</strong> <span class="scope">&mdash; Assessment and project support for sewer line repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Tankless Water Heater Installation</strong> <span class="scope">&mdash; Planning and project support for tankless water heater installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Water Heater Installation</strong> <span class="scope">&mdash; Planning and project support for water heater installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
-<section>
-<h2>Doors, Windows, and Finishes</h2>
-<div class="card">
-<h3>Baseboard Installation</h3>
-<p>Planning and project support for baseboard installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Crown Molding Installation</h3>
-<p>Planning and project support for crown molding installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Custom Built-Ins</h3>
-<p>Planning and construction support for custom built-ins projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Door Installation</h3>
-<p>Planning and project support for door installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Door Replacement</h3>
-<p>Assessment and project support for door replacement, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Finish Carpentry</h3>
-<p>Planning and construction support for finish carpentry projects, subject to project scope, availability, and the approved service area.</p>
-
-</div>
-<div class="card">
-<h3>Garage Door Installation</h3>
-<p>Planning and project support for garage door installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Garage Door Repair</h3>
-<p>Assessment and project support for garage door repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Glass Replacement</h3>
-<p>Assessment and project support for glass replacement, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Interior Door Installation</h3>
-<p>Planning and project support for interior door installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Shower Glass Installation</h3>
-<p>Planning and project support for shower glass installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Sliding Glass Door Installation</h3>
-<p>Planning and project support for sliding glass door installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Trim Installation</h3>
-<p>Planning and project support for trim installation, subject to site conditions, approved scope, availability, and service area.</p>
-
-</div>
-<div class="card">
-<h3>Window Repair</h3>
-<p>Assessment and project support for window repair, subject to existing conditions, approved scope, availability, and service area.</p>
-
-</div>
+<section class="cat" id="cat-doors-windows-and-finishes">
+<h2>Doors, Windows, and Finishes<span class="count">14 services</span></h2>
+<ul class="svc-list">
+<li><strong>Baseboard Installation</strong> <span class="scope">&mdash; Planning and project support for baseboard installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Crown Molding Installation</strong> <span class="scope">&mdash; Planning and project support for crown molding installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Custom Built-Ins</strong> <span class="scope">&mdash; Planning and construction support for custom built-ins projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Door Installation</strong> <span class="scope">&mdash; Planning and project support for door installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Door Replacement</strong> <span class="scope">&mdash; Assessment and project support for door replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Finish Carpentry</strong> <span class="scope">&mdash; Planning and construction support for finish carpentry projects, subject to project scope, availability, and the approved service area.</span></li>
+<li><strong>Garage Door Installation</strong> <span class="scope">&mdash; Planning and project support for garage door installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Garage Door Repair</strong> <span class="scope">&mdash; Assessment and project support for garage door repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Glass Replacement</strong> <span class="scope">&mdash; Assessment and project support for glass replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Interior Door Installation</strong> <span class="scope">&mdash; Planning and project support for interior door installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Shower Glass Installation</strong> <span class="scope">&mdash; Planning and project support for shower glass installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Sliding Glass Door Installation</strong> <span class="scope">&mdash; Planning and project support for sliding glass door installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Trim Installation</strong> <span class="scope">&mdash; Planning and project support for trim installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li><strong>Window Repair</strong> <span class="scope">&mdash; Assessment and project support for window repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
 <section id="service-area">
 <h2>Service area</h2>
