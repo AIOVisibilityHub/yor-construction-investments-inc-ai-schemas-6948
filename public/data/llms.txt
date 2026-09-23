@@ -21,35 +21,146 @@ YOR Construction & Investments, Inc. publishes structured AI-readable data for d
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
 ## Services
-- Additions
 - Bathroom Remodeling
 - Kitchen Remodeling
-- Pools
-- Patios and Decks
-- Patio Enclosures and Covers
-- Roofing
-- Cement and Concrete Work
-- Stucco
-- Foundation Repair
-- Paving
+- Full House Remodeling
+- Home Additions
+- Room Additions
 - Accessory Dwelling Units (ADUs)
+- Garage Conversions
+- Basement Remodeling
+- Interior Renovations
+- Flooring Installation
+- Tile Installation
+- Cabinet Installation
+- Countertop Installation
+- Drywall Installation and Repair
+- Interior Paint Repair
+- Exterior Painting
+- Pools
+- Pool Remodeling
+- Patios and Decks
 - Patio Planning and Installation
 - Deck Construction
+- Deck Repair
+- Patio Enclosures and Covers
 - Patio Covers
-- Interior Paint Repair
-- Driveway Construction
+- Pergolas
+- Outdoor Kitchens
+- Outdoor Fire Pits and Fireplaces
 - Fences
-- Solar System Installation
+- Fence Repair
+- Gates
 - Retaining Walls
+- Hardscaping
+- Landscape Lighting
+- Roofing
+- Roof Repair
+- Roof Replacement
+- Roof Inspections
+- Stucco
+- Stucco Repair
+- Siding Installation
+- Siding Repair
+- Gutter Installation
+- Gutter Repair
 - Window Installation and Glass Replacement
-- Seismic Retrofitting and House Bolting
-- Commercial Construction
-- Gas Station Conversions
-- New Building Construction
+- Window Replacement
+- Exterior Door Installation
+- Skylight Installation
+- Pressure Washing
+- Cement and Concrete Work
+- Concrete Driveways
+- Concrete Patios
+- Concrete Walkways
+- Concrete Slabs
+- Concrete Repair
+- Stamped Concrete
+- Paving
+- Driveway Construction
+- Asphalt Paving
+- Paver Installation
+- Walkway Construction
+- Foundation Repair
 - Foundation and Framing
-- Full House Remodeling
-- Exterior Painting
+- Concrete Foundations
+- Foundation Crack Repair
+- Foundation Leveling
+- Seismic Retrofitting and House Bolting
+- Structural Repairs
+- Structural Framing
+- Load-Bearing Wall Removal
+- Beam Installation
+- Crawl Space Repair
+- Drainage and Grading
 - Air Conditioning/HVAC Services
+- HVAC Installation
+- HVAC Repair
+- HVAC Maintenance
+- Furnace Installation and Repair
+- Heat Pump Installation
+- Ductless Mini-Split Installation
+- Air Duct Installation and Repair
+- Solar System Installation
+- Solar Panel Installation
+- Solar Battery Installation
+- Solar Panel Repair and Maintenance
+- Residential Construction
+- Commercial Construction
+- New Building Construction
+- Custom Home Construction
+- General Contracting
+- Design-Build Construction
+- Construction Management
+- Architectural Planning
+- Permit and Plan Coordination
+- Site Preparation
+- Excavation
+- Grading
+- Demolition
+- Commercial Remodeling
+- Commercial Renovations
+- Commercial Tenant Improvements
+- Office Build-Outs
+- Retail Build-Outs
+- Restaurant Construction
+- Medical Office Construction
+- Industrial Construction
+- Warehouse Construction
+- Multi-Family Construction
+- Apartment Construction
+- Mixed-Use Construction
+- Gas Station Construction and Conversions
+- Fire Damage Reconstruction
+- Water Damage Reconstruction
+- Electrical Installation
+- Electrical Repairs
+- Electrical Panel Upgrades
+- Lighting Installation
+- Rewiring
+- EV Charger Installation
+- Generator Installation
+- Plumbing Installation
+- Plumbing Repairs
+- Water Heater Installation
+- Tankless Water Heater Installation
+- Drain Cleaning
+- Sewer Line Repair
+- Gas Line Installation
+- Door Installation
+- Door Replacement
+- Sliding Glass Door Installation
+- Garage Door Installation
+- Garage Door Repair
+- Window Repair
+- Glass Replacement
+- Shower Glass Installation
+- Trim Installation
+- Finish Carpentry
+- Crown Molding Installation
+- Baseboard Installation
+- Interior Door Installation
+- Custom Built-Ins
 
 ## Areas Served
 - Los Angeles
