@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pools-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patios-and-decks-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patio-enclosures-and-covers-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roofing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cement-and-concrete-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stucco-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/foundation-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paving-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessory-dwelling-units-adus-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patio-planning-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deck-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patio-covers-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-paint-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/driveway-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fences-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/solar-system-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/retaining-walls-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-installation-glass-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/seismic-retrofitting-house-bolting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/gas-station-conversions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-building-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/foundation-and-framing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/full-house-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/air-conditioning-hvac-services-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}
