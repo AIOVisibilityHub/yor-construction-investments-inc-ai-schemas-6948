@@ -1,32 +1,1166 @@
 {
-  "url": "https://yorconstruction.com",
-  "name": "YOR Construction & Investments, Inc.",
-  "@type": "Organization",
   "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "YOR Construction & Investments, Inc.",
+  "url": "https://yorconstruction.com",
+  "description": "Y.O.R. Construction & Investments is a family-owned, licensed and insured general contracting and design-build company serving residential and commercial clients throughout Southern California. The company manages projects from the early planning stage through final completion, bringing together design coordination, budgeting, permitting support, project management, skilled trade professionals, and on-site supervision to provide a more unified construction experience.\n\n\n\nY.O.R. Construction & Investments is a Southern California general contractor specializing in residential remodeling, additions, accessory dwelling units (ADUs), new construction, commercial construction, and exterior improvement projects. The company works with homeowners, real-estate investors, and commercial property stakeholders who want a single construction partner capable of guiding a project from concept, design input, and preliminary budgeting through construction, completion, and occupancy.\n\n\n\nIts service scope includes kitchen and bathroom remodeling, whole-home renovations, room additions, ADUs, foundations, framing, roofing, concrete and hardscape, patios, decks, retaining walls, fencing, windows, painting, HVAC, solar-related work, pool projects, seismic retrofitting, and commercial build-outs or construction assignments. For commercial clients, Y.O.R. can support targeted project components—such as foundation and framing work—or coordinate a broader blueprint-to-completion build.\n\n\n\nY.O.R.’s approach centers on close coordination among clients, designers, project managers, supervisors, employees, and qualified subcontractors. The company emphasizes detailed planning, documented scope and cost review, careful trade selection, regular progress communication, workmanship oversight, and scheduling designed to keep projects aligned with agreed budgets and completion expectations.\n\n\n\nBased in the Los Angeles/Van Nuys area, Y.O.R. positions itself as a full-service contractor for property owners seeking practical design-build guidance, reliable oversight, and an experienced team for both substantial renovations and ground-up or expansion-oriented construction projects across Southern California.",
+  "telephone": "+1-888-457-7746",
+  "sameAs": [
+    "https://aiovisibility.net/profiles/y-o-r-construction",
+    "https://yorconstruction.aiovisibility.net",
+    "https://www.aibizprofile.com/profiles/y-o-r-construction",
+    "https://github.com/AIOVisibilityHub/yor-construction-ai-knowledge-base",
+    "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io",
+    "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/index.html",
+    "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas",
+    "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas",
+    "https://zenodo.org/records/22927257",
+    "https://www.bbb.org/us/ca/valley-village/profile/general-contractor/yor-construction-investments-inc-1216-356544",
+    "https://www.chamberofcommerce.com/business-directory/california/valley-village/construction-company/1338437841-yor-construction",
+    "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823062-yor-construction-investments-inc",
+    "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823063-yor-adu-garage-construction",
+    "https://www.facebook.com/yorconstruction",
+    "https://www.instagram.com/yor_construction",
+    "https://www.youtube.com/channel/UCowQXzo4-GycmgiK9lJN4EQ",
+    "https://www.linkedin.com/company/y.o.r-construction-los-angeles",
+    "https://lnk.bio/yorconstruction",
+    "https://www.houzz.com/professionals/general-contractors/yor-construction-and-investments-pfvwus-pf~61120922",
+    "https://nextdoor.com/pages/yor-construction-and-investment-inc-valley-village-ca",
+    "https://www.yellowpages.com/valley-village-ca/bpp/yor-construction-500276105",
+    "https://findadupros.com/directory/business/yor-adu-garage-construction",
+    "https://www.provenexpert.com/en-us/yor-construction-investments-inc",
+    "https://www.crunchbase.com/organization/y-o-r-construction-and-investments",
+    "https://www.dnb.com/business-directory/company-profiles.yor_construction__investments_inc.35a05a190cf7a5c20170a722030ec3a1.html",
+    "https://www.zoominfo.com/c/yor-construction--investments-inc/405947944",
+    "https://www.yelp.com/biz/yor-construction-tarzana",
+    "https://www.buildzoom.com/contractor/y-o-r-construction",
+    "https://www.houzz.com/professionals/home-automation-and-home-media/yor-construction-and-investments-inc-pfvwus-pf~1387668038",
+    "https://mossfon.userecho.com/communities/1/topics/180-yor-construction-investments-inc",
+    "https://yorconstruction.com"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
+    }
+  ],
   "employee": [
     {
-      "name": "Kobi Raham: ",
       "@type": "Person",
+      "name": "Kobi Raham:",
       "jobTitle": "Team Member"
     }
   ],
-  "telephone": "+1-888-457-7746",
-  "areaServed": [
-    {
-      "name": "Los Angeles",
-      "@type": "City"
-    }
-  ],
-  "description": "Y.O.R. Construction & Investments is a family-owned, licensed and insured general contracting and design-build company serving residential and commercial clients throughout Southern California. The company manages projects from the early planning stage through final completion, bringing together design coordination, budgeting, permitting support, project management, skilled trade professionals, and on-site supervision to provide a more unified construction experience.\nyorconstruction\n+1\n\nComprehensive business description\nY.O.R. Construction & Investments is a Southern California general contractor specializing in residential remodeling, additions, accessory dwelling units (ADUs), new construction, commercial construction, and exterior improvement projects. The company works with homeowners, real-estate investors, and commercial property stakeholders who want a single construction partner capable of guiding a project from concept, design input, and preliminary budgeting through construction, completion, and occupancy.\nyorconstruction\n+1\n\nIts service scope includes kitchen and bathroom remodeling, whole-home renovations, room additions, ADUs, foundations, framing, roofing, concrete and hardscape, patios, decks, retaining walls, fencing, windows, painting, HVAC, solar-related work, pool projects, seismic retrofitting, and commercial build-outs or construction assignments. For commercial clients, Y.O.R. can support targeted project components—such as foundation and framing work—or coordinate a broader blueprint-to-completion build.\nyorconstruction\n\nY.O.R.’s approach centers on close coordination among clients, designers, project managers, supervisors, employees, and qualified subcontractors. The company emphasizes detailed planning, documented scope and cost review, careful trade selection, regular progress communication, workmanship oversight, and scheduling designed to keep projects aligned with agreed budgets and completion expectations.\nyorconstruction\n+1\n\nBased in the Los Angeles/Van Nuys area, Y.O.R. positions itself as a full-service contractor for property owners seeking practical design-build guidance, reliable oversight, and an experienced team for both substantial renovations and ground-up or expansion-oriented construction projects across Southern California.",
   "hasOfferCatalog": {
-    "name": "YOR Construction & Investments, Inc. Services",
     "@type": "OfferCatalog",
+    "name": "YOR Construction & Investments, Inc. Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Roofing",
-          "@type": "Service"
+          "@type": "Service",
+          "name": "Bathroom Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Kitchen Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Full House Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Home Additions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Room Additions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Accessory Dwelling Units (ADUs)"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Garage Conversions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Basement Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior Renovations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Flooring Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tile Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cabinet Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Countertop Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drywall Installation and Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior Paint Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Exterior Painting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pools"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pool Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patios and Decks"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patio Planning and Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deck Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Deck Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patio Enclosures and Covers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Patio Covers"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pergolas"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Outdoor Kitchens"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Outdoor Fire Pits and Fireplaces"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fences"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fence Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Gates"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Retaining Walls"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Hardscaping"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Landscape Lighting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roofing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Inspections"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Stucco"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Stucco Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Siding Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Siding Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Gutter Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Gutter Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Window Installation and Glass Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Window Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Exterior Door Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Skylight Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pressure Washing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cement and Concrete Work"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Driveways"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Patios"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Walkways"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Slabs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Stamped Concrete"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Paving"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Driveway Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Asphalt Paving"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Paver Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Walkway Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Foundation Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Foundation and Framing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Concrete Foundations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Foundation Crack Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Foundation Leveling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Seismic Retrofitting and House Bolting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Structural Repairs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Structural Framing"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Load-Bearing Wall Removal"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Beam Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Crawl Space Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drainage and Grading"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Air Conditioning/HVAC Services"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "HVAC Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "HVAC Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "HVAC Maintenance"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Furnace Installation and Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Heat Pump Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Ductless Mini-Split Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Air Duct Installation and Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Solar System Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Solar Panel Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Solar Battery Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Solar Panel Repair and Maintenance"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Residential Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "New Building Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Home Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "General Contracting"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Design-Build Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Construction Management"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Architectural Planning"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Permit and Plan Coordination"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Site Preparation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Excavation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Grading"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Demolition"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Remodeling"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Renovations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Tenant Improvements"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Office Build-Outs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Retail Build-Outs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Restaurant Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Medical Office Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Industrial Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Warehouse Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Multi-Family Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Apartment Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Mixed-Use Construction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Gas Station Construction and Conversions"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fire Damage Reconstruction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Damage Reconstruction"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electrical Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electrical Repairs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Electrical Panel Upgrades"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Lighting Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Rewiring"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "EV Charger Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Generator Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Plumbing Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Plumbing Repairs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Water Heater Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tankless Water Heater Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Drain Cleaning"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sewer Line Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Gas Line Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Door Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Door Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Sliding Glass Door Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Garage Door Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Garage Door Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Window Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Glass Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Shower Glass Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Trim Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Finish Carpentry"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Crown Molding Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Baseboard Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Interior Door Installation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Built-Ins"
         }
       }
     ]
