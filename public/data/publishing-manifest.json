@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:38:36.438Z",
+  "generatedAt": "2026-10-27T20:40:35.966Z",
   "client": {
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
@@ -212,24 +212,24 @@
     ]
   },
   "package": {
-    "totalFiles": 828,
-    "totalBytes": 4613871,
+    "totalFiles": 827,
+    "totalBytes": 4787793,
     "stats": {
-      "qna": 0,
       "faqs": 465,
-      "press": 4,
-      "total": 826,
-      "awards": 2,
-      "reviews": 9,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 303,
       "services": 1,
       "webpages": 0,
+      "personnel": 1,
+      "products": 0,
       "locations": 3,
-      "personnel": 2,
+      "awards": 2,
       "caseStudies": 7,
-      "helpArticles": 303,
-      "organization": 1
+      "organization": 1,
+      "press": 4,
+      "reviews": 9,
+      "qna": 0,
+      "research": 0,
+      "total": 825
     }
   },
   "entrypoints": {
@@ -2580,12 +2580,7 @@
     "team": [
       {
         "path": "team/kobi-raham-profile.json",
-        "bytes": 2519,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kobi-raham-los-angeles.json",
-        "bytes": 2517,
+        "bytes": 3311,
         "purpose": "schema"
       }
     ],
@@ -4180,7 +4175,7 @@
     "organization": [
       {
         "path": "organization/yor-construction-investments-inc-organization.json",
-        "bytes": 2834,
+        "bytes": 17793,
         "purpose": "schema"
       }
     ],
@@ -4263,77 +4258,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 14778,
+        "bytes": 20631,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 32578,
+        "bytes": 62928,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 119856,
+        "bytes": 130425,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 16704,
+        "bytes": 22789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13164,
+        "bytes": 19324,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 650907,
+        "bytes": 657079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14093,
+        "bytes": 21073,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 19331,
+        "bytes": 25592,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 18478,
+        "bytes": 23309,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 15403,
+        "bytes": 21581,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 66977,
+        "bytes": 73225,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 119848,
+        "bytes": 126067,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 200458,
+        "bytes": 206713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 492044,
+        "bytes": 498193,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 63436,
+        "bytes": 69693,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4345,7 +4340,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5050,
+        "bytes": 9614,
         "purpose": "LLM hint"
       },
       {
@@ -4365,37 +4360,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1730,
+        "bytes": 10617,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 392721,
+        "bytes": 401496,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 110251,
+        "bytes": 114727,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 110251,
+        "bytes": 114727,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5074,
+        "bytes": 9638,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 137225,
+        "bytes": 141703,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 114117,
+        "bytes": 114018,
         "purpose": "AI sitemap"
       },
       {

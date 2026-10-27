@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:38:36.421Z",
+  "generatedAt": "2026-10-27T20:40:35.950Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,40 @@
     "name": "YOR Construction & Investments, Inc.",
     "canonicalUrl": "https://yorconstruction.aiovisibility.net",
     "primaryWebsiteUrl": "https://yorconstruction.com",
-    "aiDataHub": "https://yorconstruction.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://yorconstruction.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://aiovisibility.net/profiles/y-o-r-construction",
+      "https://yorconstruction.aiovisibility.net",
+      "https://www.aibizprofile.com/profiles/y-o-r-construction",
+      "https://github.com/AIOVisibilityHub/yor-construction-ai-knowledge-base",
+      "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io",
+      "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/index.html",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas",
+      "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas",
+      "https://zenodo.org/records/22927257",
+      "https://www.bbb.org/us/ca/valley-village/profile/general-contractor/yor-construction-investments-inc-1216-356544",
+      "https://www.chamberofcommerce.com/business-directory/california/valley-village/construction-company/1338437841-yor-construction",
+      "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823062-yor-construction-investments-inc",
+      "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823063-yor-adu-garage-construction",
+      "https://www.facebook.com/yorconstruction",
+      "https://www.instagram.com/yor_construction",
+      "https://www.youtube.com/channel/UCowQXzo4-GycmgiK9lJN4EQ",
+      "https://www.linkedin.com/company/y.o.r-construction-los-angeles",
+      "https://lnk.bio/yorconstruction",
+      "https://www.houzz.com/professionals/general-contractors/yor-construction-and-investments-pfvwus-pf~61120922",
+      "https://nextdoor.com/pages/yor-construction-and-investment-inc-valley-village-ca",
+      "https://www.yellowpages.com/valley-village-ca/bpp/yor-construction-500276105",
+      "https://findadupros.com/directory/business/yor-adu-garage-construction",
+      "https://www.provenexpert.com/en-us/yor-construction-investments-inc",
+      "https://www.crunchbase.com/organization/y-o-r-construction-and-investments",
+      "https://www.dnb.com/business-directory/company-profiles.yor_construction__investments_inc.35a05a190cf7a5c20170a722030ec3a1.html",
+      "https://www.zoominfo.com/c/yor-construction--investments-inc/405947944",
+      "https://www.yelp.com/biz/yor-construction-tarzana",
+      "https://www.buildzoom.com/contractor/y-o-r-construction",
+      "https://www.houzz.com/professionals/home-automation-and-home-media/yor-construction-and-investments-inc-pfvwus-pf~1387668038",
+      "https://mossfon.userecho.com/communities/1/topics/180-yor-construction-investments-inc",
+      "https://yorconstruction.com"
+    ]
   },
   "related": [
     {
@@ -37,6 +70,156 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://yorconstruction.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/y-o-r-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on aibizprofile.com",
+      "url": "https://www.aibizprofile.com/profiles/y-o-r-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on github.com",
+      "url": "https://github.com/AIOVisibilityHub/yor-construction-ai-knowledge-base"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io",
+      "url": "https://yor-construction-investments-inc-ai-schemas-52pm-156fd9.gitlab.io"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space",
+      "url": "https://aiovisibilityhub-yor-construction-investments-in-c48945d.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/yor-construction-investments-inc-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/yor-construction-investments-inc-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on zenodo.org",
+      "url": "https://zenodo.org/records/22927257"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on bbb.org",
+      "url": "https://www.bbb.org/us/ca/valley-village/profile/general-contractor/yor-construction-investments-inc-1216-356544"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/california/valley-village/construction-company/1338437841-yor-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823062-yor-construction-investments-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/california/reseda/construction-company/2016823063-yor-adu-garage-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on facebook.com",
+      "url": "https://www.facebook.com/yorconstruction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on instagram.com",
+      "url": "https://www.instagram.com/yor_construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on youtube.com",
+      "url": "https://www.youtube.com/channel/UCowQXzo4-GycmgiK9lJN4EQ"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on linkedin.com",
+      "url": "https://www.linkedin.com/company/y.o.r-construction-los-angeles"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on lnk.bio",
+      "url": "https://lnk.bio/yorconstruction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on houzz.com",
+      "url": "https://www.houzz.com/professionals/general-contractors/yor-construction-and-investments-pfvwus-pf~61120922"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on nextdoor.com",
+      "url": "https://nextdoor.com/pages/yor-construction-and-investment-inc-valley-village-ca"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on yellowpages.com",
+      "url": "https://www.yellowpages.com/valley-village-ca/bpp/yor-construction-500276105"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on findadupros.com",
+      "url": "https://findadupros.com/directory/business/yor-adu-garage-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on provenexpert.com",
+      "url": "https://www.provenexpert.com/en-us/yor-construction-investments-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on crunchbase.com",
+      "url": "https://www.crunchbase.com/organization/y-o-r-construction-and-investments"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on dnb.com",
+      "url": "https://www.dnb.com/business-directory/company-profiles.yor_construction__investments_inc.35a05a190cf7a5c20170a722030ec3a1.html"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on zoominfo.com",
+      "url": "https://www.zoominfo.com/c/yor-construction--investments-inc/405947944"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on yelp.com",
+      "url": "https://www.yelp.com/biz/yor-construction-tarzana"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on buildzoom.com",
+      "url": "https://www.buildzoom.com/contractor/y-o-r-construction"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on houzz.com",
+      "url": "https://www.houzz.com/professionals/home-automation-and-home-media/yor-construction-and-investments-inc-pfvwus-pf~1387668038"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on mossfon.userecho.com",
+      "url": "https://mossfon.userecho.com/communities/1/topics/180-yor-construction-investments-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "YOR Construction & Investments, Inc. on yorconstruction.com",
+      "url": "https://yorconstruction.com"
     }
   ],
   "destinations": {
