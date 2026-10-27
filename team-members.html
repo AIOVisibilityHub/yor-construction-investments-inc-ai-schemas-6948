@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -55,7 +63,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Team Members — YOR Construction &amp; Investments, Inc.",
   "description": "Meet the team members of YOR Construction &amp; Investments, Inc..",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-27",
   "isPartOf": {
     "@type": "WebSite",
     "name": "YOR Construction & Investments, Inc.",
@@ -277,7 +285,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Team Members — YOR Construction &amp;amp; Investments, Inc." />
 <meta name="twitter:description" content="Meet the team members of YOR Construction &amp;amp; Investments, Inc.." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="dcterms.modified" content="2026-10-27" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -287,8 +295,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Team Members — YOR Construction &amp; Investments, Inc.",
   "description": "Meet the team members of YOR Construction &amp; Investments, Inc..",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-27",
+  "dateModified": "2026-10-27",
   "isPartOf": {
     "@type": "WebSite",
     "name": "YOR Construction & Investments, Inc.",
@@ -508,12 +516,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="articles.html">Articles</a>
 <a href="case-studies.html">Case Studies</a>
 <strong>Team Members</strong></nav>
-<p>1 team members from YOR Construction &amp; Investments, Inc. (2 schema files).</p>
+<p>1 team members from YOR Construction &amp; Investments, Inc. (1 schema file).</p>
 <div class="card">
-<h3>Kobi Raham: </h3>
+<h3>Kobi Raham:</h3>
 <p><strong>Team Member</strong></p>
-<p>Specialties: Executive leadership, general contracting, residential construction, commercial construction, design-build delivery, remodeling, additions, kitchen remodeling, bathroom remodeling, ADU projects</p>
-<p>Service areas: Los Angeles</p>
+
+<p>Service areas: Los Angeles, Tarzana, Burbank, Thousand Oaks, West Hollywood, Pasadena, Simi Valley, Glendale, Malibu, Rancho Palos Verdes</p>
 <p>Kobi Raham is a publicly listed business contact and apparent executive leader of Y.O.R. Construction &amp; Investments, a family-owned, licensed and insured Southern California general contracting company. The company’s Houzz profile lists Kobi Raham as the business name/contact, while a public professional profile identifies him as chief executive at Y.O.R. Construction and Investment.
 houzz
 +1
@@ -530,82 +538,151 @@ Best outreach angle: Position offerings around improving Y.O.R.’s executive vi
 </div>
 <script type="application/ld+json">
 {
-  "name": "Kobi Raham: ",
-  "@type": "Person",
   "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kobi Raham:",
   "jobTitle": "Team Member",
   "worksFor": {
-    "url": "https://yorconstruction.com",
+    "@type": "Organization",
     "name": "YOR Construction & Investments, Inc.",
-    "@type": "Organization"
+    "url": "https://yorconstruction.com/"
   },
+  "description": "Kobi Raham is a publicly listed business contact and apparent executive leader of Y.O.R. Construction & Investments, a family-owned, licensed and insured Southern California general contracting company. The company’s Houzz profile lists Kobi Raham as the business name/contact, while a public professional profile identifies him as chief executive at Y.O.R. Construction and Investment.\nhouzz\n+1\n\nAt Y.O.R., Kobi’s apparent leadership remit spans the client-facing and operational sides of a broad construction practice. The company positions itself as an integrated design-build contractor serving projects from early site analysis, design input, and budget consulting through construction and final occupancy. Its service mix covers single-family residential, remodeling, additions, accessory dwelling units, commercial work, pools, patios and decks, roofing, foundations, hardscape/concrete, windows, seismic retrofitting, painting, HVAC, and solar-related installations.\nyorconstruction\n+1\n\nKobi is therefore best positioned as a senior decision-maker for homeowners, property owners, and commercial clients seeking a single accountable contractor rather than a trade-specific vendor. The company emphasizes coordinating designers, supervisors, employees, and qualified subcontractors; using detailed documentation and cost-verification procedures; maintaining progress communication; and completing work on time and within an agreed budget.\nyorconstruction\n+1\n\nBest outreach angle: Position offerings around improving Y.O.R.’s executive visibility, design-build authority, local-market trust signals, service-page conversion, review capture, and high-intent discovery for ADU, remodel, and commercial construction searches across Southern California.",
   "telephone": "+1-888-457-7746",
   "areaServed": [
     {
-      "name": "Los Angeles",
-      "@type": "City"
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    {
+      "@type": "City",
+      "name": "West Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Simi Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Malibu"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Palos Verdes"
+    },
+    {
+      "@type": "City",
+      "name": "Van Nuys"
+    },
+    {
+      "@type": "City",
+      "name": "Reseda"
+    },
+    {
+      "@type": "City",
+      "name": "Calabasas"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "North Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Bel Air"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Brentwood (Los Angeles)"
+    },
+    {
+      "@type": "City",
+      "name": "Canoga Park"
+    },
+    {
+      "@type": "City",
+      "name": "Chatsworth"
+    },
+    {
+      "@type": "City",
+      "name": "Encino"
+    },
+    {
+      "@type": "City",
+      "name": "Granada Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Balboa"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Hills"
+    },
+    {
+      "@type": "City",
+      "name": "North Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "North Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Northridge"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Palisades"
+    },
+    {
+      "@type": "City",
+      "name": "Panorama City"
+    },
+    {
+      "@type": "City",
+      "name": "Valley Village"
+    },
+    {
+      "@type": "City",
+      "name": "Tarzana "
     }
-  ],
-  "knowsAbout": [
-    "Executive leadership",
-    "general contracting",
-    "residential construction",
-    "commercial construction",
-    "design-build delivery",
-    "remodeling",
-    "additions",
-    "kitchen remodeling",
-    "bathroom remodeling",
-    "ADU projects",
-    "project coordination",
-    "client consultation",
-    "construction estimating",
-    "budgeting",
-    "value engineering",
-    "contractor and subcontractor coordination",
-    "quality control",
-    "Southern California construction operations"
-  ],
-  "description": "Kobi Raham is a publicly listed business contact and apparent executive leader of Y.O.R. Construction & Investments, a family-owned, licensed and insured Southern California general contracting company. The company’s Houzz profile lists Kobi Raham as the business name/contact, while a public professional profile identifies him as chief executive at Y.O.R. Construction and Investment.\nhouzz\n+1\n\nAt Y.O.R., Kobi’s apparent leadership remit spans the client-facing and operational sides of a broad construction practice. The company positions itself as an integrated design-build contractor serving projects from early site analysis, design input, and budget consulting through construction and final occupancy. Its service mix covers single-family residential, remodeling, additions, accessory dwelling units, commercial work, pools, patios and decks, roofing, foundations, hardscape/concrete, windows, seismic retrofitting, painting, HVAC, and solar-related installations.\nyorconstruction\n+1\n\nKobi is therefore best positioned as a senior decision-maker for homeowners, property owners, and commercial clients seeking a single accountable contractor rather than a trade-specific vendor. The company emphasizes coordinating designers, supervisors, employees, and qualified subcontractors; using detailed documentation and cost-verification procedures; maintaining progress communication; and completing work on time and within an agreed budget.\nyorconstruction\n+1\n\nBest outreach angle: Position offerings around improving Y.O.R.’s executive visibility, design-build authority, local-market trust signals, service-page conversion, review capture, and high-intent discovery for ADU, remodel, and commercial construction searches across Southern California."
-}
-</script>
-<script type="application/ld+json">
-{
-  "name": "Kobi Raham: ",
-  "@type": "Person",
-  "@context": "https://schema.org",
-  "jobTitle": "Team Member",
-  "worksFor": {
-    "url": "https://yorconstruction.com",
-    "name": "YOR Construction & Investments, Inc.",
-    "@type": "Organization"
-  },
-  "telephone": "+1-888-457-7746",
-  "areaServed": {
-    "name": "Los Angeles",
-    "@type": "City"
-  },
-  "knowsAbout": [
-    "Executive leadership",
-    "general contracting",
-    "residential construction",
-    "commercial construction",
-    "design-build delivery",
-    "remodeling",
-    "additions",
-    "kitchen remodeling",
-    "bathroom remodeling",
-    "ADU projects",
-    "project coordination",
-    "client consultation",
-    "construction estimating",
-    "budgeting",
-    "value engineering",
-    "contractor and subcontractor coordination",
-    "quality control",
-    "Southern California construction operations"
-  ],
-  "description": "Kobi Raham is a publicly listed business contact and apparent executive leader of Y.O.R. Construction & Investments, a family-owned, licensed and insured Southern California general contracting company. The company’s Houzz profile lists Kobi Raham as the business name/contact, while a public professional profile identifies him as chief executive at Y.O.R. Construction and Investment.\nhouzz\n+1\n\nAt Y.O.R., Kobi’s apparent leadership remit spans the client-facing and operational sides of a broad construction practice. The company positions itself as an integrated design-build contractor serving projects from early site analysis, design input, and budget consulting through construction and final occupancy. Its service mix covers single-family residential, remodeling, additions, accessory dwelling units, commercial work, pools, patios and decks, roofing, foundations, hardscape/concrete, windows, seismic retrofitting, painting, HVAC, and solar-related installations.\nyorconstruction\n+1\n\nKobi is therefore best positioned as a senior decision-maker for homeowners, property owners, and commercial clients seeking a single accountable contractor rather than a trade-specific vendor. The company emphasizes coordinating designers, supervisors, employees, and qualified subcontractors; using detailed documentation and cost-verification procedures; maintaining progress communication; and completing work on time and within an agreed budget.\nyorconstruction\n+1\n\nBest outreach angle: Position offerings around improving Y.O.R.’s executive visibility, design-build authority, local-market trust signals, service-page conversion, review capture, and high-intent discovery for ADU, remodel, and commercial construction searches across Southern California."
+  ]
 }
 </script>
 <footer>&copy; 2026 YOR Construction &amp; Investments, Inc. Schema Repository<br>For questions, please contact YOR Construction &amp; Investments, Inc. directly at <a href="https://yorconstruction.com">yorconstruction.com</a>.</footer>
